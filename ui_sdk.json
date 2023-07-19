@@ -1,0 +1,412 @@
+{
+  "version": 8,
+  "$mapversion": 1,
+
+  "assetsDir": ".\\assets\\",
+  "outputDir": ".\\build\\",
+
+  "name": "ui_sdk",
+
+  "files": [
+    {
+      "$type": "txtrlist",
+      "textures": [
+        "texture/ui_atlas/rui/menu/maps/maps",
+        "texture/ui_atlas/rui/hud/icons/hud_atlas",
+        "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas"
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/kral_sdk_atlas",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas",
+      "textures": [
+        {
+          "path": "rui/hud/crosshairs/crosshair_triangle",
+          "posX": 10,
+          "posY": 10,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/crosshairs/crosshair_triangle_afterburner",
+          "posX": 542,
+          "posY": 10,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/crosshairs/crosshair_triangle_afterburner_shadow",
+          "posX": 10,
+          "posY": 542,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/crosshairs/crosshair_triangle_shadow",
+          "posX": 542,
+          "posY": 542,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/smart_ammo_bracket",
+          "posX": 1074,
+          "posY": 10,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/smart_core/smart_ammo_lock_image",
+          "posX": 1074,
+          "posY": 542,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/smart_core/smart_ammo_measure",
+          "posX": 10,
+          "posY": 1074,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_3030repeater",
+          "posX": 542,
+          "posY": 1074,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_bow",
+          "posX": 1202,
+          "posY": 1074,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_car",
+          "posX": 1606,
+          "posY": 10,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_dragon",
+          "posX": 1606,
+          "posY": 350,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_rampart_turret",
+          "posX": 1606,
+          "posY": 690,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_sentinel",
+          "posX": 10,
+          "posY": 1606,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_volt",
+          "posX": 670,
+          "posY": 1414,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/anti_titan/at_sidewinder",
+          "posX": 1330,
+          "posY": 1414,
+          "width": 512,
+          "height": 256
+        },
+        {
+          "path": "rui/hud/crosshairs/smart_ammo_corner",
+          "posX": 1862,
+          "posY": 1030,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_arrows",
+          "posX": 1862,
+          "posY": 1306,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_explosive",
+          "posX": 1862,
+          "posY": 1582,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_sniper",
+          "posX": 1330,
+          "posY": 1690,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "models/weapons/attachments/volt_triangle_bars",
+          "posX": 1606,
+          "posY": 1690,
+          "width": 224,
+          "height": 160
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_arc_tool",
+          "posX": 1850,
+          "posY": 1858,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/anti_titan/at_archer",
+          "posX": 670,
+          "posY": 1754,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_epg1",
+          "posX": 946,
+          "posY": 1754,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_smart_pistol",
+          "posX": 670,
+          "posY": 1902,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_softball",
+          "posX": 946,
+          "posY": 1902,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_throwingknife",
+          "posX": 1222,
+          "posY": 1966,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_wingman_elite",
+          "posX": 1498,
+          "posY": 1966,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "models/weapons/attachments/epg_burst",
+          "posX": 1222,
+          "posY": 1754,
+          "width": 64,
+          "height": 64
+        },
+        {
+          "path": "models/weapons/attachments/epg_burst_background",
+          "posX": 1222,
+          "posY": 1838,
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/hud/icons/hud_atlas",
+      "atlas": "texture/ui_atlas/rui/hud/icons/hud_atlas",
+      "textures": [
+        {
+          "path": "rui/ordnance_icons/grenade_cryo",
+          "posX": 7,
+          "posY": 7,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/ultimate_icons/ultimate_vantage",
+          "posX": 533,
+          "posY": 7,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_kraber",
+          "posX": 1059,
+          "posY": 7,
+          "width": 180,
+          "height": 180
+        },
+        {
+          "path": "rui/pilot_loadout/mods/hopup_kickback",
+          "posX": 1059,
+          "posY": 201,
+          "width": 160,
+          "height": 160
+        },
+        {
+          "path": "rui/hud/tactical_icons/pilot_tactical_3dash",
+          "posX": 1059,
+          "posY": 375,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/tactical_icons/pilot_tactical_particle_wall",
+          "posX": 1201,
+          "posY": 375,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/custom_badges/r5r_badge",
+          "posX": 1253,
+          "posY": 7,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/pilot_loadout/ordnance/satchel",
+          "posX": 1253,
+          "posY": 149,
+          "width": 128,
+          "height": 128
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/menu/maps/maps",
+      "atlas": "texture/ui_atlas/rui/menu/maps/maps",
+      "textures": [
+        {
+          "path": "rui/menu/home/bg",
+          "posX": 0,
+          "posY": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/map_not_found",
+          "posX": 1920,
+          "posY": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_lobby",
+          "posX": 3840,
+          "posY": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_aqueduct",
+          "posX": 5760,
+          "posY": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_aqueduct_night",
+          "posX": 7680,
+          "posY": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_arena_composite",
+          "posX": 0,
+          "posY": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_arena_skygarden",
+          "posX": 1920,
+          "posY": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_ashs_redemption",
+          "posX": 3840,
+          "posY": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k",
+          "posX": 5760,
+          "posY": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu1",
+          "posX": 7680,
+          "posY": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu1_night",
+          "posX": 0,
+          "posY": 2160,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_staging",
+          "posX": 1920,
+          "posY": 2160,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k",
+          "posX": 3840,
+          "posY": 2160,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx",
+          "posX": 5760,
+          "posY": 2160,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt",
+          "posX": 7680,
+          "posY": 2160,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_party_crasher",
+          "posX": 0,
+          "posY": 3240,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    }
+  ]
+}
