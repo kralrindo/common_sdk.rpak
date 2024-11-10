@@ -74,7 +74,46 @@
         "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_spc",
         "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_ilm",
         "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_ao",
-        "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_cav"
+        "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_cav",
+
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x8f57cfba1ea5b207",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x6fe5404d510f6391",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x99e601f4bae10395",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x2d753af1688f771f",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0xcb738d8a75904203",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0xe9607dd90206b174",
+
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x9db507f95a234725",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x7355a9bbb10ccab2",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0xa92a0d5937d94c62",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x3a9eaefe6ce3c7f8",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x6efc6700ba87ba21",
+
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xefea4f792d18306a",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xc4572d09a9e1f8d1",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xfa2b90a730ae7a81",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0x8cd3f67e58a80901",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xc131ae8099e44f48",
+
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x42be0bf02bdd9a68",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x185eadb2c0cd795f",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x4e3311504166251e",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0xdfa7b2f57670a0b4",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x14056af7c41492dd",
+
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0xbfd75882e8571b58",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x55e7e7f9783e576a",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x9f63307c0d24f974",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x5af9a13646b1e97",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x2e25ea9c66ff19ea",
+
+        "texture/models/props/lifeline_drone_rework/0x4473cd2ef8bfca6a",
+        "texture/models/props/lifeline_drone_rework/0x192d9bcc20ca1c1b",
+        "texture/models/props/lifeline_drone_rework/0x4f01ff69a162c7da",
+        "texture/models/props/lifeline_drone_rework/0xe15d74345c22287a",
+        "texture/models/props/lifeline_drone_rework/0xbed4b2767b51f363",
+        "texture/models/props/lifeline_drone_rework/0x14d459110b41ddd5",
+        "texture/models/props/lifeline_drone_rework/0xf32666600386ebf6"
       ]
     },
     {
@@ -346,8 +385,6 @@
       "shaderset": 12024133449294937,
       "width": 2048,
       "height": 2048,
-      "posX": 0,
-      "posY": 0,
       "textures": [
         "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_col",
         "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_nml",
@@ -356,6 +393,114 @@
         "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_ilm",
         "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_ao",
         "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 4221990506101211378,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x8f57cfba1ea5b207",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x6fe5404d510f6391",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x99e601f4bae10395",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x2d753af1688f771f",
+        "",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0xcb738d8a75904203",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0xe9607dd90206b174"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 4221990506101211378,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x9db507f95a234725",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x7355a9bbb10ccab2",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0xa92a0d5937d94c62",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x3a9eaefe6ce3c7f8",
+        "",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x6efc6700ba87ba21",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 4221990506101211378,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xefea4f792d18306a",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xc4572d09a9e1f8d1",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xfa2b90a730ae7a81",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0x8cd3f67e58a80901",
+        "",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xc131ae8099e44f48",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 4221990506101211378,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x42be0bf02bdd9a68",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x185eadb2c0cd795f",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x4e3311504166251e",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0xdfa7b2f57670a0b4",
+        "",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x14056af7c41492dd",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 4221990506101211378,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0xbfd75882e8571b58",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x55e7e7f9783e576a",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x9f63307c0d24f974",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x5af9a13646b1e97",
+        "",
+        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x2e25ea9c66ff19ea",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/props/lifeline_drone_rework/lifeline_drone_rework",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/props/lifeline_drone_rework/0x4473cd2ef8bfca6a",
+        "texture/models/props/lifeline_drone_rework/0x192d9bcc20ca1c1b",
+        "texture/models/props/lifeline_drone_rework/0x4f01ff69a162c7da",
+        "texture/models/props/lifeline_drone_rework/0xe15d74345c22287a",
+        "texture/models/props/lifeline_drone_rework/0xbed4b2767b51f363",
+        "texture/models/props/lifeline_drone_rework/0x14d459110b41ddd5",
+        "texture/models/props/lifeline_drone_rework/0xf32666600386ebf6"
       ]
     },
     {
@@ -1138,6 +1283,23 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/humans/class/light/pilot_light_support.rmdl",
+      "usePhysics": true,
+      "animrigs": [
+        "animrig/humans/class/light/mp_pilot_light_core.rrig",
+        "animrig/humans/class/light/pilot_light_support.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/arms/pov_pilot_light_support.rmdl",
+      "usePhysics": false,
+      "animrigs": [
+        "animrig/weapons/arms/pov_mp_core.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/Humans/class/light/combat_dummie_wraith.rmdl",
       "usePhysics": true,
       "materials": [""],
@@ -1164,6 +1326,22 @@
       "animrigs": [
         "animrig/robots/spectre/spectre_pete_core_copy.rrig",
         "animrig/robots/spectre/spectre_pete_reactions_copy.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/lifeline_drone/ptpov_lifeline_drone_held.rmdl",
+      "usePhysics": false,
+      "animrigs": [
+        "animrig/weapons/lifeline_drone/ptpov_lifeline_drone_held.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/props/lifeline_drone/lifeline_drone.rmdl",
+      "usePhysics": true,
+      "animrigs": [
+        "animrig/props/lifeline_drone/lifeline_drone.rrig"
       ]
     },
     {
