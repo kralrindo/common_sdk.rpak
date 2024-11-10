@@ -1302,7 +1302,6 @@
       "$type": "rmdl",
       "path": "mdl/Humans/class/light/combat_dummie_wraith.rmdl",
       "usePhysics": true,
-      "materials": [""],
       "animrigs": [
         "animrig/robots/spectre/spectre_pete_core_copy.rrig",
         "animrig/robots/spectre/spectre_pete_reactions_copy.rrig"
@@ -1312,7 +1311,6 @@
       "$type": "rmdl",
       "path": "mdl/Humans/class/medium/combat_dummie_mirage.rmdl",
       "usePhysics": true,
-      "materials": [""],
       "animrigs": [
         "animrig/robots/spectre/spectre_pete_core_copy.rrig",
         "animrig/robots/spectre/spectre_pete_reactions_copy.rrig"
@@ -1322,7 +1320,6 @@
       "$type": "rmdl",
       "path": "mdl/Humans/class/heavy/combat_dummie_caustic.rmdl",
       "usePhysics": true,
-      "materials": [""],
       "animrigs": [
         "animrig/robots/spectre/spectre_pete_core_copy.rrig",
         "animrig/robots/spectre/spectre_pete_reactions_copy.rrig"
