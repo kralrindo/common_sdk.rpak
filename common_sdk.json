@@ -1,7 +1,6 @@
 {
   "$mapversion": 1,
   "version": 8,
-  "keepDevOnly": true,
 
   "starpakPath": "paks/Win64/pc_all.sdk.starpak",
 
@@ -931,85 +930,18 @@
       "$type": "rmdl",
       "path": "mdl/Weapons/sentinel/w_sentinel.rmdl",
       "usePhysics": true,
-      "materials": [
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_sknp"
-      ],
       "animrigs": ["animrig/weapons/at_rifle/w_at_rifle.rrig"]
     },
     {
       "$type": "rmdl",
       "path": "mdl/Weapons/sentinel/ptpov_sentinel.rmdl",
       "usePhysics": false,
-      "materials": [
-        "models/weapons_r5/attachments/optics/hcog_r2/hcog_r2_sknp",
-        "models/weapons_r5/attachments/optics/hcog_r1/hcog_r1_sknp",
-        "models/weapons_r5/attachments/optics/holo_reflex_sight/holo_reflex_sight_sknp",
-        "models/weapons_r5/attachments/optics/holo_mag_sight/holo_mag_sight_sknp",
-        "models/weapons_r5/attachments/optics/scope_lens_standard/scope_lens_standard_sknp",
-        "models/weapons_r5/attachments/suppressors/suppressors_sknp",
-        "models/weapons_r5/attachments/optics/acgs_optic_r5/acgs_r5_sknp",
-        "models/weapons_r5/attachments/optics/aog_r1/aog_r1_sknp",
-        "models/weapons_r5/attachments/optics/hcog_r1/hcog_r1_rankreward_tier1_sknp",
-        "models/weapons_r5/attachments/optics/dcom_scope/dcom_scope_sknp",
-        "models/weapons/attachments/rifle_scope_lens_orange_sknp",
-        "models/weapons_r5/attachments/optics/talon_optic/talon_optic_sknp",
-        "models/weapons_r5/attachments/optics/long_range_optic/long_range_optic_sknp",
-        "models/weapons_r5/attachments/optics/long_range_optic/long_range_optic_lense_sknp",
-        "models/weapons_r5/attachments/optics/scope_ads_square/scope_ads_square_sknp",
-        "models/weapons_r2/attachments/scope_ads_square_crosshair_middle_sknp",
-        "models/weapons_r5/attachments/optics/scope_ads_cylinder_02/scope_ads_cylinder_02_sknp",
-        "models/weapons_r2/attachments/scope_ads_cylinder_sknp",
-        "models/weapons_r2/attachments/scope_interior_outter_ring_sknp",
-        "models/weapons_r2/attachments/scope_ads_cylinder_default_sknp",
-        "models/weapons_r5/attachments/optics/scope_ads_cylinder_01/scope_ads_cylinder_01_sknp",
-        "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_sknp",
-        "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_sknp",
-        "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_sknp",
-        "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_sknp",
-        "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_sknp",
-        "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_sknp",
-        "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_sknp",
-        "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_sknp",
-        "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_sknp",
-        "models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_sknp",
-        "models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire_sknp"
-      ],
       "animrigs": ["animrig/weapons/sentinel/ptpov_sentinel.rrig"]
     },
     {
       "$type": "rmdl",
       "path": "mdl/Creatures/prowler/prowler_apex.rmdl",
       "usePhysics": true,
-      "materials": [
-        "models/creatures_r5/prowler/prowler_body_06_sknp",
-        "models/creatures_r5/prowler/prowler_body_07_sknp",
-        "models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_sknp",
-        "",
-        "models/creatures_r5/prowler/prowler_head_06_sknp",
-        "models/creatures_r5/prowler/prowler_head_07_sknp",
-        "models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_sknp"
-      ],
       "animrigs": ["animrig/creatures/prowler/ai_prowler_core.rrig"]
     },
     {
@@ -1070,10 +1002,7 @@
       "$type": "rmdl",
       "path": "mdl/weapons_r5/loot/_master/w_loot_wep_ammo_sniper.rmdl",
       "usePhysics": true,
-      "static": true,
-      "materials": [
-        "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_sni_blend_rgdp"
-      ]
+      "static": true
     }
   ]
 }
