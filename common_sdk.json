@@ -15,504 +15,346 @@
       "path": "datatable/survival_loot_sdk"
     },
     {
-      "$type": "shds",
-      "path": "FixedVertexShaderSet",
-      "textures": 6,
-      "samplers": 3,
-      "vertex": 15390381051536392122,
-      "pixel": 6842977824030297585
-    },
-    {
-      "$type": "txtrlist",
-      "textures": [
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_col",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_nml",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_gls",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_spc",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ilm",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ao",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_cav",
-
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_spc",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ilm",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ao",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_cav",
-
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_col",
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_nml",
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_gls",
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_spc",
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_ilm",
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_ao",
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_cav",
-
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_col",
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_nml",
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_gls",
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_spc",
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_ilm",
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_ao",
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_cav",
-
-        "texture/models/weapons/bolo_sword/bolo_sword_01_col",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_nml",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_gls",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_spc",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_ilm",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_ao",
-
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_col",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ilm",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ilm2",
-
-        "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_col",
-        "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_nml",
-        "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_gls",
-        "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_spc",
-        "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_ilm",
-        "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_ao",
-        "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_cav",
-
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x8f57cfba1ea5b207",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x6fe5404d510f6391",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x99e601f4bae10395",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x2d753af1688f771f",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0xcb738d8a75904203",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0xe9607dd90206b174",
-
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x9db507f95a234725",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x7355a9bbb10ccab2",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0xa92a0d5937d94c62",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x3a9eaefe6ce3c7f8",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x6efc6700ba87ba21",
-
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xefea4f792d18306a",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xc4572d09a9e1f8d1",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xfa2b90a730ae7a81",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0x8cd3f67e58a80901",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xc131ae8099e44f48",
-
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x42be0bf02bdd9a68",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x185eadb2c0cd795f",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x4e3311504166251e",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0xdfa7b2f57670a0b4",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x14056af7c41492dd",
-
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0xbfd75882e8571b58",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x55e7e7f9783e576a",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x9f63307c0d24f974",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x5af9a13646b1e97",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x2e25ea9c66ff19ea",
-
-        "texture/models/props/lifeline_drone_rework/0x4473cd2ef8bfca6a",
-        "texture/models/props/lifeline_drone_rework/0x192d9bcc20ca1c1b",
-        "texture/models/props/lifeline_drone_rework/0x4f01ff69a162c7da",
-        "texture/models/props/lifeline_drone_rework/0xe15d74345c22287a",
-        "texture/models/props/lifeline_drone_rework/0xbed4b2767b51f363",
-        "texture/models/props/lifeline_drone_rework/0x14d459110b41ddd5",
-        "texture/models/props/lifeline_drone_rework/0xf32666600386ebf6"
-      ]
-    },
-    {
       "$type": "matl",
       "path": "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_sni_blend",
       "type": "rgdp",
-      "shaderset": 3444865890171848327,
-      "ilmtint": [1.0, 1.0, 1.0],
+      "shaderset": "0x210121da41f7fbbc",
       "cpu": "cpu/wep_test_pickups_ammo_sni_blend",
-      "width": 2048,
-      "height": 2048,
-      "textures": [
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_col",
-        3531264949961635812,
-        7410099657257040276,
-        17977908158269311930,
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ilm",
-        3217909929491047341,
-        "",
-        "",
-        "",
-        "",
-        "",
-        16371403591942019181,
-        16371403591942019181,
-        2069039626981503334,
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ilm2"
-      ]
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 29,
+      "textures": {
+        "0": "texture/wep_test_pickups_ammo_sni_blend/0xe8836ef3eeda500",
+        "1": "texture/wep_test_pickups_ammo_sni_blend/0x310192c3364037e4",
+        "2": "texture/wep_test_pickups_ammo_sni_blend/0x66d5f660bd0cb994",
+        "3": "texture/wep_test_pickups_ammo_sni_blend/0xf97e5c380a3d4bba",
+        "4": "texture/wep_test_pickups_ammo_sni_blend/0x29aad52aa44fccb6",
+        "5": "texture/wep_test_pickups_ammo_sni_blend/0x2ca850081a8423ad",
+        "7": "texture/wep_test_pickups_ammo_sni_blend/0xf16e6d120d97a846",
+        "8": "texture/wep_test_pickups_ammo_sni_blend/0x4b20309542f841bd",
+        "10": "texture/wep_test_pickups_ammo_sni_blend/0xa3d04964a9af2b54",
+        "11": "texture/wep_test_pickups_ammo_sni_blend/0xe332e8d3d442186d",
+        "12": "texture/wep_test_pickups_ammo_sni_blend/0xe332e8d3d442186d",
+        "16": "texture/wep_test_pickups_ammo_sni_blend/0x686d1c46592d0f29",
+        "22": "texture/wep_test_pickups_ammo_sni_blend/0xe8836ef3eeda500",
+        "23": "texture/wep_test_pickups_ammo_sni_blend/0x310192c3364037e4",
+        "24": "texture/wep_test_pickups_ammo_sni_blend/0x66d5f660bd0cb994",
+        "25": "texture/wep_test_pickups_ammo_sni_blend/0xf97e5c380a3d4bba",
+        "26": "texture/wep_test_pickups_ammo_sni_blend/0x29aad52aa44fccb6",
+        "28": "texture/wep_test_pickups_ammo_sni_blend/0x2ca850081a8423ad"
+      }
     },
     {
       "$type": "matl",
       "path": "models/weapons/bolo_sword/bolo_sword_02",
       "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 8900632333082111100,
+      "shaderset": "0x7B8565F309B72C7C",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
       "width": 1024,
       "height": 1024,
-      "textures": [
-        "texture/models/weapons/bolo_sword/bolo_sword_01_col",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_nml",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_gls",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_spc",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_ilm",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_ao"
-      ]
+      "textureSlotCount": 6,
+      "textures": {
+        "0":  "texture/models/weapons/bolo_sword/bolo_sword_01_col",
+        "1":  "texture/models/weapons/bolo_sword/bolo_sword_01_nml",
+        "2":  "texture/models/weapons/bolo_sword/bolo_sword_01_gls",
+        "3":  "texture/models/weapons/bolo_sword/bolo_sword_01_spc",
+        "4":  "texture/models/weapons/bolo_sword/bolo_sword_01_ilm",
+        "5":  "texture/models/weapons/bolo_sword/bolo_sword_01_ao"
+      }
     },
     {
       "$type": "matl",
       "path": "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6",
       "type": "sknp",
       "cpu": "cpu/Smart_Pistol_MK6_bullet",
-      "shaderset": 1075725809503985265,
+      "shaderset": "0x7B8565F309B72C7C",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
       "width": 1024,
       "height": 1024,
-      "textures": [
-        8195898390103050569,
-        7659178075644738527,
-        12422510642454100643,
-        15643388167095980290,
-        3451067336626219440,
-        16473364964945910780,
-        9522529030942125294
-      ]
-    },
-    {
-      "$type": "matl",
-      "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR",
-      "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 12024133449294937,
-      "width": 2048,
-      "height": 2048,
-      "posX": 0,
-      "posY": 0,
-      "textures": [
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_spc",
-        "",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ao",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_cav"
-      ]
-    },
-    {
-      "$type": "matl",
-      "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge",
-      "type": "sknp",
-      "cpu": "cpu/sentinel_esr_charge",
-      "shaderset": 12024133449294937,
-      "width": 2048,
-      "height": 2048,
-      "textures": [
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_spc",
-        "",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ao",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_cav"
-      ]
-    },
-    {
-      "$type": "matl",
-      "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge_epic",
-      "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 12024133449294937,
-      "width": 2048,
-      "height": 2048,
-      "textures": [
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_spc",
-        "",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ao",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_cav"
-      ]
-    },
-    {
-      "$type": "matl",
-      "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_skin31",
-      "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 12024133449294937,
-      "width": 2048,
-      "height": 2048,
-      "textures": [
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_spc",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ilm",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ao",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_cav"
-      ]
-    },
-    {
-      "$type": "matl",
-      "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_01",
-      "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 12024133449294937,
-      "width": 2048,
-      "height": 2048,
-      "textures": [
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_spc",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ilm",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ao",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_cav"
-      ]
-    },
-    {
-      "$type": "matl",
-      "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_02",
-      "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 12024133449294937,
-      "width": 2048,
-      "height": 2048,
-      "textures": [
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_spc",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ilm",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ao",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_cav"
-      ]
-    },
-    {
-      "$type": "matl",
-      "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_03",
-      "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 12024133449294937,
-      "width": 2048,
-      "height": 2048,
-      "textures": [
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_spc",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ilm",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ao",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_cav"
-      ]
-    },
-    {
-      "$type": "matl",
-      "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_04",
-      "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 12024133449294937,
-      "width": 2048,
-      "height": 2048,
-      "textures": [
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_spc",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ilm",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ao",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_cav"
-      ]
-    },
-    {
-      "$type": "matl",
-      "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_05",
-      "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 12024133449294937,
-      "width": 2048,
-      "height": 2048,
-      "textures": [
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_spc",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ilm",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_ao",
-        "texture/models/weapons_r5/sentinel/sentinel_ESR_cav"
-      ]
-    },
-    {
-      "$type": "matl",
-      "path": "models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR",
-      "type": "sknp",
-      "cpu": "cpu/iron_sight_AR",
-      "shaderset": 12024133449294937,
-      "width": 2048,
-      "height": 2048,
-      "textures": [
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_col",
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_nml",
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_gls",
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_spc",
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_ilm",
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_ao",
-        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_cav"
-      ]
+      "textureSlotCount": 6,
+      "textures": {
+        "0":  "texture/models/weapons/bolo_sword/bolo_sword_01_col",
+        "1":  "texture/models/weapons/bolo_sword/bolo_sword_01_nml",
+        "2":  "texture/models/weapons/bolo_sword/bolo_sword_01_gls",
+        "3":  "texture/models/weapons/bolo_sword/bolo_sword_01_spc",
+        "4":  "texture/models/weapons/bolo_sword/bolo_sword_01_ilm",
+        "5":  "texture/models/weapons/bolo_sword/bolo_sword_01_ao"
+      }
     },
     {
       "$type": "matl",
       "path": "models/titans/buddy/cine_eye/BT_a_eye_cine",
       "type": "sknp",
-      "shaderset": 12024133449294937,
+      "cpu": "cpu/Smart_Pistol_MK6_bullet",
+      "shaderset": "0x17c5d5b7fb298991",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 7,
+      "textures": {
+        "0":  "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_col",
+        "1":  "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_nml",
+        "2":  "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_gls",
+        "3":  "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_spc",
+        "4":  "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ilm",
+        "5":  "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ao",
+        "6":  "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_cav"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR",
+      "type": "sknp",
+      "shaderset": "0xeedbeec9f345e71",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
       "width": 2048,
       "height": 2048,
-      "textures": [
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_col",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_nml",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_gls",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_spc",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ilm",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ao",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_cav"
-      ]
+      "textureSlotCount": 7,
+      "textures": {
+        "0":  "texture/sentinel_ESR/0x25870044836e713d",
+        "1":  "texture/sentinel_ESR/0x387defd99b5c2ed6",
+        "2":  "texture/sentinel_ESR/0x42b8ab60ba0ab798",
+        "3":  "texture/sentinel_ESR/0x9a011dc88be7b35",
+        "4":  "texture/sentinel_ESR/0x3eda461d99b87291",
+        "5":  "texture/sentinel_ESR/0x94a61f2f941d9317",
+        "6":  "texture/sentinel_ESR/0xb3c6d3b038ba1918"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge",
+      "type": "sknp",
+      "shaderset": "0xeedbeec9f345e71",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 7,
+      "textures": {
+        "0":  "texture/sentinel_ESR/0x25870044836e713d",
+        "1":  "texture/sentinel_ESR/0x387defd99b5c2ed6",
+        "2":  "texture/sentinel_ESR/0x42b8ab60ba0ab798",
+        "3":  "texture/sentinel_ESR/0x9a011dc88be7b35",
+        "4":  "texture/sentinel_ESR/0x3eda461d99b87291",
+        "5":  "texture/sentinel_ESR/0x94a61f2f941d9317",
+        "6":  "texture/sentinel_ESR/0xb3c6d3b038ba1918"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR",
+      "type": "sknp",
+      "shaderset": "0xeedbeec9f345e71",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "width": 512,
+      "height": 512,
+      "textureSlotCount": 7,
+      "textures": {
+        "0":  "texture/iron_sight_AR/0x98a09d5c6fd84992",
+        "1":  "texture/iron_sight_AR/0x9093eafaeb208158",
+        "2":  "texture/iron_sight_AR/0xd2aeacb67574c1ef",
+        "3":  "texture/iron_sight_AR/0xff6187c19a5eac6c",
+        "4":  "texture/iron_sight_AR/0x562db48f3a724a93",
+        "5":  "texture/iron_sight_AR/0x5d270306633078b",
+        "6":  "texture/iron_sight_AR/0xaa6fdecd37b70858"
+      }
     },
     {
       "$type": "matl",
       "path": "models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire",
       "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 12024133449294937,
-      "width": 2048,
-      "height": 2048,
-      "textures": [
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_col",
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_nml",
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_gls",
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_spc",
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_ilm",
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_ao",
-        "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_cav"
-      ]
+      "shaderset": "0xeedbeec9f345e71",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "width": 512,
+      "height": 512,
+      "textureSlotCount": 7,
+      "textures": {
+        "0":  "texture/sentinel_quickcharge_wire/0xef37902bc40b26e4",
+        "1":  "texture/sentinel_quickcharge_wire/0x84fb2e95c1813170",
+        "2":  "texture/sentinel_quickcharge_wire/0xcec36824ef0cdaf1",
+        "3":  "texture/sentinel_quickcharge_wire/0x350fd1bc58ee81e7",
+        "4":  "texture/sentinel_quickcharge_wire/0xa361f51063d58588",
+        "5":  "texture/sentinel_quickcharge_wire/0x5b1e99e16308d593",
+        "6":  "texture/sentinel_quickcharge_wire/0xf3015e9859e4dcfe"
+      }
     },
     {
       "$type": "matl",
-      "path": "art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head",
+      "path": "models/creatures_r5/prowler/prowler_body_06",
       "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 4221990506101211378,
+      "cpu": "cpu/prowler_body_06",
+      "shaderset": "0xeedbeec9f345e71",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
       "width": 2048,
       "height": 2048,
-      "textures": [
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x8f57cfba1ea5b207",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x6fe5404d510f6391",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x99e601f4bae10395",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0x2d753af1688f771f",
-        "",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0xcb738d8a75904203",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_head/0xe9607dd90206b174"
-      ]
+      "textureSlotCount": 7,
+      "textures": {
+        "0":  "texture/models/creatures_r5/prowler/prowler_body_06/0x943b3105bc465c1c",
+        "1":  "texture/models/creatures_r5/prowler/prowler_body_06/0x43400da4f5cf0fd6",
+        "2":  "texture/models/creatures_r5/prowler/prowler_body_06/0x791471425d9863d1",
+        "3":  "texture/models/creatures_r5/prowler/prowler_body_06/0xb6fe60d3d8ec817",
+        "5":  "texture/models/creatures_r5/prowler/prowler_body_06/0x3ee6cae9e046d190",
+        "6":  "texture/models/creatures_r5/prowler/prowler_body_06/0x1d38d838b354dc0b"
+      }
     },
     {
       "$type": "matl",
-      "path": "art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair",
+      "path": "models/creatures_r5/prowler/prowler_body_07",
       "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 4221990506101211378,
+      "cpu": "cpu/prowler_body_07",
+      "shaderset": "0xeedbeec9f345e71",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
       "width": 2048,
       "height": 2048,
-      "textures": [
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x9db507f95a234725",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x7355a9bbb10ccab2",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0xa92a0d5937d94c62",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x3a9eaefe6ce3c7f8",
-        "",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_hair/0x6efc6700ba87ba21",
-        ""
-      ]
+      "textureSlotCount": 7,
+      "textures": {
+        "0":  "texture/models/creatures_r5/prowler/prowler_body_07/0xc162ea31e7ae2ae8",
+        "1":  "texture/models/creatures_r5/prowler/prowler_body_06/0x43400da4f5cf0fd6",
+        "2":  "texture/models/creatures_r5/prowler/prowler_body_06/0x791471425d9863d1",
+        "3":  "texture/models/creatures_r5/prowler/prowler_body_06/0xb6fe60d3d8ec817",
+        "5":  "texture/models/creatures_r5/prowler/prowler_body_06/0x3ee6cae9e046d190",
+        "6":  "texture/models/creatures_r5/prowler/prowler_body_06/0x1d38d838b354dc0b"
+      }
     },
     {
       "$type": "matl",
-      "path": "art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body",
+      "path": "models/creatures_r5/prowler/skins/prowler_02/prowler_body_02",
       "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 4221990506101211378,
+      "cpu": "cpu/prowler_body_02",
+      "shaderset": "0xeedbeec9f345e71",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
       "width": 2048,
       "height": 2048,
-      "textures": [
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xefea4f792d18306a",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xc4572d09a9e1f8d1",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xfa2b90a730ae7a81",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0x8cd3f67e58a80901",
-        "",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_body/0xc131ae8099e44f48",
-        ""
-      ]
+      "textureSlotCount": 7,
+      "textures": {
+        "0":  "texture/models/creatures_r5/prowler/prowler_body_02/0x9679653e45026b51",
+        "1":  "texture/models/creatures_r5/prowler/prowler_body_02/0x43400da4f5cf0fd6",
+        "2":  "texture/models/creatures_r5/prowler/prowler_body_02/0x791471425d9863d1",
+        "3":  "texture/models/creatures_r5/prowler/prowler_body_02/0xb6fe60d3d8ec817",
+        "4":  "texture/models/creatures_r5/prowler/prowler_body_02/0x40b27c45969193ee",
+        "5":  "texture/models/creatures_r5/prowler/prowler_body_02/0x3ee6cae9e046d190",
+        "6":  "texture/models/creatures_r5/prowler/prowler_body_02/0x1d38d838b354dc0b"
+      }
     },
     {
       "$type": "matl",
-      "path": "art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear",
+      "path": "models/creatures_r5/prowler/prowler_head_06",
       "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 4221990506101211378,
+      "cpu": "cpu/prowler_head_06",
+      "shaderset": "0xeedbeec9f345e71",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
       "width": 2048,
       "height": 2048,
-      "textures": [
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x42be0bf02bdd9a68",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x185eadb2c0cd795f",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x4e3311504166251e",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0xdfa7b2f57670a0b4",
-        "",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_gear/0x14056af7c41492dd",
-        ""
-      ]
+      "textureSlotCount": 7,
+      "textures": {
+        "0":  "texture/models/creatures_r5/prowler/prowler_head_06/0x3bb88cb3b1231131",
+        "1":  "texture/models/creatures_r5/prowler/prowler_head_02/0xd02e60f49395ec57",
+        "2":  "texture/models/creatures_r5/prowler/prowler_head_06/0x45acdcd53b178186",
+        "3":  "texture/models/creatures_r5/prowler/prowler_head_06/0xd8a233b901e9ed6e",
+        "5":  "texture/models/creatures_r5/prowler/prowler_head_02/0xcc6f00526b1d8ba4",
+        "6":  "texture/models/creatures_r5/prowler/prowler_head_02/0xaa272b883e8036b9"
+      }
     },
     {
       "$type": "matl",
-      "path": "art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms",
+      "path": "models/creatures_r5/prowler/prowler_head_07",
       "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 4221990506101211378,
+      "cpu": "cpu/prowler_head_07",
+      "shaderset": "0xeedbeec9f345e71",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
       "width": 2048,
       "height": 2048,
-      "textures": [
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0xbfd75882e8571b58",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x55e7e7f9783e576a",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x9f63307c0d24f974",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x5af9a13646b1e97",
-        "",
-        "texture/art/mshop/characters/legends/lifeline/legendary/v24_rework/lifeline_lgnd_v24_rework_v_arms/0x2e25ea9c66ff19ea",
-        ""
-      ]
+      "textureSlotCount": 7,
+      "textures": {
+        "0":  "texture/models/creatures_r5/prowler/prowler_head_07/0x3242d9524fd22b20",
+        "1":  "texture/models/creatures_r5/prowler/prowler_head_02/0xd02e60f49395ec57",
+        "2":  "texture/models/creatures_r5/prowler/prowler_head_07/0x62c5307155a3e62a",
+        "3":  "texture/models/creatures_r5/prowler/prowler_head_07/0xcfc66270bf479478",
+        "5":  "texture/models/creatures_r5/prowler/prowler_head_02/0xcc6f00526b1d8ba4",
+        "6":  "texture/models/creatures_r5/prowler/prowler_head_02/0xaa272b883e8036b9"
+      }
     },
     {
       "$type": "matl",
-      "path": "models/props/lifeline_drone_rework/lifeline_drone_rework",
+      "path": "models/creatures_r5/prowler/skins/prowler_02/prowler_head_02",
       "type": "sknp",
-      "cputype": "weapon",
-      "shaderset": 14504094420058426309,
+      "cpu": "cpu/prowler_head_02",
+      "shaderset": "0xeedbeec9f345e71",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
       "width": 2048,
       "height": 2048,
-      "textures": [
-        "texture/models/props/lifeline_drone_rework/0x4473cd2ef8bfca6a",
-        "texture/models/props/lifeline_drone_rework/0x192d9bcc20ca1c1b",
-        "texture/models/props/lifeline_drone_rework/0x4f01ff69a162c7da",
-        "texture/models/props/lifeline_drone_rework/0xe15d74345c22287a",
-        "texture/models/props/lifeline_drone_rework/0xbed4b2767b51f363",
-        "texture/models/props/lifeline_drone_rework/0x14d459110b41ddd5",
-        "texture/models/props/lifeline_drone_rework/0xf32666600386ebf6"
-      ]
-    },
-    {
-      "$type": "aseqlist",
-      "animseqs": [
-        "animseq/weapons/drumstick/ptpov_baton_lifeline/inspect.rseq"
-      ]
+      "textureSlotCount": 7,
+      "textures": {
+        "0":  "texture/models/creatures_r5/prowler/prowler_head_02/0x573742b61a133171",
+        "1":  "texture/models/creatures_r5/prowler/prowler_head_02/0xd02e60f49395ec57",
+        "2":  "texture/models/creatures_r5/prowler/prowler_head_02/0x602c4921a626e07",
+        "3":  "texture/models/creatures_r5/prowler/prowler_head_02/0x98f81b75d4cd2e0d",
+        "4":  "texture/models/creatures_r5/prowler/prowler_head_02/0xc02a3852a30261c3",
+        "5":  "texture/models/creatures_r5/prowler/prowler_head_02/0xcc6f00526b1d8ba4",
+        "6":  "texture/models/creatures_r5/prowler/prowler_head_02/0xaa272b883e8036b9"
+      }
     },
     {
       "$type": "arig",
       "path": "animrig/creatures/prowler/ai_prowler_core.rrig",
-      "animseqs": [
+      "sequences": [
         "animseq/creatures/prowler/ai_prowler_core/head_rot_x.rseq",
         "animseq/creatures/prowler/ai_prowler_core/head_rot_y.rseq",
         "animseq/creatures/prowler/ai_prowler_core/head_rot_z.rseq",
@@ -718,115 +560,7 @@
     {
       "$type": "arig",
       "path": "animrig/weapons/sentinel/ptpov_sentinel.rrig",
-      "animseqs": [
-        "animseq/weapons/sentinel/ptpov_sentinel/ads_in_onehanded_sniper.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/ads_in_sniper.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/ads_in_sprinting.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/ads_in_sprinting_sniper.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/ads_out_onehanded_sniper.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/ads_out_sniper.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/ads_out_wallrun_onehanded_sniper.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/barrel_layer.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/charge.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/charge_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/crouch_to_idle_TEMP.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/draw.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/draw_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/drawfirst.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/fire_02.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/fire_onehanded_sniper.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/fire_regrip_02.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/fire_sniper.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/holster.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/holster_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/idle_crouch_onehanded_sniper.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/idle_crouch_sniper.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/idle_crouch_TEMP.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/idle_onehanded_sniper.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/idle_sniper.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/idle_TEMP.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/idle_to_crouch_TEMP.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/inspect.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/lower.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/lower_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/meleeraise.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/meleeraise_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/raise.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/raise_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/rechamber.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/rechamber_high_zoom.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/rechamber_high_zoom_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/rechamber_mid_zoom.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/rechamber_mid_zoom_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/rechamber_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/rechamber_regrip.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/rechamber_sniper_zoom.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/rechamber_sniper_zoom_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/reload.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/reload_empty.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/reload_empty_late1.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/reload_empty_late1_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/reload_empty_late2.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/reload_empty_late2_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/reload_empty_late3.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/reload_empty_late3_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/reload_empty_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/reload_late1.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/reload_late1_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/reload_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/run_layer_reload.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/sprintdraw.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/sprintholster.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/sprintjump.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/sprintraise.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/sprintraise_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/sprintraise_regrip.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/sprintslide.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/sprintslide_onehanded.rseq",
-        "animseq/weapons/sentinel/ptpov_sentinel/zipline_mount.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/ads_in.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/ads_in_onehanded.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/ads_out.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/ads_out_onehanded.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/ads_out_wallrun_onehanded.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/crouch_to_idle.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/doublejump.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/fire.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/fire_onehanded.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/fire_regrip.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/fire_select_off.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/fire_select_on.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/idle.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/idle_check.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/idle_crouch.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/idle_crouch_onehanded.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/idle_onehanded.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/idle_to_crouch.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/jump.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/jump_onehanded.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/land.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/land_high.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/land_low.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/land_med.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/land_onehanded.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/mod_add.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/mod_remove.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/optic_add.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/optic_remove.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/run_layer_wall.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/run_wall_layer.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/sprint.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/sprint_heavy.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/sprint_onehanded.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/switch_to_onehanded.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/switch_to_twohanded.rseq",
-        "animseq_derived/weapons/sentinel/ptpov_sentinel/wind_effect_layer.rseq"
-      ]
-    },
-    {
-      "$type": "arig",
-      "path": "animrig/weapons/sentinel/ptpov_sentinel.rrig",
-      "animseqs": [
+      "sequences": [
         "animseq/weapons/sentinel/ptpov_sentinel/ads_in_onehanded_sniper.rseq",
         "animseq/weapons/sentinel/ptpov_sentinel/ads_in_sniper.rseq",
         "animseq/weapons/sentinel/ptpov_sentinel/ads_in_sprinting.rseq",
@@ -934,13 +668,12 @@
     {
       "$type": "arig",
       "path": "animrig/robots/marvin/marvin_anims.rrig",
-      "animseqs": [
+      "sequences": [
         "animseq/robots/marvin/marvin_anims/a_death_generic.rseq",
         "animseq/robots/marvin/marvin_anims/a_unarmed_turn_180L.rseq",
         "animseq/robots/marvin/marvin_anims/a_unarmed_turn_180R.rseq",
         "animseq/robots/marvin/marvin_anims/a_unarmed_turn_90L.rseq",
         "animseq/robots/marvin/marvin_anims/a_unarmed_turn_90R.rseq",
-        "animseq/robots/marvin/marvin_anims/Aim_move.rseq",
         "animseq/robots/marvin/marvin_anims/Aim_move.rseq",
         "animseq/robots/marvin/marvin_anims/attack_to_idle.rseq",
         "animseq/robots/marvin/marvin_anims/carry_pickup.rseq",
@@ -953,7 +686,6 @@
         "animseq/robots/marvin/marvin_anims/commander_MP_flyin_marvin_salute.rseq",
         "animseq/robots/marvin/marvin_anims/gesture_shoot_add.rseq",
         "animseq/robots/marvin/marvin_anims/idle_to_attack.rseq",
-        "animseq/robots/marvin/marvin_anims/layer_run_aiming.rseq",
         "animseq/robots/marvin/marvin_anims/layer_run_aiming.rseq",
         "animseq/robots/marvin/marvin_anims/marvin_Gladcard_static_bighug.rseq",
         "animseq/robots/marvin/marvin_anims/marvin_Gladcard_static_stabby.rseq",
@@ -1193,7 +925,6 @@
       "$type": "rmdl",
       "path": "mdl/robots/marvin/marvin.rmdl",
       "usePhysics": true,
-      "materials": ["", "", "", "", "", ""],
       "animrigs": ["animrig/robots/marvin/marvin_anims.rrig"]
     },
     {
@@ -1271,32 +1002,15 @@
       "path": "mdl/Creatures/prowler/prowler_apex.rmdl",
       "usePhysics": true,
       "materials": [
-        "models/characters/ShadowSquad/ShadowSquad_3p_sknp",
-        "models/characters/ShadowSquad/ShadowSquad_3p_sknp",
-        "models/characters/ShadowSquad/ShadowSquad_3p_sknp",
-        "models/characters/ShadowSquad/ShadowSquad_3p_sknp",
-        "models/characters/ShadowSquad/ShadowSquad_3p_sknp",
-        "models/characters/ShadowSquad/ShadowSquad_3p_sknp",
-        "models/characters/ShadowSquad/ShadowSquad_3p_sknp"
+        "models/creatures_r5/prowler/prowler_body_06_sknp",
+        "models/creatures_r5/prowler/prowler_body_07_sknp",
+        "models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_sknp",
+        "",
+        "models/creatures_r5/prowler/prowler_head_06_sknp",
+        "models/creatures_r5/prowler/prowler_head_07_sknp",
+        "models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_sknp"
       ],
       "animrigs": ["animrig/creatures/prowler/ai_prowler_core.rrig"]
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/humans/class/light/pilot_light_support.rmdl",
-      "usePhysics": true,
-      "animrigs": [
-        "animrig/humans/class/light/mp_pilot_light_core.rrig",
-        "animrig/humans/class/light/pilot_light_support.rrig"
-      ]
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/Weapons/arms/pov_pilot_light_support.rmdl",
-      "usePhysics": false,
-      "animrigs": [
-        "animrig/weapons/arms/pov_mp_core.rrig"
-      ]
     },
     {
       "$type": "rmdl",
@@ -1327,22 +1041,6 @@
     },
     {
       "$type": "rmdl",
-      "path": "mdl/Weapons/lifeline_drone/ptpov_lifeline_drone_held.rmdl",
-      "usePhysics": false,
-      "animrigs": [
-        "animrig/weapons/lifeline_drone/ptpov_lifeline_drone_held.rrig"
-      ]
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/props/lifeline_drone/lifeline_drone.rmdl",
-      "usePhysics": true,
-      "animrigs": [
-        "animrig/props/lifeline_drone/lifeline_drone.rrig"
-      ]
-    },
-    {
-      "$type": "rmdl",
       "path": "mdl/weapons/p2011sp/ptpov_p2011sp.rmdl",
       "usePhysics": false,
       "materials": [
@@ -1351,7 +1049,7 @@
         "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
         "models/weapons/attachments/suppressors_sknp",
         "models/Weapons_R2/attachments/pro_screen_sknp",
-        "models/titans/buddy/cine_eye/BT_a_eye_cine_sknp"
+        "models/Weapons_R2/attachments/pro_screen_sknp"
       ],
       "animrigs": ["animrig/weapons/p2011/ptpov_p2011.rrig"]
     },
