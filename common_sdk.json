@@ -1228,38 +1228,12 @@
       "$type": "rmdl",
       "path": "mdl/weapons/epg/w_epg.rmdl",
       "usePhysics": true,
-      "materials": [
-        "models/weapons_r2/epg/epg_sknp",
-        "models/weapons_r2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_mag_non_transparent_sknp",
-        "models/weapons_r2/epg/epg_mag_sknp",
-        "models/weapons_r2/attachments/pro_screen_sknp"
-      ],
       "animrigs": ["animrig/weapons/epg/w_epg.rrig"]
     },
     {
       "$type": "rmdl",
       "path": "mdl/weapons/epg/ptpov_epg.rmdl",
       "usePhysics": false,
-      "materials": [
-        "models/weapons_r2/epg/epg_sknp",
-        "models/weapons_r2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_sknp",
-        "models/Weapons_R2/epg/epg_sknp",
-        "models/weapons_r2/epg/epg_mag_sknp",
-        "models/weapons_r2/attachments/pro_screen_sknp",
-        "models/weapons_r2/attachments/ial_laser_sknp"
-      ],
       "sequences": [
         "animseq/weapons/epg/ptpov_epg/ads_in_crouch_seq.rseq",
         "animseq/weapons/epg/ptpov_epg/ads_in_onehanded_seq.rseq",
