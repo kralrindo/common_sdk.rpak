@@ -106,29 +106,6 @@
     },
     {
       "$type": "matl",
-      "path": "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6",
-      "type": "sknp",
-      "cpu": "cpu/Smart_Pistol_MK6_bullet",
-      "shaderset": "0x7B8565F309B72C7C",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "width": 1024,
-      "height": 1024,
-      "textureSlotCount": 6,
-      "textures": {
-        "0":  "texture/models/weapons/bolo_sword/bolo_sword_01_col",
-        "1":  "texture/models/weapons/bolo_sword/bolo_sword_01_nml",
-        "2":  "texture/models/weapons/bolo_sword/bolo_sword_01_gls",
-        "3":  "texture/models/weapons/bolo_sword/bolo_sword_01_spc",
-        "4":  "texture/models/weapons/bolo_sword/bolo_sword_01_ilm",
-        "5":  "texture/models/weapons/bolo_sword/bolo_sword_01_ao"
-      }
-    },
-    {
-      "$type": "matl",
       "path": "models/titans/buddy/cine_eye/BT_a_eye_cine",
       "type": "sknp",
       "cpu": "cpu/Smart_Pistol_MK6_bullet",
@@ -336,6 +313,30 @@
         "4":  "texture/sentinel_quickcharge_wire/0xa361f51063d58588",
         "5":  "texture/sentinel_quickcharge_wire/0x5b1e99e16308d593",
         "6":  "texture/sentinel_quickcharge_wire/0xf3015e9859e4dcfe"
+      }
+    },
+    {
+      "$type": "matl",
+      "path": "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6",
+      "type": "sknp",
+      "cpu": "texture/models/weapons_r2/Smart_Pistol/Smart_Pistol_MK6_bullet",
+      "shaderset": "0xEEDBEEC9F345E71",
+      "samplers": "001D0300",
+      "flags2": "56000420",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 7,
+      "textures": {
+        "0":  "texture/models/Weapons_R2/smart_pistol/0x71bdae297d49c949",
+        "1":  "texture/models/Weapons_R2/smart_pistol/0x6a4adde13643bbdf",
+        "2":  "texture/models/Weapons_R2/smart_pistol/0xac659f9cadfc7aa3",
+        "3":  "texture/models/Weapons_R2/smart_pistol/0xd9187aa7df4e1102",
+        "4":  "texture/models/Weapons_R2/smart_pistol/0x2fe4a775478f29b0",
+        "5":  "texture/models/Weapons_R2/smart_pistol/0xe49d2627eef75bfc",
+        "6":  "texture/models/Weapons_R2/smart_pistol/0x8426d1b37ca66cee"
       }
     },
     {
@@ -1251,33 +1252,6 @@
     },
     {
       "$type": "rmdl",
-      "path": "mdl/weapons/p2011sp/ptpov_p2011sp.rmdl",
-      "usePhysics": false,
-      "materials": [
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
-        "models/weapons/attachments/suppressors_sknp",
-        "models/Weapons_R2/attachments/pro_screen_sknp",
-        "models/Weapons_R2/attachments/pro_screen_sknp"
-      ],
-      "animrigs": ["animrig/weapons/p2011/ptpov_p2011.rrig"]
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/weapons/p2011sp/w_p2011sp.rmdl",
-      "usePhysics": true,
-      "materials": [
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
-        "models/weapons/attachments/suppressors_sknp",
-        "models/Weapons_R2/attachments/pro_screen_sknp"
-      ],
-      "animrigs": ["animrig/weapons/p2011/w_p2011.rrig"]
-    },
-    {
-      "$type": "rmdl",
       "path": "mdl/Weapons/empty_handed/ptpov_wraith_phasewalk.rmdl",
       "animrigs": ["animrig/weapons/empty_handed/ptpov_wraith_phasewalk.rrig"]
     },
@@ -1344,6 +1318,33 @@
       "path": "mdl/weapons/sp_arc_tool/w_arc_tool.rmdl",
       "usePhysics": true,
       "materials": ["models/Weapons_R2/sp_arc_tool_sknp"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/p2011sp/ptpov_p2011sp.rmdl",
+      "usePhysics": false,
+      "materials": [
+        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
+        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
+        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
+        "models/weapons/attachments/suppressors_sknp",
+        "models/Weapons_R2/attachments/pro_screen_sknp",
+        "models/titans/buddy/cine_eye/BT_a_eye_cine_sknp"
+      ],
+      "animrigs": ["animrig/weapons/p2011/ptpov_p2011.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/p2011sp/w_p2011sp.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
+        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
+        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
+        "models/weapons/attachments/suppressors_sknp",
+        "models/Weapons_R2/attachments/pro_screen_sknp"
+      ],
+      "animrigs": ["animrig/weapons/p2011/w_p2011.rrig"]
     }
   ]
 }
