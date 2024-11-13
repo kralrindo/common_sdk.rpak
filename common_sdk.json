@@ -340,6 +340,30 @@
     },
     {
       "$type": "matl",
+      "path": "models/Weapons_R2/sp_arc_tool",
+      "type": "sknp",
+      "cpu": "texture/models/weapons_r2/sp_arc_tool",
+      "shaderset": "0x749e1c9d82cb12bf",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "width": 2048,
+      "height": 2048,
+      "textureSlotCount": 7,
+      "textures": [
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_col",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_nml",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_gls",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_spc",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_ilm",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_ao",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_cav"
+      ]
+    },
+    {
+      "$type": "matl",
       "path": "models/creatures_r5/prowler/prowler_body_06",
       "type": "sknp",
       "cpu": "cpu/prowler_body_06",
@@ -1308,6 +1332,18 @@
       "materials": [
         "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_exp_blend_rgdp"
       ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/sp_arc_tool/ptpov_arc_tool.rmdl",
+      "materials": ["models/Weapons_R2/sp_arc_tool_sknp"],
+      "animrigs": ["animrig/weapons/epg/ptpov_epg.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/sp_arc_tool/w_arc_tool.rmdl",
+      "usePhysics": true,
+      "materials": ["models/Weapons_R2/sp_arc_tool_sknp"]
     }
   ]
 }
