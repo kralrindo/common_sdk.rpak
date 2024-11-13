@@ -51,6 +51,39 @@
     },
     {
       "$type": "matl",
+      "path": "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_exp_blend",
+      "type": "rgdp",
+      "shaderset": "0x210121da41f7fbbc",
+      "cpu": "cpu/wep_test_pickups_ammo_exp_blend",
+      "blendStates": "F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000 F0000000",
+      "samplers": "001D0300",
+      "flags2": "56000020",
+      "depthStencilFlags": 23,
+      "rasterizerFlags": 6,
+      "unkFlags": 4,
+      "width": 1024,
+      "height": 1024,
+      "textureSlotCount": 29,
+      "textures": {
+        "0": "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_col",
+        "1": "texture/wep_test_pickups_ammo_sni_blend/0x310192c3364037e4",
+        "2": "texture/wep_test_pickups_ammo_sni_blend/0x66d5f660bd0cb994",
+        "3": "texture/wep_test_pickups_ammo_sni_blend/0xf97e5c380a3d4bba",
+        "4": "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_ilm",
+        "5": "texture/wep_test_pickups_ammo_sni_blend/0x2ca850081a8423ad",
+        "11": "texture/wep_test_pickups_ammo_sni_blend/0xe332e8d3d442186d",
+        "12": "texture/wep_test_pickups_ammo_sni_blend/0xe332e8d3d442186d",
+        "16": "texture/wep_test_pickups_ammo_sni_blend/0x686d1c46592d0f29",
+        "22": "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_col",
+        "23": "texture/wep_test_pickups_ammo_sni_blend/0x310192c3364037e4",
+        "24": "texture/wep_test_pickups_ammo_sni_blend/0x66d5f660bd0cb994",
+        "25": "texture/wep_test_pickups_ammo_sni_blend/0xf97e5c380a3d4bba",
+        "26": "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_ilm2",
+        "28": "texture/wep_test_pickups_ammo_sni_blend/0x2ca850081a8423ad"
+      }
+    },
+    {
+      "$type": "matl",
       "path": "models/weapons/bolo_sword/bolo_sword_02",
       "type": "sknp",
       "shaderset": "0x7B8565F309B72C7C",
@@ -1267,6 +1300,14 @@
       "path": "mdl/weapons_r5/loot/_master/w_loot_wep_ammo_sniper.rmdl",
       "usePhysics": true,
       "static": true
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons_r5/loot/_master/w_loot_wep_ammo_exp.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_exp_blend_rgdp"
+      ]
     }
   ]
 }
