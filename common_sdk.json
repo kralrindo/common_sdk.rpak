@@ -269,54 +269,6 @@
     },
     {
       "$type": "matl",
-      "path": "models/custom_models/weapons/hl_crowbar_cyl",
-      "type": "sknp",
-      "cpu": "texture/models/weapons_r2/Smart_Pistol/Smart_Pistol_MK6_bullet",
-      "shaderset": "0xEEDBEEC9F345E71",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "width": 256,
-      "height": 256,
-      "textureSlotCount": 7,
-      "textures": {
-        "0":  "texture/models/custom_models/weapons/hl_crowbar_cyl/hl_crowbar_cyl_col",
-        "1":  "texture/models/custom_models/weapons/hl_crowbar_cyl/hl_crowbar_cyl_nml",
-        "2":  "texture/defaults/default_gls",
-        "3":  "texture/defaults/default_spc",
-        "4":  "texture/defaults/default_spc",
-        "5":  "texture/defaults/default_ao",
-        "6":  "texture/defaults/default_ao"
-      }
-    },
-    {
-      "$type": "matl",
-      "path": "models/custom_models/weapons/hl_crowbar_uvw",
-      "type": "sknp",
-      "cpu": "texture/models/weapons_r2/Smart_Pistol/Smart_Pistol_MK6_bullet",
-      "shaderset": "0xEEDBEEC9F345E71",
-      "samplers": "001D0300",
-      "flags2": "56000020",
-      "depthStencilFlags": 23,
-      "rasterizerFlags": 6,
-      "unkFlags": 4,
-      "width": 256,
-      "height": 256,
-      "textureSlotCount": 7,
-      "textures": {
-        "0":  "texture/models/custom_models/weapons/hl_crowbar_uvw/hl_crowbar_uvw_col",
-        "1":  "texture/models/custom_models/weapons/hl_crowbar_uvw/hl_crowbar_uvw_nml",
-        "2":  "texture/defaults/default_gls",
-        "3":  "texture/defaults/default_spc",
-        "4":  "texture/defaults/default_spc",
-        "5":  "texture/defaults/default_ao",
-        "6":  "texture/defaults/default_ao"
-      }
-    },
-    {
-      "$type": "matl",
       "path": "models/Weapons_R2/sp_arc_tool",
       "type": "sknp",
       "cpu": "texture/models/weapons_r2/Smart_Pistol/Smart_Pistol_MK6_bullet",
@@ -1127,14 +1079,6 @@
     },
     {
       "$type": "rmdl",
-      "path": "mdl/weapons/bullets/projectile_arl.rmdl",
-      "usePhysics": true,
-      "materials": [
-        "models/weapons_r5/loot/shield_battery/w_loot_wep_iso_shield_battery_glass_rgdp"
-      ]
-    },
-    {
-      "$type": "rmdl",
       "path": "mdl/weapons_r5/loot/_master/w_loot_wep_ammo_sniper.rmdl",
       "usePhysics": true,
       "static": true
@@ -1146,17 +1090,6 @@
       "materials": [
         "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_exp_blend_rgdp"
       ]
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/weapons/sp_arc_tool/w_arc_tool.rmdl",
-      "usePhysics": true,
-      "materials": ["models/Weapons_R2/sp_arc_tool_sknp"]
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/custom_models/weapons/hl_crowbar/hl_crowbar.rmdl",
-      "animrigs": ["animrig/weapons/bloodhound_axe/ptpov_axe_bloodhound.rrig"]
     },
     {
       "$type": "rmdl",
