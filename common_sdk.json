@@ -1065,33 +1065,6 @@
       "materials": [
         "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_exp_blend_rgdp"
       ]
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/weapons/p2011sp/ptpov_p2011sp.rmdl",
-      "usePhysics": false,
-      "materials": [
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
-        "models/weapons/attachments/suppressors_sknp",
-        "models/Weapons_R2/attachments/pro_screen_sknp",
-        "models/titans/buddy/cine_eye/BT_a_eye_cine_sknp"
-      ],
-      "animrigs": ["animrig/weapons/p2011/ptpov_p2011.rrig"]
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/weapons/p2011sp/w_p2011sp.rmdl",
-      "usePhysics": true,
-      "materials": [
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
-        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
-        "models/weapons/attachments/suppressors_sknp",
-        "models/Weapons_R2/attachments/pro_screen_sknp"
-      ],
-      "animrigs": ["animrig/weapons/p2011/w_p2011.rrig"]
     }
   ]
 }
