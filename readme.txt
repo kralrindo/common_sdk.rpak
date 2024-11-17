@@ -10,7 +10,7 @@ Better Legion Improvements: Zer0Bytes#4428
 How to use REPak to make custom asset rpaks for R5Reloaded. Note: This part is for how to port Season 4-6 Apex assets, not for custom models
 
 Required Tools
-Repak: https://github.com/DataCluster0/RePak
+Repak: https://github.com/r-ex/RePak
 Respawn-mdl Templates: https://github.com/IJARika/respawn-mdl
 010 Editor: https://www.sweetscape.com/010editor/
 LegionPlus: https://github.com/DataCluster0/LegionPlus
