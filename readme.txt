@@ -1,3 +1,35 @@
+Main asset rpaks for R5Reloaded Modded Apex Project. Used for Models, materials, loadscreens and many more.
+
+Made by @KralRindo
+
+Other credits:
+
+Repak, 010 Respawn Templates, Legion and Model Converter: rexx#1287, IcePixelx#4931, Rika#1525
+Better Legion Improvements: Zer0Bytes#4428
+
+How to use REPak to make custom asset rpaks for R5Reloaded. Note: This part is for how to port Season 4-6 Apex assets, not for custom models
+
+Required Tools
+Repak: https://github.com/DataCluster0/RePak
+Respawn-mdl Templates: https://github.com/IJARika/respawn-mdl
+010 Editor: https://www.sweetscape.com/010editor/
+LegionPlus: https://github.com/DataCluster0/LegionPlus
+
+R5Reloaded supports season 2.1-6 all asset types. For models they need to be exported with legion as RMDL format.
+
+dtbl: Datatables, Possible to export from legion, edit the way you want and port it to a rpak.
+shds/shdr: Export shadersets from rsx.
+txtr: Texture assets, required by materials, you don't have to add them if they are included in matl since repak auto adds them.
+matl: Materials, legion prints the data it needs in the console, add the flags, shaderset, cpudata and textures.
+aseq: Animation sequences, in here it's used for models that doesnt have any animrig but does have animations.
+arig: Animation rigs. Animation order needs to be same with what you see in the legion console.
+rmdl: Respawn's mdl format, you can export and port from s2-s3-s4-s5-s6, or make one yourself with crowbar, blender source tools or export the models as smd with legion and use crowbar to convert them to mdl format. Then rexx's converter does the rest of it.
+uimg: This is used for ui images, minimaps and loadscreens, check my jsons to see more details.
+
+Asset order in a json: dtbl > txtr > matl > aseq > arig > rmdl > uimg
+
+Some extra information regarding season 3 apex assets.
+
 //=========================================================
 //					Material Slots						 //
 //=========================================================
