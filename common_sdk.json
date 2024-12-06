@@ -18,7 +18,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa7bf898d4e4201ae/0xBB661E6839B1E590",
+      "_path": "shaderset/0xBB661E6839B1E590",
       "inputFlags": [
         "0x202000212",
         "0x4034042000D01",
@@ -28,7 +28,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0xa7bf898d4e4201ae/0xB06D0E7D55CC4D3D",
+      "_path": "shaderset/0xB06D0E7D55CC4D3D",
       "inputFlags": [
         "0x4034042000D01",
         "0x4034042000D01",
@@ -47,8 +47,8 @@
       "numSamplers": 3,
       "firstResource": 0,
       "numResources": 0,
-      "vertexShader": "shaderset/0xa7bf898d4e4201ae/0xBB661E6839B1E590",
-      "pixelShader": "shaderset/0xa7bf898d4e4201ae/0xB06D0E7D55CC4D3D"
+      "vertexShader": "shaderset/0xBB661E6839B1E590",
+      "pixelShader": "shaderset/0xB06D0E7D55CC4D3D"
     },
     {
       "_type": "matl",
