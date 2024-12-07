@@ -1,0 +1,39 @@
+{
+	"name": "models/weapons/softball_at/ammo",
+	"width": 256,
+	"height": 256,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x71FD660667F0F7A4",
+	"$textures": {
+		"0": "0xFB9781D32A2F31BD",
+		"1": "0xF1BD2926B2DCF733",
+		"2": "0x75638DFFB94F5506",
+		"3": "0x608AC5ED811E4FFC"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x9D20E44A7511BE66"
+}
