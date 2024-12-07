@@ -220,6 +220,20 @@
     },
     {
       "_type": "uimg",
+      "_path": "ui_image_atlas/rui/weapon_icons/r5/kral_sdk_atlas2",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas2.rpak",
+      "textures": [
+        {
+          "path": "models/weapons/attachments/hemlok_travel_bar",
+          "posX": 110,
+          "posY": 110,
+          "width": 256,
+          "height": 256
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
       "_path": "ui_image_atlas/rui/hud/icons/hud_atlas_sdk",
       "atlas": "texture/ui_atlas/rui/hud/icons/hud_atlas_sdk.rpak",
       "textures": [
