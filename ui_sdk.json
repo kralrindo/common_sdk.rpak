@@ -9,17 +9,9 @@
 
   "files": [
     {
-      "$type": "txtrlist",
-      "textures": [
-        "texture/ui_atlas/rui/menu/maps/maps",
-        "texture/ui_atlas/rui/hud/icons/hud_atlas",
-        "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas"
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/kral_sdk_atlas",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas",
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/weapon_icons/r5/kral_sdk_atlas",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas.rpak",
       "textures": [
         {
           "path": "rui/hud/crosshairs/crosshair_triangle",
@@ -227,9 +219,9 @@
       ]
     },
     {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/hud/icons/hud_atlas",
-      "atlas": "texture/ui_atlas/rui/hud/icons/hud_atlas",
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/hud/icons/hud_atlas_sdk",
+      "atlas": "texture/ui_atlas/rui/hud/icons/hud_atlas_sdk.rpak",
       "textures": [
         {
           "path": "rui/ordnance_icons/grenade_cryo",
@@ -286,125 +278,6 @@
           "posY": 149,
           "width": 128,
           "height": 128
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/menu/maps/maps",
-      "atlas": "texture/ui_atlas/rui/menu/maps/maps",
-      "textures": [
-        {
-          "path": "rui/menu/home/bg",
-          "posX": 0,
-          "posY": 0,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/map_not_found",
-          "posX": 1920,
-          "posY": 0,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_lobby",
-          "posX": 3840,
-          "posY": 0,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_aqueduct",
-          "posX": 5760,
-          "posY": 0,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_aqueduct_night",
-          "posX": 7680,
-          "posY": 0,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_arena_composite",
-          "posX": 0,
-          "posY": 1080,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_arena_skygarden",
-          "posX": 1920,
-          "posY": 1080,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_ashs_redemption",
-          "posX": 3840,
-          "posY": 1080,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k",
-          "posX": 5760,
-          "posY": 1080,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_canyonlands_mu1",
-          "posX": 7680,
-          "posY": 1080,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_canyonlands_mu1_night",
-          "posX": 0,
-          "posY": 2160,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_canyonlands_staging",
-          "posX": 1920,
-          "posY": 2160,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k",
-          "posX": 3840,
-          "posY": 2160,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx",
-          "posX": 5760,
-          "posY": 2160,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt",
-          "posX": 7680,
-          "posY": 2160,
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "path": "rui/menu/maps/mp_rr_party_crasher",
-          "posX": 0,
-          "posY": 3240,
-          "width": 1920,
-          "height": 1080
         }
       ]
     }

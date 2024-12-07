@@ -1,0 +1,42 @@
+{
+	"name": "models/Weapons_R2/archer_at/archer_at",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "weapon",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x749E1C9D82CB12BF",
+	"$textures": {
+		"0": "0x58F17485734AC65E",
+		"1": "0x6C355526D96F8422",
+		"2": "0x753C4C7C17CA7BCD",
+		"3": "0x3C23B2F7E67E3F6A",
+		"4": "0x715DE73903DFE2A8",
+		"5": "0xC81093705EC2E492",
+		"6": "0xE5FD83BEF7A0FFE5"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0xA88C3041E6E66938"
+}
