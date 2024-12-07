@@ -3,7 +3,7 @@
   "version": 8,
 
   "name": "common_sdk",
-  "starpakPath": "paks/Win64/pc_all.sdk.starpak",
+  "starpakPath": "paks/Win64/pc_sdk.starpak",
 
   "assetsDir": "./assets/",
   "outputDir": "./build/",
