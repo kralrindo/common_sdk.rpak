@@ -1990,6 +1990,15 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/weapons/auto_rocket_launcher_arl/w_ARL.rmdl",
+      "$sequences": [
+        "animseq/weapons/auto_rocket_launcher_arl/w_ARL/attack_seq.rseq",
+        "animseq/weapons/auto_rocket_launcher_arl/w_ARL/idle.rseq",
+        "animseq/weapons/auto_rocket_launcher_arl/w_ARL/idle_seq.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/weapons_r5/loot/_master/w_loot_wep_ammo_sniper.rmdl"
     },
     {
