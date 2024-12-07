@@ -18,36 +18,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shaderset/0x7DA7ADB9873422AC",
-      "inputFlags": [
-        "0x2000012",
-        "0x4004002000001",
-        "0x2000052",
-        "0x4004002000041"
-      ]
-    },
-    {
-      "_type": "shdr",
-      "_path": "shaderset/0x7F00B2E35AE8C5A",
-      "inputFlags": [
-        "0x4004002000001",
-        "0x4004002000041",
-        "0x4004002000001",
-        "0x4004002000041"
-      ]
-    },
-    {
-      "_type": "shds",
-      "_path": "0x2b3219d5a6f5cc37",
-      "$guid": "0x2b3219d5a6f5cc37",
-      "numSamplers": 3,
-      "firstResource": 0,
-      "numResources": 0,
-      "vertexShader": "shaderset/0x7DA7ADB9873422AC",
-      "pixelShader": "shaderset/0x7F00B2E35AE8C5A"
-    },
-    {
-      "_type": "shdr",
       "_path": "shaderset/0xBB661E6839B1E590",
       "inputFlags": [
         "0x202000212",
@@ -553,41 +523,6 @@
         "0xF0000000",
         "0xF0000000",
         "0xF0000000"
-      ]
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/fx/down_shield_edge_detect_RGDP.rpak",
-      "name": "models/fx/down_shield_edge_detect",
-      "shaderType": "rgdp",
-      "$cpu": "texture/models/fx/down_shield_edge_detect_rgdp/down_shield_edge_detect_rgdp",
-      "surfaceProp": "default",
-      "surfaceProp2": "",
-      "features": "0x1F5A92BD",
-      "shaderSet": "0x2b3219d5a6f5cc37",
-      "samplers": "0x001D0300",
-      "glueFlags": "0x10020086",
-      "glueFlags2": "0x00000000",
-      "uberBufferFlags": "0x0",
-      "depth": 0,
-      "depthStencilFlags": 7,
-      "rasterizerFlags": 2,
-      "blendStateMask": 9,
-      "width": 128,
-      "height": 128,
-      "textureSlotCount": 1,
-      "$textures": {
-        "0": "texture/models/fx/down_shield_edge_detect_rgdp/down_shield_edge_detect_albedoTexture.rpak"
-      },
-      "blendStates": [
-        "0xF0138086",
-        "0x00138286",
-        "0xF0008286",
-        "0x00000000",
-        "0xF0138086",
-        "0x00000000",
-        "0x00000000",
-        "0x00000000"
       ]
     },
     {
@@ -1461,11 +1396,6 @@
     {
       "_type": "mdl_",
       "_path": "mdl/weapons_r5/loot/_master/w_loot_wep_ammo_exp.rmdl"
-    },
-    
-    {
-      "_type": "mdl_",
-      "_path": "mdl/fx/down_shield_01.rmdl"
     }
   ]
 }
