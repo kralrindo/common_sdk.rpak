@@ -5,6 +5,9 @@
   "assetsDir": ".\\assets\\",
   "outputDir": ".\\build\\",
 
+  "compressLevel": 19,
+  "compressWorkers": 16,
+
   "name": "ui_sdk",
 
   "files": [
@@ -320,6 +323,20 @@
           "posY": 1749,
           "width": 128,
           "height": 128
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/weapon_icons/r5/kral_sdk_atlas3",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas3.rpak",
+      "textures": [
+        {
+          "path": "models/weapons/attachments/diamond_reticle_rear",
+          "posX": 110,
+          "posY": 110,
+          "width": 256,
+          "height": 256
         }
       ]
     },
