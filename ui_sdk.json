@@ -332,11 +332,32 @@
       "atlas": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas3.rpak",
       "textures": [
         {
-          "path": "models/weapons/attachments/diamond_reticle_rear",
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_r101_aog",
           "posX": 110,
+          "posY": 110,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "models/weapons/attachments/diamond_reticle_rear",
+          "posX": 970,
           "posY": 110,
           "width": 256,
           "height": 256
+        },
+        {
+          "path": "models/weapons/attachments/aog_reticle_dot",
+          "posX": 970,
+          "posY": 586,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "path": "models/weapons/attachments/aog_reticle_windage",
+          "posX": 110,
+          "posY": 650,
+          "width": 512,
+          "height": 512
         }
       ]
     },
