@@ -126,6 +126,18 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/vehicle/crow_dropship/crow_dropship_hero_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicle/crow_dropship/crow_dropship_hero_02_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicle/crow_dropship/crow_dropship_hero_03_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/Weapons_R2/attachments/IAL_laser_sknp.rpak"
     },
     {
@@ -2574,6 +2586,22 @@
       "$sequences": [
         "animseq/vehicle/straton/straton_imc_gunship_01/refGunship.rseq"
       ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicle/straton/straton_imc_gunship_afterburner.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicle/crow_dropship/crow_dropship_dest_nose.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicle/crow_dropship/crow_dropship_dest_r_wing.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicle/crow_dropship/crow_dropship_dest_l_wing.rmdl"
     },
     {
       "_type": "mdl_",
