@@ -1,0 +1,41 @@
+{
+	"name": "models/creatures_r5/prowler/prowler_body_06",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xEEDBEEC9F345E71",
+	"$textures": {
+		"0": "texture/models/creatures_r5/prowler/prowler_body_06_0.rpak",
+		"1": "texture/models/creatures_r5/prowler/prowler_body_06_1.rpak",
+		"2": "texture/models/creatures_r5/prowler/prowler_body_06_2.rpak",
+		"3": "texture/models/creatures_r5/prowler/prowler_body_06_3.rpak",
+		"4": "texture/models/creatures_r5/prowler/prowler_body_06_5.rpak",
+		"5": "texture/models/creatures_r5/prowler/prowler_body_06_6.rpak"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0"
+}
