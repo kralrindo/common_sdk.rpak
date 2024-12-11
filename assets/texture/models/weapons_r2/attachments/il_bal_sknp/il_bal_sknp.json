@@ -1,0 +1,41 @@
+{
+	"name": "models/Weapons_R2/attachments/il_bal",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xC5487C6D27B3B3F6",
+	"$textures": {
+		"0": "0x86345ACE2A6FB267",
+		"1": "0x5AA1385EC008D292",
+		"2": "0x90759BFC46D55442",
+		"3": "0x23B7E3EC55AAEA64",
+		"5": "0x56E1D7BC84F4F00C",
+		"6": "0x34E6F3FF0398246B"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0xE38FE3F532C73F4B"
+}
