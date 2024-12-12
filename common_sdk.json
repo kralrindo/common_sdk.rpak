@@ -408,20 +408,6 @@
     },
     {
       "_type": "arig",
-      "_path": "animrig/robots/drone_air_attack/drone_air_attack_rockets.rrig",
-      "$sequences": [
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/aim_layer.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/aim_layer.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/aim_run.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/aim_walk.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/alert.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/attack.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/idle.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/reload.rseq"
-      ]
-    },
-    {
-      "_type": "arig",
       "_path": "animrig/vehicle/straton/straton_anims.rrig",
       "$sequences": [
         "animseq/vehicle/straton/straton_anims/aim_run.rseq",
@@ -2635,19 +2621,19 @@
     {
       "_type": "mdl_",
       "_path": "mdl/robots/drone_air_attack/drone_air_attack_rockets.rmdl",
-      "$animrigs": ["animrig/robots/drone_air_attack/drone_air_attack_rockets.rrig"],
+      "$animrigs": ["animrig/robots/drone_air_attack/drone_air_attack_plasma.rrig"],
       "$sequences": [
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/a_fly_back.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/a_fly_forward.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/animref.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/die.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/dr_activate_drone.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/dr_activate_drone_fast.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/dr_activate_drone_idle.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/dr_activate_drone_indoor.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/dr_activate_drone_spin.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/inspect1.rseq",
-        "animseq/robots/drone_air_attack/drone_air_attack_rockets/inspect2.rseq"
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/a_fly_back.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/a_fly_forward.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/animref.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/die.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_fast.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_idle.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_indoor.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_spin.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/inspect1.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/inspect2.rseq"
       ]
     },
     {
