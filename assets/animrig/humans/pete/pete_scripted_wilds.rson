@@ -1,0 +1,38 @@
+seqs:
+[
+	animseq\humans\pete\pete_scripted_wilds\add_face_fierce_wi.rseq
+	animseq\humans\pete\pete_scripted_wilds\add_face_fierce_wi.rseq
+	animseq\humans\pete\pete_scripted_wilds\add_face_Poised_wi.rseq
+	animseq\humans\pete\pete_scripted_wilds\add_face_Poised_wi.rseq
+	animseq\humans\pete\pete_scripted_wilds\og_death_scene_fall.rseq
+	animseq\humans\pete\pete_scripted_wilds\og_death_scene_talk.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_blisk_crew_Richter.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_blisk_crew_Slone.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_corpse_wilds_prowler_encounter.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_family_photo_camera.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_family_photo_corpse.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_family_photo_Slone.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_gruntA_wilds_escapepod.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_gruntA_wilds_escapepod_idle.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_gruntB_wilds_escapepod.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_gruntB_wilds_escapepod_idle.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_OG_grave.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_player_wilds_prowler_encounter.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_battery_pickup.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_battery_pickup_02.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_escape_pod_wake.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_escape_pod_wake_idle.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_fight_start_gruntA.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_fight_start_gruntA_late.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_fight_start_gruntB.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_fight_start_gruntB_late.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_first_battery_insert.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_first_embark.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_OG_defeated.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_OG_final_words.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_OG_victory.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_OG_victory_late.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_second_battery_insert.rseq
+	animseq\humans\pete\pete_scripted_wilds\pt_wilds_third_battery_insert.rseq
+	animseq\humans\pete\pete_scripted_wilds\ref_wilds.rseq
+]
