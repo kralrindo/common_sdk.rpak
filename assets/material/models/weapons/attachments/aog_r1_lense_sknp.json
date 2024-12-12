@@ -30,7 +30,7 @@
 		"1": "texture/models/weapons/attachments/aog_r1_lense_1.rpak",
 		"2": "texture/models/weapons/attachments/aog_r1_lense_2.rpak",
 		"3": "texture/models/weapons/attachments/aog_r1_lense_3.rpak",
-		"4": "texture/models/weapons/attachments/aog_r1_lense_7.rpak"
+		"7": "texture/models/weapons/attachments/aog_r1_lense_7.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",

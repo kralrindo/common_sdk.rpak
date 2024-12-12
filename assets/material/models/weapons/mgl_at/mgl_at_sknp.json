@@ -30,8 +30,8 @@
 		"1": "texture/models/weapons/mgl_at/mgl_at_1.rpak",
 		"2": "texture/models/weapons/mgl_at/mgl_at_2.rpak",
 		"3": "texture/models/weapons/mgl_at/mgl_at_3.rpak",
-		"4": "texture/models/weapons/mgl_at/mgl_at_5.rpak",
-		"5": "texture/models/weapons/mgl_at/mgl_at_6.rpak"
+		"5": "texture/models/weapons/mgl_at/mgl_at_5.rpak",
+		"6": "texture/models/weapons/mgl_at/mgl_at_6.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0xD79B54F163E120CF",

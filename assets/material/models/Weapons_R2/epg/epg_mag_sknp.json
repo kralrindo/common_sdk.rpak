@@ -30,9 +30,9 @@
 		"1": "texture/models/Weapons_R2/epg/epg_mag_1.rpak",
 		"2": "texture/models/Weapons_R2/epg/epg_mag_2.rpak",
 		"3": "texture/models/Weapons_R2/epg/epg_mag_3.rpak",
-		"4": "texture/models/Weapons_R2/epg/epg_mag_5.rpak",
-		"5": "texture/models/Weapons_R2/epg/epg_mag_6.rpak",
-		"6": "texture/models/Weapons_R2/epg/epg_mag_7.rpak"
+		"5": "texture/models/Weapons_R2/epg/epg_mag_5.rpak",
+		"6": "texture/models/Weapons_R2/epg/epg_mag_6.rpak",
+		"7": "texture/models/Weapons_R2/epg/epg_mag_7.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",

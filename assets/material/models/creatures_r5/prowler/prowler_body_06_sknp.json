@@ -30,8 +30,8 @@
 		"1": "texture/models/creatures_r5/prowler/prowler_body_06_1.rpak",
 		"2": "texture/models/creatures_r5/prowler/prowler_body_06_2.rpak",
 		"3": "texture/models/creatures_r5/prowler/prowler_body_06_3.rpak",
-		"4": "texture/models/creatures_r5/prowler/prowler_body_06_5.rpak",
-		"5": "texture/models/creatures_r5/prowler/prowler_body_06_6.rpak"
+		"5": "texture/models/creatures_r5/prowler/prowler_body_06_5.rpak",
+		"6": "texture/models/creatures_r5/prowler/prowler_body_06_6.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
