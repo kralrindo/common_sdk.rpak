@@ -24,11 +24,16 @@
 	"surfaceProp": "glass",
 	"surfaceProp2": "",
 	"shaderType": "rgdp",
-	"shaderSet": "0x36627716165FC7DA",
+	"shaderSet": "0x5DBD2BA024DCAAF4",
 	"$textures": {
 		"0": "texture/models/vehicle/crow_dropship/crow_dropship_hero_03_0.rpak",
 		"1": "texture/models/vehicle/crow_dropship/crow_dropship_hero_03_1.rpak",
 		"2": "texture/models/vehicle/crow_dropship/crow_dropship_hero_03_2.rpak",
 		"3": "texture/models/vehicle/crow_dropship/crow_dropship_hero_03_3.rpak"
-	}
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0"
 }

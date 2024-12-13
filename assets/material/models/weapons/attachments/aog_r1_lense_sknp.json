@@ -32,9 +32,9 @@
 		"3": "texture/models/weapons/attachments/aog_r1_lense_3.rpak",
 		"7": "texture/models/weapons/attachments/aog_r1_lense_7.rpak"
 	},
-	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
-	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
-	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
 	"$depthShadowTightMaterial": "0x0",
 	"$colpassMaterial": "0x0"
 }

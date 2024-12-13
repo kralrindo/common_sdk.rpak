@@ -1,9 +1,9 @@
 {
 	"name": "models/creatures_r5/prowler/prowler_head_07",
-	"width": 2048,
-	"height": 2048,
+	"width": 1024,
+	"height": 1024,
 	"depth": 0,
-	"glueFlags": "0x56000020",
+	"glueFlags": "0x56000460",
 	"glueFlags2": "0x0",
 	"blendStates": [
 		"0xF0000000",
@@ -21,21 +21,22 @@
 	"uberBufferFlags": "0x0",
 	"features": "0x1F5A92BD",
 	"samplers": "0x1D0300",
-	"surfaceProp": "default",
+	"surfaceProp": "flesh",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xEEDBEEC9F345E71",
+	"shaderSet": "0xC860B93C913EB69C",
 	"$textures": {
-		"0": "texture/models/creatures_r5/prowler/prowler_head_07_0.rpak",
-		"1": "texture/models/creatures_r5/prowler/prowler_head_07_1.rpak",
-		"2": "texture/models/creatures_r5/prowler/prowler_head_07_2.rpak",
-		"3": "texture/models/creatures_r5/prowler/prowler_head_07_3.rpak",
-		"5": "texture/models/creatures_r5/prowler/prowler_head_07_5.rpak",
-		"6": "texture/models/creatures_r5/prowler/prowler_head_07_6.rpak"
+		"0": "texture/models/creatures_r5/prowler/prowler_head_07_albedoTexture.rpak",
+		"1": "texture/models/creatures_r5/prowler/prowler_head_07_normalTexture.rpak",
+		"2": "texture/models/creatures_r5/prowler/prowler_head_07_glossTexture.rpak",
+		"3": "texture/models/creatures_r5/prowler/prowler_head_07_specTexture.rpak",
+		"5": "texture/models/creatures_r5/prowler/prowler_head_07_aoTexture.rpak",
+		"6": "texture/models/creatures_r5/prowler/prowler_head_07_cavityTexture.rpak",
+		"13": "texture/models/creatures_r5/prowler/prowler_head_07_scatterThicknessTexture.rpak"
 	},
-	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
-	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
-	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowMaterial": "0x77DFCFE0606A81F2",
+	"$depthPrepassMaterial": "0x9A2303FE0399E520",
+	"$depthVSMMaterial": "0x4647890B6C3F62D4",
 	"$depthShadowTightMaterial": "0x0",
-	"$colpassMaterial": "0x0"
+	"$colpassMaterial": "0x5D9918CBD94A770C"
 }

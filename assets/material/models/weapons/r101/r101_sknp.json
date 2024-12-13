@@ -1,5 +1,5 @@
 {
-	"name": "models/Weapons/r101/r101",
+	"name": "models/weapons/r101/r101",
 	"width": 2048,
 	"height": 2048,
 	"depth": 0,
@@ -26,17 +26,17 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x749E1C9D82CB12BF",
 	"$textures": {
-		"0": "texture/models/Weapons/r101/r101_0.rpak",
-		"1": "texture/models/Weapons/r101/r101_1.rpak",
-		"2": "texture/models/Weapons/r101/r101_2.rpak",
-		"3": "texture/models/Weapons/r101/r101_3.rpak",
-		"4": "texture/models/Weapons/r101/r101_4.rpak",
-		"5": "texture/models/Weapons/r101/r101_5.rpak",
-		"6": "texture/models/Weapons/r101/r101_6.rpak"
+		"0": "texture/models/weapons/r101/r101_0.rpak",
+		"1": "texture/models/weapons/r101/r101_1.rpak",
+		"2": "texture/models/weapons/r101/r101_2.rpak",
+		"3": "texture/models/weapons/r101/r101_3.rpak",
+		"4": "texture/models/weapons/r101/r101_4.rpak",
+		"5": "texture/models/weapons/r101/r101_5.rpak",
+		"6": "texture/models/weapons/r101/r101_6.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
 	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
 	"$depthShadowTightMaterial": "0x0",
-	"$colpassMaterial": "0x0"
+	"$colpassMaterial": "0x1D303A7937B551F5"
 }

@@ -31,5 +31,10 @@
 		"2": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_2.rpak",
 		"3": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_3.rpak",
 		"4": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_4.rpak"
-	}
+	},
+	"$depthShadowMaterial": "0x251FBE09EFFE8AB1",
+	"$depthPrepassMaterial": "0xE2D52641AFC77395",
+	"$depthVSMMaterial": "0xBDBF90B97E7D9280",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x885F3620337021E"
 }

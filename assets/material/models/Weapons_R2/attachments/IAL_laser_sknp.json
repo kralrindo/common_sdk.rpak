@@ -24,7 +24,7 @@
 	"surfaceProp": "weapon",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xEEDBEEC9F345E71",
+	"shaderSet": "0xC5487C6D27B3B3F6",
 	"$textures": {
 		"0": "texture/models/Weapons_R2/attachments/IAL_laser_0.rpak",
 		"1": "texture/models/Weapons_R2/attachments/IAL_laser_1.rpak",
@@ -37,5 +37,5 @@
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
 	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
 	"$depthShadowTightMaterial": "0x0",
-	"$colpassMaterial": "0x0"
+	"$colpassMaterial": "0xA1BEA6CD8518DFA2"
 }

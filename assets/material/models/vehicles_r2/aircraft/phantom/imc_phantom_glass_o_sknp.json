@@ -24,7 +24,7 @@
 	"surfaceProp": "glass",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xCB237609544B1057",
+	"shaderSet": "0x3883D3D07ECDB2DC",
 	"$textures": {
 		"0": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_0.rpak",
 		"1": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_1.rpak",
@@ -35,9 +35,9 @@
 		"6": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_6.rpak",
 		"7": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_7.rpak"
 	},
-	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
-	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
-	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
 	"$depthShadowTightMaterial": "0x0",
 	"$colpassMaterial": "0x0"
 }

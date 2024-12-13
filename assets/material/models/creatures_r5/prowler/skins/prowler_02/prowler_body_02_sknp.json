@@ -3,7 +3,7 @@
 	"width": 2048,
 	"height": 2048,
 	"depth": 0,
-	"glueFlags": "0x56000020",
+	"glueFlags": "0x56000460",
 	"glueFlags2": "0x0",
 	"blendStates": [
 		"0xF0000000",
@@ -21,22 +21,24 @@
 	"uberBufferFlags": "0x0",
 	"features": "0x1F5A92BD",
 	"samplers": "0x1D0300",
-	"surfaceProp": "default",
+	"surfaceProp": "flesh",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xEEDBEEC9F345E71",
+	"shaderSet": "0x1F1523567CE92BB",
 	"$textures": {
-		"0": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_0.rpak",
-		"1": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_1.rpak",
-		"2": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_2.rpak",
-		"3": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_3.rpak",
-		"4": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_4.rpak",
-		"5": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_5.rpak",
-		"6": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_6.rpak"
+		"0": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_albedoTexture.rpak",
+		"1": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_normalTexture.rpak",
+		"2": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_glossTexture.rpak",
+		"3": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_specTexture.rpak",
+		"4": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_emissiveTexture.rpak",
+		"5": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_aoTexture.rpak",
+		"6": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_cavityTexture.rpak",
+		"10": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_emissiveMultiplyTexture.rpak",
+		"13": "texture/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_scatterThicknessTexture.rpak"
 	},
-	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
-	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
-	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowMaterial": "0x706CADCE2E64035E",
+	"$depthPrepassMaterial": "0x7DE1F8B9597CBB9",
+	"$depthVSMMaterial": "0xA6B520872060C761",
 	"$depthShadowTightMaterial": "0x0",
-	"$colpassMaterial": "0x0"
+	"$colpassMaterial": "0xF39C212A1E8A4237"
 }
