@@ -17,6 +17,46 @@
       "_path": "datatable/survival_loot_sdk.rpak"
     },
     {
+      "_type": "shds",
+      "_path": "shaderset/0x1F1523567CE92BB",
+      "$guid": "0x1F1523567CE92BB"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xA7BF898D4E4201AE",
+      "$guid": "0xA7BF898D4E4201AE"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xC1E30DF6EEFC58DB",
+      "$guid": "0xC1E30DF6EEFC58DB"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xF53147CD60E10FCA",
+      "$guid": "0xF53147CD60E10FCA"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x5DBD2BA024DCAAF4",
+      "$guid": "0x5DBD2BA024DCAAF4"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x3883D3D07ECDB2DC",
+      "$guid": "0x3883D3D07ECDB2DC"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xFDD06418A10DF3A0",
+      "$guid": "0xFDD06418A10DF3A0"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x15797A5751148156",
+      "$guid": "0x15797A5751148156"
+    },
+    {
       "_type": "matl",
       "_path": "material/models/test/weapons_test/pickups_test/wep_test_pickups_ammo_sni_blend_rgdp.rpak"
     },
