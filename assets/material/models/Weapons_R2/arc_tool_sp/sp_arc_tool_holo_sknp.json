@@ -24,7 +24,7 @@
 	"surfaceProp": "default",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0x8CE183CD300C56B2",
+	"shaderSet": "0x749E1C9D82CB12BF",
 	"$textures": {
 		"0": "texture/models/Weapons_R2/Arc_tool_sp/sp_arc_tool_holo_0.rpak",
 		"1": "texture/models/Weapons_R2/Arc_tool_sp/sp_arc_tool_holo_1.rpak",
