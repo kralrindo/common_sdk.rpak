@@ -58,6 +58,26 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/Weapons_R2/epg/epg_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/epg/epg_mag_non_transparent_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/epg/epg_mag_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/epg/epg_mag_non_transparent_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/epg/epg_sknp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/test/weapons_test/pickups_test/wep_test_pickups_ammo_sni_blend_rgdp.rpak"
     },
     {
@@ -74,7 +94,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/titans/buddy/cine_eye/BT_a_eye_cine_sknp.rpak"//
+      "_path": "material/models/titans/buddy/cine_eye/BT_a_eye_cine_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -90,19 +110,19 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire_sknp.rpak"
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge_sknp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -170,31 +190,11 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/Weapons_R2/attachments/IAL_laser_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/Weapons_R2/attachments/IAL_laser_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
-      "_path": "material/models/Weapons_R2/epg/epg_mag_non_transparent_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/Weapons_R2/epg/epg_mag_non_transparent_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/Weapons_R2/epg/epg_mag_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/Weapons_R2/epg/epg_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/Weapons_R2/epg/epg_colpass_sknp.rpak"
+      "_path": "material/models/Weapons_R2/attachments/IAL_laser_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -298,11 +298,11 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_sknp.rpak"
+      "_path": "material/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_colpass_sknp.rpak"
+      "_path": "material/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_sknp.rpak"
     },
     {
       "_type": "matl",
