@@ -24,7 +24,7 @@
 	"surfaceProp": "glass",
 	"surfaceProp2": "",
 	"shaderType": "rgdp",
-	"shaderSet": "0x5DBD2BA024DCAAF4",
+	"shaderSet": "0xFDC8D2DCB2203C6B",
 	"$textures": {
 		"0": "texture/models/vehicle/crow_dropship/crow_dropship_hero_03_albedoTexture.rpak",
 		"1": "texture/models/vehicle/crow_dropship/crow_dropship_hero_03_normalTexture.rpak",

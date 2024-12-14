@@ -24,7 +24,7 @@
 	"surfaceProp": "glass",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0x3883D3D07ECDB2DC",
+	"shaderSet": "0xcb237609544b1057",
 	"$textures": {
 		"0": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_albedoTexture.rpak",
 		"1": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_normalTexture.rpak",

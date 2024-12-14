@@ -30,26 +30,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xF53147CD60E10FCA",
-      "$guid": "0xF53147CD60E10FCA"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x5DBD2BA024DCAAF4",
-      "$guid": "0x5DBD2BA024DCAAF4"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x3883D3D07ECDB2DC",
-      "$guid": "0x3883D3D07ECDB2DC"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xFDD06418A10DF3A0",
-      "$guid": "0xFDD06418A10DF3A0"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/uberTnBnInterpAoCavOpmTransUv0m0PSSamp2222222_sknp.rpak",
       "$guid": "0x15797A5751148156"
     },

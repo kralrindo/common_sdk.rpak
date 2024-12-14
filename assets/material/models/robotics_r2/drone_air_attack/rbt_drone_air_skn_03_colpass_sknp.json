@@ -24,7 +24,7 @@
 	"surfaceProp": "metalvehicle",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xFDD06418A10DF3A0",
+	"shaderSet": "0x7e19858056ef90d7",
 	"$textures": {
 		"0": "texture/models/robotics_r2/drone_air_attack/rbt_drone_air_skn_03_0.rpak",
 		"1": "texture/models/robotics_r2/drone_air_attack/rbt_drone_air_skn_03_1.rpak",
