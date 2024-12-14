@@ -1,0 +1,42 @@
+{
+	"name": "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_colpass",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metal",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xEEDBEEC9F345E71",
+	"$textures": {
+		"0": "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_albedoTexture.rpak",
+		"1": "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_normalTexture.rpak",
+		"2": "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_glossTexture.rpak",
+		"3": "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_specTexture.rpak",
+		"4": "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_emissiveTexture.rpak",
+		"5": "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_aoTexture.rpak",
+		"6": "texture/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_cavityTexture.rpak"
+	},
+	"$depthShadowMaterial": "0x8274DBDC65B9F922",
+	"$depthPrepassMaterial": "0x3F2E4E4892B76D86",
+	"$depthVSMMaterial": "0x9CCA4F9837BC357B",
+	"$depthShadowTightMaterial": "0x123B2CF2D0BB5805",
+	"$colpassMaterial": "0x0"
+}

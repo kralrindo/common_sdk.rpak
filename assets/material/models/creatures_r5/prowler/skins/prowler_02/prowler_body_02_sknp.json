@@ -39,6 +39,6 @@
 	"$depthShadowMaterial": "0x706CADCE2E64035E",
 	"$depthPrepassMaterial": "0x7DE1F8B9597CBB9",
 	"$depthVSMMaterial": "0xA6B520872060C761",
-	"$depthShadowTightMaterial": "0x0",
+	"$depthShadowTightMaterial": "0xC4EDC1B1D6BE8094",
 	"$colpassMaterial": "0xF39C212A1E8A4237"
 }

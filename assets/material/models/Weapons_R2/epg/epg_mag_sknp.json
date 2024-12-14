@@ -26,13 +26,13 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x15797A5751148156",
 	"$textures": {
-		"0": "texture/models/Weapons_R2/epg/epg_mag_0.rpak",
-		"1": "texture/models/Weapons_R2/epg/epg_mag_1.rpak",
-		"2": "texture/models/Weapons_R2/epg/epg_mag_2.rpak",
-		"3": "texture/models/Weapons_R2/epg/epg_mag_3.rpak",
-		"5": "texture/models/Weapons_R2/epg/epg_mag_5.rpak",
-		"6": "texture/models/Weapons_R2/epg/epg_mag_6.rpak",
-		"7": "texture/models/Weapons_R2/epg/epg_mag_7.rpak"
+		"0": "texture/models/Weapons_R2/epg/epg_mag_albedoTexture.rpak",
+		"1": "texture/models/Weapons_R2/epg/epg_mag_normalTexture.rpak",
+		"2": "texture/models/Weapons_R2/epg/epg_mag_glossTexture.rpak",
+		"3": "texture/models/Weapons_R2/epg/epg_mag_specTexture.rpak",
+		"5": "texture/models/Weapons_R2/epg/epg_mag_aoTexture.rpak",
+		"6": "texture/models/Weapons_R2/epg/epg_mag_cavityTexture.rpak",
+		"7": "texture/models/Weapons_R2/epg/epg_mag_opacityMultiplyTexture.rpak"
 	},
 	"$depthShadowMaterial": "0x0",
 	"$depthPrepassMaterial": "0x0",

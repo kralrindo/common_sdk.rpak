@@ -26,15 +26,15 @@
 	"shaderType": "rgdp",
 	"shaderSet": "0xFDC8D2DCB2203C6B",
 	"$textures": {
-		"0": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_0.rpak",
-		"1": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_1.rpak",
-		"2": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_2.rpak",
-		"3": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_3.rpak",
-		"4": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_4.rpak"
+		"0": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_albedoTexture.rpak",
+		"1": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_normalTexture.rpak",
+		"2": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_glossTexture.rpak",
+		"3": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_specTexture.rpak",
+		"4": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_emissiveTexture.rpak"
 	},
 	"$depthShadowMaterial": "0x251FBE09EFFE8AB1",
 	"$depthPrepassMaterial": "0xE2D52641AFC77395",
 	"$depthVSMMaterial": "0xBDBF90B97E7D9280",
-	"$depthShadowTightMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x85654E05CF9B40E7",
 	"$colpassMaterial": "0x885F3620337021E"
 }

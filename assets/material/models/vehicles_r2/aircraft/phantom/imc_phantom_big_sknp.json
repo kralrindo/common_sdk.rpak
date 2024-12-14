@@ -26,17 +26,17 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x749E1C9D82CB12BF",
 	"$textures": {
-		"0": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_0.rpak",
-		"1": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_1.rpak",
-		"2": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_2.rpak",
-		"3": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_3.rpak",
-		"4": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_4.rpak",
-		"5": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_5.rpak",
-		"6": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_6.rpak"
+		"0": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_albedoTexture.rpak",
+		"1": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_normalTexture.rpak",
+		"2": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_glossTexture.rpak",
+		"3": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_specTexture.rpak",
+		"4": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_emissiveTexture.rpak",
+		"5": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_aoTexture.rpak",
+		"6": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_big_cavityTexture.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
 	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
-	"$depthShadowTightMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
 	"$colpassMaterial": "0x77FCB8D2C5E52B9C"
 }

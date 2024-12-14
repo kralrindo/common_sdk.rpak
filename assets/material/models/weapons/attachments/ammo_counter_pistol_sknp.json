@@ -26,14 +26,14 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x71FD660667F0F7A4",
 	"$textures": {
-		"0": "texture/models/weapons/attachments/ammo_counter_pistol_0.rpak",
-		"1": "texture/models/weapons/attachments/ammo_counter_pistol_1.rpak",
-		"2": "texture/models/weapons/attachments/ammo_counter_pistol_2.rpak",
-		"3": "texture/models/weapons/attachments/ammo_counter_pistol_3.rpak"
+		"0": "texture/models/weapons/attachments/ammo_counter_pistol_albedoTexture.rpak",
+		"1": "texture/models/weapons/attachments/ammo_counter_pistol_normalTexture.rpak",
+		"2": "texture/models/weapons/attachments/ammo_counter_pistol_glossTexture.rpak",
+		"3": "texture/models/weapons/attachments/ammo_counter_pistol_specTexture.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
 	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
-	"$depthShadowTightMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
 	"$colpassMaterial": "0x51976730CA6600"
 }

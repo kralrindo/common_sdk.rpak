@@ -74,7 +74,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/titans/buddy/cine_eye/BT_a_eye_cine_sknp.rpak"
+      "_path": "material/models/titans/buddy/cine_eye/BT_a_eye_cine_sknp.rpak"//
     },
     {
       "_type": "matl",
@@ -311,6 +311,22 @@
     {
       "_type": "matl",
       "_path": "material/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_shadow_sknp.rpak"
     },
     {
       "_type": "matl",
