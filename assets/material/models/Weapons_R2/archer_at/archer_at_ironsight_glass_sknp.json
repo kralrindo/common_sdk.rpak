@@ -24,7 +24,7 @@
 	"surfaceProp": "glass",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xC5487C6D27B3B3F6",
+	"shaderSet": "0xe2b3ee99da6ec210",
 	"$textures": {
 		"0": "texture/models/Weapons_R2/archer_at/archer_at_ironsight_glass_albedoTexture.rpak",
 		"1": "texture/models/Weapons_R2/archer_at/archer_at_ironsight_glass_normalTexture.rpak",
