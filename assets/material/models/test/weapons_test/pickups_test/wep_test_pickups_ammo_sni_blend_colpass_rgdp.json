@@ -24,7 +24,7 @@
 	"surfaceProp": "default",
 	"surfaceProp2": "default",
 	"shaderType": "rgdp",
-	"shaderSet": "0xA7BF898D4E4201AE",
+	"shaderSet": "shaderset/uberLyrDetallTnBnInterpEmiAoDetovrDtmEmlEmi1Ao1Det1ovr1Dtm1Uvd1Uvd2R5AoUv0m0Uv1m1dtUv2m0Uv3m1tUv4m1tUV520002022234120000022PSSamp22222222222222222222_rgdp.rpak",
 	"$textures": {
 		"0": "texture/models/test/weapons_test/pickups_test/wep_test_pickups_ammo_sni_blend_albedoTexture.rpak",
 		"1": "texture/models/test/weapons_test/pickups_test/wep_test_pickups_ammo_sni_blend_normalTexture.rpak",

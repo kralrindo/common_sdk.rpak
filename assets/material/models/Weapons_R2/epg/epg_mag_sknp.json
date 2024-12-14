@@ -24,7 +24,7 @@
 	"surfaceProp": "plastic",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0x15797A5751148156",
+	"shaderSet": "shaderset/uberTnBnInterpAoCavOpmTransUv0m0PSSamp2222222_sknp.rpak",
 	"$textures": {
 		"0": "texture/models/Weapons_R2/epg/epg_mag_albedoTexture.rpak",
 		"1": "texture/models/Weapons_R2/epg/epg_mag_normalTexture.rpak",

@@ -24,7 +24,7 @@
 	"surfaceProp": "Wpn_Sniper",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xC1E30DF6EEFC58DB",
+	"shaderSet": "shaderset/uberTnBnInterpEmiAoCavEmlEntcolmeUvd2R5AoUv0m0Uv1m0dtUv2m0tUV3000000012PSSamp222222222_sknp.rpak",
 	"$textures": {
 		"0": "texture/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge_albedoTexture.rpak",
 		"1": "texture/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge_normalTexture.rpak",
