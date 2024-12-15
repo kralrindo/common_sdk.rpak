@@ -26,13 +26,13 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x749E1C9D82CB12BF",
 	"$textures": {
-		"0": "texture/models/weapons/r101/r101_0.rpak",
-		"1": "texture/models/weapons/r101/r101_1.rpak",
-		"2": "texture/models/weapons/r101/r101_2.rpak",
-		"3": "texture/models/weapons/r101/r101_3.rpak",
-		"4": "texture/models/weapons/r101/r101_4.rpak",
-		"5": "texture/models/weapons/r101/r101_5.rpak",
-		"6": "texture/models/weapons/r101/r101_6.rpak"
+		"0": "texture/models/weapons/r101/r101_col.rpak",
+		"1": "texture/models/weapons/r101/r101_nml.rpak",
+		"2": "texture/models/weapons/r101/r101_gls.rpak",
+		"3": "texture/models/weapons/r101/r101_spc.rpak",
+		"4": "texture/models/weapons/r101/r101_ilm.rpak",
+		"5": "texture/models/weapons/r101/r101_ao.rpak",
+		"6": "texture/models/weapons/r101/r101_cav.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
