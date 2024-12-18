@@ -35,7 +35,115 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/Weapons_R2/epg/epg_skin_31_sknp.rpak"
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_06_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_06_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_06_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_06_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_07_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_07_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_07_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_07_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_06_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_06_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_06_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_06_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_07_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_07_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_07_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_07_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_prepass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -48,6 +156,166 @@
     {
       "_type": "matl",
       "_path": "material/models/Weapons_R2/epg/epg_mag_non_transparent_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/titans/buddy/cine_eye/BT_a_eye_cine_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/attachments/ammo_counter_pistol_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/archer_at/archer_at_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/archer_at/archer_at_ironsight_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/sidewinder_at/sidewinder_at_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/bullets/projectile_arl_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicle/crow_dropship/crow_dropship_hero_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicle/crow_dropship/crow_dropship_hero_02_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/attachments/IAL_laser_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/car_smg/CAR_smg_colpass_SKNP.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/softball_at/ammo_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/gravity_mine/gravity_mine_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/softball_at/softball_at_skin01_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/at_softball/at_softball_colpass_SKNP.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/arc_launcher/arc_launcher_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/pulse_lmg/pulse_lmg_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/mgl_at/mgl_at_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/mgl_at/mgl_sight_at_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/mgl_at/ris_at_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r2/aircraft/phantom/imc_phantom_cockpit_interior_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r2/aircraft/phantom/imc_phantom_big_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/wingman_elite/wingman_elite_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/attachments/aog_r1_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/attachments/il_bal_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/r101_sfp/r101_sfp_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons/r101/r101_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r2/arc_tool_sp/sp_arc_tool_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures_r5/prowler/prowler_body_06_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures_r5/prowler/prowler_body_07_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures_r5/prowler/prowler_head_06_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures_r5/prowler/prowler_head_07_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/robotics_r2/drone_air_attack/rbt_drone_air_skn_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/robotics_r2/drone_air_attack/rbt_drone_air_skn_03_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/epg/epg_skin_31_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -83,19 +351,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/titans/buddy/cine_eye/BT_a_eye_cine_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -115,23 +371,11 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/weapons/attachments/ammo_counter_pistol_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/Weapons_R2/archer_at/archer_at_sknp.rpak"
     },
     {
       "_type": "matl",
-      "_path": "material/models/Weapons_R2/archer_at/archer_at_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/Weapons_R2/archer_at/archer_at_ironsight_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/Weapons_R2/archer_at/archer_at_ironsight_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -143,15 +387,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/Weapons_R2/sidewinder_at/sidewinder_at_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/weapons/bullets/projectile_arl_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons/bullets/projectile_arl_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -159,23 +395,11 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vehicle/crow_dropship/crow_dropship_hero_01_colpass_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/vehicle/crow_dropship/crow_dropship_hero_02_rgdp.rpak"
     },
     {
       "_type": "matl",
-      "_path": "material/models/vehicle/crow_dropship/crow_dropship_hero_02_colpass_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/vehicle/crow_dropship/crow_dropship_hero_03_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/Weapons_R2/attachments/IAL_laser_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -187,15 +411,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/Weapons_R2/car_smg/CAR_smg_colpass_SKNP.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/weapons/softball_at/ammo_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons/softball_at/ammo_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -203,15 +419,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/Weapons_R2/gravity_mine/gravity_mine_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/weapons/softball_at/softball_at_skin01_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons/softball_at/softball_at_skin01_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -219,15 +427,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/weapons_r5/at_softball/at_softball_colpass_SKNP.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/Weapons_R2/arc_launcher/arc_launcher_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/Weapons_R2/arc_launcher/arc_launcher_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -235,15 +435,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/Weapons_R2/pulse_lmg/pulse_lmg_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/weapons/mgl_at/mgl_at_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons/mgl_at/mgl_at_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -251,15 +443,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/weapons/mgl_at/mgl_sight_at_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/weapons/mgl_at/ris_at_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons/mgl_at/ris_at_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -271,19 +455,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vehicles_r2/aircraft/phantom/imc_phantom_cockpit_interior_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/vehicles_r2/aircraft/phantom/imc_phantom_big_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vehicles_r2/aircraft/phantom/imc_phantom_big_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -295,39 +467,11 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_prepass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_vsm_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_tightshadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_shadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/Weapons_R2/wingman_elite/wingman_elite_sknp.rpak"
     },
     {
       "_type": "matl",
-      "_path": "material/models/Weapons_R2/wingman_elite/wingman_elite_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/Weapons_R2/attachments/aog_r1_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/Weapons_R2/attachments/aog_r1_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -339,15 +483,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/Weapons_R2/attachments/il_bal_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/Weapons_R2/r101_sfp/r101_sfp_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/Weapons_R2/r101_sfp/r101_sfp_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -355,15 +491,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/Weapons/r101/r101_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/weapons_r2/arc_tool_sp/sp_arc_tool_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r2/arc_tool_sp/sp_arc_tool_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -375,47 +503,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_06_shadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_06_vsm_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_06_tightshadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_06_prepass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/creatures_r5/prowler/prowler_body_06_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/creatures_r5/prowler/prowler_body_07_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_07_shadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_07_vsm_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_07_tightshadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_body_07_prepass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/creatures_r5/prowler/prowler_body_07_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -423,47 +511,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_shadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_vsm_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_tightshadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_prepass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/creatures_r5/prowler/skins/prowler_02/prowler_body_02_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/creatures_r5/prowler/prowler_head_06_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_06_shadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_06_vsm_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_06_tightshadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_06_prepass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/creatures_r5/prowler/prowler_head_06_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -471,47 +519,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_07_shadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_07_vsm_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_07_tightshadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/prowler_head_07_prepass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/creatures_r5/prowler/prowler_head_07_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_shadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_vsm_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_tightshadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_prepass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/creatures_r5/prowler/skins/prowler_02/prowler_head_02_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -519,15 +527,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/robotics_r2/drone_air_attack/rbt_drone_air_skn_02_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/robotics_r2/drone_air_attack/rbt_drone_air_skn_03_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/robotics_r2/drone_air_attack/rbt_drone_air_skn_03_colpass_sknp.rpak"
     },
     {
       "_type": "arig",
