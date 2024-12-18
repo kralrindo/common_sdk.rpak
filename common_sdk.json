@@ -35,6 +35,14 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/Weapons_R2/epg/epg_skin_31_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/Weapons_R2/epg/epg_skin_31_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/Weapons_R2/epg/epg_colpass_sknp.rpak"
     },
     {
