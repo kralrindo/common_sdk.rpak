@@ -1,5 +1,6 @@
 {
   "version": 8,
+  "keepDevOnly": true,
 
   "name": "common_sdk",
   "streamFileMandatory": "paks/Win64/pc_sdk.starpak",
