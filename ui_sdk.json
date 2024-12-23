@@ -5,7 +5,7 @@
   "assetsDir": ".\\assets\\",
   "outputDir": ".\\build\\",
 
-  "compressLevel": 19,
+  "compressLevel": 0,
   "compressWorkers": 16,
 
   "name": "ui_sdk",
@@ -15,7 +15,7 @@
       "_type": "uimg",
       "_path": "ui_image_atlas/rui/weapon_icons/r5/kral_sdk_atlas",
       "atlas": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas.rpak",
-      "textures": [
+      "images": [
         {
           "path": "rui/hud/crosshairs/crosshair_triangle",
           "posX": 10,
@@ -225,7 +225,7 @@
       "_type": "uimg",
       "_path": "ui_image_atlas/rui/weapon_icons/r5/kral_sdk_atlas2",
       "atlas": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas2.rpak",
-      "textures": [
+      "images": [
         {
           "path": "models/weapons/attachments/aog_reticle_windage_bright",
           "posX": 110,
@@ -330,7 +330,7 @@
       "_type": "uimg",
       "_path": "ui_image_atlas/rui/weapon_icons/r5/kral_sdk_atlas3",
       "atlas": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas3.rpak",
-      "textures": [
+      "images": [
         {
           "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_r101_aog",
           "posX": 110,
@@ -365,7 +365,7 @@
 		  "_type": "uimg",
 		  "_path": "ui_image_atlas/rui/hud/icons/hud_atlas",
 		  "atlas": "texture/ui_atlas/rui/hud/icons/hud_atlas_sdk.rpak",
-		  "textures": [
+		  "images": [
 			{
 			  "path": "rui/ordnance_icons/grenade_cryo",
 			  "posX": 7,
@@ -435,7 +435,7 @@
       "_type": "uimg",
       "_path": "ui_image_atlas/rui/menu/maps/maps",
       "atlas": "texture/ui_atlas/rui/menu/maps/maps.rpak",
-      "textures": [
+      "images": [
         {
           "path": "rui/menu/home/bg",
           "posX": 0,
