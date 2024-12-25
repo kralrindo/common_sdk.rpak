@@ -1,8 +1,0 @@
-seqs:
-[
-	animseq\weapons\p2011\w_p2011\attack_seq.rseq
-	animseq\weapons\p2011\w_p2011\idle_seq.rseq
-	animseq\weapons\p2011\w_p2011\w_p2011_mp_execution_downed.rseq
-	animseq\weapons\p2011\w_p2011\w_p2011_mp_execution_gun_steal.rseq
-	animseq\weapons\p2011\w_p2011\w_p2011_mp_execution_loba.rseq
-]
