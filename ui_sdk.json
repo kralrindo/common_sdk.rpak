@@ -1,11 +1,10 @@
 {
   "version": 8,
-  "$mapversion": 1,
 
-  "assetsDir": ".\\assets\\",
-  "outputDir": ".\\build\\",
+  "assetsDir": "./assets/",
+  "outputDir": "./build/",
 
-  "compressLevel": 0,
+  "compressLevel": 19,
   "compressWorkers": 16,
 
   "name": "ui_sdk",
