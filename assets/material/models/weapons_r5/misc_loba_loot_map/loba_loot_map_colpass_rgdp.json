@@ -1,0 +1,43 @@
+{
+	"name": "models/weapons_r5/misc_loba_loot_map/loba_loot_map_colpass",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0x8AC4E90680AD6720",
+	"$textures": {
+		"0": "0x6475A1BF42D9A9E5",
+		"1": "0xFCA0C88D00F6D69F",
+		"2": "0x4669021C72BCB17B",
+		"3": "0xAA4DE34FDDF0DAD9",
+		"4": "0x1A6DACEEB63B4D24",
+		"5": "0xD22A51BFB56E9D2F",
+		"6": "0x683F702BF182B7C3",
+		"15": "0x12D76F4DBC91E807"
+	},
+	"$depthShadowMaterial": "0xA804FBFADDCCC047",
+	"$depthPrepassMaterial": "0x9E4AAB588D65267E",
+	"$depthVSMMaterial": "0xB3EDD9B8EF1D43E0",
+	"$depthShadowTightMaterial": "0xFCF2176C01F350B9",
+	"$colpassMaterial": "0x0"
+}

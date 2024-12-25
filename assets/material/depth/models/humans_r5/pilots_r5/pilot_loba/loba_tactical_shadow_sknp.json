@@ -1,0 +1,35 @@
+{
+	"name": "depth/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_shadow",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x10200400",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x26",
+	"uberBufferFlags": "0x0",
+	"features": "0x495DC9C",
+	"samplers": "0x0",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x6C1DFD736CC0289C",
+	"$textures": {
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0"
+}

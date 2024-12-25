@@ -31,8 +31,555 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xA989ECB1B5CAAC22.rpak",
+      "$guid": "0xA989ECB1B5CAAC22"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/uberTnBnInterpAoCavOpmTransUv0m0PSSamp2222222_sknp.rpak",
       "$guid": "0x15797A5751148156"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x8AC4E90680AD6720.rpak",
+      "$guid": "0x8AC4E90680AD6720"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x85BEF11FADACA08B.rpak",
+      "$guid": "0x85BEF11FADACA08B"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xC746AB1C57F37BF4.rpak",
+      "$guid": "0xC746AB1C57F37BF4"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xEC9CE8928CCA9111.rpak",
+      "$guid": "0xEC9CE8928CCA9111"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9D73811A7DDC0EFF.rpak",
+      "$guid": "0x9D73811A7DDC0EFF"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xC860B93C913EB69C.rpak",
+      "$guid": "0xC860B93C913EB69C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x10A0110597664942.rpak",
+      "$guid": "0x10A0110597664942"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3AC996C6821C00B4.rpak",
+      "$guid": "0x3AC996C6821C00B4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8444DF49426D7C55.rpak",
+      "$guid": "0x8444DF49426D7C55"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA385431E247CB55E.rpak",
+      "$guid": "0xA385431E247CB55E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA74F118ABA566B78.rpak",
+      "$guid": "0xA74F118ABA566B78"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE95D84AE94290CBB.rpak",
+      "$guid": "0xE95D84AE94290CBB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x76D499E5859118D1.rpak",
+      "$guid": "0x76D499E5859118D1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8803A9F83FE5FEBA.rpak",
+      "$guid": "0x8803A9F83FE5FEBA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAA4B7EC259E7D1D2.rpak",
+      "$guid": "0xAA4B7EC259E7D1D2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAE0ADF648EC7DE67.rpak",
+      "$guid": "0xAE0ADF648EC7DE67"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD95110C766BD8CB6.rpak",
+      "$guid": "0xD95110C766BD8CB6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE3DF430215946017.rpak",
+      "$guid": "0xE3DF430215946017"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1032E916338C3CA0.rpak",
+      "$guid": "0x1032E916338C3CA0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x12D76F4DBC91E807.rpak",
+      "$guid": "0x12D76F4DBC91E807"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x13B1529338862B05.rpak",
+      "$guid": "0x13B1529338862B05"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x177B20FFCE5FE11F.rpak",
+      "$guid": "0x177B20FFCE5FE11F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1A6DACEEB63B4D24.rpak",
+      "$guid": "0x1A6DACEEB63B4D24"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3C32023270574DC6.rpak",
+      "$guid": "0x3C32023270574DC6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3E496407FED02379.rpak",
+      "$guid": "0x3E496407FED02379"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x460C5ADEE7A98850.rpak",
+      "$guid": "0x460C5ADEE7A98850"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4669021C72BCB17B.rpak",
+      "$guid": "0x4669021C72BCB17B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4823BCB44483AE7B.rpak",
+      "$guid": "0x4823BCB44483AE7B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x49721B69DB6C08F0.rpak",
+      "$guid": "0x49721B69DB6C08F0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x58757E68BB9B525E.rpak",
+      "$guid": "0x58757E68BB9B525E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x59899423CD698608.rpak",
+      "$guid": "0x59899423CD698608"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5A8CE03E1EA94E7A.rpak",
+      "$guid": "0x5A8CE03E1EA94E7A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6475A1BF42D9A9E5.rpak",
+      "$guid": "0x6475A1BF42D9A9E5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x64AB60002616300.rpak",
+      "$guid": "0x64AB60002616300"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x683F702BF182B7C3.rpak",
+      "$guid": "0x683F702BF182B7C3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6F72ECCA5750119A.rpak",
+      "$guid": "0x6F72ECCA5750119A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x73DCF8961DC98AA3.rpak",
+      "$guid": "0x73DCF8961DC98AA3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7B6C6749D710968C.rpak",
+      "$guid": "0x7B6C6749D710968C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7D1D6F29576A0A5D.rpak",
+      "$guid": "0x7D1D6F29576A0A5D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7DD85E1A625031A8.rpak",
+      "$guid": "0x7DD85E1A625031A8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7E4CC3EE1FE29203.rpak",
+      "$guid": "0x7E4CC3EE1FE29203"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x806425C3A82791C5.rpak",
+      "$guid": "0x806425C3A82791C5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x81FFE4ACAAC67DB5.rpak",
+      "$guid": "0x81FFE4ACAAC67DB5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x869212A13756E237.rpak",
+      "$guid": "0x869212A13756E237"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x897D61680475A56.rpak",
+      "$guid": "0x897D61680475A56"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8B65D5270A793B39.rpak",
+      "$guid": "0x8B65D5270A793B39"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8EECB09A4AB3A2BA.rpak",
+      "$guid": "0x8EECB09A4AB3A2BA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8FD2893470F761F1.rpak",
+      "$guid": "0x8FD2893470F761F1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x99CA394F9F6A7FBA.rpak",
+      "$guid": "0x99CA394F9F6A7FBA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA06E06738A213F28.rpak",
+      "$guid": "0xA06E06738A213F28"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA270CDC9FE96A3B4.rpak",
+      "$guid": "0xA270CDC9FE96A3B4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA7A4DA6042057034.rpak",
+      "$guid": "0xA7A4DA6042057034"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAA4DE34FDDF0DAD9.rpak",
+      "$guid": "0xAA4DE34FDDF0DAD9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAAFF9EF951342862.rpak",
+      "$guid": "0xAAFF9EF951342862"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xABDC79610F72AF83.rpak",
+      "$guid": "0xABDC79610F72AF83"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAD1700CEE5E0D406.rpak",
+      "$guid": "0xAD1700CEE5E0D406"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB0674DD649119AC6.rpak",
+      "$guid": "0xB0674DD649119AC6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB4D9F153CC5497D1.rpak",
+      "$guid": "0xB4D9F153CC5497D1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB5F7BA51C720F8EF.rpak",
+      "$guid": "0xB5F7BA51C720F8EF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB81ABD70BCD60F6A.rpak",
+      "$guid": "0xB81ABD70BCD60F6A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC8ACD45CAF0FA0FB.rpak",
+      "$guid": "0xC8ACD45CAF0FA0FB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC9608F1E12756FA.rpak",
+      "$guid": "0xC9608F1E12756FA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCB5C366F1D39D811.rpak",
+      "$guid": "0xCB5C366F1D39D811"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD22A51BFB56E9D2F.rpak",
+      "$guid": "0xD22A51BFB56E9D2F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDBE4FB0B48C1EE06.rpak",
+      "$guid": "0xDBE4FB0B48C1EE06"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE2AA955CF8728F4E.rpak",
+      "$guid": "0xE2AA955CF8728F4E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEFDA46C0112CDA1C.rpak",
+      "$guid": "0xEFDA46C0112CDA1C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF55FAF67ECC8E33C.rpak",
+      "$guid": "0xF55FAF67ECC8E33C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF5A4B2F055CDB0C8.rpak",
+      "$guid": "0xF5A4B2F055CDB0C8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFCA0C88D00F6D69F.rpak",
+      "$guid": "0xFCA0C88D00F6D69F"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_body_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_body_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_face_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_face_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_gear_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_gear_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_hair_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_hair_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_loba_loot_map/loba_loot_map_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_loba_loot_map/loba_loot_map_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_loba_loot_map/loba_loot_map_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_loba_loot_map/loba_loot_map_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_body_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_face_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_gear_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_hair_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_loba_loot_map/loba_loot_map_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_loba_loot_map/loba_loot_map_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_body_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_face_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_gear_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_hair_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_loba_loot_map/loba_loot_map_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_loba_loot_map/loba_loot_map_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_body_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_face_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_gear_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_hair_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_loba_pistol/loba_pistol_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_loba_loot_map/loba_loot_map_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_loba_loot_map/loba_loot_map_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_loba_compact/loba_compact_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/pistol_p2020/pistol_p2020_legendary_loba_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_body_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_face_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_gear_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_hair_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_loba_pistol/loba_pistol_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_loba_compact/loba_compact_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_loba_loot_map/loba_loot_map_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_loba_loot_map/loba_loot_map_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/pistol_p2020/pistol_p2020_legendary_loba_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -951,6 +1498,17 @@
     },
     {
       "_type": "arig",
+      "_path": "animrig/weapons/p2011/w_p2011.rrig",
+      "$sequences": [
+        "animseq/weapons/p2011/w_p2011/attack_seq.rseq",
+        "animseq/weapons/p2011/w_p2011/idle_seq.rseq",
+        "animseq/weapons/p2011/w_p2011/w_p2011_mp_execution_downed.rseq",
+        "animseq/weapons/p2011/w_p2011/w_p2011_mp_execution_gun_steal.rseq",
+        "animseq/weapons/p2011/w_p2011/w_p2011_mp_execution_loba.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
       "_path": "animrig/weapons/arc_tool_sp/ptpov_arc_tool_sp.rrig",
       "$sequences": [
         "animseq/weapons/arc_tool_sp/ptpov_arc_tool_sp/ads_out_crouch_seq.rseq",
@@ -1313,6 +1871,14 @@
         "animseq/weapons/arc_launcher/ptpov_arc_launcher/wind_effect_layer.rseq",
         "animseq/weapons/arc_launcher/ptpov_arc_launcher/wind_loop_ads_layer.rseq",
         "animseq/weapons/arc_launcher/ptpov_arc_launcher/wind_loop_layer.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/humans/class/medium/mp_pilot_medium_core_s5.rrig",
+      "$sequences": [
+        "animseq/humans/class/medium/mp_pilot_medium_core/medium_victim_loba_execution_base.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_core/medium_victim_loba_execution_pointblank.rseq"
       ]
     },
     {
@@ -2066,6 +2632,330 @@
         "animseq/weapons/shoulder_rocket_sram/ptpov_law/wind_effect_layer.rseq",
         "animseq/weapons/shoulder_rocket_sram/ptpov_law/wind_loop_ads_layer.rseq",
         "animseq/weapons/shoulder_rocket_sram/ptpov_law/wind_loop_layer.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/empty/lights/empty_lights_loba.rrig",
+      "$sequences": [
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_baitswitch_idle_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_baitswitch_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_dagger_idle_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_dagger_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_expensive_idle_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_expensive_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_handspring_idle_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_handspring_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_treasure_idle_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_treasure_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_turnaround_idle_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_turnaround_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_dropdown_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_levitate_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_loot_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_mirror_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_p2011_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_p2020_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_portaljump_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_powerstaff_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_powerstance_light.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_queen_light.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/humans/class/medium/pilot_medium_loba.rrig",
+      "$sequences": [
+        "animseq/humans/class/medium/pilot_medium_loba/AIM_loba_crouch_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/AIM_loba_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/AIM_mirage_crouch_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/AIM_mirage_idle_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/AIM_mirage_sprint_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_anticipate.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_anticipate_to_freefall.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_combat_idle_aim.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_combat_idle_aim_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_bracelet.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_frag.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_idle_aim.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_idle_aim_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_pistol_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_pistol_aim.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_pistol_alt.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_pistol_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_rifle_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_rifle_alt.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_rifle_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_staff_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_star.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_thermite.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_UA_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchFire_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchFire_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchFire_rifle_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchLoot_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchLoot_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_bracelet_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_pistol_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_pistol_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_pistol_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_pistol_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_rifle_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_rifle_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_rocket_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_rocket_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_satchel_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_satchel_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_staff_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_staff_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_UA_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_execution_base.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_execution_pointblank.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_execution_pointblank_loot.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_fire_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_fire_pistol_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_fire_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_fire_rifle_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_freefall.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_freefall_dive.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_freefall_emote_genericFlip.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_freefall_emote_witch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_freefall_to_anticipate.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_baitswitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_baitswitch_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_dagger.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_dagger_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_expensive.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_expensive_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_handspring.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_handspring_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_treasure.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_treasure_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_turnaround.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_turnaround_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_dropdown.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_levitate.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_loot.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_mirror.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_p2011.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_p2020.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_portaljump.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_powerstaff.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_powerstance.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_queen.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_temp.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_bracelet.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_frag.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_pistol_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_pistol_ADS_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_pistol_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_rifle_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_rifle_ADS_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_rifle_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_staff_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_star.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_thermite.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idleLoot_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idleLoot_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_center_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_center_idle_alt.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_center_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_center_twitch_makeup.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_left_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_right_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_select_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_loot_ceremony.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_select.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_select_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_select_readyUp.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_select_readyUp_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_pistol_aim.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_bracelet_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_bracelet_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_bracelet_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_bracelet_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_pistol_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_pistol_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_pistol_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_pistol_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_rifle_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_rifle_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_rifle_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_rifle_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_shadow_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_staff_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_staff_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_UA_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_UA_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_slide_staff_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_sprint_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_sprint_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_sprint_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_sprint_staff.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_sprint_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_tactical_pullout.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_tactical_throw.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_teaser_lobby_scene.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_teaser_lobby_scene_alt.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_ultimate_crouchThrow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_ultimate_pullout.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_ultimate_throw.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_updraft.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_updraft_downed.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_victory_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_bracelet_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_bracelet_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_bracelet_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_bracelet_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_pistol_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_pistol_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_pistol_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_pistol_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_rifle_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_rifle_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_rifle_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_rifle_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_shadow_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_staff_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_staff_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_UA_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_UA_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_AIM_mirage_run_jogger_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_AIM_mirage_run_rifle_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_AIM_mirage_sprint_bounding.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_AIM_mirage_sprint_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_AIM_mirage_walk_rifle_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_mirage_AIM_ads.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_mirage_AIM_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_mirage_AIM_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/Revenant_finisher_lurk_loba_vic.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_loba_slide_backward.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_loba_slide_forward.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_loba_slide_left.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_loba_slide_right.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_AIM_faceaim_sprint.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_AIM_idle_satchel.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_AIM_run_rifle_forward.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_run_backward_ORD.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_run_forward_ORD.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_sprint_ORD.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_walk_backward_ORD.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_walk_forward_ORD.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_crouch_grenade_aims.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_medium_aim_crouch_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_medium_aim_crouch_pistol_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_medium_aim_crouch_satchel.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_medium_aim_crouchmove_pistol_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_medium_aim_crouchmove_rocket_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_medium_crouch_high_idle_AIM.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/props/loba_loot_stick/loba_loot_stick.rrig",
+      "$sequences": [
+        "animseq/lass/medium/dmx/animation/cane_loba_gladcard_static_powerstaff.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_deploy.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_deploy_idle.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_destroy.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_gladcard_animated_dagger.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_gladcard_animated_dagger_idle.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_menu_ready_up.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_menu_ready_up_idle.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_menu_select.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_menu_select_idle.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_freefall_loba_witch.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_animated_handspring.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_animated_handspring_idle.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_dropdown.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_loot.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_p2011.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_p2020.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_portaljump.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_powerstance.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_queen.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_menu_lobby_cane.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_menu_lobby_center_select_idle.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_menu_lobby_idle.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_menu_lobby_idle_alt.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_menu_lobby_makeup.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_menu_lobby_right_idle.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/loba_stick_gladcard_animated_turnaround.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/loba_stick_gladcard_animated_turnaround_idle.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/loba_stomp_execution_lootcane.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/mp_pt_loba_cane_loot_idle.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/props/loot_bin_01_loba_gladcard/loot_bin_01_loba_gladcard.rrig",
+      "$sequences": [
+        "animseq/props/loot_bin/loot_bin_01_loba_gladcard/lootbin_loba_gladcard_static_lootbox.rseq",
+        "animseq/props/loot_bin/loot_bin_01_loba_gladcard/rampart_lootbin_gladcard_static_friend.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/arms/pov_pilot_medium_loba.rrig"
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/loba_loot_stick/ptpov_loba_staff.rrig",
+      "$sequences": [
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/crouch.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/draw.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/draw_onehanded.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/fire.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/fire_onehanded.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/holster.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/holster_onehanded.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/idle.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/idle_onehanded.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/inspect.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/lower.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/lower_onehanded.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/raise.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/raise_onehanded.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/raise_sprinting.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/raise_to_sprint.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/sprint.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/sprintjump.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/sprintraise.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/sprintslide.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/staff_mechanism_layer.rseq",
+        "animseq/weapons/loba_loot_stick/ptpov_loba_staff/zipline_mount.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/loba_rings/ptpov_loba_rings.rrig",
+      "$sequences": [
+        "animseq/weapons/loba_rings/ptpov_loba_rings/draw_to_idle.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/fail.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/holster.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/holster_onehanded.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/lower.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/lower_onehanded.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/pickup.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/place.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/post_toss_01.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/post_toss_02.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss_hold.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss_hold_onehanded.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss_hold_sprinting.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss_onehanded.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss_prep_pullout.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss_prep_pullout_onehanded.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss_to_wait.rseq"
       ]
     },
     {
@@ -2881,6 +3771,81 @@
         "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_spin.rseq",
         "animseq/robots/drone_air_attack/drone_air_attack_plasma/inspect1.rseq",
         "animseq/robots/drone_air_attack/drone_air_attack_plasma/inspect2.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Humans/class/medium/pilot_medium_loba.rmdl",
+      "$animrigs": [
+        "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
+        "animrig/humans/class/medium/pilot_medium_loba.rrig",
+        "animrig/humans/class/medium/mp_pilot_medium_core_s5.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/loba_loot_stick/loba_loot_stick.rmdl",
+      "$animrigs": [
+        "animrig/props/loba_loot_stick/loba_loot_stick.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/loba_mirror/loba_mirror.rmdl",
+      "$sequences": [
+        "animseq/props/loba_mirror/loba_mirror/mirror_loba_gladcard_static_mirror.rseq",
+        "animseq/props/loba_mirror/loba_mirror/mirror_loba_menu_lobby_makeup.rseq"
+      ]
+    },
+    /*{
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/arms/pov_pilot_medium_loba.rmdl",
+      "$animrigs": [
+        "animrig/weapons/arms/pov_mp_core.rrig",
+        "animrig/weapons/arms/pov_pilot_medium_loba.rrig"
+      ]
+    },*/
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/loba_loot_stick/ptpov_loba_loot_stick.rmdl",
+      "$animrigs": [
+        "animrig/weapons/loba_loot_stick/ptpov_loba_staff.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/loba_loot_stick/w_loba_loot_stick.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/loba_rings/ptpov_loba_rings.rmdl",
+      "$animrigs": [
+        "animrig/weapons/loba_rings/ptpov_loba_rings.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/loba_rings/w_loba_rings.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/p2011/ptpov_p2011_loba.rmdl",
+      "$animrigs": [
+        "animrig/weapons/p2011/ptpov_p2011.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/p2011/w_p2011_loba.rmdl",
+      "$animrigs": [
+        "animrig/weapons/p2011/w_p2011.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/p2011/w_p2011_loba_prop_version.rmdl",   //Crashes the game for some reason? Used by Loba finisher, needs to be fixed later -LorryLeKral
+      "$animrigs": [
+        "animrig/weapons/p2011/w_p2011.rrig"
       ]
     },
     {

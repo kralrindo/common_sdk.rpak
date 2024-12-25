@@ -1,0 +1,11 @@
+models:
+[
+	mdl\Weapons\p2011\w_p2011_loba_prop_version.rmdl
+	mdl\props\loba_loot_stick\loba_loot_stick.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

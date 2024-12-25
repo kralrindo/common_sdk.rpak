@@ -1,0 +1,11 @@
+models:
+[
+	mdl\props\loba_loot_stick\loba_loot_stick.rmdl
+	mdl\props\loot_bin\loot_bin_01_loba_gladcard.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

@@ -1,0 +1,11 @@
+models:
+[
+	mdl\props\ultimate_accelerant_usb\ultimate_accelerant_usb_static.rmdl
+]
+settings:
+[
+	settings\scriptAnimWindow\sound_ptpov_pathfinder_antenna_hack_start.rpak
+]
+effects:
+[
+]

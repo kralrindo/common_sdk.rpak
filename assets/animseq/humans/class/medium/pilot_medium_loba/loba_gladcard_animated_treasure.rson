@@ -1,0 +1,11 @@
+models:
+[
+	mdl\props\revenant_jar\revenant_jar.rmdl
+	mdl\props\loba_treasure\loba_treasure.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

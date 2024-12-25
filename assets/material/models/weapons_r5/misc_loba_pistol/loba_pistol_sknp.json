@@ -1,0 +1,42 @@
+{
+	"name": "models/weapons_r5/misc_loba_pistol/loba_pistol",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000060",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x85BEF11FADACA08B",
+	"$textures": {
+		"0": "0xA385431E247CB55E",
+		"1": "0x3AC996C6821C00B4",
+		"2": "0x8444DF49426D7C55",
+		"3": "0xE95D84AE94290CBB",
+		"5": "0x10A0110597664942",
+		"6": "0xA74F118ABA566B78",
+		"13": "0x7DD85E1A625031A8"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0xE683CE6793B00529"
+}

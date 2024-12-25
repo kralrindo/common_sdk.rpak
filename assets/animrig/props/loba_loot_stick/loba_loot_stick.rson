@@ -1,0 +1,33 @@
+seqs:
+[
+	animseq\lass\medium\dmx\animation\cane_loba_gladcard_static_powerstaff.rseq
+	animseq\props\loba_loot_cane\mp_prop_lootcane_deploy.rseq
+	animseq\props\loba_loot_cane\mp_prop_lootcane_deploy_idle.rseq
+	animseq\props\loba_loot_cane\mp_prop_lootcane_destroy.rseq
+	animseq\props\loba_loot_cane\mp_prop_lootcane_gladcard_animated_dagger.rseq
+	animseq\props\loba_loot_cane\mp_prop_lootcane_gladcard_animated_dagger_idle.rseq
+	animseq\props\loba_loot_cane\mp_prop_lootcane_menu_ready_up.rseq
+	animseq\props\loba_loot_cane\mp_prop_lootcane_menu_ready_up_idle.rseq
+	animseq\props\loba_loot_cane\mp_prop_lootcane_menu_select.rseq
+	animseq\props\loba_loot_cane\mp_prop_lootcane_menu_select_idle.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_freefall_loba_witch.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_gladcard_animated_handspring.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_gladcard_animated_handspring_idle.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_gladcard_static_dropdown.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_gladcard_static_loot.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_gladcard_static_p2011.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_gladcard_static_p2020.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_gladcard_static_portaljump.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_gladcard_static_powerstance.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_gladcard_static_queen.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_menu_lobby_cane.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_menu_lobby_center_select_idle.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_menu_lobby_idle.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_menu_lobby_idle_alt.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_loba_menu_lobby_makeup.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\cane_menu_lobby_right_idle.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\loba_stick_gladcard_animated_turnaround.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\loba_stick_gladcard_animated_turnaround_idle.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\loba_stomp_execution_lootcane.rseq
+	animseq\props\loba_loot_stick\loba_loot_stick\mp_pt_loba_cane_loot_idle.rseq
+]

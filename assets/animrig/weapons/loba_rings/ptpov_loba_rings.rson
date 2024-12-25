@@ -1,0 +1,21 @@
+seqs:
+[
+	animseq\weapons\loba_rings\ptpov_loba_rings\draw_to_idle.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\fail.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\holster.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\holster_onehanded.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\lower.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\lower_onehanded.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\pickup.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\place.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\post_toss_01.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\post_toss_02.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\toss.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\toss_hold.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\toss_hold_onehanded.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\toss_hold_sprinting.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\toss_onehanded.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\toss_prep_pullout.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\toss_prep_pullout_onehanded.rseq
+	animseq\weapons\loba_rings\ptpov_loba_rings\toss_to_wait.rseq
+]

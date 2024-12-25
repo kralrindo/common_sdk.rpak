@@ -1,0 +1,42 @@
+{
+	"name": "models/weapons_r5/pistol_p2020/pistol_p2020_legendary_loba",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000060",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x85BEF11FADACA08B",
+	"$textures": {
+		"0": "0x13B1529338862B05",
+		"1": "0xABDC79610F72AF83",
+		"2": "0xF5A4B2F055CDB0C8",
+		"3": "0x59899423CD698608",
+		"5": "0x81FFE4ACAAC67DB5",
+		"6": "0x177B20FFCE5FE11F",
+		"13": "0x7DD85E1A625031A8"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0xAB2348645A037BE5"
+}
