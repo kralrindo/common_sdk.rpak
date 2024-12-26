@@ -26,8 +26,8 @@
 	"shaderType": "sknp",
 	"shaderSet": "0xC2F9F0E4E9C995C1",
 	"$textures": {
-		"0": "0x8FD2893470F761F1",
-		"7": "0xA7A4DA6042057034"
+		"0": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_hair_col.rpak",
+		"7": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_hair_opa.rpak"
 	},
 	"$depthShadowMaterial": "0x0",
 	"$depthPrepassMaterial": "0x0",

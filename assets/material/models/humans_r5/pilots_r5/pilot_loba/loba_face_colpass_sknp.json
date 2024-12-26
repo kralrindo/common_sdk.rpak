@@ -24,15 +24,15 @@
 	"surfaceProp": "flesh",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xC860B93C913EB69C",
+	"shaderSet": "shaderset/uberTnBnInterpAoCavCbstSSTransThknsSSSScttrVbweR5AoUv0m0PSSamp22222222_sknp.rpak",
 	"$textures": {
-		"0": "0x7D1D6F29576A0A5D",
-		"1": "0x73DCF8961DC98AA3",
-		"2": "0xB5F7BA51C720F8EF",
-		"3": "0xE2AA955CF8728F4E",
-		"5": "0xB0674DD649119AC6",
-		"6": "0x8EECB09A4AB3A2BA",
-		"13": "0xC9608F1E12756FA"
+		"0": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_face_col.rpak",
+		"1": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_face_nml.rpak",
+		"2": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_face_gls.rpak",
+		"3": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_face_spc.rpak",
+		"5": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_face_ao.rpak",
+		"6": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_face_cav.rpak",
+		"13": "texture/combined/[c6273fd2]loba_face_sctr[c6273fd2]loba_face_thk.rpak"
 	},
 	"$depthShadowMaterial": "0x7A40857CD082DF21",
 	"$depthPrepassMaterial": "0x69CAB666906B6EEB",

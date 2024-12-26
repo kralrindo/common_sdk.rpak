@@ -24,15 +24,15 @@
 	"surfaceProp": "default",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0x85BEF11FADACA08B",
+	"shaderSet": "shaderset/uberTnBnInterpAoCavSSTransThknsSSSScttrR5AoUv0m0PSSamp22222222_sknp.rpak",
 	"$textures": {
-		"0": "0xA385431E247CB55E",
-		"1": "0x3AC996C6821C00B4",
-		"2": "0x8444DF49426D7C55",
-		"3": "0xE95D84AE94290CBB",
-		"5": "0x10A0110597664942",
-		"6": "0xA74F118ABA566B78",
-		"13": "0x7DD85E1A625031A8"
+		"0": "texture/models/weapons_r5/misc_loba_pistol/loba_pistol_col.rpak",
+		"1": "texture/models/weapons_r5/misc_loba_pistol/loba_pistol_nml.rpak",
+		"2": "texture/models/weapons_r5/misc_loba_pistol/loba_pistol_gls.rpak",
+		"3": "texture/models/weapons_r5/misc_loba_pistol/loba_pistol_spc.rpak",
+		"5": "texture/models/weapons_r5/misc_loba_pistol/loba_pistol_ao.rpak",
+		"6": "texture/models/weapons_r5/misc_loba_pistol/loba_pistol_cav.rpak",
+		"13": "texture/combined/[1b881bb7]pistol_p2020_legendary_loba_sctr[1b881bb7]pistol_p2020_legendary_loba_thk.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",

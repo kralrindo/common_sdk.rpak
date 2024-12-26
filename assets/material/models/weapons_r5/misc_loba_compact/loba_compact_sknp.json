@@ -26,12 +26,12 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x1D9FFF314E152725",
 	"$textures": {
-		"0": "0xD95110C766BD8CB6",
-		"1": "0xAE0ADF648EC7DE67",
-		"2": "0xE3DF430215946017",
-		"3": "0x76D499E5859118D1",
-		"5": "0xAA4B7EC259E7D1D2",
-		"6": "0x8803A9F83FE5FEBA"
+		"0": "texture/models/weapons_r5/misc_loba_compact/loba_compact_col.rpak",
+		"1": "texture/models/weapons_r5/misc_loba_compact/loba_compact_nml.rpak",
+		"2": "texture/models/weapons_r5/misc_loba_compact/loba_compact_gls.rpak",
+		"3": "texture/models/weapons_r5/misc_loba_compact/loba_compact_spc.rpak",
+		"5": "texture/models/weapons_r5/misc_loba_compact/loba_compact_ao.rpak",
+		"6": "texture/models/weapons_r5/misc_loba_compact/loba_compact_cav.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
