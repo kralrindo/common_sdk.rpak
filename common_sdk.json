@@ -750,6 +750,78 @@
       "_path": "material/models/robotics_r2/drone_air_attack/rbt_drone_air_skn_03_colpass_sknp.rpak"
     },
     {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/attache_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/canette_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/cloth_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/default_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/ecrout_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/ecrout_gold_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/gaz_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/glove_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/leather_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/part_1_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/part_2_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/pipe_gold_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/pipe_rubber_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/poignee_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/robinet_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/screws_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/Skotch_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/ported_weapons/Trigger_sknp.rpak"
+    },
+    {
       "_type": "arig",
       "_path": "animrig/weapons/epg/ptpov_epg.rrig",
       "$sequences": [
@@ -3527,6 +3599,13 @@
     {
       "_type": "mdl_",
       "_path": "mdl/weapons_r5/loot/_master/w_loot_wep_ammo_exp.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons/ported/ptpov_lmg_flamethrower.rmdl",
+      "$animrigs": [
+        "animrig/weapons/g2/ptpov_g2a4.rrig"
+      ]
     }
   ]
 }

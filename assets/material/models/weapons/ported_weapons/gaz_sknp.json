@@ -1,0 +1,42 @@
+{
+	"name": "models/weapons/ported_weapons/gaz_sknp",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x7B8565F309B72C7C",
+	"$textures": {
+		"0": "texture/models/weapons/ported_weapons/fireweapons_1_1_5_gaz_BaseColor.1001.rpak",
+		"1": "texture/models/weapons/ported_weapons/fireweapons_1_1_5_gaz_Normal.1001.rpak",
+		"2": "texture/models/weapons/ported_weapons/fireweapons_1_1_5_gaz_Roughness.1001.rpak",
+		"3": "texture/models/weapons/ported_weapons/fireweapons_1_1_5_gaz_Metallic.1001.rpak",
+		"4": "texture/defaults/default_cav_black.rpak",
+		"5": "texture/models/weapons/ported_weapons/fireweapons_1_1_5_gaz_AO.1001.rpak",
+		"6": "texture/defaults/default_cav_black.rpak"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0x0"
+}
