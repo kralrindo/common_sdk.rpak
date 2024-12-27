@@ -4,7 +4,7 @@ Created by: @KralRindo
 **Credits**  
 Repak, 010 Respawn Templates, RSX, and Model Converter: rexx, IcePixelx, Rika, AmosModz  
   
-**Required Tools**
+**Required Tools**  
 [Repak](https://github.com/r-ex/RePak)  
 [Respawn-mdl Templates](https://github.com/IJARika/respawn-mdl)  
 [010 Editor](https://www.sweetscape.com/010editor/)  
