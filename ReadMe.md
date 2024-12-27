@@ -31,18 +31,21 @@ This asset type is used to define CSV format data tables within the RPak. Data t
 
 We recommend structuring your CSV files with proper headers to ensure they are interpreted correctly by the game. A broken datatable can cause crashes.
 
+```json
 {
-    "_type": "dtbl",  Asset Type, in this case dtbl (datatable)
+    "_type": "dtbl",  //Asset Type, in this case dtbl (datatable)
     "_path": "datatable/(datatable path).rpak"  CSV file path
 }
 
 ## SHDS Assets
 ShaderSets are used to define the set of shaders for materials, which control how objects are rendered, including effects like lighting, shadowing, and texture mapping. These assets must be exported with the RSX tool and are stored with the .msw extension.
 
+```json
 {
-    "_type": "shds",  # Asset Type, in this case, 'shds' for ShaderSet
-    "_path": "shaderset/uberTnBnInterpAoCavOpmCbstCutVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"  # Path to the ShaderSet .msw file
+    "_type": "shds",  //Asset Type, in this case, 'shds' for ShaderSet
+    "_path": "shaderset/uberTnBnInterpAoCavOpmCbstCutVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"  //Path to the ShaderSet .msw file
 }
+
 Key Fields:
 _type: This specifies the asset type. For ShaderSets.
 _path: The file path to the ShaderSet asset (e.g., "shaderset/uberTnBnInterpAoCavOpmCbstCutVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"). This path points to the .msw file that contains the compiled ShaderSet, which is used by materials in the game.
@@ -56,9 +59,10 @@ This asset type is being used to add .dds type textures into the rpak, it's not 
 
 We strongly recommend using mipmapped textures for better performance and better look.
 
+```json
 {
-    "_type": "txtr",  Asset Type, in this case txtr which is texture
-    "_path": "texture/(texture path).rpak"  DDS file path
+    "_type": "txtr", //Asset Type, in this case txtr which is texture
+    "_path": "texture/(texture path).rpak"  //DDS file path
 }
 
 Required .DDS Types:
@@ -91,9 +95,11 @@ Reference in Main RPak JSON: MATL asset refers to the material file by pointing 
 Ported Materials: If a material was ported from another Apex build, or if it uses special materials like depth or colpass materials, these must be explicitly included in the RPak.
 
 This is an example of how a material asset is referenced in the main RPak JSON.
+
+```json
 {
-    "_type": "matl",  # Asset Type (Material)
-    "_path": "material/models/Weapons_R2/epg/epg_mag_sknp.rpak"  # Path to the material .rpak file
+    "_type": "matl",  //Asset Type (Material)
+    "_path": "material/models/Weapons_R2/epg/epg_mag_sknp.rpak"  //Path to the material .rpak file
 }
 
 The "_type": "matl",
@@ -102,6 +108,7 @@ The "_path" "material/jsonpath.rpak" specifies the path to the .json file that c
 Material Data JSON Example:
 This is an example of the material data JSON that would be loaded when the material .json file is referenced. It contains the properties of the material, including its textures, shader, blend states, and other properties.
 
+```json
 {
 	"name": "models/Weapons_R2/epg/epg_mag",
 	"width": 512,
@@ -191,9 +198,10 @@ Sequences: Animation sequences are included by the RPak tool when the animation 
 
 This is an example of how an animation rig (.rrig) is referenced in the main RPak JSON file. It also includes a list of animation sequences that belong to this rig.
 
+```json
 {
-    "_type": "arig",  # Asset Type (Animation Rig)
-    "_path": "animrig/robots/drone_air_attack/drone_air_attack_plasma.rrig",  # Path to the animation rig file
+    "_type": "arig",  //Asset Type (Animation Rig)
+    "_path": "animrig/robots/drone_air_attack/drone_air_attack_plasma.rrig", //Path to the animation rig file
     "$sequences": [
         "animseq/robots/drone_air_attack/drone_air_attack_plasma/aim_layer.rseq",
         "animseq/robots/drone_air_attack/drone_air_attack_plasma/aim_run.rseq",
@@ -219,9 +227,10 @@ Animation Sequences (rseq) are animation files that define the movement or behav
 
 It is essential to not rename the .rseq files. Renaming these files will cause a breakage in the GUIDs (Global Unique Identifiers) of the animations, resulting in missing references and crashes.
 
+```json
 {
-    "_type": "rseq",  # Asset Type, in this case 'rseq' for animation sequences
-    "_path": "animseq/props/testanimfolder/close_idle.rseq"  # Path to the animation sequence file
+    "_type": "rseq",  //Asset Type, in this case 'rseq' for animation sequences
+    "_path": "animseq/props/testanimfolder/close_idle.rseq"  //Path to the animation sequence file
 }
 
 In most cases we don't need this asset type, only use for this would be replacing an animation sequence from R5Reloaded build.
@@ -229,13 +238,14 @@ In most cases we don't need this asset type, only use for this would be replacin
 ## MDL_ Assets
 This asset type is used to define 3D models (RMDL) within the RPak. These models can be static or dynamic, and they may include animations and physics files. Models are typically loaded into the game by their file paths and can be used as props, characters, or other interactive elements.
 
+```json
 {
-    "_type": "mdl_",  # Asset Type, in this case mdl_ (model)
-    "_path": "mdl/props/kralstest/thisisa_testprop.rmdl",  # Path to the model file
-    "$animrigs": [  # Optional: Path to animation rigs for this model
+    "_type": "mdl_",  //Asset Type, in this case mdl_ (model)
+    "_path": "mdl/props/kralstest/thisisa_testprop.rmdl",  //Path to the model file
+    "$animrigs": [  //Optional: Path to animation rigs for this model
         "animrig/props/prowler_hatch_tt/prowler_hatch_tt.rrig"
     ],
-    "$sequences": [  # Optional: Animation sequences for the model
+    "$sequences": [  //Optional: Animation sequences for the model
         "animseq/props/prowler_hatch_tt/close.rseq",
         "animseq/props/prowler_hatch_tt/close_idle.rseq",
         "animseq/props/prowler_hatch_tt/open.rseq",
