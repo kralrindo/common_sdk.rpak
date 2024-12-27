@@ -3626,6 +3626,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/weapons/bullets/projectile_arl.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/weapons/ported/ptpov_lmg_flamethrower.rmdl",
       "$animrigs": [
         "animrig/weapons/g2/ptpov_g2a4.rrig"
