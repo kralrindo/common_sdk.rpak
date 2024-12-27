@@ -1,7 +1,7 @@
 {
 	"name": "models/weapons/ported_weapons/ecrout_sknp",
-	"width": 2048,
-	"height": 2048,
+	"width": 512,
+	"height": 512,
 	"depth": 0,
 	"glueFlags": "0x56000020",
 	"glueFlags2": "0x100000",
