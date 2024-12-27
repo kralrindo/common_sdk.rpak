@@ -3,8 +3,6 @@ Created by: @KralRindo
 
 **Credits**
 Repak, 010 Respawn Templates, RSX, and Model Converter: rexx, IcePixelx, Rika, AmosModz
-Overview
-This guide covers how to port Apex assets from Seasons 0-6 to R5Reloaded. It does not cover custom models.
 
 **Required Tools**
 Repak: https://github.com/r-ex/RePak
@@ -26,40 +24,7 @@ rmdl: Models, Respawn Model (RMDL)
 uimg: Atlas, This is used for ui images, minimaps and loadscreens. See atlas section.
 
 **Asset Order in Main RPak JSON**
-The recommended order for asset types in the main RPak JSON is:
-Asset order in the main rpak json: dtbl > shdr > txtr > matl > aseq > arig > rmdl > uimg
-
-Some extra information regarding season 3 apex assets.
-
-SDK RPAKs for R5Reloaded Modded Apex Project
-Created by: @KralRindo
-
-Credits
-Repak, 010 Respawn Templates, RSX, and Model Converter: rexx, IcePixelx, Rika, AmosModz
-Overview
-This guide covers how to port Apex assets from Seasons 0-6 to R5Reloaded. It does not cover custom models.
-
-Required Tools
-Repak
-Respawn-mdl Templates
-010 Editor
-RSX
-
-R5Reloaded supports asset types from Season 0-6.
-
-Asset Types
-dtbl: Datatables (CSV). Custom or manually ported from Apex Seasons.
-shds: Material Shadersets (Mixer Swatches). Connects two different shaders into one set. Only supported by the latest RSX version.
-txtr: Texture assets (DDS). Ensure you check the texture types in the txtr section.
-matl: Materials (JSON). Exported with RSX or custom-made. Contains all material data.
-aseq: Animation sequences (RSEQ). Can’t be custom-made, needs to be exported using RSX.
-arig: Animation rigs (RRIG). Exported using RSX, not custom-made.
-rmdl: Models (RMDL).
-uimg: UI Images (Atlas). Includes minimaps and loadscreens. See example JSONs for details.
-Asset Order in Main RPak JSON
-
-The recommended order for asset types in the main RPak JSON is:
-dtbl > shds > txtr > matl > aseq > arig > rmdl > uimg
+dtbl > shdr > txtr > matl > aseq > arig > rmdl > uimg
 
 ## DTBL Assets
 This asset type is used to define CSV format data tables within the RPak. Data tables can be used to configure and store structured data like weapon stats, loot tables, or other game-related information. Can be referenced within the scripts to manage various gameplay elements.
@@ -197,7 +162,6 @@ $depthShadowMaterial, $depthPrepassMaterial, etc.: Optional fields that point to
 
 If the material uses special depth or colpass materials ($depthShadowMaterial, $depthPrepassMaterial, etc.), these materials must also be ported and included in the RPak. These materials are used in advanced rendering techniques like shadow mapping or post-processing effects.
 
-Ported Materials:
 Custom materials may require special handling for compatibility. Check below for the texture slot types.
 
 slot0: _col
@@ -222,11 +186,9 @@ slot25: _spc
 ## RRIG Assets (Animation Rigs)
 Animation Rigs (rrig) define how models animate by specifying the bone structure and animation layers. These rigs are used by .rmdl models to apply various animations, such as walking, running, aiming, etc. When an animation seq is referenced in a rig, the associated animation sequences are automatically loaded by the RPak, so you don't need to explicitly reference them separately.
 
-Overview of RRIG Assets:
 These assets define the skeleton and animation layers for a model. Each animation rig can have multiple animation sequences that are applied to a model based on the rig's bone structure.
 Sequences: Animation sequences are included by the RPak tool when the animation rig is loaded. They don't need to be explicitly listed unless additional customization is needed.
 
-RRIG Asset Example:
 This is an example of how an animation rig (.rrig) is referenced in the main RPak JSON file. It also includes a list of animation sequences that belong to this rig.
 
 {
