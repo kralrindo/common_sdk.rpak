@@ -103,6 +103,14 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_viewmodel_arms_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_viewmodel_arms_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/weapons_r5/misc_loba_loot_map/loba_loot_map_shadow_rgdp.rpak"
     },
     {
@@ -139,6 +147,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_viewmodel_arms_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/weapons_r5/misc_loba_loot_map/loba_loot_map_prepass_rgdp.rpak"
     },
     {
@@ -164,6 +176,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_viewmodel_arms_vsm_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -196,6 +212,10 @@
     {
       "_type": "matl",
       "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_viewmodel_arms_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -232,6 +252,10 @@
     {
       "_type": "matl",
       "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_loba/loba_viewmodel_arms_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -3541,14 +3565,14 @@
         "animseq/props/loba_mirror/loba_mirror/mirror_loba_menu_lobby_makeup.rseq"
       ]
     },
-    /*{
+    {
       "_type": "mdl_",
       "_path": "mdl/Weapons/arms/pov_pilot_medium_loba.rmdl",
       "$animrigs": [
         "animrig/weapons/arms/pov_mp_core.rrig",
         "animrig/weapons/arms/pov_pilot_medium_loba.rrig"
       ]
-    },*/
+    },
     {
       "_type": "mdl_",
       "_path": "mdl/Weapons/loba_loot_stick/ptpov_loba_loot_stick.rmdl",
@@ -3587,7 +3611,7 @@
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/Weapons/p2011/w_p2011_loba_prop_version.rmdl",   //Crashes the game for some reason? Used by Loba finisher, needs to be fixed later -LorryLeKral
+      "_path": "mdl/Weapons/p2011/w_p2011_loba_prop_version.rmdl",
       "$animrigs": [
         "animrig/weapons/p2011/w_p2011.rrig"
       ]
