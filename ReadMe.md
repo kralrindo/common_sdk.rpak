@@ -34,8 +34,8 @@ We recommend structuring your CSV files with proper headers to ensure they are i
 ```json
 {
     "_type": "dtbl",  //Asset Type, in this case dtbl (datatable)
-    "_path": "datatable/(datatable path).rpak"  CSV file path
-}
+    "_path": "datatable/(datatable path).rpak"  //CSV file path
+}```
 
 ## SHDS Assets
 ShaderSets are used to define the set of shaders for materials, which control how objects are rendered, including effects like lighting, shadowing, and texture mapping. These assets must be exported with the RSX tool and are stored with the .msw extension.
@@ -44,7 +44,7 @@ ShaderSets are used to define the set of shaders for materials, which control ho
 {
     "_type": "shds",  //Asset Type, in this case, 'shds' for ShaderSet
     "_path": "shaderset/uberTnBnInterpAoCavOpmCbstCutVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"  //Path to the ShaderSet .msw file
-}
+}```
 
 Key Fields:
 _type: This specifies the asset type. For ShaderSets.
@@ -63,7 +63,7 @@ We strongly recommend using mipmapped textures for better performance and better
 {
     "_type": "txtr", //Asset Type, in this case txtr which is texture
     "_path": "texture/(texture path).rpak"  //DDS file path
-}
+}```
 
 Required .DDS Types:
 
@@ -100,7 +100,7 @@ This is an example of how a material asset is referenced in the main RPak JSON.
 {
     "_type": "matl",  //Asset Type (Material)
     "_path": "material/models/Weapons_R2/epg/epg_mag_sknp.rpak"  //Path to the material .rpak file
-}
+}```
 
 The "_type": "matl",
 The "_path" "material/jsonpath.rpak" specifies the path to the .json file that contains the material data.
@@ -150,7 +150,7 @@ This is an example of the material data JSON that would be loaded when the mater
 	"$depthVSMMaterial": "0x0",
 	"$depthShadowTightMaterial": "0x0",
 	"$colpassMaterial": "0x0"
-}
+}```
 
 Key Fields in Material Data JSON:
 
@@ -211,7 +211,7 @@ This is an example of how an animation rig (.rrig) is referenced in the main RPa
         "animseq/robots/drone_air_attack/drone_air_attack_plasma/idle.rseq",
         "animseq/robots/drone_air_attack/drone_air_attack_plasma/reload.rseq"
     ]
-}
+}```
 
 Key Fields in RRIG Asset JSON:
 
@@ -231,7 +231,7 @@ It is essential to not rename the .rseq files. Renaming these files will cause a
 {
     "_type": "rseq",  //Asset Type, in this case 'rseq' for animation sequences
     "_path": "animseq/props/testanimfolder/close_idle.rseq"  //Path to the animation sequence file
-}
+}```
 
 In most cases we don't need this asset type, only use for this would be replacing an animation sequence from R5Reloaded build.
 
@@ -252,7 +252,7 @@ This asset type is used to define 3D models (RMDL) within the RPak. These models
         "animseq/props/prowler_hatch_tt/open_idle.rseq",
         "animseq/props/prowler_hatch_tt/prowler_hatch_tt/prop_bloodhoundTT_hatch_spawn.rseq"
     ]
-}
+}```
 
 Key Fields:
 
