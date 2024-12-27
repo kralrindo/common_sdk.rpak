@@ -31,13 +31,6 @@ Asset order in the main rpak json: dtbl > shdr > txtr > matl > aseq > arig > rmd
 
 Some extra information regarding season 3 apex assets.
 
-//=========================================================
-//					Material Slots						 //
-//=========================================================
-
-
-Sure! Here's an improved version of your README file with improved grammar, clarity, and consistency. I also ensured it's formatted for use on GitHub.
-
 SDK RPAKs for R5Reloaded Modded Apex Project
 Created by: @KralRindo
 
