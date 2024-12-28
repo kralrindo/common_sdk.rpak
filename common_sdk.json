@@ -158,6 +158,141 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x11BAA0CAE425FB61.rpak",
+      "$guid": "0x11BAA0CAE425FB61"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1883695A0406CDBE.rpak",
+      "$guid": "0x1883695A0406CDBE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2FD476390070C9D5.rpak",
+      "$guid": "0x2FD476390070C9D5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3198E22AC9AA24E6.rpak",
+      "$guid": "0x3198E22AC9AA24E6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3336FC27D6C5E833.rpak",
+      "$guid": "0x3336FC27D6C5E833"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x38D54FFA1A23156D.rpak",
+      "$guid": "0x38D54FFA1A23156D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3B4AE32C0F9D30C0.rpak",
+      "$guid": "0x3B4AE32C0F9D30C0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4215C68D6C92ECEB.rpak",
+      "$guid": "0x4215C68D6C92ECEB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x45BF1DF16163C70A.rpak",
+      "$guid": "0x45BF1DF16163C70A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4F1DEA8FD175DE3B.rpak",
+      "$guid": "0x4F1DEA8FD175DE3B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x556001E2EBAFD73E.rpak",
+      "$guid": "0x556001E2EBAFD73E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5B35E94DBD46CEC6.rpak",
+      "$guid": "0x5B35E94DBD46CEC6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6214DA24E9639BD4.rpak",
+      "$guid": "0x6214DA24E9639BD4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x679B6377D9BE01A1.rpak",
+      "$guid": "0x679B6377D9BE01A1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6C4F95ABA4D4C586.rpak",
+      "$guid": "0x6C4F95ABA4D4C586"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x794288F0C5364CA9.rpak",
+      "$guid": "0x794288F0C5364CA9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7D65A4E78755EF84.rpak",
+      "$guid": "0x7D65A4E78755EF84"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x91A561447FF12B7E.rpak",
+      "$guid": "0x91A561447FF12B7E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9415590CA4A2C2DA.rpak",
+      "$guid": "0x9415590CA4A2C2DA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9D6FC7154DEF017E.rpak",
+      "$guid": "0x9D6FC7154DEF017E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAA187FF2C50F31C5.rpak",
+      "$guid": "0xAA187FF2C50F31C5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBF1ACA8134E2A406.rpak",
+      "$guid": "0xBF1ACA8134E2A406"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC26AAAFF2B114147.rpak",
+      "$guid": "0xC26AAAFF2B114147"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE4CF657DA64EF74C.rpak",
+      "$guid": "0xE4CF657DA64EF74C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xED3D37F73244F560.rpak",
+      "$guid": "0xED3D37F73244F560"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF8E0585DDAF7F722.rpak",
+      "$guid": "0xF8E0585DDAF7F722"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF8FA19448BF4C429.rpak",
+      "$guid": "0xF8FA19448BF4C429"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xD2AA8FF26FF513F9.rpak",
       "$guid": "0xD2AA8FF26FF513F9"
     },
@@ -965,6 +1100,38 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/imc_d_sentry_turret_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/imc_d_sentry_turret_tripod_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/imc_sentry_turret_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/imc_sentry_turret_tripod_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/mcor_sentry_gun/mcor_d_sentry_gun_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/mcor_sentry_gun/mcor_d_sentry_gun_tripod_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/mcor_sentry_gun/mcor_sentry_gun_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/mcor_sentry_gun/mcor_sentry_gun_tripod_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/dev/flat_gray_weapon_colpass_sknp.rpak"
     },
     {
@@ -1070,6 +1237,38 @@
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/pistol_p2020/pistol_p2020_legendary_loba_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/imc_d_sentry_turret_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/imc_d_sentry_turret_tripod_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/imc_sentry_turret_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/imc_sentry_turret_tripod_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/mcor_sentry_gun/mcor_d_sentry_gun_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/mcor_sentry_gun/mcor_d_sentry_gun_tripod_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/mcor_sentry_gun/mcor_sentry_gun_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons/sentry_turret/mcor_sentry_gun/mcor_sentry_gun_tripod_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -1773,6 +1972,14 @@
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_scarecrow_light.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_upsidedown_light.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_whisper_light.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/sentry_turret/sentry_turret.rrig",
+      "$sequences": [
+        "animseq/weapons/sentry_turret/sentry_turret/aim_pitch.rseq",
+        "animseq/weapons/sentry_turret/sentry_turret/aim_yaw.rseq"
       ]
     },
     {
@@ -4849,6 +5056,20 @@
       "_path": "mdl/weapons/ported/w_lmg_flamethrower.rmdl",
       "$animrigs": [
         "animrig/weapons/g2/w_g2a4.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons/sentry_turret/sentry_turret.rmdl",
+      "$animrigs": [
+        "animrig/weapons/sentry_turret/sentry_turret.rrig"
+      ],
+      "$sequences": [
+        "animseq/weapons/sentry_turret/sentry_turret/deploy.rseq",
+        "animseq/weapons/sentry_turret/sentry_turret/deploy_idle.rseq",
+        "animseq/weapons/sentry_turret/sentry_turret/fire.rseq",
+        "animseq/weapons/sentry_turret/sentry_turret/idle.rseq",
+        "animseq/weapons/sentry_turret/sentry_turret/undeploy.rseq"
       ]
     }
   ]
