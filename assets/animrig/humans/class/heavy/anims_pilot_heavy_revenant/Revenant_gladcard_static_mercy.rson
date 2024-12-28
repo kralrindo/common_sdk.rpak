@@ -1,0 +1,11 @@
+models:
+[
+	mdl\humans\class\medium\pilot_medium_generic.rmdl
+	mdl\weapons_r5\lmg_devotion\w_lmg_devotion_legendary_03.rmdl
+]
+settings:
+[
+]
+effects:
+[
+]

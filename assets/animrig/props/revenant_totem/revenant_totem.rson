@@ -1,0 +1,10 @@
+seqs:
+[
+	animseq\props\revenant_totem\revenant_totem\mp_prop_totem_evenant_menu_ready_up.rseq
+	animseq\props\revenant_totem\revenant_totem\prop_revenant_totem_deploy.rseq
+	animseq\props\revenant_totem\revenant_totem\prop_revenant_totem_destroy.rseq
+	animseq\props\revenant_totem\revenant_totem\prop_revenant_totem_idle.rseq
+	animseq\props\revenant_totem\revenant_totem\prop_revenant_totem_shutdown.rseq
+	animseq\props\revenant_totem\revenant_totem\ptpov_revenant_totem_draw_skull.rseq
+	animseq\props\revenant_totem\revenant_totem\ptpov_revenant_totem_fire_skull.rseq
+]

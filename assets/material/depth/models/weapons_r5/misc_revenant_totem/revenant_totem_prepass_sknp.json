@@ -1,0 +1,35 @@
+{
+	"name": "depth/models/weapons_r5/misc_revenant_totem/revenant_totem_prepass",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x10300400",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x495DC9C",
+	"samplers": "0x0",
+	"surfaceProp": "metal",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x91DCA47D2A00E3A4",
+	"$textures": {
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0"
+}

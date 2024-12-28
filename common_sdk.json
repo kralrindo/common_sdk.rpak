@@ -19,6 +19,96 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xE50EDC4FD801FFAC.rpak",
+      "$guid": "0xE50EDC4FD801FFAC"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9725BDBE5D594728.rpak",
+      "$guid": "0x9725BDBE5D594728"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB4A3A189E17AB7F0.rpak",
+      "$guid": "0xB4A3A189E17AB7F0"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xA2C209DE7F8999D5.rpak",
+      "$guid": "0xA2C209DE7F8999D5"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x87CB0CC6AEE099C4.rpak",
+      "$guid": "0x87CB0CC6AEE099C4"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x70A277968E6AF7C0.rpak",
+      "$guid": "0x70A277968E6AF7C0"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xD191BC607082DF01.rpak",
+      "$guid": "0xD191BC607082DF01"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x148C9BD20CCC1E05.rpak",
+      "$guid": "0x148C9BD20CCC1E05"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x2CDD8826B5F21357.rpak",
+      "$guid": "0x2CDD8826B5F21357"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9FB57640C0A650FD.rpak",
+      "$guid": "0x9FB57640C0A650FD"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x66A157B2604FAFDC.rpak",
+      "$guid": "0x66A157B2604FAFDC"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xA143A3A21B4F2D24.rpak",
+      "$guid": "0xA143A3A21B4F2D24"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x45ED3057E9551737.rpak",
+      "$guid": "0x45ED3057E9551737"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x21CC281F07F58D9B.rpak",
+      "$guid": "0x21CC281F07F58D9B"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xDDD6E818E50C3699.rpak",
+      "$guid": "0xDDD6E818E50C3699"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x5270B461795DB383.rpak",
+      "$guid": "0x5270B461795DB383"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xD276E59DDECF4494.rpak",
+      "$guid": "0xD276E59DDECF4494"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xFAD52F647ABC6391.rpak",
+      "$guid": "0xFAD52F647ABC6391"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/uberTnBnInterpEmiAoCavEmlCbstSSTransThknsSSSVbweR5AoEmHeightUv0m0Uv1m0tUV200000000010PSSamp22222222222_sknp.rpak"
     },
     {
@@ -60,6 +150,528 @@
     {
       "_type": "shds",
       "_path": "shaderset/uberTnBnInterpAoCavCbstSSTransThknsSSSScttrVbweR5AoUv0m0PSSamp22222222_sknp.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x27C025E790ABF4BF.rpak",
+      "$guid": "0x27C025E790ABF4BF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2B89F4540DB65315.rpak",
+      "$guid": "0x2B89F4540DB65315"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6D986778258F4FC2.rpak",
+      "$guid": "0x6D986778258F4FC2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x74BFDE09042CF35.rpak",
+      "$guid": "0x74BFDE09042CF35"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9574D5E80FA893EB.rpak",
+      "$guid": "0x9574D5E80FA893EB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBD36D344EF4921E3.rpak",
+      "$guid": "0xBD36D344EF4921E3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDDB83117107543E0.rpak",
+      "$guid": "0xDDB83117107543E0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x11A987171D5CF5F9.rpak",
+      "$guid": "0x11A987171D5CF5F9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1578243E97924525.rpak",
+      "$guid": "0x1578243E97924525"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x192943723CF82CF4.rpak",
+      "$guid": "0x192943723CF82CF4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1CE0DFFB4BE5CD50.rpak",
+      "$guid": "0x1CE0DFFB4BE5CD50"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1CEAF487290659DB.rpak",
+      "$guid": "0x1CEAF487290659DB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x20A0409D6E2A5812.rpak",
+      "$guid": "0x20A0409D6E2A5812"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x239D7E3775EF6B7A.rpak",
+      "$guid": "0x239D7E3775EF6B7A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2816F20B5FAB2FCF.rpak",
+      "$guid": "0x2816F20B5FAB2FCF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2A2E95FAC1ED899A.rpak",
+      "$guid": "0x2A2E95FAC1ED899A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2F541810DDF4F634.rpak",
+      "$guid": "0x2F541810DDF4F634"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x343248D4FE2D2B10.rpak",
+      "$guid": "0x343248D4FE2D2B10"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x356CBFA8883C318C.rpak",
+      "$guid": "0x356CBFA8883C318C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3D72769C47157513.rpak",
+      "$guid": "0x3D72769C47157513"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x429B08AE4C4ECFF3.rpak",
+      "$guid": "0x429B08AE4C4ECFF3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4414FB4DBAAA6DD0.rpak",
+      "$guid": "0x4414FB4DBAAA6DD0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x44C776CEA63B2FC0.rpak",
+      "$guid": "0x44C776CEA63B2FC0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x46494DBE95F2CD55.rpak",
+      "$guid": "0x46494DBE95F2CD55"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x46796DF1666D3F09.rpak",
+      "$guid": "0x46796DF1666D3F09"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x467FFDBE26384B91.rpak",
+      "$guid": "0x467FFDBE26384B91"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4718A9A1AC6FAC6.rpak",
+      "$guid": "0x4718A9A1AC6FAC6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4AFF9EDAF209D0DF.rpak",
+      "$guid": "0x4AFF9EDAF209D0DF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x525D449DDF4447A3.rpak",
+      "$guid": "0x525D449DDF4447A3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5674A43AFB2AAFB3.rpak",
+      "$guid": "0x5674A43AFB2AAFB3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5792E5FA40E9B371.rpak",
+      "$guid": "0x5792E5FA40E9B371"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5B44052DBAE4C1A9.rpak",
+      "$guid": "0x5B44052DBAE4C1A9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6015A0135C19F048.rpak",
+      "$guid": "0x6015A0135C19F048"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6346FCD2B23D1003.rpak",
+      "$guid": "0x6346FCD2B23D1003"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6421AEA7A5E06FEA.rpak",
+      "$guid": "0x6421AEA7A5E06FEA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x689000D71A326DB1.rpak",
+      "$guid": "0x689000D71A326DB1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x695616A67CEB183E.rpak",
+      "$guid": "0x695616A67CEB183E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6A81BB2E7B7B35AB.rpak",
+      "$guid": "0x6A81BB2E7B7B35AB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6BBAA50ABA911F2.rpak",
+      "$guid": "0x6BBAA50ABA911F2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6EF64E46D82A69A7.rpak",
+      "$guid": "0x6EF64E46D82A69A7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6FCF540251D0EEAA.rpak",
+      "$guid": "0x6FCF540251D0EEAA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x755A992B9F10D673.rpak",
+      "$guid": "0x755A992B9F10D673"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7ADB5C3B7AC93411.rpak",
+      "$guid": "0x7ADB5C3B7AC93411"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7C591C4975BF4558.rpak",
+      "$guid": "0x7C591C4975BF4558"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7D476D879DA09551.rpak",
+      "$guid": "0x7D476D879DA09551"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8445C105723B49D0.rpak",
+      "$guid": "0x8445C105723B49D0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x85CFBE908CD96F29.rpak",
+      "$guid": "0x85CFBE908CD96F29"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x85EE0201FCCCB94B.rpak",
+      "$guid": "0x85EE0201FCCCB94B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x87F6E038EC365808.rpak",
+      "$guid": "0x87F6E038EC365808"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x89E41171F5BCD21A.rpak",
+      "$guid": "0x89E41171F5BCD21A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x95D2410BC5D38DE8.rpak",
+      "$guid": "0x95D2410BC5D38DE8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9664EC8A2EB39DE8.rpak",
+      "$guid": "0x9664EC8A2EB39DE8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9748A1CFB39A24C4.rpak",
+      "$guid": "0x9748A1CFB39A24C4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x97E35AE97FE10B8A.rpak",
+      "$guid": "0x97E35AE97FE10B8A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x983900E22A8FBA3C.rpak",
+      "$guid": "0x983900E22A8FBA3C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9857258BD6F2594A.rpak",
+      "$guid": "0x9857258BD6F2594A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x994DB4E5AD65A7CE.rpak",
+      "$guid": "0x994DB4E5AD65A7CE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA0561ECBFC13E16A.rpak",
+      "$guid": "0xA0561ECBFC13E16A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA23061CEFF3D88A3.rpak",
+      "$guid": "0xA23061CEFF3D88A3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA7BC2D84ED44AC.rpak",
+      "$guid": "0xA7BC2D84ED44AC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAAE01146DC2E8686.rpak",
+      "$guid": "0xAAE01146DC2E8686"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB739A975F1C67160.rpak",
+      "$guid": "0xB739A975F1C67160"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB73AA5344643C321.rpak",
+      "$guid": "0xB73AA5344643C321"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB8F9B260E15A7877.rpak",
+      "$guid": "0xB8F9B260E15A7877"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBC1F30E9DEBCA02D.rpak",
+      "$guid": "0xBC1F30E9DEBCA02D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBF622F4346F8039D.rpak",
+      "$guid": "0xBF622F4346F8039D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC5FA663B5B78017A.rpak",
+      "$guid": "0xC5FA663B5B78017A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC99951A62E09C381.rpak",
+      "$guid": "0xC99951A62E09C381"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCC8E03F8158827ED.rpak",
+      "$guid": "0xCC8E03F8158827ED"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCEE33CDA0B581B5C.rpak",
+      "$guid": "0xCEE33CDA0B581B5C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD0E746B32B106633.rpak",
+      "$guid": "0xD0E746B32B106633"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD43DE1961B1CB14D.rpak",
+      "$guid": "0xD43DE1961B1CB14D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD60D46D352102A6.rpak",
+      "$guid": "0xD60D46D352102A6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDC260689FCC868BB.rpak",
+      "$guid": "0xDC260689FCC868BB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE12A956A7E8FC7E5.rpak",
+      "$guid": "0xE12A956A7E8FC7E5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE1675858BBAD6367.rpak",
+      "$guid": "0xE1675858BBAD6367"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE7B25359558B2BE4.rpak",
+      "$guid": "0xE7B25359558B2BE4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE88327F948AFE273.rpak",
+      "$guid": "0xE88327F948AFE273"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEC150A4E84B145DE.rpak",
+      "$guid": "0xEC150A4E84B145DE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF1F39487658921DD.rpak",
+      "$guid": "0xF1F39487658921DD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFAE5FC3DB1B9A9EB.rpak",
+      "$guid": "0xFAE5FC3DB1B9A9EB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFAF9B3E4545132F3.rpak",
+      "$guid": "0xFAF9B3E4545132F3"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_body_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_body_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_head_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_head_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_joints_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_joints_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/skins/nordic/revenant_viewmodel_tactical_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/skins/nordic/revenant_viewmodel_tactical_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_scarf_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_scarf_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_totem/revenant_totem_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_totem/revenant_totem_tightshadow_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -127,6 +739,62 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_body_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/skins/nordic/revenant_viewmodel_tactical_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_head_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_joints_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_scarf_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_totem/revenant_totem_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_body_prepass_sknp.rpak"
     },
     {
@@ -159,6 +827,62 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_body_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/skins/nordic/revenant_viewmodel_tactical_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_head_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_joints_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_scarf_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_totem/revenant_totem_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/humans_r5/pilots_r5/pilot_loba/loba_body_vsm_sknp.rpak"
     },
     {
@@ -188,6 +912,62 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/weapons_r5/misc_loba_loot_map/loba_loot_map_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_body_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/skins/nordic/revenant_viewmodel_tactical_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_head_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_joints_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_scarf_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_totem/revenant_totem_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -232,6 +1012,66 @@
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/pistol_p2020/pistol_p2020_legendary_loba_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_body_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_head_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_joints_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_scarf_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/skins/nordic/revenant_viewmodel_tactical_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_totem/revenant_totem_glow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_totem/revenant_totem_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -844,6 +1684,247 @@
     {
       "_type": "matl",
       "_path": "material/models/weapons/ported_weapons/Trigger_sknp.rpak"
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/empty/lights/empty_lights_revenant.rrig",
+      "$sequences": [
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_assassin_idle_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_assassin_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_beatdown_idle_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_beatdown_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_cube_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_observation_idle_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_observation_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_play_idle_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_play_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_choking_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_contemplation_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_lurking_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_mercy_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_patience_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_reverence_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_scarecrow_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_upsidedown_light.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_whisper_light.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/humans/class/heavy/pilot_heavy_revenant.rrig",
+      "$sequences": [
+        "animseq/humans/class/heavy/pilot_heavy_revenant/AIM_revenant_crouch_pistol.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/AIM_revenant_sprint_shadow.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/AIM_revenant_sprint_UA.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_fire_pistol.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_fire_pistol_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_fire_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_fire_rifle_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_fireCrouch_pistol.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_fireCrouch_pistol_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_gladcard_static_pose1.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_pistol_ADS_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_pistol_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_rifle_ADS_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_rifle_ADS_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_rifle_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_rifle_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_UA_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_sprint_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_pistol_ADS_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_pistol_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_rifle_ADS_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_rifle_ADS_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_rifle_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_rifle_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_UA_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pilot_freefall.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pilot_freefall_anticipate.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pilot_freefall_dive.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pilot_freefall_fall2anticipate.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pilot_freefall_landing2fall.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_brutal_execution_caustic_loot.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_caustic_base_execution_heavy_attacker.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_caustic_brutal_execution_heavy_attacker.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_caustic_loot_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_gas_execution_heavy_attacker.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_gas_execution_heavy_attacker_loot.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_AIM_caustic_run_jason_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_AIM_caustic_run_rifle_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_AIM_caustic_sprint_haste.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_AIM_caustic_sprint_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_AIM_caustic_walk_rifle_ADS_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_aim_crouch_satchel.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_aim_crouchmove_pistol_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_aim_crouchmove_rocket_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_aim_idle_rocket.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_aim_run_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_caustic_pistol_aim.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_caustic_pistol_aim_ads.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_caustic_stand_aim.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_caustic_stand_aim_ads.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_crouch_grenade_aims.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_crouch_high_idle_AIM.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_impale_execution_revenant_loot.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_revenant_impale_execution_heavy_attacker.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_revenant_lurk_execution_heavy_attacker.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_emote_test.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_crouch_aim.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_crouch_aim_UA.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_fire_pistol.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_fire_pistol_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_fire_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_frag.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_pistol.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_pistol_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_crouch_pistol_aim.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_pistol_twitch.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_rifle_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_rifle_twitch.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_star.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_thermite.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_UA.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_UA_alt.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchLoot_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchLoot_UA.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_pistol_ADS_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_pistol_ADS_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_pistol_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_pistol_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_rifle_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_rifle_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_rocket_ADS_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_rocket_ADS_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_satchel_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_satchel_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_draw_totemULT.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_fire_pistol.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_fire_pistol_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_fire_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_fire_rifle_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_fire_totemULT.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_anticipate_lava.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_downed_anticipate.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_emote_genericFlip.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_emote_snake.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_assassin.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_assassin_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_beatdown.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_beatdown_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_cube.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_observation.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_observation_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_play.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_play_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_choking.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_contemplation.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_lurking.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_mercy.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_patience.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_reverence.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_scarecrow.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_upsidedown.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_whisper.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_frag.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_pistol.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_pistol_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_pistol_alt.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_pistol_wait.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_rifle_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_rifle_alt.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_rifle_wait.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_star.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_thermite.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_UA.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_UA_twitchHunt.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_UA_twitchStand.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idleLoot_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idleLoot_UA.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_jumpFloat_UA_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_jumpStart_UA_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_lobby_center_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_lobby_center_sprint.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_lobby_left_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_lobby_right_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_lobby_select_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_ready_up.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_ready_up_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_select.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_select_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_pullout_orbTAC.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_run_UA_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_sprint_UA.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_stand_aim.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_stand_aim_ads.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_stand_pistol_aim.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_stand_pistol_aim_ads.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_throw_orbTAC.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_walk_UA_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_wallrunUp_UA_02.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_AIM_faceaim_sprint.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_AIM_idle_satchel.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_run_backward_ORD.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_run_forward_ORD.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_run_forward_PISTOL.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_run_forward_PISTOL_ADS.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_slide_backward.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_slide_forward.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_slide_left.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_slide_right.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_sprint_ORD.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_walk_backward_ORD.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_walk_forward_ORD.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_walk_forward_PISTOL.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_walk_forward_PISTOL_ADS.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/props/revenant_totem/revenant_totem.rrig",
+      "$sequences": [
+        "animseq/props/revenant_totem/revenant_totem/mp_prop_totem_evenant_menu_ready_up.rseq",
+        "animseq/props/revenant_totem/revenant_totem/prop_revenant_totem_deploy.rseq",
+        "animseq/props/revenant_totem/revenant_totem/prop_revenant_totem_destroy.rseq",
+        "animseq/props/revenant_totem/revenant_totem/prop_revenant_totem_idle.rseq",
+        "animseq/props/revenant_totem/revenant_totem/prop_revenant_totem_shutdown.rseq",
+        "animseq/props/revenant_totem/revenant_totem/ptpov_revenant_totem_draw_skull.rseq",
+        "animseq/props/revenant_totem/revenant_totem/ptpov_revenant_totem_fire_skull.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/arms/pov_pilot_heavy_revenant.rrig"
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/empty_handed/ptpov_revenant_totem.rrig",
+      "$sequences": [
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/draw_base.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/draw_delta.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/draw_delta_alt.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/draw_horror.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/draw_ninjutsu.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/draw_skull.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/draw_witch.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/fire_base.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/fire_delta.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/fire_delta_alt.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/fire_horror.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/fire_ninjutsu.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/fire_skull.rseq",
+        "animseq/weapons/empty_handed/ptpov_revenant_totem/fire_witch.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/revenant_grenade/ptpov_revenant_silencer.rrig",
+      "$sequences": [
+        "animseq/weapons/revenant_grenade/ptpov_revenant_silencer/toss.rseq",
+        "animseq/weapons/revenant_grenade/ptpov_revenant_silencer/toss_hold.rseq",
+        "animseq/weapons/revenant_grenade/ptpov_revenant_silencer/toss_prep_pullout.rseq"
+      ]
     },
     {
       "_type": "arig",
@@ -1646,7 +2727,9 @@
       "_path": "animrig/humans/class/medium/mp_pilot_medium_core_s5.rrig",
       "$sequences": [
         "animseq/humans/class/medium/mp_pilot_medium_core/medium_victim_loba_execution_base.rseq",
-        "animseq/humans/class/medium/mp_pilot_medium_core/medium_victim_loba_execution_pointblank.rseq"
+        "animseq/humans/class/medium/mp_pilot_medium_core/medium_victim_loba_execution_pointblank.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_core/mp_pt_revenant_lurk_execution_medium_victim.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_core/mp_pt_revenant_impale_execution_medium_victim.rseq"
       ]
     },
     {
@@ -3559,6 +4642,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/fx/loba_staff_holo_stand.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/props/loba_mirror/loba_mirror.rmdl",
       "$sequences": [
         "animseq/props/loba_mirror/loba_mirror/mirror_loba_gladcard_static_mirror.rseq",
@@ -3615,6 +4702,54 @@
       "$animrigs": [
         "animrig/weapons/p2011/w_p2011.rrig"
       ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/dev/empty_model_revenant.rmdl",
+      "$sequences": [
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_revenant_impale_execution_heavy_attacker_emptymodel.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/humans/class/heavy/pilot_heavy_revenant.rmdl",
+      "$animrigs": [
+        "animrig/humans/class/heavy/mp_pilot_heavy_core.rrig",
+        "animrig/humans/class/heavy/pilot_heavy_revenant.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/revenant_totem/revenant_totem.rmdl",
+      "$animrigs": [
+        "animrig/props/revenant_totem/revenant_totem.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/arms/pov_pilot_heavy_revenant.rmdl",
+      "$animrigs": [
+        "animrig/weapons/arms/pov_mp_core.rrig",
+        "animrig/weapons/arms/pov_pilot_heavy_revenant.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/empty_handed/ptpov_revenant_totem.rmdl",
+      "$animrigs": [
+        "animrig/weapons/empty_handed/ptpov_revenant_totem.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/revenant_grenade/ptpov_revenant_grenade.rmdl",
+      "$animrigs": [
+        "animrig/weapons/revenant_grenade/ptpov_revenant_silencer.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_revenant_grenade/projectile_revenant_grenade.rmdl"
     },
     {
       "_type": "mdl_",
