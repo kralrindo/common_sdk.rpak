@@ -1,0 +1,43 @@
+{
+	"name": "models/test/weapons_test/pickups_test/wep_test_pickups_proxy_sheet01_tier01_colpass",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56040020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0x9A39C6CF5272B56C",
+	"$textures": {
+		"0": "0x5C94B53287D7BFF5",
+		"1": "0x310192C3364037E4",
+		"2": "0x66D5F660BD0CB994",
+		"3": "0xF97E5C380A3D4BBA",
+		"4": "0xD6F59A7A16D194D0",
+		"5": "0x2CA850081A8423AD",
+		"7": "0x3E47272395315FD9",
+		"8": "0x3CBAADBD51E52BD5"
+	},
+	"$depthShadowMaterial": "0x251FBE09EFFE8AB1",
+	"$depthPrepassMaterial": "0xE2D52641AFC77395",
+	"$depthVSMMaterial": "0xBDBF90B97E7D9280",
+	"$depthShadowTightMaterial": "0x85654E05CF9B40E7",
+	"$colpassMaterial": "0x0"
+}

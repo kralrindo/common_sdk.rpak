@@ -19,6 +19,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xE7226522CFABEFF1.rpak",
+      "$guid": "0xE7226522CFABEFF1"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xE50EDC4FD801FFAC.rpak",
       "$guid": "0xE50EDC4FD801FFAC"
     },
@@ -150,6 +155,51 @@
     {
       "_type": "shds",
       "_path": "shaderset/uberTnBnInterpAoCavCbstSSTransThknsSSSScttrVbweR5AoUv0m0PSSamp22222222_sknp.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD2AA8FF26FF513F9.rpak",
+      "$guid": "0xD2AA8FF26FF513F9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2CA850081A8423AD.rpak",
+      "$guid": "0x2CA850081A8423AD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x310192C3364037E4.rpak",
+      "$guid": "0x310192C3364037E4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3CBAADBD51E52BD5.rpak",
+      "$guid": "0x3CBAADBD51E52BD5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3E47272395315FD9.rpak",
+      "$guid": "0x3E47272395315FD9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5C94B53287D7BFF5.rpak",
+      "$guid": "0x5C94B53287D7BFF5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x66D5F660BD0CB994.rpak",
+      "$guid": "0x66D5F660BD0CB994"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD6F59A7A16D194D0.rpak",
+      "$guid": "0xD6F59A7A16D194D0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF97E5C380A3D4BBA.rpak",
+      "$guid": "0xF97E5C380A3D4BBA"
     },
     {
       "_type": "txtr",
@@ -915,6 +965,14 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/dev/flat_gray_weapon_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/test/weapons_test/pickups_test/wep_test_pickups_proxy_sheet01_tier01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/humans_r5/pilots_r5/pilot_revenant/revenant_body_colpass_sknp.rpak"
     },
     {
@@ -1012,6 +1070,14 @@
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/pistol_p2020/pistol_p2020_legendary_loba_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/dev/flat_gray_weapon_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/test/weapons_test/pickups_test/wep_test_pickups_proxy_sheet01_tier01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -4761,7 +4827,15 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/weapons_r5/loot/_master/w_loot_wep_mods_mag_sniper_v1.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/weapons/bullets/projectile_arl.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/empty_hands/ptpov_empty_hands.rmdl"
     },
     {
       "_type": "mdl_",
