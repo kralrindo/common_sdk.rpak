@@ -5096,6 +5096,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/hud/grenade_indicator/grenade_indicator_shuriken.rmdl" //Replace the model when season 6 rmdls fixed
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/weapons/ported/ptpov_lmg_flamethrower.rmdl",
       "$animrigs": [
         "animrig/weapons/g2/ptpov_g2a4.rrig"
