@@ -158,6 +158,36 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x1B114B0CED571403.rpak",
+      "$guid": "0x1B114B0CED571403"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2207836A042E0EE8.rpak",
+      "$guid": "0x2207836A042E0EE8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x241842620CAEDDF9.rpak",
+      "$guid": "0x241842620CAEDDF9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7338852A68A248E.rpak",
+      "$guid": "0x7338852A68A248E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x76EC895653A746BE.rpak",
+      "$guid": "0x76EC895653A746BE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEAFFA8DE0D01511E.rpak",
+      "$guid": "0xEAFFA8DE0D01511E"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x11BAA0CAE425FB61.rpak",
       "$guid": "0x11BAA0CAE425FB61"
     },
@@ -1100,6 +1130,14 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/test/weapons_test/pickups_test/wep_test_pickups_proxy_sheet01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/laser_sight/lasersight/laser_sight_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/weapons/sentry_turret/imc_d_sentry_turret_colpass_rgdp.rpak"
     },
     {
@@ -1237,6 +1275,14 @@
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/pistol_p2020/pistol_p2020_legendary_loba_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/test/weapons_test/pickups_test/wep_test_pickups_proxy_sheet01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/attachments/laser_sight/lasersight/laser_sight_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -5035,6 +5081,10 @@
     {
       "_type": "mdl_",
       "_path": "mdl/weapons_r5/loot/_master/w_loot_wep_mods_mag_sniper_v1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/loot/_master/w_loot_wep_mods_lasersight_v1.rmdl"
     },
     {
       "_type": "mdl_",
