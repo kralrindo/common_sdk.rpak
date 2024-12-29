@@ -18,44 +18,129 @@
       "_path": "datatable/survival_loot_sdk.rpak"
     },
     {
-      "_type": "shds",
-      "_path": "shaderset/0xE7226522CFABEFF1.rpak",
-      "$guid": "0xE7226522CFABEFF1"
+      "_type": "shdr",
+      "_path": "shader/0x163CF50C2B8D702A",
+      "$guid": "0x163CF50C2B8D702A"
     },
     {
-      "_type": "shds",
-      "_path": "shaderset/0xE50EDC4FD801FFAC.rpak",
-      "$guid": "0xE50EDC4FD801FFAC"
+      "_type": "shdr",
+      "_path": "shader/0x2B89BD906E8F7B17",
+      "$guid": "0x2B89BD906E8F7B17"
     },
     {
-      "_type": "shds",
-      "_path": "shaderset/0x9725BDBE5D594728.rpak",
-      "$guid": "0x9725BDBE5D594728"
+      "_type": "shdr",
+      "_path": "shader/0x2CB9278E7FF737A4",
+      "$guid": "0x2CB9278E7FF737A4"
     },
     {
-      "_type": "shds",
-      "_path": "shaderset/0xB4A3A189E17AB7F0.rpak",
-      "$guid": "0xB4A3A189E17AB7F0"
+      "_type": "shdr",
+      "_path": "shader/0x303EC9DCD2D864C7",
+      "$guid": "0x303EC9DCD2D864C7"
     },
     {
-      "_type": "shds",
-      "_path": "shaderset/0xA2C209DE7F8999D5.rpak",
-      "$guid": "0xA2C209DE7F8999D5"
+      "_type": "shdr",
+      "_path": "shader/0x32F139776DC9104",
+      "$guid": "0x32F139776DC9104"
     },
     {
-      "_type": "shds",
-      "_path": "shaderset/0x87CB0CC6AEE099C4.rpak",
-      "$guid": "0x87CB0CC6AEE099C4"
+      "_type": "shdr",
+      "_path": "shader/0x3F1AC24C2B9C5D12",
+      "$guid": "0x3F1AC24C2B9C5D12"
     },
     {
-      "_type": "shds",
-      "_path": "shaderset/0x70A277968E6AF7C0.rpak",
-      "$guid": "0x70A277968E6AF7C0"
+      "_type": "shdr",
+      "_path": "shader/0x4242825C57033AED",
+      "$guid": "0x4242825C57033AED"
     },
     {
-      "_type": "shds",
-      "_path": "shaderset/0xD191BC607082DF01.rpak",
-      "$guid": "0xD191BC607082DF01"
+      "_type": "shdr",
+      "_path": "shader/0x43832B03C6D5E9B5",
+      "$guid": "0x43832B03C6D5E9B5"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x4B9E46461E2C0B6A",
+      "$guid": "0x4B9E46461E2C0B6A"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x6435B2A6AC927F1C",
+      "$guid": "0x6435B2A6AC927F1C"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x721DECE76D26BC7F",
+      "$guid": "0x721DECE76D26BC7F"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x75FDBE1209D31304",
+      "$guid": "0x75FDBE1209D31304"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x762B67D05A9E63C7",
+      "$guid": "0x762B67D05A9E63C7"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x77D17BE016D09CC",
+      "$guid": "0x77D17BE016D09CC"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x7D6C9834B5CC96E",
+      "$guid": "0x7D6C9834B5CC96E"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x842F777224F8877E",
+      "$guid": "0x842F777224F8877E"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x9982FCF8D520605",
+      "$guid": "0x9982FCF8D520605"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x9FC873F5FAB89B28",
+      "$guid": "0x9FC873F5FAB89B28"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xB06D0E7D55CC4D3D",
+      "$guid": "0xB06D0E7D55CC4D3D"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xBAA755EFCB3A0595",
+      "$guid": "0xBAA755EFCB3A0595"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xDCA3D54889BFDE8E",
+      "$guid": "0xDCA3D54889BFDE8E"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xE318F664BD635AD1",
+      "$guid": "0xE318F664BD635AD1"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xEF14F047551ED221",
+      "$guid": "0xEF14F047551ED221"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xF295FD609A118293",
+      "$guid": "0xF295FD609A118293"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xFB8DFFF17E613DB7",
+      "$guid": "0xFB8DFFF17E613DB7"
     },
     {
       "_type": "shds",
@@ -64,23 +149,13 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x21CC281F07F58D9B.rpak",
+      "$guid": "0x21CC281F07F58D9B"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x2CDD8826B5F21357.rpak",
       "$guid": "0x2CDD8826B5F21357"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x9FB57640C0A650FD.rpak",
-      "$guid": "0x9FB57640C0A650FD"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x66A157B2604FAFDC.rpak",
-      "$guid": "0x66A157B2604FAFDC"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xA143A3A21B4F2D24.rpak",
-      "$guid": "0xA143A3A21B4F2D24"
     },
     {
       "_type": "shds",
@@ -89,18 +164,53 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x21CC281F07F58D9B.rpak",
-      "$guid": "0x21CC281F07F58D9B"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xDDD6E818E50C3699.rpak",
-      "$guid": "0xDDD6E818E50C3699"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x5270B461795DB383.rpak",
       "$guid": "0x5270B461795DB383"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x66A157B2604FAFDC.rpak",
+      "$guid": "0x66A157B2604FAFDC"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x70A277968E6AF7C0.rpak",
+      "$guid": "0x70A277968E6AF7C0"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x87CB0CC6AEE099C4.rpak",
+      "$guid": "0x87CB0CC6AEE099C4"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9725BDBE5D594728.rpak",
+      "$guid": "0x9725BDBE5D594728"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9FB57640C0A650FD.rpak",
+      "$guid": "0x9FB57640C0A650FD"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xA143A3A21B4F2D24.rpak",
+      "$guid": "0xA143A3A21B4F2D24"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xA2C209DE7F8999D5.rpak",
+      "$guid": "0xA2C209DE7F8999D5"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB4A3A189E17AB7F0.rpak",
+      "$guid": "0xB4A3A189E17AB7F0"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xD191BC607082DF01.rpak",
+      "$guid": "0xD191BC607082DF01"
     },
     {
       "_type": "shds",
@@ -109,44 +219,27 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xDDD6E818E50C3699.rpak",
+      "$guid": "0xDDD6E818E50C3699"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xE50EDC4FD801FFAC.rpak",
+      "$guid": "0xE50EDC4FD801FFAC"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xE7226522CFABEFF1.rpak",
+      "$guid": "0xE7226522CFABEFF1"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xFAD52F647ABC6391.rpak",
       "$guid": "0xFAD52F647ABC6391"
     },
     {
       "_type": "shds",
-      "_path": "shaderset/uberTnBnInterpEmiAoCavEmlCbstSSTransThknsSSSVbweR5AoEmHeightUv0m0Uv1m0tUV200000000010PSSamp22222222222_sknp.rpak"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/uberLyrDetallTnBnInterpEmiAoDetovrDtmEmlEmi1Ao1Det1ovr1Dtm1Uvd1Uvd2R5AoUv0m0Uv1m1dtUv2m0Uv3m1tUv4m1tUV520002022234120000022PSSamp22222222222222222222_rgdp.rpak"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/uberTnBnInterpEmiAoCavEmlEntcolmeUvd2R5AoUv0m0Uv1m0dtUv2m0tUV3000000012PSSamp222222222_sknp.rpak"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/uberTnBnInterpEmiAoCavCbstVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/uberTnBnInterpAoCavOpmTransUv0m0PSSamp2222222_sknp.rpak"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/uberTnBnInterpEmiAoCavVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_rgdp.rpak"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/uberTnBnInterpAoCavSSTransThknsSSSScttrR5AoUv0m0PSSamp22222222_sknp.rpak"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/uberTnBnInterpEmiAoCavVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/uberTnBnInterpAoCavOpmCbstCutVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"
     },
     {
       "_type": "shds",
@@ -155,6 +248,38 @@
     {
       "_type": "shds",
       "_path": "shaderset/uberTnBnInterpAoCavCbstSSTransThknsSSSScttrVbweR5AoUv0m0PSSamp22222222_sknp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberTnBnInterpAoCavOpmCbstCutVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberTnBnInterpAoCavOpmTransUv0m0PSSamp2222222_sknp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberTnBnInterpAoCavSSTransThknsSSSScttrR5AoUv0m0PSSamp22222222_sknp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberTnBnInterpEmiAoCavCbstVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberTnBnInterpEmiAoCavEmlCbstSSTransThknsSSSVbweR5AoEmHeightUv0m0Uv1m0tUV200000000010PSSamp22222222222_sknp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberTnBnInterpEmiAoCavEmlEntcolmeUvd2R5AoUv0m0Uv1m0dtUv2m0tUV3000000012PSSamp222222222_sknp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberTnBnInterpEmiAoCavVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_rgdp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberTnBnInterpEmiAoCavVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"
     },
     {
       "_type": "txtr",
