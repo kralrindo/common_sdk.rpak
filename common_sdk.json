@@ -1694,22 +1694,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_prepass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_vsm_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_tightshadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_bullet_shadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/Weapons_R2/wingman_elite/wingman_elite_sknp.rpak"
     },
     {
@@ -4838,14 +4822,6 @@
         "animseq/weapons/wingman_elite/ptpov_wingman_elite/sprintholster_onehanded_seq.rseq",
         "animseq/weapons/wingman_elite/ptpov_wingman_elite/sprintholster_seq.rseq",
         "animseq/weapons/wingman_elite/ptpov_wingman_elite/sprintraise_onehanded_seq_slide.rseq"
-      ]
-    },
-    {
-      "_type": "mdl_",
-      "_path": "mdl/weapons/wingman_elite/w_wingman_elite.rmdl",
-      "$sequences": [
-        "animseq/weapons/wingman_elite/w_wingman_elite/attack_seq.rseq",
-        "animseq/weapons/wingman_elite/w_wingman_elite/idle_seq.rseq"
       ]
     },
     {
