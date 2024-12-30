@@ -3,13 +3,13 @@
 	"width": 512,
 	"height": 512,
 	"depth": 0,
-	"glueFlags": "0x560004a2",
-	"glueFlags2": "0x0",
+	"glueFlags": "0x56000122",
+	"glueFlags2": "0x100000",
 	"blendStates": [
 		"0xF0138286",
 		"0xF0138286",
 		"0xF0008286",
-		"0xF0000000",
+		"0x0",
 		"0xF0138286",
 		"0x0",
 		"0x80500002",
@@ -17,7 +17,7 @@
 	],
 	"blendStateMask": "0x5",
 	"depthStencilFlags": "0x7",
-	"rasterizerFlags": "0x2",
+	"rasterizerFlags": "0x6",
 	"uberBufferFlags": "0x0",
 	"features": "0x1F5A92BD",
 	"samplers": "0x1D0300",
@@ -38,5 +38,6 @@
 	"$depthPrepassMaterial": "0x0",
 	"$depthVSMMaterial": "0x0",
 	"$depthShadowTightMaterial": "0x0",
-	"$colpassMaterial": "0x0"
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
 }

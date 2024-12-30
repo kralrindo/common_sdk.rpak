@@ -1,5 +1,5 @@
 {
-	"name": "models/Weapons_R2/epg/epg_mag_non_transparent_colpass",
+	"name": "models/Weapons_R2/epg/epg_mag_colpass",
 	"width": 512,
 	"height": 512,
 	"depth": 0,
@@ -26,14 +26,15 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x71FD660667F0F7A4",
 	"$textures": {
-		"0": "texture/models/Weapons_R2/epg/epg_mag_non_transparent_albedoTexture.rpak",
-		"1": "texture/models/Weapons_R2/epg/epg_mag_non_transparent_normalTexture.rpak",
-		"2": "texture/models/Weapons_R2/epg/epg_mag_non_transparent_glossTexture.rpak",
-		"3": "texture/models/Weapons_R2/epg/epg_mag_non_transparent_specTexture.rpak"
+		"0": "texture/models/Weapons_R2/epg/epg_mag_albedoTexture.rpak",
+		"1": "texture/models/Weapons_R2/epg/epg_mag_normalTexture.rpak",
+		"2": "texture/models/Weapons_R2/epg/epg_mag_glossTexture.rpak",
+		"3": "texture/models/Weapons_R2/epg/epg_mag_specTexture.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
 	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
 	"$depthShadowTightMaterial": "0x227C27B608B3646B",
-	"$colpassMaterial": "0x0"
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
 }
