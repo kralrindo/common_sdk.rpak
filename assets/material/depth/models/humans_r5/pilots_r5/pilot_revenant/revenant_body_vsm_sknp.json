@@ -24,9 +24,9 @@
 	"surfaceProp": "metal",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xA2C209DE7F8999D5",
+	"shaderSet": "shaderset/uberDepthVsmVnrmNoInterpEntcolmeEntcolmdCutVbweUv0m0_sknp.rpak",
 	"$textures": {
-		"0": "0x85EE0201FCCCB94B"
+		"0": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_body_col.rpak"
 	},
 	"$depthShadowMaterial": "0x0",
 	"$depthPrepassMaterial": "0x0",

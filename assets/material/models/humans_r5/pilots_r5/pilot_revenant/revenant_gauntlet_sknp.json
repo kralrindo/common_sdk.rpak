@@ -24,15 +24,15 @@
 	"surfaceProp": "flesh",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0x148C9BD20CCC1E05",
+	"shaderSet": "shaderset/uberTnBnInterpEmiAoCavEntcolmeEntcolmdCbstVbweR5AoTsvnUv0m0PSSamp2222222_sknp.rpak",
 	"$textures": {
-		"0": "0x695616A67CEB183E",
-		"1": "0x6015A0135C19F048",
-		"2": "0xA23061CEFF3D88A3",
-		"3": "0xCEE33CDA0B581B5C",
-		"4": "0x2816F20B5FAB2FCF",
-		"5": "0xC99951A62E09C381",
-		"6": "0x7C591C4975BF4558"
+		"0": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_col.rpak",
+		"1": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_nml.rpak",
+		"2": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_gls.rpak",
+		"3": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_spc.rpak",
+		"4": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_ilm.rpak",
+		"5": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_ao.rpak",
+		"6": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_gauntlet_cav.rpak"
 	},
 	"$depthShadowMaterial": "0x1DB6C314C7445B3E",
 	"$depthPrepassMaterial": "0xF7918D905DCC940",

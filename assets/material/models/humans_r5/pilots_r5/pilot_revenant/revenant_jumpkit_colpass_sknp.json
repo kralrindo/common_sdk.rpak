@@ -24,15 +24,15 @@
 	"surfaceProp": "flesh",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0x9FB57640C0A650FD",
+	"shaderSet": "shaderset/uberTnBnInterpEmiAoCavEntcolmeEntcolmdCbstVbweTsvnUv0m0PSSamp2222222_sknp.rpak",
 	"$textures": {
-		"0": "0xA7BC2D84ED44AC",
-		"1": "0x983900E22A8FBA3C",
-		"2": "0xE1675858BBAD6367",
-		"3": "0x467FFDBE26384B91",
-		"4": "0xB739A975F1C67160",
-		"5": "0x6EF64E46D82A69A7",
-		"6": "0x4718A9A1AC6FAC6"
+		"0": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_col.rpak",
+		"1": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_nml.rpak",
+		"2": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_gls.rpak",
+		"3": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_spc.rpak",
+		"4": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_ilm.rpak",
+		"5": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_ao.rpak",
+		"6": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_jumpkit_cav.rpak"
 	},
 	"$depthShadowMaterial": "0x5B7167991D600121",
 	"$depthPrepassMaterial": "0x314A127929A665E7",

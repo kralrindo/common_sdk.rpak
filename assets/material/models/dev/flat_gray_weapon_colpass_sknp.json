@@ -24,9 +24,9 @@
 	"surfaceProp": "default",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xE7226522CFABEFF1",
+	"shaderSet": "shaderset/uberNonrmNospmNoglsUv0m0PSSamp2_sknp.rpak",
 	"$textures": {
-		"0": "0xD2AA8FF26FF513F9"
+		"0": "texture/models/dev/flat_gray.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",

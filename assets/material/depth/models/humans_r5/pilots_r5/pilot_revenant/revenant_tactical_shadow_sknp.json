@@ -24,7 +24,7 @@
 	"surfaceProp": "flesh",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "0xB4A3A189E17AB7F0",
+	"shaderSet": "shaderset/uberDepthVnrmNoInterpEntcolmdVbwe_sknp.rpak",
 	"$textures": {
 	},
 	"$depthShadowMaterial": "0x0",

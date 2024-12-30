@@ -26,12 +26,12 @@
 	"shaderType": "rgdp",
 	"shaderSet": "0x2F6462978BBD92C4",
 	"$textures": {
-		"0": "0x5C94B53287D7BFF5",
-		"1": "0x310192C3364037E4",
-		"2": "0x66D5F660BD0CB994",
-		"3": "0xF97E5C380A3D4BBA",
-		"4": "0xD6F59A7A16D194D0",
-		"5": "0x2CA850081A8423AD"
+		"0": "texture/models/test/weapons_test/pickups_test/wep_test_pickups_proxy_sheet01_col.rpak",
+		"1": "texture/models/test/weapons_test/pickups_test/wep_test_pickups_proxy_sheet01_nml.rpak",
+		"2": "texture/models/test/weapons_test/pickups_test/wep_test_pickups_proxy_sheet01_gls.rpak",
+		"3": "texture/models/test/weapons_test/pickups_test/wep_test_pickups_proxy_sheet01_spc.rpak",
+		"4": "texture/models/test/weapons_test/pickups_test/wep_test_pickups_proxy_sheet01_ilm.rpak",
+		"5": "texture/models/test/weapons_test/pickups_test/wep_test_pickups_proxy_sheet01_ao.rpak"
 	},
 	"$depthShadowMaterial": "0x251FBE09EFFE8AB1",
 	"$depthPrepassMaterial": "0xE2D52641AFC77395",

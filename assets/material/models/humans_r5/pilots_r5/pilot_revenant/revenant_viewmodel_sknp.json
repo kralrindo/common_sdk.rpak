@@ -26,13 +26,13 @@
 	"shaderType": "sknp",
 	"shaderSet": "0xF77329F3EE687BA8",
 	"$textures": {
-		"0": "0x4AFF9EDAF209D0DF",
-		"1": "0x20A0409D6E2A5812",
-		"2": "0x5674A43AFB2AAFB3",
-		"3": "0xE88327F948AFE273",
-		"4": "0xC5FA663B5B78017A",
-		"5": "0x1CE0DFFB4BE5CD50",
-		"6": "0xFAE5FC3DB1B9A9EB"
+		"0": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_col.rpak",
+		"1": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_nml.rpak",
+		"2": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_gls.rpak",
+		"3": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_spc.rpak",
+		"4": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_ilm.rpak",
+		"5": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_ao.rpak",
+		"6": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_viewmodel_cav.rpak"
 	},
 	"$depthShadowMaterial": "0xDBE0F647C6646B21",
 	"$depthPrepassMaterial": "0xB50287F0CE500BDE",
