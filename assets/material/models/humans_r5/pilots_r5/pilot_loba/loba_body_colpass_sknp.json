@@ -24,7 +24,7 @@
 	"surfaceProp": "flesh",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "shaderset/uberTnBnInterpAoCavCbstSSTransThknsSSSScttrVbweR5AoAnisoDirAmtUv0m0PSSamp2222222222_sknp.rpak",
+	"shaderSet": "shaderset/uberTnBnInterpAoCavCbstSSTransThknsSSSScttrVbweR5AoAnisoDirAmtUv0m0PSSamp2222222222_comb_sknp.rpak",
 	"$textures": {
 		"0": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_body_col.rpak",
 		"1": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_body_nml.rpak",

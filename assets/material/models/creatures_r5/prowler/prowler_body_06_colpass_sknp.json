@@ -24,7 +24,7 @@
 	"surfaceProp": "flesh",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "shaderset/uberTnBnInterpAoCavCbstSSTransThknsSSSScttrVbweR5AoUv0m0PSSamp22222222_sknp.rpak",
+	"shaderSet": "shaderset/uberTnBnInterpAoCavCbstSSTransThknsSSSScttrVbweR5AoUv0m0PSSamp22222222_comb_sknp.rpak",
 	"$textures": {
 		"0": "texture/models/creatures_r5/prowler/prowler_body_06_albedoTexture.rpak",
 		"1": "texture/models/creatures_r5/prowler/prowler_body_06_normalTexture.rpak",
