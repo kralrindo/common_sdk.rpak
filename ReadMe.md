@@ -24,8 +24,17 @@ rmdl: Models, Respawn Model (RMDL)
 uimg: Atlas, This is used for ui images, minimaps and loadscreens. See atlas section.  
   
 **Asset Order in Main RPak JSON**  
-dtbl > shdr > txtr > matl > aseq > arig > rmdl > uimg  
+txan > dtbl > shdr > txtr > matl > aseq > arig > rmdl > uimg  
   
+## TXAN Assets  
+Txan is required for animated ptcu/ptcs materials, it controls the texture arrays and material animations.
+  
+```json
+{
+    "_type": "txan", 
+    "_path": "texture_anim/(txan path).rpak"  //TXAN file path
+}
+``` 
 ## DTBL Assets  
 This asset type is used to define CSV format data tables within the RPak. Data tables can be used to configure and store structured data like weapon stats, loot tables, or other game-related information. Can be referenced within the scripts to manage various gameplay elements.  
   
