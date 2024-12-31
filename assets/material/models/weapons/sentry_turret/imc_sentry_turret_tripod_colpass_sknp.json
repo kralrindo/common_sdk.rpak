@@ -26,11 +26,11 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x64E1CF6F84DC59FF",
 	"$textures": {
-		"0": "0x4F1DEA8FD175DE3B",
-		"1": "0x6214DA24E9639BD4",
-		"2": "0x6C4F95ABA4D4C586",
-		"3": "0x3336FC27D6C5E833",
-		"4": "0x2FD476390070C9D5"
+		"0": "texture/models/weapons/sentry_turret/imc_sentry_turret_tripod/imc_sentry_turret_tripod_col.rpak",
+		"1": "texture/models/weapons/sentry_turret/imc_sentry_turret_tripod/imc_sentry_turret_tripod_nml.rpak",
+		"2": "texture/models/weapons/sentry_turret/imc_sentry_turret_tripod/imc_sentry_turret_tripod_gls.rpak",
+		"3": "texture/models/weapons/sentry_turret/imc_sentry_turret_tripod/imc_sentry_turret_tripod_spc.rpak",
+		"4": "texture/models/weapons/sentry_turret/imc_sentry_turret_tripod/imc_sentry_turret_tripod_ilm.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",

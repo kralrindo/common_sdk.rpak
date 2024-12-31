@@ -26,10 +26,10 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x71FD660667F0F7A4",
 	"$textures": {
-		"0": "0x794288F0C5364CA9",
-		"1": "0x11BAA0CAE425FB61",
-		"2": "0x5B35E94DBD46CEC6",
-		"3": "0xBF1ACA8134E2A406"
+		"0": "texture/models/weapons/sentry_turret/imc_sentry_turret/imc_sentry_turret_col.rpak",
+		"1": "texture/models/weapons/sentry_turret/imc_sentry_turret/imc_sentry_turret_nml.rpak",
+		"2": "texture/models/weapons/sentry_turret/imc_sentry_turret/imc_sentry_turret_gls.rpak",
+		"3": "texture/models/weapons/sentry_turret/imc_sentry_turret/imc_sentry_turret_spc.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",

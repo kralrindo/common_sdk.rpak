@@ -26,12 +26,12 @@
 	"shaderType": "sknp",
 	"shaderSet": "0xEB8906F5B67524AF",
 	"$textures": {
-		"0": "0x7338852A68A248E",
-		"1": "0x1B114B0CED571403",
-		"2": "0x241842620CAEDDF9",
-		"3": "0xEAFFA8DE0D01511E",
-		"4": "0x2207836A042E0EE8",
-		"5": "0x76EC895653A746BE"
+		"0": "texture/models/weapons_r5/attachments/lasersight/laser_sight/laser_sight_col.rpak",
+		"1": "texture/models/weapons_r5/attachments/lasersight/laser_sight/laser_sight_nml.rpak",
+		"2": "texture/models/weapons_r5/attachments/lasersight/laser_sight/laser_sight_gls.rpak",
+		"3": "texture/models/weapons_r5/attachments/lasersight/laser_sight/laser_sight_spc.rpak",
+		"4": "texture/models/weapons_r5/attachments/lasersight/laser_sight/laser_sight_ilm.rpak",
+		"5": "texture/models/weapons_r5/attachments/lasersight/laser_sight/laser_sight_ao.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",

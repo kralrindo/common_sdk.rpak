@@ -26,10 +26,10 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x71FD660667F0F7A4",
 	"$textures": {
-		"0": "0x4215C68D6C92ECEB",
-		"1": "0x38D54FFA1A23156D",
-		"2": "0xC26AAAFF2B114147",
-		"3": "0x556001E2EBAFD73E"
+		"0": "texture/models/weapons/sentry_turret/mcor_sentry_gun/mcor_sentry_gun_tripod/mcor_sentry_gun_tripod_col.rpak",
+		"1": "texture/models/weapons/sentry_turret/mcor_sentry_gun/mcor_sentry_gun_tripod/mcor_sentry_gun_tripod_nml.rpak",
+		"2": "texture/defaults/default_gls.rpak",
+		"3": "texture/defaults/default_spc.rpak"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
