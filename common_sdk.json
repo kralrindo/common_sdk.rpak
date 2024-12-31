@@ -31,8 +31,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x303EC9DCD2D864C7",
-      "$guid": "0x303EC9DCD2D864C7"
+      "_path": "shader/uberAoCavOpmTransUv0m0Samp2222222_lprobe_ps.rpak",
     },
     {
       "_type": "shdr",
@@ -96,8 +95,7 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x9982FCF8D520605",
-      "$guid": "0x9982FCF8D520605"
+      "_path": "shader/uberEmiAoCavEmlCbstSSTransThknsSSSR5AoEmHeightUv0m0Uv1m0tUV200000000010Samp22222222222_lprobe_ps.rpak"
     },
     {
       "_type": "shdr",
@@ -212,11 +210,11 @@
       "_path": "shaderset/uberLyrDetallTnBnInterpEmiAoDetovrDtmEmlEmi1Ao1Det1ovr1Dtm1Uvd1Uvd2R5AoUv0m0Uv1m1dtUv2m0Uv3m1tUv4m1tUV520002022234120000022PSSamp22222222222222222222_rgdp.rpak"
     },
     {
-      "_type": "shds", // used for loba's body, was 9D73811A7DDC0EFF
+      "_type": "shds", // used for loba's body, was 0x9D73811A7DDC0EFF
       "_path": "shaderset/uberTnBnInterpAoCavCbstSSTransThknsSSSScttrVbweR5AoAnisoDirAmtUv0m0PSSamp2222222222_comb_sknp.rpak"
     },
     {
-      "_type": "shds", // used for loba's face, was C860B93C913EB69C
+      "_type": "shds", // used for loba's face, was 0xC860B93C913EB69C
       "_path": "shaderset/uberTnBnInterpAoCavCbstSSTransThknsSSSScttrVbweR5AoUv0m0PSSamp22222222_comb_sknp.rpak"
     },
     {
