@@ -546,6 +546,69 @@
           "posY": 3240,
           "width": 1920,
           "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_mu1",
+          "posX": 0,
+          "posY": 4320,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2",
+          "posX": 1920,
+          "posY": 4320,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv",
+          "posX": 3840,
+          "posY": 4320,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt",
+          "posX": 5760,
+          "posY": 4320,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo",
+          "posX": 7680,
+          "posY": 4320,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_holiday",
+          "posX": 0,
+          "posY": 5400,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_mu1_tt",
+          "posX": 1920,
+          "posY": 5400,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_mu2",
+          "posX": 3840,
+          "posY": 5400,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_olympus_mu1",
+          "posX": 5760,
+          "posY": 5400,
+          "width": 1920,
+          "height": 1080
         }
       ]
     }
