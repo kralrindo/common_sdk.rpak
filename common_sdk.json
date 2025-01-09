@@ -9,7 +9,7 @@
   "assetsDir": "./assets/",
   "outputDir": "./build/",
 
-  "compressLevel": 0,
+  "compressLevel": 19,
   "compressWorkers": 16,
 
   "files": [
