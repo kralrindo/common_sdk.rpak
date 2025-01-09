@@ -3176,6 +3176,22 @@
     },
     {
       "_type": "arig",
+      "_path": "animrig/weapons/clacker_detonator/ptpov_clacker_detonator.rrig",
+      "$sequences": [
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_check_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_seq_air.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_seq_crouch.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_seq_test.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_seq_test.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/regrip.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/switch_to_jump_iron.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/switch_to_land_iron.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
       "_path": "animrig/weapons/shoulder_rocket_sram/ptpov_law.rrig",
       "$sequences": [
         "animseq/weapons/shoulder_rocket_sram/ptpov_law/ads_out_onehanded_seq.rseq",
@@ -3923,6 +3939,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/weapons/at_satchel_charge/at_satchel_charge.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/weapons/auto_rocket_launcher_arl/ptpov_ARL.rmdl",
       "$sequences": [
         "animseq/weapons/auto_rocket_launcher_arl/ptpov_ARL/ads_in_crouch_seq.rseq",
@@ -4081,6 +4101,45 @@
         "animseq/weapons/car101/w_car101/attack_seq_alt2.rseq",
         "animseq/weapons/car101/w_car101/idle_seq.rseq"
       ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons/clacker_detonator/ptpov_clacker_detonator.rmdl",
+      "$animrigs": ["animrig/weapons/clacker_detonator/ptpov_clacker_detonator.rrig"],
+      "$sequences": [
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/attack_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/attack_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/draw_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/draw_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/holster_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/holster_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/lower_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/lower_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/melee_01_seq_alt1.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/melee_02_seq_alt1.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/melee_03_seq_alt1.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/meleekick_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/raise_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/raise_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/sprint_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/sprint_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/toss_hold_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/toss_hold_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/toss_hold_sprinting_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/toss_hold_sprinting_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/toss_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/toss_overhead_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/toss_overhead_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/toss_prep_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/toss_prep_pullout_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/toss_prep_pullout_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/toss_prep_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/toss_seq.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons/clacker_detonator/w_detonator_satchel.rmdl"
     },
     {
       "_type": "mdl_",
