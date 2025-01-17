@@ -77,6 +77,22 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/uberUnlitEefNonrmm0InterpInst_sknp_vs.rpak"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/uberUnlitEmiEntcolmeEntcolmdEefUvd1NonrmNospmUv0m0Uv1m0dtUv2m0dtUv3m0tUV41023Samp2222_ps.rpak"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/uberUnlitVcolAefm0Interpm1InterpInst_rgdp_vs.rpak"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/uberUnlitVcoltVcolaEmiOpmEDetectEntcolmeEntcolmdAefAddUv1m0tUv2m0tUv3m1tUV4123Samp222_ps.rpak"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/uberUnlitAefVbwem0InterpInst_sknp_vs.rpak"
     },
     {
@@ -250,6 +266,42 @@
     {
       "_type": "shds",
       "_path": "shaderset/uberTnBnInterpEmiAoCavVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/crafting_replicator/crafting_replicator_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/crafting_replicator/crafting_replicator_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/crafting_replicator/crafting_replicator_doorGlow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/crafting_siphon/crafting_siphon_energy_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/crafting_siphon/crafting_siphon_energy_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/crafting_siphon/crafting_siphon_glass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/crafting_siphon/crafting_siphon_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/crafting_siphon/crafting_siphon_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vehicles_r5/air/drop_pod_loot/drop_pod_loot_afterburner_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -1454,6 +1506,40 @@
     {
       "_type": "matl",
       "_path": "material/models/weapons/ported_weapons/Trigger_sknp.rpak"
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/props/crafting_replicator/crafting_replicator.rrig",
+      "$sequences": [
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_auto_A.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_auto_B.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_auto_C.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_close.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_close_sideA.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_close_sideB.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_close_sideC.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_drop.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_open.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_open_sideA.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_open_sideB.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_open_sideC.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_openidle.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_openidle_sideA.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_openidle_sideB.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_openidle_sideC.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_ready_groundidle.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_ready_idle.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/props/crafting_siphon/crafting_siphon.rrig",
+      "$sequences": [
+        "animseq/props/crafting_siphon/crafting_siphon/source_empty_idle.rseq",
+        "animseq/props/crafting_siphon/crafting_siphon/source_empty_to_full.rseq",
+        "animseq/props/crafting_siphon/crafting_siphon/source_full_idle.rseq",
+        "animseq/props/crafting_siphon/crafting_siphon/source_full_to_empty.rseq"
+      ]
     },
     {
       "_type": "arig",
@@ -3850,6 +3936,35 @@
         "animseq/robots/marvin/marvin_anims/Walk_all_v2.rseq",
         "animseq/robots/marvin/marvin_anims/walk_carry.rseq",
         "animseq/robots/marvin/marvin_anims/walk_unarmed.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/crafting_replicator/crafting_replicator_afterburners.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/crafting_replicator/crafting_replicator_doorGlow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/crafting_replicator/crafting_replicator.rmdl",
+      "$animrigs": [
+        "animrig/props/crafting_replicator/crafting_replicator.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/crafting_replicator/crafting_replicator_no_engine.rmdl",
+      "$animrigs": [
+        "animrig/props/crafting_replicator/crafting_replicator.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/crafting_siphon/crafting_siphon.rmdl",
+      "$animrigs": [
+        "animrig/props/crafting_siphon/crafting_siphon.rrig"
       ]
     },
     {
