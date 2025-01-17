@@ -64,15 +64,15 @@
       "_path": "shader/uberAoCavSSTransThknsSSSScttrR5AoUv0m0Samp22222222_lprobe_ps.rpak"
     },
     {
-      "_type": "shdr", // replaces the game's existing shader, supports new combined sctr/thk textures.
+      "_type": "shdr", // new variant of the game's existing shader, supports new combined sctr/thk textures. (does not replace it! its renamed with the _comb suffix.)
       "_path": "shader/uberAoCavCbstSSTransThknsSSSScttrR5AoUv0m0Samp22222222_comb_lprobe_ps.rpak" // 7DCFDFBDA4D4DF39
     },
     {
-      "_type": "shdr", // replaces the game's existing shader, supports new combined asa/asd textures.
+      "_type": "shdr", // new variant of the game's existing shader, supports new combined asa/asd textures. (does not replace it! its renamed with the _comb suffix.)
       "_path": "shader/uberAoCavOpmCbstCutR5AoAnisoDirAmtUv0m0Samp222222222_comb_lprobe_ps.rpak" // 1CB9120B5C814B79
     },
     {
-      "_type": "shdr", // replaces the game's existing shader, supports new combined asa/asd textures.
+      "_type": "shdr", // new variant of the game's existing shader, supports new combined asa/asd textures. (does not replace it! its renamed with the _comb suffix.)
       "_path": "shader/uberAoCavCbstSSTransThknsSSSScttrR5AoAnisoDirAmtUv0m0Samp2222222222_comb_lprobe_ps.rpak" // 7B41109E2BF4399A
     },
     {
