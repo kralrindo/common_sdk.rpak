@@ -4,7 +4,7 @@
   "assetsDir": "./assets/",
   "outputDir": "./build/",
 
-  "compressLevel": 19,
+  "compressLevel": 6,
   "compressWorkers": 16,
 
   "name": "ui_sdk",
