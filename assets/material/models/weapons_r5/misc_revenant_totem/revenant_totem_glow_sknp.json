@@ -26,7 +26,7 @@
 	"shaderType": "sknp",
 	"shaderSet": "shaderset/uberUnlitEmiAoCavEntcolmeEntcolmdAefAddUvd1Uvd2VbweR5AoUv0m0Uv1m0dtUv2m0tUV3000010002PSSamp222222222_sknp.rpak",
 	"$textures": {
-		"0": "texture/effects/white.rpak",
+		"0": "0x89E41171F5BCD21A",
 		"1": "texture/models/weapons_r5/misc_revenant_totem/revenant_totem_nml.rpak",
 		"2": "texture/models/weapons_r5/misc_revenant_totem/revenant_totem_gls.rpak",
 		"3": "texture/models/weapons_r5/misc_revenant_totem/revenant_totem_spc.rpak",
@@ -34,7 +34,7 @@
 		"5": "texture/models/weapons_r5/misc_revenant_totem/revenant_totem_ao.rpak",
 		"6": "texture/models/weapons_r5/misc_revenant_totem/revenant_totem_cav.rpak",
 		"11": "texture/models/weapons_r5/misc_revenant_totem/revenant_totem_nml.rpak",
-		"12": "texture/effects/noise_wave_nml.rpak"
+		"12": "0x46494DBE95F2CD55"
 	},
 	"$depthShadowMaterial": "0x0",
 	"$depthPrepassMaterial": "0x0",

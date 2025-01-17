@@ -28,8 +28,8 @@
 	"$textures": {
 		"0": "texture/models/weapons/sentry_turret/mcor_sentry_gun/mcor_d_sentry_gun/mcor_d_sentry_gun_col.rpak",
 		"1": "texture/models/weapons/sentry_turret/mcor_sentry_gun/mcor_d_sentry_gun/mcor_d_sentry_gun_nml.rpak",
-		"2": "texture/defaults/default_gls.rpak",
-		"3": "texture/defaults/default_spc.rpak"
+		"2": "0xC26AAAFF2B114147",
+		"3": "0x556001E2EBAFD73E"
 	},
 	"$depthShadowMaterial": "0x251FBE09EFFE8AB1",
 	"$depthPrepassMaterial": "0xE2D52641AFC77395",

@@ -26,13 +26,13 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x7B8565F309B72C7C",
 	"$textures": {
-		"0": "texture/defaults/default_col.rpak",
-		"1": "texture/defaults/default_nml.rpak",
-		"2": "texture/defaults/default_spc.rpak",
-		"3": "texture/defaults/default_spc.rpak",
-		"4": "texture/defaults/default_cav_black.rpak",
-		"5": "texture/defaults/default_cav_black.rpak",
-		"6": "texture/defaults/default_gls.rpak"
+		"0": "0xB8765ADD694A4B79",
+		"1": "0x8C9647619E10E9A6",
+		"2": "0x556001E2EBAFD73E",
+		"3": "0x556001E2EBAFD73E",
+		"4": "0x9A7A54C5DEFDFDCC",
+		"5": "0x9A7A54C5DEFDFDCC",
+		"6": "0xC26AAAFF2B114147"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",

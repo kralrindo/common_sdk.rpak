@@ -30,9 +30,9 @@
 		"1": "texture/models/weapons/ported_weapons/fireweapons_1_1_5_robinet_Normal.1001.rpak",
 		"2": "texture/models/weapons/ported_weapons/fireweapons_1_1_5_robinet_Roughness.1001.rpak",
 		"3": "texture/models/weapons/ported_weapons/fireweapons_1_1_5_robinet_Metallic.1001.rpak",
-		"4": "texture/defaults/default_cav_black.rpak",
+		"4": "0x9A7A54C5DEFDFDCC",
 		"5": "texture/models/weapons/ported_weapons/fireweapons_1_1_5_robinet_AO.1001.rpak",
-		"6": "texture/defaults/default_cav_black.rpak"
+		"6": "0x9A7A54C5DEFDFDCC"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
