@@ -6,6 +6,8 @@
   "streamFileMandatory": "paks/Win64/pc_sdk.starpak",
   "streamFileOptional": "paks/Win64/pc_sdk.opt.starpak",
 
+  "streamCache": "cache/pc_roots.starmap",
+
   "assetsDir": "./assets/",
   "outputDir": "./build/",
 
