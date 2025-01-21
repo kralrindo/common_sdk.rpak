@@ -4719,10 +4719,10 @@
       "_type": "mdl_",
       "_path": "mdl/Weapons/empty_hands/ptpov_empty_hands.rmdl"
     },
-    /*{
+    {
       "_type": "mdl_",
-      "_path": "mdl/hud/grenade_indicator/grenade_indicator_shuriken.rmdl" //Replace the model when season 6 rmdls fixed
-    },*/
+      "_path": "mdl/hud/grenade_indicator/grenade_indicator_shuriken.rmdl"
+    },
     {
       "_type": "mdl_",
       "_path": "mdl/weapons/ported/ptpov_lmg_flamethrower.rmdl",
