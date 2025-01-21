@@ -1,0 +1,43 @@
+{
+	"name": "models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x56000022",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0x0",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "glass",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xcb237609544b1057",
+	"$textures": {
+		"0": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_albedoTexture.rpak",
+		"1": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_normalTexture.rpak",
+		"2": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_glossTexture.rpak",
+		"3": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_specTexture.rpak",
+		"4": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_emissiveTexture.rpak",
+		"5": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_aoTexture.rpak",
+		"6": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_cavityTexture.rpak",
+		"7": "texture/models/vehicles_r2/aircraft/phantom/imc_phantom_glass_o_opacityMultiplyTexture.rpak"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0"
+}

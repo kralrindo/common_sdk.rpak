@@ -1,0 +1,42 @@
+{
+	"name": "models/Weapons_R2/archer_at/archer_at_ironsight_glass",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000022",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0x0",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "glass",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xe2b3ee99da6ec210",
+	"$textures": {
+		"0": "texture/models/Weapons_R2/archer_at/archer_at_ironsight_glass_albedoTexture.rpak",
+		"1": "texture/models/Weapons_R2/archer_at/archer_at_ironsight_glass_normalTexture.rpak",
+		"2": "texture/models/Weapons_R2/archer_at/archer_at_ironsight_glass_glossTexture.rpak",
+		"3": "texture/models/Weapons_R2/archer_at/archer_at_ironsight_glass_specTexture.rpak",
+		"5": "texture/models/Weapons_R2/archer_at/archer_at_ironsight_glass_aoTexture.rpak",
+		"6": "texture/models/Weapons_R2/archer_at/archer_at_ironsight_glass_cavityTexture.rpak",
+		"7": "texture/models/Weapons_R2/archer_at/archer_at_ironsight_glass_opacityMultiplyTexture.rpak"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0"
+}

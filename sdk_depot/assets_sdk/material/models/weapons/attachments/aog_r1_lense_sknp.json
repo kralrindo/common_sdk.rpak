@@ -1,0 +1,40 @@
+{
+	"name": "models/weapons/attachments/aog_r1_lense",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x56000122",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0x0",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "glass",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xED1B6CE767F5BFC9",
+	"$textures": {
+		"0": "texture/models/weapons/attachments/aog_r1_lense_0.rpak",
+		"1": "texture/models/weapons/attachments/aog_r1_lense_1.rpak",
+		"2": "texture/models/weapons/attachments/aog_r1_lense_2.rpak",
+		"3": "texture/models/weapons/attachments/aog_r1_lense_3.rpak",
+		"7": "texture/models/weapons/attachments/aog_r1_lense_7.rpak"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0"
+}

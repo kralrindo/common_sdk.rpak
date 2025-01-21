@@ -1,0 +1,39 @@
+{
+	"name": "models/props/crafting_replicator/crafting_replicator_doorGlow",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x10120086",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0138086",
+		"0x138286",
+		"0xF0008286",
+		"0x0",
+		"0xF0138086",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x9",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x0",
+	"features": "0x824494C9",
+	"samplers": "0xD0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "shaderset/uberUnlitVcoltVcolaEmiOpmEDetectEntcolmeEntcolmdAefAddUv1m0tUv2m0tUv3m1tUV4123PSSamp222_rgdp.rpak", // From S6
+	"$textures": {
+		"0": "texture/world/atmosphere/godray_gradient_col.rpak",
+		"4": "texture/world/atmosphere/godray_gradient_col.rpak",
+		"7": "texture/effects/laserplane_atmosphere_opa.rpak"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

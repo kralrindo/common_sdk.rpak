@@ -1,0 +1,43 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_loba/loba_body",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000460",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "shaderset/uberTnBnInterpAoCavCbstSSTransThknsSSSScttrVbweR5AoAnisoDirAmtUv0m0PSSamp2222222222_comb_sknp.rpak",
+	"$textures": {
+		"0": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_body_col.rpak",
+		"1": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_body_nml.rpak",
+		"2": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_body_gls.rpak",
+		"3": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_body_spc.rpak",
+		"5": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_body_ao.rpak",
+		"6": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_body_cav.rpak",
+		"13": "texture/combined/[c6273fd2]loba_body_sctr[c6273fd2]loba_body_thk.rpak",
+		"15": "texture/combined/[c6273fd2]loba_body_asd[c6273fd2]loba_body_asa.rpak"
+	},
+	"$depthShadowMaterial": "0x843197B9451FCCB0",
+	"$depthPrepassMaterial": "0x3DEC3964CEFDD350",
+	"$depthVSMMaterial": "0x8C61F4E53CD86CCA",
+	"$depthShadowTightMaterial": "0x9B125DDCAB4155D9",
+	"$colpassMaterial": "0x6648B779091AD554"
+}

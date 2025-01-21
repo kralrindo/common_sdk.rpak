@@ -1,0 +1,40 @@
+{
+	"name": "models/vehicle/crow_dropship/crow_dropship_hero_02_colpass",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metal",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0xFDC8D2DCB2203C6B",
+	"$textures": {
+		"0": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_albedoTexture.rpak",
+		"1": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_normalTexture.rpak",
+		"2": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_glossTexture.rpak",
+		"3": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_specTexture.rpak",
+		"4": "texture/models/vehicle/crow_dropship/crow_dropship_hero_02_emissiveTexture.rpak"
+	},
+	"$depthShadowMaterial": "0x251FBE09EFFE8AB1",
+	"$depthPrepassMaterial": "0xE2D52641AFC77395",
+	"$depthVSMMaterial": "0xBDBF90B97E7D9280",
+	"$depthShadowTightMaterial": "0x85654E05CF9B40E7",
+	"$colpassMaterial": "0x0"
+}

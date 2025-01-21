@@ -1,0 +1,43 @@
+{
+	"name": "models/Weapons_R2/epg/epg_mag",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x56000122",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0x0",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "plastic",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x15797A5751148156",
+	"$textures": {
+		"0": "texture/models/Weapons_R2/epg/epg_mag_albedoTexture.rpak",
+		"1": "texture/models/Weapons_R2/epg/epg_mag_normalTexture.rpak",
+		"2": "texture/models/Weapons_R2/epg/epg_mag_glossTexture.rpak",
+		"3": "texture/models/Weapons_R2/epg/epg_mag_specTexture.rpak",
+		"5": "texture/models/Weapons_R2/epg/epg_mag_aoTexture.rpak",
+		"6": "texture/models/Weapons_R2/epg/epg_mag_cavityTexture.rpak",
+		"7": "texture/models/Weapons_R2/epg/epg_mag_opacityMultiplyTexture.rpak"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

@@ -1,0 +1,41 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_loba/loba_tactical",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xDDC4835C4F3A02D5",
+	"$textures": {
+		"0": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_col.rpak",
+		"1": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_nml.rpak",
+		"2": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_gls.rpak",
+		"3": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_spc.rpak",
+		"5": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_ao.rpak",
+		"6": "texture/models/humans_r5/pilots_r5/pilot_loba/loba_tactical_cav.rpak"
+	},
+	"$depthShadowMaterial": "0x4A15A65371CE538",
+	"$depthPrepassMaterial": "0x52A3C907A9952A1D",
+	"$depthVSMMaterial": "0xF6CE645FF09993E4",
+	"$depthShadowTightMaterial": "0xD9BB78F0DBA3059C",
+	"$colpassMaterial": "0x30505C4564F4A5F0"
+}

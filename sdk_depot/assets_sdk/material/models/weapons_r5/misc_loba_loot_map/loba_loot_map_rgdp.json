@@ -1,0 +1,43 @@
+{
+	"name": "models/weapons_r5/misc_loba_loot_map/loba_loot_map",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "shaderset/uberTnBnInterpEmiAoCavVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_rgdp.rpak",
+	"$textures": {
+		"0": "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col.rpak",
+		"1": "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml.rpak",
+		"2": "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls.rpak",
+		"3": "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc.rpak",
+		"4": "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_ilm.rpak",
+		"5": "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_ao.rpak",
+		"6": "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_cav.rpak",
+		"15": "texture/combined/[ab45697d]loba_loot_map_asd[ab45697d]loba_loot_map_asa.rpak"
+	},
+	"$depthShadowMaterial": "0xA804FBFADDCCC047",
+	"$depthPrepassMaterial": "0x9E4AAB588D65267E",
+	"$depthVSMMaterial": "0xB3EDD9B8EF1D43E0",
+	"$depthShadowTightMaterial": "0xFCF2176C01F350B9",
+	"$colpassMaterial": "0xB00E81383CAA262C"
+}

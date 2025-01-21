@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\sentry_turret\sentry_turret\aim_pitch.rseq
+	animseq\weapons\sentry_turret\sentry_turret\aim_yaw.rseq
+]

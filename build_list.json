@@ -1,0 +1,31 @@
+
+
+{
+    "version": 8,
+    "keepDevOnly": true,
+
+    "outputDir": "./build/",
+
+    "compressLevel": 6,
+    "compressWorkers": 16,
+
+    "streamFileMandatory": "paks/Win64/pc_sdk.starpak",
+    "streamFileOptional": "paks/Win64/pc_sdk.opt.starpak",
+    "streamCache": "cache/pc_roots.starmap",
+
+    "paks": [
+        "sdk_depot/common_sdk.json",
+        //"mp_rr_canyonlands_mu2_mv.json",
+        //"mp_rr_canyonlands_mu2_ufo.json",
+        //"mp_rr_canyonlands_mu2_tt.json",
+        //"mp_rr_canyonlands_mu2.json",
+        "map_depot/mp_lobby.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_tt.json",
+        "map_depot/mp_rr_desertlands_holiday.json",
+        "map_depot/mp_rr_desertlands_mu1.json",
+        "map_depot/mp_rr_desertlands_mu1_tt.json"//,
+        //"mp_rr_desertlands_mu2.json",
+        //"mp_rr_olympus.json",
+        //"mp_rr_olympus_tt.json"
+    ]
+}

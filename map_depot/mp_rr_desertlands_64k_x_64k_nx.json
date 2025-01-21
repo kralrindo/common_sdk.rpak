@@ -1,0 +1,31 @@
+{
+  "version": 8,
+  "keepDevOnly": true,
+  "name": "mp_rr_desertlands_64k_x_64k_nx",
+  "streamFileMandatory": "paks/Win64/mp_rr_desertlands_64k_x_64k_nx.starpak",
+  "streamFileOptional": "paks/Win64/mp_rr_desertlands_64k_x_64k_nx.opt.starpak",
+  "assetsDir": "map_depot/assetss3/",
+  "outputDir": "./build/",
+  "compressLevel": 6,
+  "compressWorkers": 16,
+  "files": [
+    {
+      "_type": "mdl_",
+      "_path": "mdl/lamps/search_light_on_godray_01.rmdl"
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/overviews/mp_rr_desertlands_64k_x_64k_nx",
+      "atlas": "texture/ui_atlas/overviews/mp_rr_desertlands_64k_x_64k_nx.rpak",
+      "images": [
+        {
+          "path": "overviews/mp_rr_desertlands_64k_x_64k_nx",
+          "width": 4100,
+          "height": 4100,
+          "posX": 0,
+          "posY": 0
+        }
+      ]
+    }
+  ]
+}

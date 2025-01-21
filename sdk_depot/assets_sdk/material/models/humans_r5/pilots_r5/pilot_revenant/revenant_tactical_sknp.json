@@ -1,0 +1,41 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x56100420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xB6881CF04941246E",
+	"$textures": {
+		"0": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical_col.rpak",
+		"1": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical_nml.rpak",
+		"2": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical_gls.rpak",
+		"3": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical_spc.rpak",
+		"5": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical_ao.rpak",
+		"6": "texture/models/humans_r5/pilots_r5/pilot_revenant/revenant_tactical_cav.rpak"
+	},
+	"$depthShadowMaterial": "0x33E3F17F4246670D",
+	"$depthPrepassMaterial": "0x90EB921297B74850",
+	"$depthVSMMaterial": "0x3CAE30C40E3F8CF6",
+	"$depthShadowTightMaterial": "0x9A646DCF932C6E5B",
+	"$colpassMaterial": "0x283887DD1B9E8B4E"
+}

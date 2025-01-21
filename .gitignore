@@ -1,6 +1,14 @@
-
-/test
-R5Reloaded Asset Rpaks.7z
-*.exe
-*.rpak
-*.starpak
+/assetss3
+/assetss4
+/assetss5
+/assetss6
+/assetss7
+/build
+/assets_common
+/map_depot/assetss5
+/map_depot/assetss4
+/map_depot/assetss6
+/map_depot/assetss7
+/map_depot/assetss3
+/map_depot/assetss8
+/map_depot/assetss10

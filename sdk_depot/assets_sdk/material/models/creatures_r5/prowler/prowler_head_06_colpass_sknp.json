@@ -1,0 +1,42 @@
+{
+	"name": "models/creatures_r5/prowler/prowler_head_06_colpass",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000460",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "shaderset/uberTnBnInterpAoCavCbstSSTransThknsSSSScttrVbweR5AoUv0m0PSSamp22222222_comb_sknp.rpak",
+	"$textures": {
+		"0": "texture/models/creatures_r5/prowler/prowler_head_06_albedoTexture.rpak",
+		"1": "texture/models/creatures_r5/prowler/prowler_head_06_normalTexture.rpak",
+		"2": "texture/models/creatures_r5/prowler/prowler_head_06_glossTexture.rpak",
+		"3": "texture/models/creatures_r5/prowler/prowler_head_06_specTexture.rpak",
+		"5": "texture/models/creatures_r5/prowler/prowler_head_06_aoTexture.rpak",
+		"6": "texture/models/creatures_r5/prowler/prowler_head_06_cavityTexture.rpak",
+		"13": "texture/models/creatures_r5/prowler/prowler_head_06_scatterThicknessTexture.rpak"
+	},
+	"$depthShadowMaterial": "0xDC35747627167711",
+	"$depthPrepassMaterial": "0x95D0141904A2B6DD",
+	"$depthVSMMaterial": "0xAA034B88714653F7",
+	"$depthShadowTightMaterial": "0xDB731A02EBA99194",
+	"$colpassMaterial": "0x0"
+}

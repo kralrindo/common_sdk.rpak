@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\props\crafting_siphon\crafting_siphon\source_empty_idle.rseq
+	animseq\props\crafting_siphon\crafting_siphon\source_empty_to_full.rseq
+	animseq\props\crafting_siphon\crafting_siphon\source_full_idle.rseq
+	animseq\props\crafting_siphon\crafting_siphon\source_full_to_empty.rseq
+]

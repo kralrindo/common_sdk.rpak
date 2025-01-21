@@ -1,0 +1,39 @@
+{
+	"name": "models/vehicle/crow_dropship/crow_dropship_hero_03",
+	"width": 256,
+	"height": 256,
+	"depth": 0,
+	"glueFlags": "0x56000026",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138086",
+		"0x138286",
+		"0xF0008286",
+		"0x0",
+		"0xF0138086",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "glass",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0xFDC8D2DCB2203C6B",
+	"$textures": {
+		"0": "texture/models/vehicle/crow_dropship/crow_dropship_hero_03_albedoTexture.rpak",
+		"1": "texture/models/vehicle/crow_dropship/crow_dropship_hero_03_normalTexture.rpak",
+		"2": "texture/models/vehicle/crow_dropship/crow_dropship_hero_03_glossTexture.rpak",
+		"3": "texture/models/vehicle/crow_dropship/crow_dropship_hero_03_specTexture.rpak"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0"
+}

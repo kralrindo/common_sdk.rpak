@@ -1,0 +1,29 @@
+{
+  "$mapversion": 1,
+  "version": 8,
+
+  "assetsDir": "map_depot/assets_common",
+  "outputDir": ".\\build\\",
+
+  "compressLevel": 6,
+  "compressWorkers": 16,
+
+  "name": "mp_rr_olympus_tt_loadscreen",
+
+  "files": [
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/loadscreens/mp_rr_olympus_tt_widescreen",
+      "atlas": "texture/ui_atlas/loadscreens/mp_rr_olympus_tt_widescreen.rpak",
+      "images": [
+        {
+          "path": "loadscreens/mp_rr_olympus_tt_widescreen",
+          "width": 2560,
+          "height": 1440,
+          "posX": 0,
+          "posY": 0
+        }
+      ]
+    }
+  ]
+}
