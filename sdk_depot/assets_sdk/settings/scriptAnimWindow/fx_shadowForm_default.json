@@ -1,0 +1,7 @@
+"settings/scriptAnimWindow/fx_shadowForm_default.rpak"
+{
+	assetName "settings/scriptAnimWindow/fx_shadowForm_default.rpak"
+	type "ShadowFormFX"
+	fadeOutDuration 0.25
+	fadeAlphaIN 0
+}

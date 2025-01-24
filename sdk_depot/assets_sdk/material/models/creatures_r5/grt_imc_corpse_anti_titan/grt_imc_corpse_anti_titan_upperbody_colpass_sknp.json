@@ -1,0 +1,41 @@
+{
+	"name": "models/creatures_r5/grt_imc_corpse_anti_titan/grt_imc_corpse_anti_titan_upperbody_colpass",
+	"width": 1024,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x9831D502CC037F72",
+	"$textures": {
+		"0": "0x63D972590DDA090A",
+		"1": "0x7851172C5A862DD6",
+		"2": "0x81580E8198E12581",
+		"3": "0x483F74FD6794E91E",
+		"5": "0x3D1F362A2302D14F"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

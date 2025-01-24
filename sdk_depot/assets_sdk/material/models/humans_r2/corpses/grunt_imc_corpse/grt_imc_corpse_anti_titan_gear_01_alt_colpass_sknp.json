@@ -1,0 +1,40 @@
+{
+	"name": "models/humans_r2/corpses/grunt_imc_corpse/grt_imc_corpse_anti_titan_gear_01_alt_colpass",
+	"width": 2048,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x8704122E876D6765",
+	"$textures": {
+		"0": "0x6153A19406576437",
+		"1": "0x58132B009B1834F5",
+		"2": "0x9A2DECBC446FA341",
+		"3": "0xC6E0C7C769598DBE"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

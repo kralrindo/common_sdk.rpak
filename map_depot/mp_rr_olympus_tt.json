@@ -7705,10 +7705,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/maps/mp_rr_olympus/cubemaps.hdr.rpak"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x11E57C7ED1FDD55F.rpak",
       "$guid": "0x11E57C7ED1FDD55F"
     },

@@ -1,0 +1,40 @@
+{
+	"name": "models/humans_r2/corpses/grunt_imc_corpse/grt_imc_corpse_anti_titan_headgear_01",
+	"width": 2048,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x8704122E876D6765",
+	"$textures": {
+		"0": "0x11167085BC59815F",
+		"1": "0x86FDC0B12BF5619",
+		"2": "0x4A8A9DC6C24A9A56",
+		"3": "0x773D78D1F39C30B5"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0xC58C41323F8EE0AD",
+	"$textureAnimation": "0x0"
+}

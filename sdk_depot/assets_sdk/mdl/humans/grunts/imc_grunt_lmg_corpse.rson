@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\humans\grunts\grunts_corpse_poses.rrig
+	animrig\humans\pete\ai_infected_core.rrig
+]
+seqs:
+[
+]
