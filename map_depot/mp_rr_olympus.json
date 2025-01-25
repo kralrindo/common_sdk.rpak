@@ -34258,7 +34258,7 @@
         "animseq/door/door_256x256x8_elevatorstyle01_animated/open.rseq"
       ]
     },
-    /*{
+    {
       "_type": "arig",
       "_path": "animrig/robots/marvin/marvin_base_v2.rrig",
       "$sequences": [
@@ -34296,9 +34296,12 @@
         "animseq/robots/marvin/marvin_base_v2/mrvn_turn_90R.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_underworld_bartender.rseq",
         "animseq/robots/marvin/marvin_base_v2/mrvn_underworld_idle.rseq",
-        "animseq/robots/marvin/marvin_base_v2/mrvn_underworld_wave.rseq"
+        "animseq/robots/marvin/marvin_base_v2/mrvn_underworld_wave.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_slotmachine_handle.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_slotmachine_bigwave.rseq",
+        "animseq/robots/marvin/marvin_base_v2/mrvn_loot_slotmachine_idle.rseq"
       ]
-    },*/
+    },
     {
       "_type": "mdl_",
       "_path": "mdl/beacon/crane_room_monitor_console_static_off.rmdl"
@@ -34321,10 +34324,10 @@
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/robots/marvin/marvin_base_v2.rmdl"/*,
+      "_path": "mdl/robots/marvin/marvin_base_v2.rmdl",
       "$animrigs": [
         "animrig/robots/marvin/marvin_base_v2.rrig"
-      ]*/
+      ]
     },
     {
       "_type": "mdl_",

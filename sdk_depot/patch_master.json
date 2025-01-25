@@ -160,46 +160,6 @@
         {
           "name": "mp_rr_canyonlands_staging.rpak",
           "version": 1
-        },
-        {
-          "name": "subtitles_english.rpak",
-          "version": 0
-        },
-        {
-          "name": "subtitles_french.rpak",
-          "version": 1
-        },
-        {
-          "name": "subtitles_german.rpak",
-          "version": 1
-        },
-        {
-          "name": "subtitles_italian.rpak",
-          "version": 1
-        },
-        {
-          "name": "subtitles_korean.rpak",
-          "version": 1
-        },
-        {
-          "name": "subtitles_polish.rpak",
-          "version": 1
-        },
-        {
-          "name": "subtitles_russian.rpak",
-          "version": 1
-        },
-        {
-          "name": "subtitles_schinese.rpak",
-          "version": 1
-        },
-        {
-          "name": "subtitles_spanish.rpak",
-          "version": 1
-        },
-        {
-          "name": "subtitles_tchinese.rpak",
-          "version": 1
         }
       ]
     }
