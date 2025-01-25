@@ -1,0 +1,41 @@
+{
+	"name": "models/humans_r5/pilot_proxy_r5/generic_proxy/generic_proxy_revernant_gcard_colpass",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0x229B2B49B59E73B8",
+	"$textures": {
+		"0": "0x819E39AE1887E647",
+		"1": "0x77C3E101EBA3B309",
+		"2": "0xC26AAAFF2B114147",
+		"3": "0x556001E2EBAFD73E",
+		"9": "0x6FC63BE0D0EE5126"
+	},
+	"$depthShadowMaterial": "0x251FBE09EFFE8AB1",
+	"$depthPrepassMaterial": "0xE2D52641AFC77395",
+	"$depthVSMMaterial": "0xBDBF90B97E7D9280",
+	"$depthShadowTightMaterial": "0x85654E05CF9B40E7",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

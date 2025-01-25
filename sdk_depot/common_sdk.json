@@ -165,6 +165,16 @@
       "$guid": "0x9086354ADDD736A1"
     },
     {
+      "_type": "shdr",
+      "_path": "shader/0x6BB0ED4E60F4BF7B",
+      "$guid": "0x6BB0ED4E60F4BF7B"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x229B2B49B59E73B8.rpak",
+      "$guid": "0x229B2B49B59E73B8"
+    },
+    {
       "_type": "shds",
       "_path": "shaderset/0xE22530BA6351A74E.rpak",
       "$guid": "0xE22530BA6351A74E"
@@ -298,6 +308,46 @@
       "_type": "shds",
       "_path": "shaderset/0xCFED363E8F48E0B6.rpak",
       "$guid": "0xCFED363E8F48E0B6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6BBAA50ABA911F2.rpak",
+      "$guid": "0x6BBAA50ABA911F2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6FC63BE0D0EE5126.rpak",
+      "$guid": "0x6FC63BE0D0EE5126"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x755A992B9F10D673.rpak",
+      "$guid": "0x755A992B9F10D673"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x97E35AE97FE10B8A.rpak",
+      "$guid": "0x97E35AE97FE10B8A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAAE01146DC2E8686.rpak",
+      "$guid": "0xAAE01146DC2E8686"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCC8E03F8158827ED.rpak",
+      "$guid": "0xCC8E03F8158827ED"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD0E746B32B106633.rpak",
+      "$guid": "0xD0E746B32B106633"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFAF9B3E4545132F3.rpak",
+      "$guid": "0xFAF9B3E4545132F3"
     },
     {
       "_type": "txtr",
@@ -583,6 +633,14 @@
       "_type": "txtr",
       "_path": "texture/0xFF29111E80A6836E.rpak",
       "$guid": "0xFF29111E80A6836E"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilot_proxy_r5/generic_proxy/generic_proxy_revernant_gcard_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilot_proxy_r5/generic_proxy/generic_proxy_revernant_gcard_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -5441,6 +5499,21 @@
     {
       "_type": "mdl_",
       "_path": "mdl/weapons_r5/misc_revenant_grenade/projectile_revenant_grenade.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/revenant_gladcards/revenant_gc_contemplation_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/revenant_gladcards/revenant_gc_patience_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/revenant_totem/revenant_totem_glad_card.rmdl",
+      "$sequences": [
+        "animseq/props/revenant_totem/revenant_totem/totem_gladcard_static_reverence.rseq"
+      ]
     },
     {
       "_type": "mdl_",
