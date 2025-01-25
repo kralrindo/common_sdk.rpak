@@ -32,7 +32,7 @@ Txan is required for animated ptcu/ptcs materials, it controls the texture array
 ```json
 {
     "_type": "txan", 
-    "_path": "texture_anim/(txan path).rpak"  //TXAN file path
+    "_path": "texture_anim/(txan path).rpak"
 }
 ``` 
 ## DTBL Assets  
@@ -42,8 +42,8 @@ We recommend structuring your CSV files with proper headers to ensure they are i
   
 ```json
 {
-    "_type": "dtbl",  //Asset Type, in this case dtbl (datatable)
-    "_path": "datatable/(datatable path).rpak"  //CSV file path
+    "_type": "dtbl",
+    "_path": "datatable/(datatable path).rpak"
 }
 ```
   
@@ -52,11 +52,11 @@ ShaderSets are used to define the set of shaders for materials, which control ho
   
 ```json
 {
-    "_type": "shds",  //Asset Type, in this case, 'shds' for ShaderSet
-    "_path": "shaderset/uberTnBnInterpAoCavOpmCbstCutVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"  //Path to the ShaderSet .msw file
+    "_type": "shds",
+    "_path": "shaderset/uberTnBnInterpAoCavOpmCbstCutVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"
 }
 ```
-  
+ 
 Key Fields:  
 _type: This specifies the asset type. For ShaderSets.  
 _path: The file path to the ShaderSet asset (e.g., "shaderset/uberTnBnInterpAoCavOpmCbstCutVbweR5AoAnisoDirAmtUv0m0PSSamp222222222_sknp.rpak"). This path points to the .msw file that contains the compiled ShaderSet, which is used by materials in the game.  
@@ -64,6 +64,17 @@ _path: The file path to the ShaderSet asset (e.g., "shaderset/uberTnBnInterpAoCa
 Additional Considerations:  
 Exporting with RSX: ShaderSets need to be exported using the RSX tool to ensure that the .msw file is correctly compiled.  
 If the ShaderSet doesn't already exist in the R5Reloaded build, it needs to be explicitly referenced and included in the main RPak JSON.  
+ 
+## SHDS Assets 
+SHDR (Shader) assets are individual shaders used in rendering pipelines. They contain the code and data that determine how objects or materials are drawn in the 3D environment. 
+SHDR assets are typically referenced by ShaderSets (SHDS), but they can also be used on their own for overwriting already exist shaders in the r5reloaded build. 
+ 
+```json
+{
+    "_type": "shdr",
+    "_path": "shader/uberAoCavOpmTransUv0m0Samp2222222_lprobe_ps.rpak"
+}
+```
   
 ## TXTR Assets  
 This asset type is being used to add .dds type textures into the rpak, it's not being required to add if texture path is correct in the material json.  
@@ -72,8 +83,8 @@ We strongly recommend using mipmapped textures for better performance and better
   
 ```json
 {
-    "_type": "txtr", //Asset Type, in this case txtr which is texture
-    "_path": "texture/(texture path).rpak"  //DDS file path
+    "_type": "txtr",
+    "_path": "texture/(texture path).rpak"
 }
 ```
   
@@ -110,8 +121,8 @@ This is an example of how a material asset is referenced in the main RPak JSON.
   
 ```json
 {
-    "_type": "matl",  //Asset Type (Material)
-    "_path": "material/models/Weapons_R2/epg/epg_mag_sknp.rpak"  //Path to the material .rpak file
+    "_type": "matl",
+    "_path": "material/models/Weapons_R2/epg/epg_mag_sknp.rpak"
 }
 ```
   
@@ -214,8 +225,8 @@ This is an example of how an animation rig (.rrig) is referenced in the main RPa
   
 ```json
 {
-    "_type": "arig",  //Asset Type (Animation Rig)
-    "_path": "animrig/robots/drone_air_attack/drone_air_attack_plasma.rrig", //Path to the animation rig file
+    "_type": "arig",
+    "_path": "animrig/robots/drone_air_attack/drone_air_attack_plasma.rrig",
     "$sequences": [
         "animseq/robots/drone_air_attack/drone_air_attack_plasma/aim_layer.rseq",
         "animseq/robots/drone_air_attack/drone_air_attack_plasma/aim_run.rseq",
@@ -244,8 +255,8 @@ It is essential to not rename the .rseq files. Renaming these files will cause a
   
 ```json
 {
-    "_type": "rseq",  //Asset Type, in this case 'rseq' for animation sequences
-    "_path": "animseq/props/testanimfolder/close_idle.rseq"  //Path to the animation sequence file
+    "_type": "rseq",
+    "_path": "animseq/props/testanimfolder/close_idle.rseq"
 }
 ```
   
@@ -257,12 +268,12 @@ This asset type is used to define 3D models (RMDL) within the RPak. These models
   
 ```json
 {
-    "_type": "mdl_",  //Asset Type, in this case mdl_ (model)
-    "_path": "mdl/props/kralstest/thisisa_testprop.rmdl",  //Path to the model file
-    "$animrigs": [  //Optional: Path to animation rigs for this model
+    "_type": "mdl_",
+    "_path": "mdl/props/kralstest/thisisa_testprop.rmdl",
+    "$animrigs": [
         "animrig/props/prowler_hatch_tt/prowler_hatch_tt.rrig"
     ],
-    "$sequences": [  //Optional: Animation sequences for the model
+    "$sequences": [
         "animseq/props/prowler_hatch_tt/close.rseq",
         "animseq/props/prowler_hatch_tt/close_idle.rseq",
         "animseq/props/prowler_hatch_tt/open.rseq",
