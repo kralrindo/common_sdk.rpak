@@ -65,7 +65,7 @@ Additional Considerations:
 Exporting with RSX: ShaderSets need to be exported using the RSX tool to ensure that the .msw file is correctly compiled.  
 If the ShaderSet doesn't already exist in the R5Reloaded build, it needs to be explicitly referenced and included in the main RPak JSON.  
  
-## SHDS Assets 
+## SHDR Assets 
 SHDR (Shader) assets are individual shaders used in rendering pipelines. They contain the code and data that determine how objects or materials are drawn in the 3D environment. 
 SHDR assets are typically referenced by ShaderSets (SHDS), but they can also be used on their own for overwriting already exist shaders in the r5reloaded build. 
  
