@@ -1,0 +1,42 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_revenant/skins/nordic_rc_red/revenant_fur_nordic_rc_red",
+	"width": 2048,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000460",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xB849A371F3847963",
+	"$textures": {
+		"0": "0xF8227269A22373AD",
+		"1": "0x4C963C4EC516A2E7",
+		"2": "0x961184D18B9BF479",
+		"3": "0xFB2A2A36EFF306B2",
+		"5": "0x23A07ABFCD4FFE5F",
+		"6": "0xB91BB71322881151"
+	},
+	"$depthShadowMaterial": "0xE1509A4BBC0C85EF",
+	"$depthPrepassMaterial": "0x4520DAC865625615",
+	"$depthVSMMaterial": "0x55BC4880536A5711",
+	"$depthShadowTightMaterial": "0xABB91386A648E262",
+	"$colpassMaterial": "0xC27811457A252520",
+	"$textureAnimation": "0x0"
+}

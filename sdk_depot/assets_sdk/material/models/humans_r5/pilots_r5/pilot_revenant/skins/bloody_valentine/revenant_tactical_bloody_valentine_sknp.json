@@ -1,0 +1,43 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_revenant/skins/bloody_valentine/revenant_tactical_bloody_valentine",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x56100420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x154EEC81714924CF",
+	"$textures": {
+		"0": "0xE409A9E602D463B4",
+		"1": "0xDC96D99DA2FEFE86",
+		"2": "0x1EB19B594C566CD2",
+		"3": "0x4B6476648A0FAF13",
+		"4": "0xA230A3320B201F85",
+		"5": "0x95D2410BC5D38DE8",
+		"6": "0x2F541810DDF4F634"
+	},
+	"$depthShadowMaterial": "0x544D3D46B84A31D9",
+	"$depthPrepassMaterial": "0xA5B66609A23371EA",
+	"$depthVSMMaterial": "0x28E19861E9D0749B",
+	"$depthShadowTightMaterial": "0x42137B5C246A1D7E",
+	"$colpassMaterial": "0x54BB79BD7477AE4C",
+	"$textureAnimation": "0x0"
+}

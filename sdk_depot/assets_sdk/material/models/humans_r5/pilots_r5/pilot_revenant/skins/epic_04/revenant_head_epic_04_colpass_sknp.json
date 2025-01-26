@@ -1,0 +1,43 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_revenant/skins/epic_04/revenant_head_epic_04_colpass",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x561004a0",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x2CDD8826B5F21357",
+	"$textures": {
+		"0": "0xA17C8195475F2905",
+		"1": "0x192943723CF82CF4",
+		"2": "0x5B44052DBAE4C1A9",
+		"3": "0x8595932D1B108375",
+		"4": "0xE12A956A7E8FC7E5",
+		"5": "0x6FCF540251D0EEAA",
+		"6": "0x356CBFA8883C318C"
+	},
+	"$depthShadowMaterial": "0x5BA200BCAA35B89E",
+	"$depthPrepassMaterial": "0xFE340AA9FEEF8E7D",
+	"$depthVSMMaterial": "0xEEA289C5235C6083",
+	"$depthShadowTightMaterial": "0x300AFDCE792310A3",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

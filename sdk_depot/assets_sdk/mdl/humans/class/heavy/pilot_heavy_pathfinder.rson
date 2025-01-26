@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\humans\class\heavy\mp_pilot_heavy_core.rrig
+	animrig\humans\class\heavy\pilot_heavy_pathfinder.rrig
+]
+seqs:
+[
+]

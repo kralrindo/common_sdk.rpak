@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\weapons\arms\pov_mp_core.rrig
+	animrig\weapons\arms\pov_pilot_heavy_revenant.rrig
+]
+seqs:
+[
+]

@@ -1,0 +1,28 @@
+{
+	"streamLayout": [
+		"permanent",
+		"permanent",
+		"permanent",
+		"permanent",
+		"permanent",
+		"permanent",
+		"permanent",
+		"mandatory",
+		"optional",
+		"optional"
+	],
+	"mipInfo": [
+		30,
+		31,
+		36,
+		41,
+		47,
+		52,
+		58,
+		67,
+		65,
+		255
+	],
+	"resourceFlags": "0x0",
+	"usageFlags": "0x0"
+}

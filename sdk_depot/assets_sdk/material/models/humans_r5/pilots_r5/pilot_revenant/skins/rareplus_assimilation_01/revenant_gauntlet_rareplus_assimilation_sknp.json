@@ -1,0 +1,42 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_revenant/skins/rareplus_assimilation_01/revenant_gauntlet_rareplus_assimilation",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x4A6203898AA61AB2",
+	"$textures": {
+		"0": "0x90CAD96E78FAF31E",
+		"1": "0x6450E3D9BA7DDDC7",
+		"2": "0x9A254777414A5F77",
+		"3": "0x2DB48073BD5A2379",
+		"5": "0xC99951A62E09C381",
+		"6": "0x7C591C4975BF4558"
+	},
+	"$depthShadowMaterial": "0x2240C34670EB146D",
+	"$depthPrepassMaterial": "0x4F78C665D5D5A7D0",
+	"$depthVSMMaterial": "0x8CFAB7E92262100E",
+	"$depthShadowTightMaterial": "0xC3B022CF77E2BC53",
+	"$colpassMaterial": "0x8B4F6E8C8C767C1",
+	"$textureAnimation": "0x0"
+}

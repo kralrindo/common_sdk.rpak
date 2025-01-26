@@ -1,0 +1,41 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_revenant/skins/egyptian_rc_orange/revenant_gauntlet_egyptian_rc_orange_colpass",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56100420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x5AEC6232B138DAED",
+	"$textures": {
+		"0": "0x165C3E8CE7FC1E41",
+		"1": "0x230925C2EB984DD8",
+		"2": "0x6523E77E63510C9C",
+		"3": "0x91D6C289C6415283",
+		"5": "0x2A651150B3650748"
+	},
+	"$depthShadowMaterial": "0x50FD14F4D5873515",
+	"$depthPrepassMaterial": "0x4D281C8CF837E291",
+	"$depthVSMMaterial": "0xAAAD5F0CA174D27B",
+	"$depthShadowTightMaterial": "0x3E1CB913A7FBBF13",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

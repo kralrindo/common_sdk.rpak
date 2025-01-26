@@ -1,0 +1,15 @@
+{
+    "size": 324,
+    "elementCount": 1,
+
+    "subLayouts": [
+        {
+            "path": "settings_layout/settings_itemtype_character_layout_sub0.csv",
+            "size": 324
+        },
+        {
+            "path": "settings_layout/settings_itemtype_character_layout_sub1.csv",
+            "size": 324
+        }
+    ]
+}
