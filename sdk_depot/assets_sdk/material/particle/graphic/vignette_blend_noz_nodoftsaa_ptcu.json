@@ -1,0 +1,37 @@
+{
+	"name": "particle/graphic/vignette_blend_noz_nodoftsaa",
+	"width": 720,
+	"height": 720,
+	"depth": 0,
+	"glueFlags": "0x8082",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x7",
+	"depthStencilFlags": "0x0",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x4",
+	"features": "0x75C8DF6F",
+	"samplers": "0x1D02",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "ptcu",
+	"shaderSet": "0x1D6C3F1118FA6881",
+	"$textures": {
+		"0": "0x4E0B8AE47BFC2F3B"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

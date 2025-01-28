@@ -300,6 +300,26 @@
       "$guid": "0xFB10BE177AAC4ADF"
     },
     {
+      "_type": "shdr",
+      "_path": "shader/0x11EC1D77D05055E0.rpak",
+      "$guid": "0x11EC1D77D05055E0"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xF5F6F60C3FA4E29E.rpak",
+      "$guid": "0xF5F6F60C3FA4E29E"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x1D6C3F1118FA6881.rpak",
+      "$guid": "0x1D6C3F1118FA6881"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x817504D4CA9EFBBB.rpak",
+      "$guid": "0x817504D4CA9EFBBB"
+    },
+    {
       "_type": "shds",
       "_path": "shaderset/0x154EEC81714924CF.rpak",
       "$guid": "0x154EEC81714924CF"
@@ -3538,6 +3558,14 @@
       "_type": "txtr",
       "_path": "texture/0xFF29111E80A6836E.rpak",
       "$guid": "0xFF29111E80A6836E"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/Energy/energy_burn_loop_blend_noz_nodof_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/graphic/vignette_blend_noz_nodoftsaa_ptcu.rpak"
     },
     {
       "_type": "matl",
@@ -12148,10 +12176,10 @@
       "_type": "mdl_",
       "_path": "mdl/Weapons/empty_hands/ptpov_empty_hands.rmdl"
     },
-    /*{
+    {
       "_type": "mdl_",
-      "_path": "mdl/hud/grenade_indicator/grenade_indicator_shuriken.rmdl" //Replace the model when season 6 rmdls fixed
-    },*/
+      "_path": "mdl/hud/grenade_indicator/grenade_indicator_shuriken.rmdl"
+    },
     {
       "_type": "mdl_",
       "_path": "mdl/weapons/ported/ptpov_lmg_flamethrower.rmdl",
