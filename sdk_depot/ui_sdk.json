@@ -12,6 +12,146 @@
   "files": [
     {
       "_type": "uimg",
+      "_path": "ui_image_atlas/rui/gamemodes/shadow_squad",
+      "atlas": "texture/ui_atlas/rui/gamemodes/shadow_squad/shadowfall.rpak",
+      "images": [
+        {
+          "path": "rui/gamemodes/shadow_squad/player_info_custom_treatment_sdk",
+          "posX": 14,
+          "posY": 14,
+          "width": 401,
+          "height": 113
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/generic_shadow_character_sdk",
+          "posX": 14,
+          "posY": 155,
+          "width": 390,
+          "height": 208
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/shadow_icon_orange_sdk",
+          "posX": 14,
+          "posY": 391,
+          "width": 256,
+          "height": 232
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/shadow_icon_spawn_sdk",
+          "posX": 443,
+          "posY": 14,
+          "width": 236,
+          "height": 250
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/shadow_icon_spawn_temp_sdk",
+          "posX": 432,
+          "posY": 292,
+          "width": 236,
+          "height": 250
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/legend_ico_sdk",
+          "posX": 707,
+          "posY": 14,
+          "width": 237,
+          "height": 226
+        },
+        {
+          "path": "rui/hud/gametype_icons/ltm/deathpos_skull_legend_sdk",
+          "posX": 707,
+          "posY": 268,
+          "width": 128,
+          "height": 106
+        },
+        {
+          "path": "rui/hud/gametype_icons/ltm/enemy_nemesis_sdk",
+          "posX": 696,
+          "posY": 402,
+          "width": 127,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/gametype_icons/ltm/enemy_nemesis_color_sdk",
+          "posX": 14,
+          "posY": 651,
+          "width": 127,
+          "height": 128
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/shadow_icon_small_sdk",
+          "posX": 169,
+          "posY": 651,
+          "width": 128,
+          "height": 115
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/evac_countdown_sdk",
+          "posX": 325,
+          "posY": 570,
+          "width": 113,
+          "height": 127
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/icon_direction_pointer_outline_sdk",
+          "posX": 696,
+          "posY": 558,
+          "width": 123,
+          "height": 72
+        },
+        {
+          "path": "rui/hud/gametype_icons/ltm/deathpos_skull_default_sdk",
+          "posX": 851,
+          "posY": 402,
+          "width": 93,
+          "height": 111
+        },
+        {
+          "path": "rui/hud/gametype_icons/ltm/deathpos_skull_default_color_sdk",
+          "posX": 851,
+          "posY": 541,
+          "width": 93,
+          "height": 111
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/shadow_fire_glow_tile_sdk",
+          "posX": 466,
+          "posY": 680,
+          "width": 93,
+          "height": 93
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/legend_icon_small_shadow_sdk",
+          "posX": 863,
+          "posY": 268,
+          "width": 64,
+          "height": 64
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/legend_icon_small_sdk",
+          "posX": 587,
+          "posY": 570,
+          "width": 61,
+          "height": 58
+        },
+        {
+          "path": "rui/hud/unitframes/shadow_squad/unitframe_shadow_squad_border_sdk",
+          "posX": 325,
+          "posY": 725,
+          "width": 56,
+          "height": 48
+        },
+        {
+          "path": "rui/hud/unitframes/shadow_squad/unitframe_shadow_squad_mask_sdk",
+          "posX": 587,
+          "posY": 656,
+          "width": 56,
+          "height": 48
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
       "_path": "ui_image_atlas/rui/promo/promoatlas",
       "atlas": "texture/ui_atlas/rui/promo/promoatlas.rpak",
       "images": [
