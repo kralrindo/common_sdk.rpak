@@ -556,66 +556,66 @@
 		  "images": [
 			{
 			  "path": "rui/ordnance_icons/grenade_cryo",
-			  "posX": 7,
-			  "posY": 7,
-			  "width": 512,
-			  "height": 512
+        "posX": 14,
+        "posY": 14,
+        "width": 512,
+        "height": 512
 			},
 			{
 			  "path": "rui/hud/ultimate_icons/ultimate_vantage",
-			  "posX": 533,
-			  "posY": 7,
-			  "width": 512,
-			  "height": 512
+        "posX": 554,
+        "posY": 14,
+        "width": 512,
+        "height": 512
 			},
 			{
 			  "path": "rui/pilot_loadout/mods/hopup_kickback",
-			  "posX": 1059,
-			  "posY": 201,
-			  "width": 160,
-			  "height": 160
+        "posX": 222,
+        "posY": 554,
+        "width": 160,
+        "height": 160
 			},
 			{
 			  "path": "rui/hud/tactical_icons/pilot_tactical_3dash",
-			  "posX": 1059,
-			  "posY": 375,
-			  "width": 128,
-			  "height": 128
-			},
-			{
-			  "path": "rui/hud/grenade/impulse_grenade",
-			  "posX": 1433,
-			  "posY": 16,
-			  "width": 128,
-			  "height": 128
+        "posX": 770,
+        "posY": 554,
+        "width": 128,
+        "height": 128
 			},
 			{
 			  "path": "rui/hud/tactical_icons/pilot_tactical_particle_wall",
-			  "posX": 1201,
-			  "posY": 375,
-			  "width": 128,
-			  "height": 128
+        "posX": 926,
+        "posY": 554,
+        "width": 128,
+        "height": 128
 			},
 			{
 			  "path": "rui/hud/custom_badges/r5r_badge",
-			  "posX": 1253,
-			  "posY": 7,
-			  "width": 128,
-			  "height": 128
+        "posX": 14,
+        "posY": 762,
+        "width": 128,
+        "height": 128
 			},
 			{
 			  "path": "rui/pilot_loadout/ordnance/satchel",
-			  "posX": 1253,
-			  "posY": 149,
-			  "width": 128,
-			  "height": 128
+        "posX": 170,
+        "posY": 762,
+        "width": 128,
+        "height": 128
 			},
-			{
-			  "path": "rui/flowstate_custom/mkos/controller",
-			  "posX": 17,
-			  "posY": 502,
-			  "width": 84,
-			  "height": 65
+      {
+        "path": "rui/pilot_loadout/mods/sniper_mag",
+        "posX": 590,
+        "posY": 554,
+        "width": 152,
+        "height": 152
+      },
+      {
+        "path": "rui/pilot_loadout/mods/empty_mag_sniper",
+        "posX": 410,
+        "posY": 554,
+        "width": 152,
+        "height": 152
       }
     ]
   },
