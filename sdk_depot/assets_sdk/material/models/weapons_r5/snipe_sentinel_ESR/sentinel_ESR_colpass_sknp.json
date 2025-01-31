@@ -24,21 +24,22 @@
 	"surfaceProp": "Wpn_Sniper",
 	"surfaceProp2": "",
 	"shaderType": "sknp",
-	"shaderSet": "shaderset/uberTnBnInterpEmiAoCavEmlEntcolmeUvd2R5AoUv0m0Uv1m0dtUv2m0tUV3000000012PSSamp222222222_sknp.rpak",
+	"shaderSet": "0xC1E30DF6EEFC58DB",
 	"$textures": {
-		"0": "texture/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_albedoTexture.rpak",
-		"1": "texture/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_normalTexture.rpak",
-		"2": "texture/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_glossTexture.rpak",
-		"3": "texture/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_specTexture.rpak",
-		"4": "texture/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_emissiveTexture.rpak",
-		"5": "texture/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_aoTexture.rpak",
-		"6": "texture/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_cavityTexture.rpak",
-		"10": "texture/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_emissiveMultiplyTexture.rpak",
-		"12": "texture/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_uvDistortion2Texture.rpak"
+		"0": "0x25870044836E713D",
+		"1": "0x387DEFD99B5C2ED6",
+		"2": "0x42B8AB60BA0AB798",
+		"3": "0x9A011DC88BE7B35",
+		"4": "0x3EDA461D99B87291",
+		"5": "0x94A61F2F941D9317",
+		"6": "0xB3C6D3B038BA1918",
+		"10": "0x371C0392B15A558A",
+		"12": "0xA716488B638D3F3F"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
 	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
 	"$depthShadowTightMaterial": "0x227C27B608B3646B",
-	"$colpassMaterial": "0x0"
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
 }

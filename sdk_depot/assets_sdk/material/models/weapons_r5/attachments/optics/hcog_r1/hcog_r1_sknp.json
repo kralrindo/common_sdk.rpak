@@ -1,0 +1,42 @@
+{
+	"name": "models/weapons_r5/attachments/optics/hcog_r1/hcog_r1",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "weapon",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xB0DE1871E23BC0A6",
+	"$textures": {
+		"0": "0x9EBA0B8CD4F1F372",
+		"1": "0x71F324EB5ECCA8EF",
+		"2": "0xA7C78888E5992A9F",
+		"3": "0x3C3D94AB002D2B6F",
+		"4": "0x19B4D2ED2590CC49",
+		"5": "0x6E33C4493654483C"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0xED853B7E5013ABAA",
+	"$textureAnimation": "0x0"
+}

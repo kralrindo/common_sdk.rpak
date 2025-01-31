@@ -1,0 +1,41 @@
+{
+	"name": "models/Weapons_R2/attachments/scope_ads_square_crosshair_middle",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x10000002",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "glass",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xB98A0A1AFCF958D2",
+	"$textures": {
+		"0": "0xCCABD79669E4222E",
+		"1": "0xFD86560F76BDB061",
+		"2": "0x335AB9ACFD8A3211",
+		"3": "0xC51C4C5F030C3A97",
+		"4": "0x899F0CB0413A6FAB"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

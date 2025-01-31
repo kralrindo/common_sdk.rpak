@@ -1,0 +1,42 @@
+{
+	"name": "models/weapons_r5/attachments/optics/scope_ads_cylinder_02/scope_ads_cylinder_02",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xC5487C6D27B3B3F6",
+	"$textures": {
+		"0": "0xF702BC4CF250F4BF",
+		"1": "0xCC097BF655F6C4C8",
+		"2": "0x1DDDF93DCC34678",
+		"3": "0x95BA099CF7ABE7E2",
+		"5": "0xC84A1B5452B567BB",
+		"6": "0xA6E919AF80621E43"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0x7926B3F001C443B9",
+	"$textureAnimation": "0x0"
+}

@@ -1,0 +1,42 @@
+{
+	"name": "models/weapons_r5/attachments/optics/Holo_mag_sight/Holo_mag_sight_colpass",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "weapon",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x1D9FFF314E152725",
+	"$textures": {
+		"0": "0x15DED5A6C92E5B68",
+		"1": "0xACD638427B8D1D74",
+		"2": "0xF7D23603E675E12B",
+		"3": "0x5BB7173738DAB2C5",
+		"5": "0x84C749D90FAF33E7",
+		"6": "0x19A8A4135F081182"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

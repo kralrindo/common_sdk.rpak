@@ -310,6 +310,51 @@
       "$guid": "0xF5F6F60C3FA4E29E"
     },
     {
+      "_type": "shdr",
+      "_path": "shader/0x135255DDB534B5EC.rpak",
+      "$guid": "0x135255DDB534B5EC"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x574BC4100CD045D0.rpak",
+      "$guid": "0x574BC4100CD045D0"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x898D22511A7A3A88.rpak",
+      "$guid": "0x898D22511A7A3A88"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xAF1CA68B9C4D550C.rpak",
+      "$guid": "0xAF1CA68B9C4D550C"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x32B7804E591716AB.rpak",
+      "$guid": "0x32B7804E591716AB"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x6B4A4B31779C0EED.rpak",
+      "$guid": "0x6B4A4B31779C0EED"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x727756DC07A73CBA.rpak",
+      "$guid": "0x727756DC07A73CBA"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x802F7556C2C49599.rpak",
+      "$guid": "0x802F7556C2C49599"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xE45603073C23F20B.rpak",
+      "$guid": "0xE45603073C23F20B"
+    },
+    {
       "_type": "shds",
       "_path": "shaderset/0x1D6C3F1118FA6881.rpak",
       "$guid": "0x1D6C3F1118FA6881"
@@ -598,6 +643,401 @@
       "_type": "shds",
       "_path": "shaderset/0xCFED363E8F48E0B6.rpak",
       "$guid": "0xCFED363E8F48E0B6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x105E9BB9B32B6BEE.rpak",
+      "$guid": "0x105E9BB9B32B6BEE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x108460D883879B49.rpak",
+      "$guid": "0x108460D883879B49"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x199F124CECCBEBA8.rpak",
+      "$guid": "0x199F124CECCBEBA8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1A59857E26B685A7.rpak",
+      "$guid": "0x1A59857E26B685A7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1E5317565EA479B1.rpak",
+      "$guid": "0x1E5317565EA479B1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1F50F1D58273E3C0.rpak",
+      "$guid": "0x1F50F1D58273E3C0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x25870044836E713D.rpak",
+      "$guid": "0x25870044836E713D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x26C28EE3255D421.rpak",
+      "$guid": "0x26C28EE3255D421"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2B6E53BDF8E4DBC9.rpak",
+      "$guid": "0x2B6E53BDF8E4DBC9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2D461201B06858D5.rpak",
+      "$guid": "0x2D461201B06858D5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x349D623B72CC6C9E.rpak",
+      "$guid": "0x349D623B72CC6C9E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x350FD1BC58EE81E7.rpak",
+      "$guid": "0x350FD1BC58EE81E7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x35A3CCC2EE22EE4D.rpak",
+      "$guid": "0x35A3CCC2EE22EE4D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x387DEFD99B5C2ED6.rpak",
+      "$guid": "0x387DEFD99B5C2ED6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3A0CE9F76B54869B.rpak",
+      "$guid": "0x3A0CE9F76B54869B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3B84C27263A21084.rpak",
+      "$guid": "0x3B84C27263A21084"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3CA9F9132FF933DA.rpak",
+      "$guid": "0x3CA9F9132FF933DA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3EDA461D99B87291.rpak",
+      "$guid": "0x3EDA461D99B87291"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x42B8AB60BA0AB798.rpak",
+      "$guid": "0x42B8AB60BA0AB798"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x434D608ABDC45E19.rpak",
+      "$guid": "0x434D608ABDC45E19"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x492D0069AB184EDD.rpak",
+      "$guid": "0x492D0069AB184EDD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4C03CCE0E56429A7.rpak",
+      "$guid": "0x4C03CCE0E56429A7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5010E710E8A84B8B.rpak",
+      "$guid": "0x5010E710E8A84B8B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x52795D755C82DA3A.rpak",
+      "$guid": "0x52795D755C82DA3A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5390BD119368B582.rpak",
+      "$guid": "0x5390BD119368B582"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x562DB48F3A724A93.rpak",
+      "$guid": "0x562DB48F3A724A93"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x57839BCF748B03D9.rpak",
+      "$guid": "0x57839BCF748B03D9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5AADFBFF385A987A.rpak",
+      "$guid": "0x5AADFBFF385A987A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5B1E99E16308D593.rpak",
+      "$guid": "0x5B1E99E16308D593"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5D270306633078B.rpak",
+      "$guid": "0x5D270306633078B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x60A42E5C9C9EB400.rpak",
+      "$guid": "0x60A42E5C9C9EB400"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6554177A4917D0CB.rpak",
+      "$guid": "0x6554177A4917D0CB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x665EAB85E1B49538.rpak",
+      "$guid": "0x665EAB85E1B49538"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6B87D7103C63118A.rpak",
+      "$guid": "0x6B87D7103C63118A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x70A62D3D45FD062B.rpak",
+      "$guid": "0x70A62D3D45FD062B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x750237F818617814.rpak",
+      "$guid": "0x750237F818617814"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7694EA6758419228.rpak",
+      "$guid": "0x7694EA6758419228"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7C27ABB2DCD96F6E.rpak",
+      "$guid": "0x7C27ABB2DCD96F6E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7F2C3880750518D5.rpak",
+      "$guid": "0x7F2C3880750518D5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x80F8A70F342A4CEB.rpak",
+      "$guid": "0x80F8A70F342A4CEB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x84FB2E95C1813170.rpak",
+      "$guid": "0x84FB2E95C1813170"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8A4C0BC7A4076F22.rpak",
+      "$guid": "0x8A4C0BC7A4076F22"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8E0C185A30F89F87.rpak",
+      "$guid": "0x8E0C185A30F89F87"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8F4E4E2762788834.rpak",
+      "$guid": "0x8F4E4E2762788834"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9093EAFAEB208158.rpak",
+      "$guid": "0x9093EAFAEB208158"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x93C695835D3F28FB.rpak",
+      "$guid": "0x93C695835D3F28FB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x94A61F2F941D9317.rpak",
+      "$guid": "0x94A61F2F941D9317"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x98A09D5C6FD84992.rpak",
+      "$guid": "0x98A09D5C6FD84992"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9A011DC88BE7B35.rpak",
+      "$guid": "0x9A011DC88BE7B35"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9ACA45096B913382.rpak",
+      "$guid": "0x9ACA45096B913382"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9E504708721352C4.rpak",
+      "$guid": "0x9E504708721352C4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA361F51063D58588.rpak",
+      "$guid": "0xA361F51063D58588"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA5467F654AE3F23F.rpak",
+      "$guid": "0xA5467F654AE3F23F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA8DA86BE1A92B1AF.rpak",
+      "$guid": "0xA8DA86BE1A92B1AF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA9E53F477613D405.rpak",
+      "$guid": "0xA9E53F477613D405"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAA03DD57084F7AAB.rpak",
+      "$guid": "0xAA03DD57084F7AAB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAA6FDECD37B70858.rpak",
+      "$guid": "0xAA6FDECD37B70858"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xABF908A8EF0DBE80.rpak",
+      "$guid": "0xABF908A8EF0DBE80"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB3C6D3B038BA1918.rpak",
+      "$guid": "0xB3C6D3B038BA1918"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB8E6016DAF0B243B.rpak",
+      "$guid": "0xB8E6016DAF0B243B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC5EACBBF349E203B.rpak",
+      "$guid": "0xC5EACBBF349E203B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCA475B94AC6E9AEC.rpak",
+      "$guid": "0xCA475B94AC6E9AEC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCEC36824EF0CDAF1.rpak",
+      "$guid": "0xCEC36824EF0CDAF1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCF2DE216C3850776.rpak",
+      "$guid": "0xCF2DE216C3850776"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD2AEACB67574C1EF.rpak",
+      "$guid": "0xD2AEACB67574C1EF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD64834EFDF347E86.rpak",
+      "$guid": "0xD64834EFDF347E86"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD72C297FDC9CF04F.rpak",
+      "$guid": "0xD72C297FDC9CF04F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD76BC7549041BA50.rpak",
+      "$guid": "0xD76BC7549041BA50"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD93A7A203A2F1144.rpak",
+      "$guid": "0xD93A7A203A2F1144"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDA157F8601749554.rpak",
+      "$guid": "0xDA157F8601749554"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE31C76DB07FD0786.rpak",
+      "$guid": "0xE31C76DB07FD0786"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE676A6AD56F72689.rpak",
+      "$guid": "0xE676A6AD56F72689"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xED2E7F1942BD63C1.rpak",
+      "$guid": "0xED2E7F1942BD63C1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEF37902BC40B26E4.rpak",
+      "$guid": "0xEF37902BC40B26E4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF0EB2D58B17B3666.rpak",
+      "$guid": "0xF0EB2D58B17B3666"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF121D7AC23C64E85.rpak",
+      "$guid": "0xF121D7AC23C64E85"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF3015E9859E4DCFE.rpak",
+      "$guid": "0xF3015E9859E4DCFE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFA050CCB8F2AECBC.rpak",
+      "$guid": "0xFA050CCB8F2AECBC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFF6187C19A5EAC6C.rpak",
+      "$guid": "0xFF6187C19A5EAC6C"
     },
     {
       "_type": "txtr",
@@ -8125,6 +8565,130 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge_epic_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_01_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_03_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_04_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_05_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_skin31_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/01_alien/snipe_sentinel_legendary_01_alien_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/01_alien/snipe_sentinel_legendary_01_alien_rc_01_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/01_alien/snipe_sentinel_legendary_01_alien_rt_01_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/01_alien/snipe_sentinel_legendary_01_alien_rt_01_rc_01_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/02_cybercop/snipe_sentinel_legendary_02_cybercop_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/02_cybercop/snipe_sentinel_legendary_02_cybercop_rc_01_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/02_cybercop/snipe_sentinel_legendary_02_cybercop_rt_01_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/02_cybercop/snipe_sentinel_legendary_02_cybercop_rt_01_rc_01_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge_epic_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_01_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_02_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_03_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_04_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_epic_05_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_skin31_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/01_alien/snipe_sentinel_legendary_01_alien_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/01_alien/snipe_sentinel_legendary_01_alien_rc_01_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/01_alien/snipe_sentinel_legendary_01_alien_rt_01_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/01_alien/snipe_sentinel_legendary_01_alien_rt_01_rc_01_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/02_cybercop/snipe_sentinel_legendary_02_cybercop_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/02_cybercop/snipe_sentinel_legendary_02_cybercop_rc_01_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/02_cybercop/snipe_sentinel_legendary_02_cybercop_rt_01_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/snipe_sentinel_sr/legendary/02_cybercop/snipe_sentinel_legendary_02_cybercop_rt_01_rc_01_main_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/Energy/energy_charge_base_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_colpass_sknp.rpak"
     },
     {
@@ -11395,7 +11959,7 @@
       "_type": "mdl_",
       "_path": "mdl/Weapons/sentinel/w_sentinel.rmdl",
       "$animrigs": [
-        "animrig/weapons/at_rifle/w_at_rifle.rrig"
+        "animrig/weapons/rspn101_dmr/w_rspn101_dmr.rrig"
       ]
     },
     {
@@ -11404,6 +11968,42 @@
       "$animrigs": [
         "animrig/weapons/sentinel/ptpov_sentinel.rrig"
       ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/sentinel/ptpov_sentinel_legendary_01.rmdl",
+      "$animrigs": [
+        "animrig/weapons/sentinel/ptpov_sentinel.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/sentinel/ptpov_sentinel_legendary_02.rmdl",
+      "$animrigs": [
+        "animrig/weapons/sentinel/ptpov_sentinel.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/sentinel/w_sentinel_legendary_01.rmdl",
+      "$animrigs": [
+        "animrig/weapons/rspn101_dmr/w_rspn101_dmr.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/sentinel/w_sentinel_legendary_02.rmdl",
+      "$animrigs": [
+        "animrig/weapons/rspn101_dmr/w_rspn101_dmr.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/snipe_sentinel_sr/sentinel_charge_base.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/snipe_sentinel_sr/sentinel_charge_speed.rmdl"
     },
     {
       "_type": "mdl_",

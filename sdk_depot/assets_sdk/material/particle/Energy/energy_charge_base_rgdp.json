@@ -1,0 +1,40 @@
+{
+	"name": "particle/Energy/energy_charge_base",
+	"width": 128,
+	"height": 128,
+	"depth": 0,
+	"glueFlags": "0x10100086",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0138086",
+		"0x138286",
+		"0xF0008286",
+		"0x0",
+		"0xF0138086",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0xE45603073C23F20B",
+	"$textures": {
+		"0": "0x4740B5E695479D0",
+		"4": "0x371C0392B15A558A",
+		"10": "0x371C0392B15A558A",
+		"12": "0xA716488B638D3F3F"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

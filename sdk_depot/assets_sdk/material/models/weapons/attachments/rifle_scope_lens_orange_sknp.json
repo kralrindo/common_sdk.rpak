@@ -1,0 +1,41 @@
+{
+	"name": "models/weapons/attachments/rifle_scope_lens_orange",
+	"width": 512,
+	"height": 512,
+	"depth": 0,
+	"glueFlags": "0x56000122",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "glass",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xED1B6CE767F5BFC9",
+	"$textures": {
+		"0": "0xB6AFB30F867BA0AE",
+		"1": "0xFD2A3EADC3B86343",
+		"2": "0x976F4F3A79018E0E",
+		"3": "0xFC87F4A02192D1A2",
+		"7": "0x1DAEC5B96C774BE6"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

@@ -26,17 +26,18 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x749E1C9D82CB12BF",
 	"$textures": {
-		"0": "texture/models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire_albedoTexture.rpak",
-		"1": "texture/models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire_normalTexture.rpak",
-		"2": "texture/models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire_glossTexture.rpak",
-		"3": "texture/models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire_specTexture.rpak",
-		"4": "texture/models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire_emissiveTexture.rpak",
-		"5": "texture/models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire_aoTexture.rpak",
-		"6": "texture/models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire_cavityTexture.rpak"
+		"0": "0xEF37902BC40B26E4",
+		"1": "0x84FB2E95C1813170",
+		"2": "0xCEC36824EF0CDAF1",
+		"3": "0x350FD1BC58EE81E7",
+		"4": "0xA361F51063D58588",
+		"5": "0x5B1E99E16308D593",
+		"6": "0xF3015E9859E4DCFE"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
 	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
 	"$depthShadowTightMaterial": "0x227C27B608B3646B",
-	"$colpassMaterial": "0x0"
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
 }

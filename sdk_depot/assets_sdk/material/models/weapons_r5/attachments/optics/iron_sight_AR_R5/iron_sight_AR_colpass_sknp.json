@@ -26,17 +26,18 @@
 	"shaderType": "sknp",
 	"shaderSet": "0x749E1C9D82CB12BF",
 	"$textures": {
-		"0": "texture/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_albedoTexture.rpak",
-		"1": "texture/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_normalTexture.rpak",
-		"2": "texture/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_glossTexture.rpak",
-		"3": "texture/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_specTexture.rpak",
-		"4": "texture/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_emissiveTexture.rpak",
-		"5": "texture/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_aoTexture.rpak",
-		"6": "texture/models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR_cavityTexture.rpak"
+		"0": "0x98A09D5C6FD84992",
+		"1": "0x9093EAFAEB208158",
+		"2": "0xD2AEACB67574C1EF",
+		"3": "0xFF6187C19A5EAC6C",
+		"4": "0x562DB48F3A724A93",
+		"5": "0x5D270306633078B",
+		"6": "0xAA6FDECD37B70858"
 	},
 	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
 	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
 	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
 	"$depthShadowTightMaterial": "0x227C27B608B3646B",
-	"$colpassMaterial": "0x0"
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
 }
