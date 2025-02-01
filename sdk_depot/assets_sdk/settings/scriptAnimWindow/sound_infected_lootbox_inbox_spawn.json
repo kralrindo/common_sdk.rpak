@@ -1,0 +1,9 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlaySound_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/sound_infected_lootbox_inbox_spawn.rpak",
+		"devDescription": "Infected inbox spawn sound",
+		"type": "PlaySound",
+		"soundEventName": "Lootbin_Infected_Inbox_Spawn"
+	}
+}

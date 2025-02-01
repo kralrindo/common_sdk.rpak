@@ -1,0 +1,9 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlaySound_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/sound_spider_melee_mouth_dart_jump_02.rpak",
+		"devDescription": "Spider spawn sound",
+		"type": "PlaySound",
+		"soundEventName": "Lootbin_Spider_Spawn"
+	}
+}

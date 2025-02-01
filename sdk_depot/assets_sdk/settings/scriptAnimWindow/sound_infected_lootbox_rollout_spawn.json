@@ -1,0 +1,9 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlaySound_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/sound_infected_lootbox_rollout_spawn.rpak",
+		"devDescription": "Infected rollout spawn sound",
+		"type": "PlaySound",
+		"soundEventName": "Lootbin_Infected_Rollout_Spawn"
+	}
+}

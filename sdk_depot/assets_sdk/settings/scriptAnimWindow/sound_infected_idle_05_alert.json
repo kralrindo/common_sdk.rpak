@@ -1,0 +1,9 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlaySound_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/sound_infected_idle_05_alert.rpak",
+		"devDescription": "Infected idle 05 alert sound",
+		"type": "PlaySound",
+		"soundEventName": "Lootbin_Infected_Idle_05_Alert"
+	}
+}

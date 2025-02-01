@@ -31,6 +31,38 @@
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/fx_shadowForm_default_Fade_OUT.rpak"
     },*/
+	{
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/sound_infected_idle_05_alert.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/sound_infected_idle_05_lootbin.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/sound_infected_lootbox_creepy_spawn.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/sound_infected_lootbox_inbox_spawn.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/sound_infected_lootbox_leap_spawn.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/sound_infected_lootbox_rollout_spawn.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/sound_spider_casual_idle.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/sound_spider_melee_mouth_dart_jump_02.rpak"
+    },
     {
       "_type": "stgs",
       "_path": "settings/player/mp/pilot_survival_stealthy.rpak"// REVENANT PILOT SETTINGS
