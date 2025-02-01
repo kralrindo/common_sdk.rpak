@@ -1,0 +1,6 @@
+{
+	"subLayouts": [
+		"settings_layout/settings_itemtype_challenge_layout/tags.csv",
+		"settings_layout/settings_itemtype_challenge_layout/tiers.csv"
+	]
+}

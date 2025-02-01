@@ -1,0 +1,37 @@
+{
+	"name": "world/dev/edge_detection_friendly",
+	"width": 128,
+	"height": 128,
+	"depth": 0,
+	"glueFlags": "0x10020086",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0138086",
+		"0x138286",
+		"0xF0008286",
+		"0x0",
+		"0xF0138086",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x9",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdc",
+	"shaderSet": "0xBCB86FCF2F6B41F7",
+	"$textures": {
+		"0": "0x89E41171F5BCD21A"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

@@ -1,0 +1,9 @@
+{
+	"subLayouts": [
+		"settings_layout/settings_itemtype_skydive_trail_layout/tags.csv",
+		"settings_layout/settings_itemtype_skydive_trail_layout/smokeColorFXPackage.csv",
+		"settings_layout/settings_itemtype_skydive_trail_layout/friendlyJumpJetFXPackage.csv",
+		"settings_layout/settings_itemtype_skydive_trail_layout/enemyJumpJetFXPackage.csv",
+		"settings_layout/settings_itemtype_skydive_trail_layout/jumpJetLandFXPackage.csv"
+	]
+}

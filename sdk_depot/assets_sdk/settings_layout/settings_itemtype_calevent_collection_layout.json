@@ -1,0 +1,10 @@
+{
+	"subLayouts": [
+		"settings_layout/settings_itemtype_calevent_collection_layout/tags.csv",
+		"settings_layout/settings_itemtype_calevent_collection_layout/loginRewards.csv",
+		"settings_layout/settings_itemtype_calevent_collection_layout/challenges.csv",
+		"settings_layout/settings_itemtype_calevent_collection_layout/rewardGroups.csv",
+		"settings_layout/settings_itemtype_calevent_collection_layout/aboutTextStandard.csv",
+		"settings_layout/settings_itemtype_calevent_collection_layout/aboutTextRestricted.csv"
+	]
+}

@@ -1262,6 +1262,21 @@
       "$guid": "0xAF1CA68B9C4D550C"
     },
     {
+      "_type": "shdr",
+      "_path": "shader/0x7F00B2E35AE8C5A.rpak",
+      "$guid": "0x7F00B2E35AE8C5A"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x8591F5C8301DB39E.rpak",
+      "$guid": "0x8591F5C8301DB39E"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xBCB86FCF2F6B41F7.rpak",
+      "$guid": "0xBCB86FCF2F6B41F7"
+    },
+    {
       "_type": "shds",
       "_path": "shaderset/0x32B7804E591716AB.rpak",
       "$guid": "0x32B7804E591716AB"
@@ -4938,6 +4953,10 @@
     {
       "_type": "matl",
       "_path": "material/particle/graphic/vignette_blend_noz_nodoftsaa_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/dev/edge_detection_friendly_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -14337,6 +14356,10 @@
         "animseq/robots/marvin/marvin_anims/walk_carry.rseq",
         "animseq/robots/marvin/marvin_anims/walk_unarmed.rseq"
       ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/ability_mark_recall/ability_mark_recall_ar_radius.rmdl"
     },
     {
       "_type": "mdl_",

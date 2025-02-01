@@ -1,0 +1,10 @@
+{
+	"subLayouts": [
+		"settings_layout/settings_itemtype_battlepass_layout/tags.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/bulletTextStandard.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/bulletTextRestricted.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/dailyChallenges.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/weeklyRecurringChallenges.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/weeklyChallenges.csv"
+	]
+}
