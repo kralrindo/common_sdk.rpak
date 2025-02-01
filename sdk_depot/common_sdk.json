@@ -19,6 +19,174 @@
       "_type": "stlt",
       "_path": "settings_layout/settings_scriptAnimWindowArguments_ShadowFormFX_layout.rpak"
     },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/loot/main_weapon/sentinel.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_06.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_07.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_08.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_09.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_10.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_11.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_12.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_13.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_14.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/common_15.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/epic_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/epic_02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/epic_03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/epic_04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/epic_05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/factory_issue.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/legendary_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/legendary_02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/legendary_03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/legendary_04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_06.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_07.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_08.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_09.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_10.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_11.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_12.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_13.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_14.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/rare_15.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/weapon_skin/sentinel/s04bp_rare_01.rpak"
+    },
     /*{
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/fx_shadowForm_default.rpak"
@@ -31,7 +199,7 @@
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/fx_shadowForm_default_Fade_OUT.rpak"
     },*/
-	{
+	  {
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/sound_infected_idle_05_alert.rpak"
     },
@@ -790,6 +958,10 @@
     {
       "_type": "dtbl",
       "_path": "datatable/survival_loot_sdk.rpak"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/battle_chatter_dialogue.rpak"
     },
     {
       "_type": "shdr",

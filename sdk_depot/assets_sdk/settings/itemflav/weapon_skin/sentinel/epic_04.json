@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 2135720922,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/sentinel/epic_04.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_OFF_THE_GRID",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_sentinel_epic_04",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/sentinel/w_sentinel.rmdl",
+		"viewModel": "mdl/Weapons/sentinel/ptpov_sentinel.rmdl",
+		"skinName": "aqua",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1380690919,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/sentinel/legendary_03.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_339",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_sentinel_legendary_03",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/sentinel/w_sentinel_legendary_02.rmdl",
+		"viewModel": "mdl/Weapons/sentinel/ptpov_sentinel_legendary_02.rmdl",
+		"skinName": "cybercop",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

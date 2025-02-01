@@ -1,0 +1,32 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1656577718,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/sentinel/factory_issue.rpak",
+		"itemType": "weapon_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_FACTORY_ISSUE",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "weapon_skin_energy_ar_factory_issue",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/sentinel/w_sentinel.rmdl",
+		"viewModel": "mdl/Weapons/sentinel/ptpov_sentinel.rmdl",
+		"skinName": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+		],
+		"shouldHideIfLocked": false,
+		"featureReactsToKills": false
+	}
+}

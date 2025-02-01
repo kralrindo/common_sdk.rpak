@@ -1,0 +1,9 @@
+{
+	"subLayouts": [
+		"settings_layout/settings_itemtype_weapon_skin_layout/featureReactsToKillsLevels/killFXList.csv",
+		"settings_layout/settings_itemtype_weapon_skin_layout/featureReactsToKillsLevels/persistentFXList.csv",
+		"settings_layout/settings_itemtype_weapon_skin_layout/featureReactsToKillsLevels/bodygroupChangeList.csv",
+		"settings_layout/settings_itemtype_weapon_skin_layout/featureReactsToKillsLevels/weaponModListAdd.csv",
+		"settings_layout/settings_itemtype_weapon_skin_layout/featureReactsToKillsLevels/weaponModListRemove.csv"
+	]
+}

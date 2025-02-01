@@ -1,0 +1,7 @@
+{
+	"subLayouts": [
+		"settings_layout/settings_itemtype_loot_main_weapon_layout/tags.csv",
+		"settings_layout/settings_itemtype_loot_main_weapon_layout/skins.csv",
+		"settings_layout/settings_itemtype_loot_main_weapon_layout/charms.csv"
+	]
+}
