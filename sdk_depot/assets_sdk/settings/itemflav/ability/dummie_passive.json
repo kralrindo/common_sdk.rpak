@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1657843707,
+	"settings": {
+		"assetName": "settings/itemflav/ability/dummie_passive.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PAS_DUMMIE",
+		"localizationKey_NAME_SHORT": "#PAS_DUMMIE",
+		"localizationKey_DESCRIPTION_LONG": "#PAS_DUMMIE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PAS_DUMMIE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_dummie_mode",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_DUMMIE",
+		"tags": [
+		]
+	}
+}

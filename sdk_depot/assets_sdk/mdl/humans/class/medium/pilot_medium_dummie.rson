@@ -1,0 +1,9 @@
+rigs:
+[
+	animrig\humans\class\medium\mp_pilot_medium_core.rrig
+	animrig\humans\class\medium\pilot_medium_bangalore.rrig
+	animrig\humans\class\medium\training_dummy.rrig
+]
+seqs:
+[
+]

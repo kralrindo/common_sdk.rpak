@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1164596416,
+	"settings": {
+		"assetName": "settings/itemflav/ability/dummie_ultimate.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_PANICBUTTON",
+		"localizationKey_NAME_SHORT": "#ABL_PANICBUTTON",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_PANICBUTTON_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_PANICBUTTON_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_dummie_mode",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_panic_button",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

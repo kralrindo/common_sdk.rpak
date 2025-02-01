@@ -18,135 +18,142 @@
         {
           "path": "rui/gamemodes/shadow_squad/player_info_custom_treatment_sdk",
           "posX": 14,
-          "posY": 14,
+          "posY": 274,
           "width": 401,
           "height": 113
         },
         {
           "path": "rui/gamemodes/shadow_squad/generic_shadow_character_sdk",
           "posX": 14,
-          "posY": 155,
+          "posY": 415,
           "width": 390,
           "height": 208
         },
         {
           "path": "rui/gamemodes/shadow_squad/shadow_icon_orange_sdk",
-          "posX": 14,
-          "posY": 391,
+          "posX": 443,
+          "posY": 274,
           "width": 256,
           "height": 232
         },
         {
           "path": "rui/gamemodes/shadow_squad/shadow_icon_spawn_sdk",
-          "posX": 443,
-          "posY": 14,
+          "posX": 14,
+          "posY": 651,
           "width": 236,
           "height": 250
         },
         {
           "path": "rui/gamemodes/shadow_squad/shadow_icon_spawn_temp_sdk",
-          "posX": 432,
-          "posY": 292,
+          "posX": 278,
+          "posY": 651,
           "width": 236,
           "height": 250
         },
         {
-          "path": "rui/gamemodes/shadow_squad/legend_ico_sdk",
-          "posX": 707,
-          "posY": 14,
+          "path": "rui/gamemodes/shadow_squad/legend_icon_sdk",
+          "posX": 542,
+          "posY": 534,
           "width": 237,
           "height": 226
         },
         {
           "path": "rui/hud/gametype_icons/ltm/deathpos_skull_legend_sdk",
-          "posX": 707,
-          "posY": 268,
+          "posX": 542,
+          "posY": 788,
           "width": 128,
           "height": 106
         },
         {
           "path": "rui/hud/gametype_icons/ltm/enemy_nemesis_sdk",
-          "posX": 696,
-          "posY": 402,
+          "posX": 858,
+          "posY": 14,
           "width": 127,
           "height": 128
         },
         {
           "path": "rui/hud/gametype_icons/ltm/enemy_nemesis_color_sdk",
-          "posX": 14,
-          "posY": 651,
+          "posX": 858,
+          "posY": 170,
           "width": 127,
           "height": 128
         },
         {
           "path": "rui/gamemodes/shadow_squad/shadow_icon_small_sdk",
-          "posX": 169,
-          "posY": 651,
+          "posX": 807,
+          "posY": 326,
           "width": 128,
           "height": 115
         },
         {
           "path": "rui/gamemodes/shadow_squad/evac_countdown_sdk",
-          "posX": 325,
-          "posY": 570,
+          "posX": 807,
+          "posY": 469,
           "width": 113,
           "height": 127
         },
         {
           "path": "rui/gamemodes/shadow_squad/icon_direction_pointer_outline_sdk",
-          "posX": 696,
-          "posY": 558,
+          "posX": 698,
+          "posY": 788,
           "width": 123,
           "height": 72
         },
         {
           "path": "rui/hud/gametype_icons/ltm/deathpos_skull_default_sdk",
-          "posX": 851,
-          "posY": 402,
+          "posX": 807,
+          "posY": 624,
           "width": 93,
           "height": 111
         },
         {
           "path": "rui/hud/gametype_icons/ltm/deathpos_skull_default_color_sdk",
-          "posX": 851,
-          "posY": 541,
+          "posX": 849,
+          "posY": 763,
           "width": 93,
           "height": 111
         },
         {
           "path": "rui/gamemodes/shadow_squad/shadow_fire_glow_tile_sdk",
-          "posX": 466,
-          "posY": 680,
+          "posX": 14,
+          "posY": 929,
           "width": 93,
           "height": 93
         },
         {
           "path": "rui/gamemodes/shadow_squad/legend_icon_small_shadow_sdk",
-          "posX": 863,
-          "posY": 268,
+          "posX": 432,
+          "posY": 534,
           "width": 64,
           "height": 64
         },
         {
           "path": "rui/gamemodes/shadow_squad/legend_icon_small_sdk",
-          "posX": 587,
-          "posY": 570,
+          "posX": 135,
+          "posY": 929,
           "width": 61,
           "height": 58
         },
         {
           "path": "rui/hud/unitframes/shadow_squad/unitframe_shadow_squad_border_sdk",
-          "posX": 325,
-          "posY": 725,
+          "posX": 928,
+          "posY": 624,
           "width": 56,
           "height": 48
         },
         {
           "path": "rui/hud/unitframes/shadow_squad/unitframe_shadow_squad_mask_sdk",
-          "posX": 587,
-          "posY": 656,
+          "posX": 224,
+          "posY": 929,
           "width": 56,
           "height": 48
+        },
+        {
+          "path": "rui/hud/revenant_shadow_effects/player_info_shadow_mode",
+          "posX": 14,
+          "posY": 14,
+          "width": 816,
+          "height": 232
         }
       ]
     },
@@ -156,58 +163,100 @@
       "atlas": "texture/ui_atlas/rui/menu/characters/character_shared_sdk.rpak",
       "images": [
         {
-          "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant_shadow",
-          "posX": 14,
-          "posY": 345,
-          "width": 846,
-          "height": 303
-        },
-        {
-          "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant",
+          "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_dummie",
           "posX": 14,
           "posY": 14,
           "width": 960,
           "height": 303
         },
         {
-          "path": "rui/hud/passive_icons/passive_revenant",
+          "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant_shadow",
           "posX": 14,
           "posY": 676,
-          "width": 512,
-          "height": 512
+          "width": 846,
+          "height": 303
         },
         {
-          "path": "rui/hud/tactical_icons/tactical_revenant",
-          "posX": 554,
-          "posY": 676,
-          "width": 512,
-          "height": 512
+          "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant",
+          "posX": 14,
+          "posY": 345,
+          "width": 960,
+          "height": 303
         },
         {
-          "path": "rui/hud/ultimate_icons/ultimate_revenant",
+          "path": "rui/hud/passive_icons/passive_dummie_mode",
           "posX": 1002,
           "posY": 14,
           "width": 512,
           "height": 512
         },
         {
-          "path": "rui/menu/buttons/lobby_character_select/revenant",
-          "posX": 1094,
+          "path": "rui/hud/passive_icons/passive_revenant",
+          "posX": 1002,
           "posY": 554,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/tactical_icons/tactical_dummie_mode",
+          "posX": 14,
+          "posY": 1007,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/tactical_icons/tactical_revenant",
+          "posX": 1542,
+          "posY": 14,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/ultimate_icons/ultimate_dummie_mode",
+          "posX": 1542,
+          "posY": 554,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/ultimate_icons/ultimate_revenant",
+          "posX": 14,
+          "posY": 1547,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/menu/buttons/lobby_character_select/dummie",
+          "posX": 554,
+          "posY": 1007,
+          "width": 390,
+          "height": 208
+        },
+        {
+          "path": "rui/menu/buttons/lobby_character_select/dummie_bg",
+          "posX": 554,
+          "posY": 1243,
+          "width": 390,
+          "height": 208
+        },
+        {
+          "path": "rui/menu/buttons/lobby_character_select/revenant",
+          "posX": 554,
+          "posY": 1479,
           "width": 390,
           "height": 208
         },
         {
           "path": "rui/menu/buttons/lobby_character_select/revenant_bg",
-          "posX": 1094,
-          "posY": 790,
+          "posX": 554,
+          "posY": 1715,
           "width": 390,
           "height": 208
         },
         {
           "path": "rui/menu/buttons/battlepass/character_skin_revenant",
-          "posX": 1094,
-          "posY": 1026,
+          "posX": 972,
+          "posY": 1094,
           "width": 200,
           "height": 155
         }

@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_skin_layout.rpak",
+	"uniqueId": 537493142,
+	"settings": {
+		"assetName": "settings/itemflav/character_skin/dummie/dummie_red.rpak",
+		"itemType": "character_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_skin_generic_generic_green",
+		"ownershipTarget": "",
+		"bodyModel": "mdl/Humans/class/medium/pilot_medium_dummie.rmdl",
+		"armsModel": "mdl/Weapons/arms/pov_pilot_medium_generic.rmdl",
+		"skinName": "red",
+		"unlockFuncKey": "",
+		"customCharSelectIntroAnim": "",
+		"customCharSelectIdleAnim": "",
+		"customCharSelectReadyIntroAnim": "",
+		"customCharSelectReadyIdleAnim": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"shouldHideIfLocked": false
+	}
+}

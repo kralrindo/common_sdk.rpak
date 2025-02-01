@@ -21,6 +21,63 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/player/mp/pilot_survival_dummie.rpak"// DUMMIE PILOT SETTINGS
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ability/dummie_passive.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ability/dummie_tactical.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ability/dummie_ultimate.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character/dummie.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_execution/dummie/default.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/dummie/dummie_black.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/dummie/dummie_blue.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/dummie/dummie_green.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/dummie/dummie_orange.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/dummie/dummie_pink.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/dummie/dummie_purple.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/dummie/dummie_red.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/dummie/dummie_yellow.rpak"
+    },
+    /////////////////////////////////SENTINEL//////////////////////
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/loot/main_weapon/sentinel.rpak"
     },
     {
@@ -1590,6 +1647,16 @@
       "_type": "shds",
       "_path": "shaderset/0xCFED363E8F48E0B6.rpak",
       "$guid": "0xCFED363E8F48E0B6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x21504F36A1021DC6.rpak",
+      "$guid": "0x21504F36A1021DC6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA079CBD6EB45C9E.rpak",
+      "$guid": "0xA079CBD6EB45C9E"
     },
     {
       "_type": "txtr",
@@ -4945,6 +5012,22 @@
       "_type": "txtr",
       "_path": "texture/0xFF29111E80A6836E.rpak",
       "$guid": "0xFF29111E80A6836E"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilot_proxy_r5/generic_proxy/generic_proxy_orange_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilot_proxy_r5/generic_proxy/generic_proxy_pink_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilot_proxy_r5/generic_proxy/generic_proxy_orange_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilot_proxy_r5/generic_proxy/generic_proxy_pink_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -14355,6 +14438,15 @@
         "animseq/robots/marvin/marvin_anims/Walk_all_v2.rseq",
         "animseq/robots/marvin/marvin_anims/walk_carry.rseq",
         "animseq/robots/marvin/marvin_anims/walk_unarmed.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Humans/class/medium/pilot_medium_dummie.rmdl",
+      "$animrigs": [
+        "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
+        "animrig/humans/class/medium/pilot_medium_bangalore.rrig",
+        "animrig/humans/class/medium/training_dummy.rrig"
       ]
     },
     {

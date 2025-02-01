@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 484701158,
+	"settings": {
+		"assetName": "settings/itemflav/ability/dummie_tactical.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_ITEM_SPAWNER",
+		"localizationKey_NAME_SHORT": "#ABL_ITEM_SPAWNER",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_ITEM_SPAWNER_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_ITEM_SPAWNER_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_dummie_mode",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_item_spawner",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}
