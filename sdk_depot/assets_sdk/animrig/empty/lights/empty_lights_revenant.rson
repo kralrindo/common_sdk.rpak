@@ -1,0 +1,21 @@
+seqs:
+[
+	animseq\humans\class\heavy\pilot_heavy_revenant\revenant_gladcard_animated_assassin_idle_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\revenant_gladcard_animated_assassin_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\revenant_gladcard_animated_beatdown_idle_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\revenant_gladcard_animated_beatdown_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\revenant_gladcard_animated_cube_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\revenant_gladcard_animated_observation_idle_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\revenant_gladcard_animated_observation_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\revenant_gladcard_animated_play_idle_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\revenant_gladcard_animated_play_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\Revenant_gladcard_static_choking_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\Revenant_gladcard_static_contemplation_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\Revenant_gladcard_static_lurking_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\Revenant_gladcard_static_mercy_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\Revenant_gladcard_static_patience_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\Revenant_gladcard_static_reverence_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\Revenant_gladcard_static_scarecrow_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\Revenant_gladcard_static_upsidedown_light.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\Revenant_gladcard_static_whisper_light.rseq
+]

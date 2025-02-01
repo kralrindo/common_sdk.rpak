@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_kill_quip_layout.rpak",
+	"uniqueId": 1170237434,
+	"settings": {
+		"assetName": "settings/itemflav/character_kill_quip/revenant/common_11.rpak",
+		"itemType": "gladiator_card_kill_quip",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_kill_quip_revenant_common_11_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_kill_quip_revenant_common_11",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"quickchatAliasSubName": "glad_taunt_11",
+		"victimVoiceSoundEvent": "diag_mp_revenant_glad_taunt_11_3p_victim",
+		"tags": [
+		],
+		"useHoloProjector": false,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_skin_layout.rpak",
+	"uniqueId": 1999064606,
+	"settings": {
+		"assetName": "settings/itemflav/character_skin/revenant/classic.rpak",
+		"itemType": "character_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_CLASSIC",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"bodyModel": "mdl/humans/class/heavy/pilot_heavy_revenant.rmdl",
+		"armsModel": "mdl/Weapons/arms/pov_pilot_heavy_revenant.rmdl",
+		"skinName": "",
+		"unlockFuncKey": "",
+		"customCharSelectIntroAnim": "",
+		"customCharSelectIdleAnim": "",
+		"customCharSelectReadyIntroAnim": "",
+		"customCharSelectReadyIdleAnim": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"shouldHideIfLocked": false
+	}
+}

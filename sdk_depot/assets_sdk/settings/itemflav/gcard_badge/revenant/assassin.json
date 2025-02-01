@@ -1,0 +1,50 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1157480683,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/revenant/assassin.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_assassin_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_assassin_DESCRIPTION_SHORT",
+		"quality": "COMMON",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.characters[%char%].games_with_5_kills",
+		"dynamicTextStatRef": "",
+		"tags": [
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/assassin",
+				"ruiAsset": "ui/badge_assassin_wraith_t1.rpak",
+				"unlocksAt": 5.0
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/assassin_2",
+				"ruiAsset": "ui/badge_assassin_wraith_t2.rpak",
+				"unlocksAt": 15.0
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/assassin_3",
+				"ruiAsset": "ui/badge_assassin_wraith_t3.rpak",
+				"unlocksAt": 50.0
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/assassin_4",
+				"ruiAsset": "ui/badge_assassin_wraith_t4.rpak",
+				"unlocksAt": 100.0
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": false,
+		"isCharacterBadge": true,
+		"hasOwnRui": false,
+		"isOversizedImage": false
+	}
+}

@@ -1,0 +1,13 @@
+models:
+[
+]
+settings:
+[
+	settings\scriptAnimWindow\prop_crypto_drone_gladcard_animated_assimilation.rpak
+	settings\scriptAnimWindow\SetSkinCharacterDefault.rpak
+	settings\scriptAnimWindow\SetSkinCharacterEquipped.rpak
+	settings\scriptAnimWindow\PrecacheSkinCharacterEquipped.rpak
+]
+effects:
+[
+]

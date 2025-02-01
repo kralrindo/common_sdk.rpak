@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1273791578,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/revenant/double_duty.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_double_duty_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_double_duty_DESCRIPTION_SHORT",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.characters[%char%].character_placements_win_as_killleader_and_champion",
+		"dynamicTextStatRef": "",
+		"tags": [
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/double_duty",
+				"ruiAsset": "",
+				"unlocksAt": 1.0
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": false,
+		"isCharacterBadge": true,
+		"hasOwnRui": false,
+		"isOversizedImage": false
+	}
+}

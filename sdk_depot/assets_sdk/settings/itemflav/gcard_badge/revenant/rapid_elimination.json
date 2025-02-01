@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 378861636,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/revenant/rapid_elimination.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_rapid_elimination_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_rapid_elimination_DESCRIPTION_SHORT",
+		"quality": "RARE",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.characters[%char%].character_rapid_eliminations",
+		"dynamicTextStatRef": "",
+		"tags": [
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/rapid_elimination",
+				"ruiAsset": "ui/badge_rapid_elimination.rpak",
+				"unlocksAt": 1.0
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": false,
+		"isCharacterBadge": true,
+		"hasOwnRui": true,
+		"isOversizedImage": false
+	}
+}

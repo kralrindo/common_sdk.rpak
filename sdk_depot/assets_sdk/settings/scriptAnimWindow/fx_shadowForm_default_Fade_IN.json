@@ -1,0 +1,14 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_ShadowFormFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_shadowForm_default_Fade_IN.rpak",
+		"devDescription": "Tranisitons the model to use the ShadowSquad skin, triggers particle effects and fades color/alpha to enhance the transition",
+		"type": "ShadowFormFX",
+		"attachPoint": "CHESTFOCUS",
+		"fadeInDuration": 0.1,
+		"fadeOutDuration": 0.25,
+		"hasEyes": true,
+		"fadeAlphaIN": true,
+		"fadeAlphaOUT": false
+	}
+}

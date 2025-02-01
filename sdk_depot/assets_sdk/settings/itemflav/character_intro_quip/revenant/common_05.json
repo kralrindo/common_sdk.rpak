@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_intro_quip_layout.rpak",
+	"uniqueId": 184836853,
+	"settings": {
+		"assetName": "settings/itemflav/character_intro_quip/revenant/common_05.rpak",
+		"itemType": "gladiator_card_intro_quip",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_intro_quip_revenant_common_05_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_intro_quip_revenant_common_05",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"quickchatAliasSubName": "glad_introSeq_08_qw",
+		"voiceSound": "diag_mp_revenant_glad_introSeq_08",
+		"stingSound": "",
+		"tags": [
+		],
+		"useHoloProjector": false,
+		"isTheEmpty": false
+	}
+}

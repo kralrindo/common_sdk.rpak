@@ -1,0 +1,19 @@
+rigs:
+[
+	animrig\empty\lights\empty_lights_gibraltar.rrig
+	animrig\empty\lights\empty_lights_bloodhound.rrig
+	animrig\empty\lights\empty_lights_wraith.rrig
+	animrig\empty\lights\empty_lights_lifeline.rrig
+	animrig\empty\lights\empty_lights_pathfinder.rrig
+	animrig\empty\lights\empty_lights_loot_ceremony.rrig
+	animrig\empty\lights\empty_lights_caustic.rrig
+	animrig\empty\lights\empty_lights_mirage.rrig
+	animrig\empty\lights\empty_lights_bangalore.rrig
+	animrig\empty\lights\empty_lights_octane.rrig
+	animrig\empty\lights\empty_lights_wattson.rrig
+	animrig\empty\lights\empty_lights_crypto.rrig
+	animrig\empty\lights\empty_lights_revenant.rrig
+]
+seqs:
+[
+]

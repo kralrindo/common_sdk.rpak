@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 78422551,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/revenant/placements_top_3.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_revenant_placements_top_3_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_revenant_placements_top_3_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_revenant_placements_top_3",
+		"ownershipTarget": "",
+		"statRef": "stats.characters[%char%].placements_top_3",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "",
+		"backgroundImage": "",
+		"tags": [
+		],
+		"color0": "<0.55, 0.54, 0.54>",
+		"isTheEmpty": false
+	}
+}

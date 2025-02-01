@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1562124918,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/revenant/weaponcat_pistol_kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_revenant_weaponcat_pistol_kills_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_revenant_weaponcat_pistol_kills_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_revenant_weaponcat_pistol_kills",
+		"ownershipTarget": "",
+		"statRef": "stats.characters[%char%].weaponcategories[pistol].kills",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "",
+		"backgroundImage": "",
+		"tags": [
+		],
+		"color0": "<0.55, 0.54, 0.54>",
+		"isTheEmpty": false
+	}
+}

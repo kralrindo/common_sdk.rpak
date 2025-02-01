@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_skin_layout.rpak",
+	"uniqueId": 1904506670,
+	"settings": {
+		"assetName": "settings/itemflav/character_skin/revenant/rare_07.rpak",
+		"itemType": "character_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_36",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_skin_revenant_rare_07",
+		"ownershipTarget": "",
+		"bodyModel": "mdl/humans/class/heavy/pilot_heavy_revenant.rmdl",
+		"armsModel": "mdl/Weapons/arms/pov_pilot_heavy_revenant.rmdl",
+		"skinName": "rare mask",
+		"unlockFuncKey": "",
+		"customCharSelectIntroAnim": "",
+		"customCharSelectIdleAnim": "",
+		"customCharSelectReadyIntroAnim": "",
+		"customCharSelectReadyIdleAnim": "",
+		"tags": [
+		],
+		"camoIndex": 94,
+		"shouldHideIfLocked": false
+	}
+}

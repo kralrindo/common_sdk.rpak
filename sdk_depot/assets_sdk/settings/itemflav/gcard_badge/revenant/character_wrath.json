@@ -1,0 +1,50 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1749928677,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/revenant/character_wrath.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_revenant_wrath_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_wrath_DESCRIPTION_SHORT",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.characters[%char%].character_damage_done_max_single_game",
+		"dynamicTextStatRef": "",
+		"tags": [
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/character_wrath",
+				"ruiAsset": "ui/badge_character_wrath.rpak",
+				"unlocksAt": 2000.0
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/character_wrath_2",
+				"ruiAsset": "",
+				"unlocksAt": 2500.0
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/character_wrath_3",
+				"ruiAsset": "",
+				"unlocksAt": 3000.0
+			},
+			{
+				"imageAsset": "rui/gladiator_cards/badges/character_wrath_4",
+				"ruiAsset": "",
+				"unlocksAt": 4000.0
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": false,
+		"isCharacterBadge": true,
+		"hasOwnRui": false,
+		"isOversizedImage": false
+	}
+}

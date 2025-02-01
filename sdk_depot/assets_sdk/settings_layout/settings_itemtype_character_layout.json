@@ -1,15 +1,18 @@
 {
-    "size": 324,
-    "elementCount": 1,
-
-    "subLayouts": [
-        {
-            "path": "settings_layout/settings_itemtype_character_layout_sub0.csv",
-            "size": 324
-        },
-        {
-            "path": "settings_layout/settings_itemtype_character_layout_sub1.csv",
-            "size": 324
-        }
-    ]
+	"subLayouts": [
+		"settings_layout/settings_itemtype_character_layout/tags.csv",
+		"settings_layout/settings_itemtype_character_layout/readyUpVoicelines.csv",
+		"settings_layout/settings_itemtype_character_layout/skins.csv",
+		"settings_layout/settings_itemtype_character_layout/executions.csv",
+		"settings_layout/settings_itemtype_character_layout/emotes.csv",
+		"settings_layout/settings_itemtype_character_layout/skydiveEmotes.csv",
+		"settings_layout/settings_itemtype_character_layout/introQuips.csv",
+		"settings_layout/settings_itemtype_character_layout/killQuips.csv",
+		"settings_layout/settings_itemtype_character_layout/gcardStances.csv",
+		"settings_layout/settings_itemtype_character_layout/gcardFrames.csv",
+		"settings_layout/settings_itemtype_character_layout/gcardBadges.csv",
+		"settings_layout/settings_itemtype_character_layout/gcardStatTrackers.csv",
+		"settings_layout/settings_itemtype_character_layout/meleeSkins.csv",
+		"settings_layout/settings_itemtype_character_layout/emoteIcons.csv"
+	]
 }

@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1620311095,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/revenant/character_wake.rpak",
+		"itemType": "gladiator_card_badge",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_revenant_wake_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_wake_DESCRIPTION_SHORT",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"unlockStatRef": "stats.characters[%char%].games_with_20_kills",
+		"dynamicTextStatRef": "",
+		"tags": [
+		],
+		"tiers": [
+			{
+				"imageAsset": "rui/gladiator_cards/badges/character_wake",
+				"ruiAsset": "",
+				"unlocksAt": 1.0
+			}
+		],
+		"isTheEmpty": false,
+		"shouldHideIfLocked": false,
+		"isCharacterBadge": true,
+		"hasOwnRui": false,
+		"isOversizedImage": false
+	}
+}

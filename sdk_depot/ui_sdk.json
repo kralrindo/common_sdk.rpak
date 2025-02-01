@@ -152,6 +152,69 @@
     },
     {
       "_type": "uimg",
+      "_path": "ui_image_atlas/rui/menu/characters/character_shared_sdk",
+      "atlas": "texture/ui_atlas/rui/menu/characters/character_shared_sdk.rpak",
+      "images": [
+        {
+          "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant_shadow",
+          "posX": 14,
+          "posY": 14,
+          "width": 846,
+          "height": 303
+        },
+        {
+          "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant",
+          "posX": 14,
+          "posY": 345,
+          "width": 800,
+          "height": 303
+        },
+        {
+          "path": "rui/hud/passive_icons/passive_revenant",
+          "posX": 14,
+          "posY": 676,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/ultimate_icons/ultimate_revenant",
+          "posX": 888,
+          "posY": 14,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/menu/buttons/lobby_character_select/revenant",
+          "posX": 14,
+          "posY": 1216,
+          "width": 390,
+          "height": 208
+        },
+        {
+          "path": "rui/menu/buttons/lobby_character_select/revenant_bg",
+          "posX": 432,
+          "posY": 1216,
+          "width": 390,
+          "height": 208
+        },
+        {
+          "path": "rui/hud/tactical_icons/tactical_revenant",
+          "posX": 554,
+          "posY": 676,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/menu/buttons/battlepass/character_skin_revenant",
+          "posX": 850,
+          "posY": 1216,
+          "width": 200,
+          "height": 155
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
       "_path": "ui_image_atlas/rui/promo/promoatlas",
       "atlas": "texture/ui_atlas/rui/promo/promoatlas.rpak",
       "images": [

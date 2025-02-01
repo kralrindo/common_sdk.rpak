@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1582588223,
+	"settings": {
+		"assetName": "settings/itemflav/ability/revenant_silence.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_SILENCE",
+		"localizationKey_NAME_SHORT": "#ABL_SILENCE",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_SILENCE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_SILENCE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_revenant",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_silence",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

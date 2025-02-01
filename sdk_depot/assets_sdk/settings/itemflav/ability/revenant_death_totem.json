@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1954159453,
+	"settings": {
+		"assetName": "settings/itemflav/ability/revenant_death_totem.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_DEATH_TOTEM",
+		"localizationKey_NAME_SHORT": "#ABL_DEATH_TOTEM",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_DEATH_TOTEM_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_DEATH_TOTEM_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_revenant",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_revenant_death_totem",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

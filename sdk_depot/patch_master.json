@@ -10,10 +10,6 @@
       "_path": "patch_master",
       "entries": [
         {
-          "name": "common_early.rpak",
-          "version": 1
-        },
-        {
           "name": "common.rpak",
           "version": 1
         },

@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 371486395,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/revenant/snake.rpak",
+		"itemType": "skydive_emote",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_revenant_snake_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#SKYDIVE_EMOTE_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_snake",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_revenant_snake",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_emote_snake.rseq",
+		"video": "media/skydive_emotes/revenant_snake",
+		"tags": [
+		],
+		"isTheEmpty": false
+	}
+}

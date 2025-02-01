@@ -1,0 +1,36 @@
+{
+	"name": "code_private/depth_shadow_tight",
+	"width": 0,
+	"height": 0,
+	"depth": 0,
+	"glueFlags": "0x10200080",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x42",
+	"uberBufferFlags": "0x0",
+	"features": "0x599E71A8",
+	"samplers": "0x300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0x6C5B7A48DB63510",
+	"$textures": {
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

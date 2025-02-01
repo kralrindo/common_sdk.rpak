@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1569316156,
+	"settings": {
+		"assetName": "settings/itemflav/ability/revenant_death_stalker.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PAS_DEATH_STALKER",
+		"localizationKey_NAME_SHORT": "#PAS_DEATH_STALKER",
+		"localizationKey_DESCRIPTION_LONG": "#PAS_DEATH_STALKER_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PAS_DEATH_STALKER_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_revenant",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_DEATHSTALKER",
+		"tags": [
+		]
+	}
+}
