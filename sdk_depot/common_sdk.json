@@ -16,8 +16,28 @@
 
   "files": [
     {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_ShadowFormFX_layout.rpak"
+      "_type": "stgs",
+      "_path": "settings/itemflav/loadscreen/custom_sdk_1.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/loadscreen/custom_sdk_2.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/loadscreen/custom_sdk_3.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/loadscreen/custom_sdk_4.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/loadscreen/custom_sdk_5.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/loadscreen/custom_sdk_6.rpak"
     },
     {
       "_type": "stgs",
@@ -244,7 +264,7 @@
       "_type": "stgs",
       "_path": "settings/itemflav/weapon_skin/sentinel/s04bp_rare_01.rpak"
     },
-    /*{
+    {
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/fx_shadowForm_default.rpak"
     },
@@ -255,7 +275,7 @@
     {
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/fx_shadowForm_default_Fade_OUT.rpak"
-    },*/
+    },
 	  {
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/sound_infected_idle_05_alert.rpak"

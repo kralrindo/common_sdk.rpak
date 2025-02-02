@@ -6,13 +6,19 @@
 
     "outputDir": "./build/",
 
-    "compressLevel": 6,
+    "compressLevel": 0,
     "compressWorkers": 16,
 
     "paks": [
         "sdk_depot/ui_mainmenu.json",
-        "sdk_depot/ui_sdk.json",
+        //"sdk_depot/ui_sdk.json",
         "map_depot/mp_lobby_loadscreen.json",
+        "map_depot/custom_sdk_1_loadscreen.json",
+        "map_depot/custom_sdk_2_loadscreen.json",
+        "map_depot/custom_sdk_3_loadscreen.json",
+        "map_depot/custom_sdk_4_loadscreen.json",
+        "map_depot/custom_sdk_5_loadscreen.json",
+        "map_depot/custom_sdk_6_loadscreen.json",
         //"map_depot/mp_rr_canyonlands_mu2_mv_loadscreen.json",
         //"map_depot/mp_rr_canyonlands_mu2_tt_loadscreen.json",
         //"map_depot/mp_rr_canyonlands_mu2_ufo_loadscreen.json",

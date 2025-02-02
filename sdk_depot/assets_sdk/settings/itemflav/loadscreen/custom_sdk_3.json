@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_loadscreen_layout.rpak",
+	"uniqueId": 2054813151,
+	"settings": {
+		"assetName": "settings/itemflav/loadscreen/custom_sdk_3.rpak",
+		"itemType": "loadscreen",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LOADSCREEN_CUSTOM_SDK_3_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "#BP_EMPTY_STRING",
+		"quality": "NONE",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "grx_loadscreen_battlepass_season02_01",
+		"ownershipTarget": "",
+		"loadscreenImage": "loadscreens/custom/loadscreen_custom_sdk_3",
+		"overlayText": "#LOADSCREEN_CUSTOM_SDK_3_TEXT",
+		"tags": [
+		],
+		"isTheEmpty": false,
+		"isTheRandom": false
+	}
+}
