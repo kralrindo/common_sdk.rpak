@@ -5,7 +5,7 @@
 		"assetName": "settings/itemflav/character_skin/dummie/dummie_red.rpak",
 		"itemType": "character_skin",
 		"devDescription": "PLEASE DESCRIBE",
-		"localizationKey_NAME": "",
+		"localizationKey_NAME": "#SKIN_DUMMIE_RED",
 		"localizationKey_NAME_SHORT": "",
 		"localizationKey_DESCRIPTION_LONG": "",
 		"localizationKey_DESCRIPTION_SHORT": "",

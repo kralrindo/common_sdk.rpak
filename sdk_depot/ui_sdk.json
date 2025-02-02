@@ -1,7 +1,7 @@
 {
   "version": 8,
 
-  "assetsDir": "sdk_depot/assets_sdk/",
+  "assetsDir": "./assets_sdk/",
   "outputDir": "./build/",
 
   "compressLevel": 6,
