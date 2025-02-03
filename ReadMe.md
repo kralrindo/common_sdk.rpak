@@ -24,7 +24,7 @@ rmdl: Models, Respawn Model (RMDL)
 uimg: Atlas, This is used for ui images, minimaps and loadscreens. See atlas section.  
   
 **Asset Order in Main RPak JSON**  
-txan > dtbl > shdr > txtr > matl > aseq > arig > rmdl > uimg  
+stlt > stgs > txan > dtbl > shdr > shds > txtr > matl > aseq > arig > rmdl > uimg  
   
 ## TXAN Assets  
 Txan is required for animated ptcu/ptcs materials, it controls the texture arrays and material animations.
