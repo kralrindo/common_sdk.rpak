@@ -1,4 +1,4 @@
-"fieldName","dataType","layoutIndex"
-"imageAsset","asset_noprecache","0"
-"ruiAsset","string","0"
-"unlocksAt","float","0"
+"fieldName","dataType","layoutIndex","helpText"
+"imageAsset","asset_noprecache","0",""
+"ruiAsset","string","0",""
+"unlocksAt","float","0",""

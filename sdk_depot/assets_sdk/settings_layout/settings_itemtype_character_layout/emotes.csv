@@ -1,3 +1,3 @@
-"fieldName","dataType","layoutIndex"
-"flavor","asset","0"
-"featureFlag","string","0"
+"fieldName","dataType","layoutIndex","helpText"
+"flavor","asset","0",""
+"featureFlag","string","0","The reference will be ignored if the specified feature flag is disabled. If the feature flag is invalid, it will cause a load error."

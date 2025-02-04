@@ -1,4 +1,4 @@
-"fieldName","dataType","layoutIndex"
-"assetName","string","0"
-"devDescription","string","0"
-"list","array_dynamic","0"
+"fieldName","dataType","layoutIndex","helpText"
+"assetName","string","0",""
+"devDescription","string","0",""
+"list","array_dynamic","0","A list of item flavors which script can iterate. If script refers to this list asset, all of the enable items in this array will be baked and loaded."

@@ -1,4 +1,4 @@
-"fieldName","dataType","layoutIndex"
-"fx1p","string","0"
-"fx3p","string","0"
-"attachment","string","0"
+"fieldName","dataType","layoutIndex","helpText"
+"fx1p","string","0",""
+"fx3p","string","0",""
+"attachment","string","0",""

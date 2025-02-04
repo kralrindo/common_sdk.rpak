@@ -1,3 +1,3 @@
-"fieldName","dataType","layoutIndex"
-"bodygroup","string","0"
-"index","int","0"
+"fieldName","dataType","layoutIndex","helpText"
+"bodygroup","string","0","String to identify this specific bodygroup."
+"index","int","0","index of submodel to use (usually 1, to show an attachment on a weapon for example)"

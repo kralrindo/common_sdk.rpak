@@ -1,3 +1,3 @@
-"fieldName","dataType","layoutIndex"
-"weekNumber","int","0"
-"challenges","array_dynamic","0"
+"fieldName","dataType","layoutIndex","helpText"
+"weekNumber","int","0","Week Number"
+"challenges","array_dynamic","0",""

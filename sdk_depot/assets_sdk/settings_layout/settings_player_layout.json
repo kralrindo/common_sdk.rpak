@@ -1,4 +1,5 @@
 {
+	"extraDataSizeIndex": 0,
 	"subLayouts": [
 		"settings_layout/settings_player_layout/gibModels.csv",
 		"settings_layout/settings_player_layout/gibModelsSoftened.csv",
