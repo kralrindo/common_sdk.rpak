@@ -7,8 +7,8 @@
 		"devDescription": "PLEASE DESCRIBE",
 		"localizationKey_NAME": "#RANDOM",
 		"localizationKey_NAME_SHORT": "#RANDOM",
-		"localizationKey_DESCRIPTION_LONG": "",
-		"localizationKey_DESCRIPTION_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": " ",
+		"localizationKey_DESCRIPTION_SHORT": " ",
 		"quality": "COMMON",
 		"icon": "rui/menu/buttons/battlepass/_temp",
 		"grxMode": "NONE",
@@ -24,14 +24,7 @@
 		"galleryPortraitBackground": "rui/menu/buttons/lobby_character_select/dummie_bg",
 		"characterSelectIcon": "rui/menu/buttons/lobby_character_select/random",
 		"characterLockIcon": "rui/menu/buttons/lobby_character_select/random",
-		"shippingStatus": "WIP_SHOW",
 		"tags": [
-		],
-		"passives": [
-			{
-				"flavor": "settings/itemflav/ability/dummie_passive.rpak",
-				"featureFlag": ""
-			}
 		],
 		"menuSmokeSkinIndex": 0,
 		"menuBackgroundSkinIndex": 0,
@@ -48,16 +41,7 @@
 		],
 		"characterMenuButtonIndex": -1,
 		"menuZoomOffset": "<0.000000,0.000000,0.000000>",
-		"damageScale": 1.000000,
-		"damageSlowdown_amount": 0.100000,
-		"damageSlowdown_duration": 0.250000,
-		"damageSlowdown_easeOut": 0.250000,
-		"damageSlowdown_debounce": 3.000000,
 		"skins": [
-			{
-				"flavor": "settings/itemflav/character_skin/_shared_favorites.rpak",
-				"featureFlag": "HAS_FAVORITING"
-			},
 			{
 				"flavor": "settings/itemflav/character_skin/dummie/dummie_black.rpak",
 				"featureFlag": ""
@@ -70,10 +54,6 @@
 			}
 		],
 		"emotes": [
-			{
-				"flavor": "settings/itemflav/character_emote/test_emote.rpak",
-				"featureFlag": ""
-			}
 		],
 		"skydiveEmotes": [
 			{
@@ -231,18 +211,6 @@
 				"featureFlag": ""
 			},
 			{
-				"flavor": "settings/itemflav/gcard_badge/account/season04_bplevel.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/season05_bplevel.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/season06_bplevel.rpak",
-				"featureFlag": ""
-			},
-			{
 				"flavor": "settings/itemflav/gcard_badge/account/solo_all_unlocked_iron_crown.rpak",
 				"featureFlag": ""
 			},
@@ -267,75 +235,7 @@
 				"featureFlag": ""
 			},
 			{
-				"flavor": "settings/itemflav/gcard_badge/account/s03e02_main.rpak",
-				"featureFlag": ""
-			},
-			{
 				"flavor": "settings/itemflav/gcard_badge/account/duos_badge.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/s03e03_main.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/rankedperiod02_rpbadge.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/valentines_2020.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/anniversary_2020_generic.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/anniversary_2020_week1.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/anniversary_2020_month1.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/s04e01_main.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/s04e02_main.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/rankedperiod03_rpbadge.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/s05e01_main.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/s05e01_armed_and_dangerous_evolved_kills.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/s05e01_armed_and_dangerous_evolved_times_respawned_ally.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/s05e01_armed_and_dangerous_evolved_wins.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/s05e01_armed_and_dangerous_evolved_combined_badge.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/ranked_s05_rpbadge.rpak",
-				"featureFlag": ""
-			},
-			{
-				"flavor": "settings/itemflav/gcard_badge/account/s06_challenges_char_completed.rpak",
 				"featureFlag": ""
 			}
 		],
@@ -353,6 +253,6 @@
 		],
 		"emoteIcons": [
 		],
-		"isTheFavoriteSentinel": false
+		"shippingCharacter": false
 	}
 }

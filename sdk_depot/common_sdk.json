@@ -73,6 +73,10 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/character/random.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/character_execution/dummie/default.rpak"
     },
     {
@@ -10248,6 +10252,26 @@
     {
       "_type": "matl",
       "_path": "material/models/weapons/ported_weapons/Trigger_sknp.rpak"
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/empty_handed/ptpov_wraith_phasewalk.rrig",
+      "$sequences": [
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/draw_01.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/draw_ult_active.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/idle_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/idle_seq_noanim.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/jump.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/land.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/land_high.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/land_low.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/land_med.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/phasewalk_charge_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/phasewalk_fire_holster_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/run_layer.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/sprint_anim.rseq",
+        "animseq/weapons/empty_handed/ptpov_wraith_phasewalk/sprint_seq.rseq"
+      ]
     },
     {
       "_type": "arig",

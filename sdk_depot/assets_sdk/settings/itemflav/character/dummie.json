@@ -25,9 +25,6 @@
 		"characterSelectIcon": "rui/menu/buttons/lobby_character_select/dummie",
 		"characterLockIcon": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_dummie",
 		"tags": [
-			{
-				"flavor": "settings/itemflav/tag/launch_character.rpak"
-			}
 		],
 		"menuSmokeSkinIndex": 0,
 		"menuBackgroundSkinIndex": 0,
@@ -42,7 +39,7 @@
 		"galleryModelOffset": "<0.000000,0.000000,0.000000>",
 		"readyUpVoicelines": [
 		],
-		"characterMenuButtonIndex": 12,
+		"characterMenuButtonIndex": -1,
 		"menuZoomOffset": "<0.000000,0.000000,0.000000>",
 		"skins": [
 			{
@@ -284,6 +281,6 @@
 		],
 		"emoteIcons": [
 		],
-		"shippingCharacter": true
+		"shippingCharacter": false
 	}
 }
