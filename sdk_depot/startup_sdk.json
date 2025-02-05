@@ -1,0 +1,17 @@
+{
+  "$mapversion": 1,
+  "version": 8,
+
+  "keepDevOnly": true,
+
+  "assetsDir": "./assets_sdk/",
+  "outputDir": "./build/",
+
+  "compressLevel": 0,
+  "compressWorkers": 16,
+
+  "name": "startup_sdk",
+
+  "files": [
+  ]
+}
