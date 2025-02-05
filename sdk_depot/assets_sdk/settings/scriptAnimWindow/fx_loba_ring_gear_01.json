@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_loba_ring_gear_01.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_warp_brac_loop_gear",
+		"attachPoint": "ring_gear_01",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_intro_quip_layout.rpak",
+	"uniqueId": 830726515,
+	"settings": {
+		"assetName": "settings/itemflav/character_intro_quip/loba/rare_03.rpak",
+		"itemType": "gladiator_card_intro_quip",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_intro_quip_loba_rare_03_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_intro_quip_loba_rare_03",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"quickchatAliasSubName": "glad_introSeq_11_qw",
+		"voiceSound": "diag_mp_loba_glad_introSeq_11",
+		"stingSound": "",
+		"tags": [
+		],
+		"useHoloProjector": false,
+		"isTheEmpty": false
+	}
+}

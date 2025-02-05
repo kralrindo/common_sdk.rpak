@@ -106,6 +106,13 @@ seqs:
 	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_meleeSlide_shadow.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_meleeStand.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_meleeStand_shadow.rseq
+	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_victim_loba_execution_base.rseq
+	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_victim_loba_execution_pointblank.rseq
+	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_victim_mirage_execution_base.rseq
+	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_victim_mirage_execution_joker.rseq
+	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_victim_mirage_execution_trickster.rseq
+	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_victim_octane_execution_base.rseq
+	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_victim_octane_execution_jackhammer.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_wallClimb_shadow_UP.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_ziplineIdle_rifle.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\heavy_ziplineIdle_rifle_vertical.rseq
@@ -191,7 +198,9 @@ seqs:
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_heavy_doomed_shield_forward_crawl_set.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_heavy_doomed_shield_idle.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_heavy_doomed_trans.rseq
+	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_heavy_doomed_trans_air.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_heavy_doomed_trans_short.rseq
+	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_heavy_doomed_trans_slide.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_heavy_flinch_back_ADD.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_heavy_flinch_front_ADD.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_heavy_flinch_left_ADD.rseq
@@ -410,18 +419,11 @@ seqs:
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_heavy_wallrun_right.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_heavy_wallrun_up.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_heavy_wallrun_up_Pistol.rseq
-	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_holo_base_execution_heavy_victim.rseq
-	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_holo_execution_heavy_victim.rseq
-	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_holo_joker_execution_heavy_victim.rseq
-	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_loba_pointblank_execution_heavy_victim.rseq
-	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_loba_stomp_execution_heavy_victim.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_medic_base_execution_heavy_victim.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_medic_execution_heavy_victim.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_medic_shock_execution_heavy_victim.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_medium_doomed_fall.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_medium_doomed_float.rseq
-	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_octane_base_execution_heavy_victim.rseq
-	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_octane_execution_heavy_victim.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_revenant_impale_execution_heavy_victim.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_revenant_lurk_execution_heavy_victim.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_tracker_base_execution_heavy_victim.rseq
@@ -429,11 +431,13 @@ seqs:
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_tracker_respect_execution_heavy_victim.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_wattson_base_execution_heavy_victim.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\mp_pt_zap_execution_heavy_victim.rseq
+	animseq\humans\class\heavy\mp_pilot_heavy_core\Pilot_doomed_revive_crouch_drone_injured.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\Pilot_doomed_revive_crouch_healthy.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\Pilot_doomed_revive_crouch_injured.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\Pilot_doomed_revive_crouch_quick_injured.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\Pilot_doomed_revive_crouch_shock_injured.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\Pilot_doomed_revive_crouch_slap_injured.rseq
+	animseq\humans\class\heavy\mp_pilot_heavy_core\Pilot_doomed_revive_drone_injured.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\Pilot_doomed_revive_healthy.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\Pilot_doomed_revive_injured.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\Pilot_doomed_revive_quick_injured.rseq
@@ -441,6 +445,7 @@ seqs:
 	animseq\humans\class\heavy\mp_pilot_heavy_core\Pilot_doomed_revive_stand_slap_injured.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\pilot_downed_execution_attacker.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\pilot_downed_execution_victim.rseq
+	animseq\humans\class\heavy\mp_pilot_heavy_core\pilot_quest_se05.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\pt_add_hands_rspn101.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\pt_add_hands_rspn101_inspect.rseq
 	animseq\humans\class\heavy\mp_pilot_heavy_core\pt_data_knife_console_leech_end.rseq

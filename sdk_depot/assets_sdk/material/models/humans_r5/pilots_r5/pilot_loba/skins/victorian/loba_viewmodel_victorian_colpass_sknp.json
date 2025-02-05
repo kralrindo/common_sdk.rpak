@@ -1,0 +1,43 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_loba/skins/victorian/loba_viewmodel_victorian_colpass",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000460",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x34955C1536620DFB",
+	"$textures": {
+		"0": "0x84B695B44BEAA2D0",
+		"1": "0x1BADF8502FE81464",
+		"2": "0x657631DF82AAC18B",
+		"3": "0xCA8ED744ED35A9B5",
+		"5": "0xF26B45B4E3B699C0",
+		"6": "0x88806420E1C458EA",
+		"13": "0x84DB2BB20D3D4BB6"
+	},
+	"$depthShadowMaterial": "0x573B8EE43EB2B875",
+	"$depthPrepassMaterial": "0x4520F75C69DCCAE4",
+	"$depthVSMMaterial": "0xF66F8881DE66FBF7",
+	"$depthShadowTightMaterial": "0xC0E5C4DA15E6BD62",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

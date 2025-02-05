@@ -106,6 +106,13 @@ seqs:
 	animseq\humans\class\medium\mp_pilot_medium_core\medium_meleeSlide.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\medium_meleeStand.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\medium_meleeStand_shadow.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\medium_victim_loba_execution_base.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\medium_victim_loba_execution_pointblank.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\medium_victim_mirage_execution_base.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\medium_victim_mirage_execution_joker.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\medium_victim_mirage_execution_trickster.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\medium_victim_octane_execution_base.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\medium_victim_octane_execution_jackhammer.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\medium_wallClimb_shadow_UP.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\medium_ziplineIdle_rifle.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\medium_ziplineIdle_rifle_vertical.rseq
@@ -140,15 +147,7 @@ seqs:
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_gunner_base_execution_medium_victim.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_gunner_execution_medium_victim.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_gunner_slam_execution_medium_victim.rseq
-	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_holo_base_execution_medium_victim.rseq
-	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_holo_execution_medium_victim.rseq
-	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_holo_execution_victim_loot.rseq
-	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_holo_joker_execution_medium_victim.rseq
-	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_holo_joker_execution_medium_victim_loot.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_impale_execution_victim_loot.rseq
-	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_jackhammer_execution_victim_loot.rseq
-	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_loba_pointblank_execution_medium_victim.rseq
-	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_loba_stomp_execution_medium_victim.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medic_base_execution_medium_victim.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medic_execution_medium_victim.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medic_execution_victim_loot.rseq
@@ -214,7 +213,9 @@ seqs:
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medium_doomed_shield_idle.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medium_doomed_shield_idle\mp_pt_medium_aim_doom_shield.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medium_doomed_trans.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medium_doomed_trans_air.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medium_doomed_trans_short.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medium_doomed_trans_slide.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medium_flinch_back_ADD.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medium_flinch_front_ADD.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medium_flinch_left_ADD.rseq
@@ -433,10 +434,7 @@ seqs:
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medium_wallrun_right.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medium_wallrun_up.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_medium_wallrun_up_Pistol.rseq
-	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_octane_base_execution_medium_victim.rseq
-	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_octane_execution_medium_victim.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_phase_execution_victim_loot.rseq
-	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_pointblank_execution_victim_loot.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_portal_execution_victim_loot.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_punch_execution_victim_loot.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_raven_execution_medium_victim_loot.rseq
@@ -448,15 +446,18 @@ seqs:
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_slam_execution_medium_victim_loot.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_tracker_base_execution_medium_victim.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_tracker_execution_medium_victim.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_tracker_execution_medium_victim_PVE.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_tracker_respect_execution_medium_victim.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_wattson_base_execution_medium_victim.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_wraith_base_execution_victim_loot.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\mp_pt_zap_execution_medium_victim.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\Pilot_doomed_revive_crouch_drone_injured.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\Pilot_doomed_revive_crouch_healthy.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\Pilot_doomed_revive_crouch_injured.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\Pilot_doomed_revive_crouch_quick_injured.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\Pilot_doomed_revive_crouch_shock_injured.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\Pilot_doomed_revive_crouch_slap_injured.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\Pilot_doomed_revive_drone_injured.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\Pilot_doomed_revive_healthy.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\Pilot_doomed_revive_injured.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\Pilot_doomed_revive_quick_injured.rseq
@@ -464,6 +465,7 @@ seqs:
 	animseq\humans\class\medium\mp_pilot_medium_core\Pilot_doomed_revive_stand_slap_injured.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\pilot_downed_execution_attacker.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\pilot_downed_execution_victim.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\pilot_quest_se05.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\pt_add_hands_rspn101.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\pt_add_hands_rspn101_inspect.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\pt_data_knife_console_leech_end.rseq
@@ -513,6 +515,10 @@ seqs:
 	animseq\humans\class\medium\mp_pilot_medium_core\pt_rodeo_trans_L2R.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\pt_rodeo_trans_R2F.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\pt_rodeo_trans_R2L.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\victim_loba_execution_pointblank_loot.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\victim_mirage_execution_trickster_loot.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\victim_mirage_holo_execution_joker_loot.rseq
+	animseq\humans\class\medium\mp_pilot_medium_core\victim_octane_execution_jackhammer_loot.rseq
 	animseq\humans\class\medium\mp_pilot_medium_core\wattson_finisher_zap_victim_loot.rseq
 	animseq\itemflav\character_execution\crypto\dronescan\mp_pt_crypto_dronescan_execution_victim_loot.rseq
 ]

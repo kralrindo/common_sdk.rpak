@@ -166,99 +166,148 @@
           "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_dummie",
           "posX": 14,
           "posY": 14,
-          "width": 960,
+          "width": 908,
           "height": 303
         },
         {
-          "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant_shadow",
+          "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_loba",
           "posX": 14,
-          "posY": 676,
-          "width": 846,
+          "posY": 345,
+          "width": 908,
           "height": 303
         },
         {
           "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant",
           "posX": 14,
-          "posY": 345,
-          "width": 960,
+          "posY": 676,
+          "width": 908,
+          "height": 303
+        },
+        {
+          "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant_shadow",
+          "posX": 950,
+          "posY": 14,
+          "width": 846,
           "height": 303
         },
         {
           "path": "rui/hud/passive_icons/passive_dummie_mode",
-          "posX": 1002,
-          "posY": 14,
+          "posX": 950,
+          "posY": 345,
           "width": 512,
           "height": 512
         },
         {
-          "path": "rui/hud/passive_icons/passive_revenant",
-          "posX": 1002,
-          "posY": 554,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "rui/hud/tactical_icons/tactical_dummie_mode",
+          "path": "rui/hud/passive_icons/passive_loba",
           "posX": 14,
           "posY": 1007,
           "width": 512,
           "height": 512
         },
         {
-          "path": "rui/hud/tactical_icons/tactical_revenant",
-          "posX": 1542,
-          "posY": 14,
+          "path": "rui/hud/passive_icons/passive_revenant",
+          "posX": 554,
+          "posY": 1007,
           "width": 512,
           "height": 512
         },
         {
-          "path": "rui/hud/ultimate_icons/ultimate_dummie_mode",
-          "posX": 1542,
-          "posY": 554,
+          "path": "rui/hud/tactical_icons/tactical_dummie_mode",
+          "posX": 1094,
+          "posY": 885,
           "width": 512,
           "height": 512
         },
         {
-          "path": "rui/hud/ultimate_icons/ultimate_revenant",
+          "path": "rui/hud/tactical_icons/tactical_loba",
           "posX": 14,
           "posY": 1547,
           "width": 512,
           "height": 512
         },
         {
-          "path": "rui/menu/buttons/lobby_character_select/dummie",
+          "path": "rui/hud/tactical_icons/tactical_revenant",
           "posX": 554,
-          "posY": 1007,
+          "posY": 1547,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/ultimate_icons/ultimate_dummie_mode",
+          "posX": 1094,
+          "posY": 1425,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/ultimate_icons/ultimate_loba",
+          "posX": 1490,
+          "posY": 345,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/ultimate_icons/ultimate_revenant",
+          "posX": 1634,
+          "posY": 885,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/menu/buttons/lobby_character_select/dummie",
+          "posX": 1824,
+          "posY": 14,
           "width": 390,
           "height": 208
         },
         {
           "path": "rui/menu/buttons/lobby_character_select/dummie_bg",
-          "posX": 554,
-          "posY": 1243,
+          "posX": 1634,
+          "posY": 1425,
+          "width": 390,
+          "height": 208
+        },
+        {
+          "path": "rui/menu/buttons/lobby_character_select/loba",
+          "posX": 1634,
+          "posY": 1661,
+          "width": 390,
+          "height": 208
+        },
+        {
+          "path": "rui/menu/buttons/lobby_character_select/loba_bg",
+          "posX": 2242,
+          "posY": 14,
           "width": 390,
           "height": 208
         },
         {
           "path": "rui/menu/buttons/lobby_character_select/revenant",
-          "posX": 554,
-          "posY": 1479,
+          "posX": 2174,
+          "posY": 250,
           "width": 390,
           "height": 208
         },
         {
           "path": "rui/menu/buttons/lobby_character_select/revenant_bg",
-          "posX": 554,
-          "posY": 1715,
+          "posX": 2030,
+          "posY": 486,
           "width": 390,
           "height": 208
         },
         {
           "path": "rui/menu/buttons/battlepass/character_skin_revenant",
-          "posX": 972,
-          "posY": 1094,
+          "posX": 1634,
+          "posY": 1897,
           "width": 200,
           "height": 155
+        },
+        {
+          "path": "rui/menu/buttons/battlepass/character_skin_loba",
+          "posX": 2030,
+          "posY": 722,
+          "width": 122,
+          "height": 122
         }
       ]
     },

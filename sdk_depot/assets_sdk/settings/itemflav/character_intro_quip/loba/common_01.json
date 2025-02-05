@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_intro_quip_layout.rpak",
+	"uniqueId": 1686435734,
+	"settings": {
+		"assetName": "settings/itemflav/character_intro_quip/loba/common_01.rpak",
+		"itemType": "gladiator_card_intro_quip",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_intro_quip_loba_common_01_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_intro_quip_loba_common_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"quickchatAliasSubName": "glad_introSeq_02_qw",
+		"voiceSound": "diag_mp_loba_glad_introSeq_02",
+		"stingSound": "",
+		"tags": [
+		],
+		"useHoloProjector": false,
+		"isTheEmpty": false
+	}
+}

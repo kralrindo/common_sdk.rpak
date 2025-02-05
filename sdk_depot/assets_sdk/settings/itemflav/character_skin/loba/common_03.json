@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_skin_layout.rpak",
+	"uniqueId": 715682250,
+	"settings": {
+		"assetName": "settings/itemflav/character_skin/loba/common_03.rpak",
+		"itemType": "character_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_ARCTIC",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_skin_loba_common_03",
+		"ownershipTarget": "",
+		"bodyModel": "mdl/Humans/class/medium/pilot_medium_loba.rmdl",
+		"armsModel": "mdl/Weapons/arms/pov_pilot_medium_loba.rmdl",
+		"skinName": "common mask",
+		"unlockFuncKey": "",
+		"customCharSelectIntroAnim": "",
+		"customCharSelectIdleAnim": "",
+		"customCharSelectReadyIntroAnim": "",
+		"customCharSelectReadyIdleAnim": "",
+		"tags": [
+		],
+		"camoIndex": 99,
+		"shouldHideIfLocked": false
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 17271137,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/loba/witch.rpak",
+		"itemType": "skydive_emote",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#EMOTE_005",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#SKYDIVE_EMOTE_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_witch",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_loba_witch",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_loba/loba_freefall_emote_witch.rseq",
+		"video": "media/skydive_emotes/loba_witch",
+		"tags": [
+		],
+		"isTheEmpty": false
+	}
+}

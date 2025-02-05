@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1965136863,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/loba/season05_wins.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_loba_season05_wins_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_loba_season05_wins_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#BP_EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_loba_season05_wins",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID00835358768].characters[%char%].placements_win",
+		"valueNumberFormat": "BASIC",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s05bp/season05_stat_tracker_loba",
+		"tags": [
+		],
+		"color0": "<0.451000,0.380000,0.090000>",
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus/goddess/loba_hair_rareplus_goddess",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x9198DAD49196C70E",
+	"$textures": {
+		"0": "0x1B1146A4BCE6E421",
+		"1": "0x126AB22A5DBAC027",
+		"2": "0x548573E5D5737EEB",
+		"3": "0x81384EF106C5154A",
+		"5": "0x47DF1C560E096448",
+		"6": "0x2D7A6A2EBC4387C6",
+		"15": "0x1032E916338C3CA0"
+	},
+	"$depthShadowMaterial": "0x33E66BAA84A327CF",
+	"$depthPrepassMaterial": "0xC4182FBDCBE891C5",
+	"$depthVSMMaterial": "0x66CFFA75C3934822",
+	"$depthShadowTightMaterial": "0xC4F65B989B4B7B97",
+	"$colpassMaterial": "0x917094A73CF31E75",
+	"$textureAnimation": "0x0"
+}

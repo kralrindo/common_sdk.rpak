@@ -1,0 +1,40 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_phase/wraith_eye_cornea",
+	"width": 32,
+	"height": 32,
+	"depth": 0,
+	"glueFlags": "0x56000422",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x838DEA2EA0F64AB1",
+	"$textures": {
+		"0": "0x3B0EE59AC68612D7",
+		"1": "0x946836892D90C738",
+		"3": "0xF3175ADACBC9C4FA",
+		"7": "0x286021C5564B1BAA"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1753149273,
+	"settings": {
+		"assetName": "settings/itemflav/ability/loba_ult_black_market.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LOBA_ULT_BLACK_MARKET_NAME",
+		"localizationKey_NAME_SHORT": "#LOBA_ULT_BLACK_MARKET_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#LOBA_ULT_BLACK_MARKET_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#LOBA_ULT_BLACK_MARKET_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_loba",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_black_market",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

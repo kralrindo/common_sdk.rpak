@@ -1,0 +1,43 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_loba/skins/assassin_rt_03/loba_gear_assassin_rt_03",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xF58E1F7D5EF5FC70",
+	"$textures": {
+		"0": "0x44BC1DF68C72F7AC",
+		"1": "0x3B7BA7638471277A",
+		"2": "0x7D96691EFC29E63E",
+		"3": "0xAA49442A464AD461",
+		"4": "0x2493529ADE2ABDB",
+		"5": "0x2C5B890977B3A8CA",
+		"6": "0x568B5F67988BE7CD"
+	},
+	"$depthShadowMaterial": "0xDD7985517E93BB08",
+	"$depthPrepassMaterial": "0xD6D57EEBE30A1616",
+	"$depthVSMMaterial": "0x540752D99A0EBED0",
+	"$depthShadowTightMaterial": "0x8B6A40C384EC352D",
+	"$colpassMaterial": "0xFD0C463D503B1417",
+	"$textureAnimation": "0x0"
+}

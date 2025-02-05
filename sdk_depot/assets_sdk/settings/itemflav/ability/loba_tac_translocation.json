@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 677666176,
+	"settings": {
+		"assetName": "settings/itemflav/ability/loba_tac_translocation.rpak",
+		"itemType": "ability",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LOBA_TAC_TRANSLOCATION_NAME",
+		"localizationKey_NAME_SHORT": "#LOBA_TAC_TRANSLOCATION_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#LOBA_TAC_TRANSLOCATION_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#LOBA_TAC_TRANSLOCATION_desc",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_loba",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_translocation",
+		"passiveScriptRef": "",
+		"tags": [
+		]
+	}
+}

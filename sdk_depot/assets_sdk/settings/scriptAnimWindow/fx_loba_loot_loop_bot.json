@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_loba_loot_loop_bot.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_loba_staff_glow_bot",
+		"attachPoint": "pole_bot",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

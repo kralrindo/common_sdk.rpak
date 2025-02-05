@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\loba_treasure\loba_treasure\prop_gladcard_animated_treasure.rseq
+	animseq\props\loba_treasure\loba_treasure\prop_gladcard_animated_treasure_idle.rseq
+]

@@ -1,0 +1,29 @@
+{
+  "$mapversion": 1,
+  "version": 8,
+
+  "assetsDir": "map_depot/assets_common",
+  "outputDir": ".\\build\\",
+
+  "compressLevel": 6,
+  "compressWorkers": 16,
+
+  "name": "loadscreen_custom_sdk_7",
+
+  "files": [
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/loadscreens/custom_sdk_7_widescreen",
+      "atlas": "texture/ui_atlas/loadscreens/custom_sdk_7_widescreen.rpak",
+      "images": [
+        {
+          "path": "loadscreens/custom/loadscreen_custom_sdk_7",
+          "width": 1920,
+          "height": 1080,
+          "posX": 0,
+          "posY": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus_treasurehunter/loba_gear_rareplus_treasurehunter_colpass",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x66636756669216A",
+	"$textures": {
+		"0": "0x62BFFC8CFF1D37CA",
+		"1": "0x7569FB1591016FBF",
+		"2": "0x7FA4B69C96E0A0BD",
+		"3": "0x468C1D186594645A",
+		"5": "0x8B65D5270A793B39",
+		"6": "0x5A8CE03E1EA94E7A"
+	},
+	"$depthShadowMaterial": "0x85FC2501946A94A3",
+	"$depthPrepassMaterial": "0x8AC67111134B644C",
+	"$depthVSMMaterial": "0x109B57557D8F774",
+	"$depthShadowTightMaterial": "0xD22374F7B2521EF1",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

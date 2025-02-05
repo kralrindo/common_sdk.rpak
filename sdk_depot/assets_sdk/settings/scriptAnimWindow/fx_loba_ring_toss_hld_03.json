@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_loba_ring_toss_hld_03.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_warp_brac_toss_arm",
+		"attachPoint": "l_bracelet_03",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

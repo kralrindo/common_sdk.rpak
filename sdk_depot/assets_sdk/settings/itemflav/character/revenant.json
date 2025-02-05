@@ -1004,6 +1004,6 @@
 		],
 		"emoteIcons": [
 		],
-		"shippingCharacter": false
+		"shippingCharacter": true
 	}
 }

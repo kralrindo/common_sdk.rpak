@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\revenant_jar\revenant_jar\jar_gladcard_animated_treasure.rseq
+	animseq\props\revenant_jar\revenant_jar\jar_gladcard_animated_treasure_idle.rseq
+]
