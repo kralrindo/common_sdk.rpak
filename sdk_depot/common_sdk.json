@@ -1870,7 +1870,11 @@
     },
     {
       "_type": "dtbl",
-      "_path": "datatable/battle_chatter_dialogue.rpak"
+      "_path": "datatable/battle_chatter_dialogue.rpak"//s4
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/pain_death_sounds.rpak"//s6
     },
     {
       "_type": "shdr",
