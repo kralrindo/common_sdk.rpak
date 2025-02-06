@@ -1,0 +1,22 @@
+seqs:
+[
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\crouch.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\draw.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\fire.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\holster.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\idle.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\jump.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\land.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\land_high.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\land_low.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\land_med.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\lower.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\raise.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\regrip_to_crouch.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\regrip_to_idle.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\run_layer.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\sprint.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\sprintjump.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\sprintraise.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_held\sprintslide.rseq
+]

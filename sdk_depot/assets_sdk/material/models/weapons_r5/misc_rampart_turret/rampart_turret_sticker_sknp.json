@@ -1,0 +1,39 @@
+{
+	"name": "models/weapons_r5/misc_rampart_turret/rampart_turret_sticker",
+	"width": 256,
+	"height": 256,
+	"depth": 0,
+	"glueFlags": "0x560004b0",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xE9FD7F647316F30E",
+	"$textures": {
+		"0": "0x5245D2A63FAC2F9B",
+		"1": "0x8C9647619E10E9A6",
+		"3": "0x556001E2EBAFD73E"
+	},
+	"$depthShadowMaterial": "0xA8EBA1C97ABE5BEA",
+	"$depthPrepassMaterial": "0x3BF8E8B18590EA50",
+	"$depthVSMMaterial": "0x9AFCE279FFECAD42",
+	"$depthShadowTightMaterial": "0xF6F4204BC82EB5C7",
+	"$colpassMaterial": "0x548E85135B9E74A8",
+	"$textureAnimation": "0x0"
+}

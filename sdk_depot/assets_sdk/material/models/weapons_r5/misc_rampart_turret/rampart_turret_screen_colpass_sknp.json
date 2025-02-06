@@ -1,0 +1,39 @@
+{
+	"name": "models/weapons_r5/misc_rampart_turret/rampart_turret_screen_colpass",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "glass",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xE33C1A1998D4F057",
+	"$textures": {
+		"0": "0xF48569AA3FFABB8B",
+		"1": "0x8C9647619E10E9A6",
+		"4": "0xE60A86A873466805"
+	},
+	"$depthShadowMaterial": "0x44FFCEC37A563B45",
+	"$depthPrepassMaterial": "0xB87F7F0AB62448C0",
+	"$depthVSMMaterial": "0x12CDA5D5C486182B",
+	"$depthShadowTightMaterial": "0x46DEAF83265A220D",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

@@ -1,0 +1,42 @@
+{
+	"name": "models/weapons_r5/misc_rampart_turret/rampart_turret_colpass",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000420",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xB6881CF04941246E",
+	"$textures": {
+		"0": "0xA6466E4112C7EAC9",
+		"1": "0x7AB34BD1C13062B8",
+		"2": "0xB087AF6F4E30BA59",
+		"3": "0x43C9F75F823D5421",
+		"5": "0x76F3EB2FB7BB2FBA",
+		"6": "0x54F90771EBF05CCD"
+	},
+	"$depthShadowMaterial": "0x2FF682874AD2A6C9",
+	"$depthPrepassMaterial": "0xC32A41F59EDDCDF2",
+	"$depthVSMMaterial": "0x5C7490F766CBC817",
+	"$depthShadowTightMaterial": "0x9EB666C6D2F6851C",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

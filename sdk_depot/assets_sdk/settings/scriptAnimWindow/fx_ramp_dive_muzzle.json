@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_ramp_dive_muzzle.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_rmprt_drop_trrt_loop",
+		"attachPoint": "muzzle_flash",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

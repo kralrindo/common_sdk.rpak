@@ -1,0 +1,44 @@
+seqs:
+[
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\ads_in.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\ads_out.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\barrel_spin_layer.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\draw.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\draw_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\drawfirst.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\drawfirst_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\fire_left.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\fire_right.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\holster.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\idle.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\inspect.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\inspect_rampart_01.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\inspect_rampart_02.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\inspect_rampart_03.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\lower.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\raise_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\raise_tempName.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reload.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reload_late1.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reload_late1_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reload_late2.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reload_late2_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reload_late3.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reload_late3_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reload_late4.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reload_late4_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reload_late5.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reload_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reloadempty.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reloadempty_late1.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reloadempty_late1_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reloadempty_late2.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reloadempty_late2_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reloadempty_late3.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reloadempty_late3_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reloadempty_late4.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reloadempty_late4_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reloadempty_late5.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\reloadempty_rampart.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret\zoom_optic_layer.rseq
+]
