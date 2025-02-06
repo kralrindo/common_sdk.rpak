@@ -15,3 +15,6 @@
 *.7z
 R5SDK-Asset-Rpaks.7z.tmp
 *.bak
+/map_depot/assetss9
+/map_depot/cache
+map_depot/repak.exe
