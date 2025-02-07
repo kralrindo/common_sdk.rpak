@@ -1,0 +1,11 @@
+models:
+[
+	mdl\props\tablet\tablet_mini.rmdl
+]
+settings:
+[
+	settings\scriptAnimWindow\prop_mirage_lobby_center_picture.rpak
+]
+effects:
+[
+]

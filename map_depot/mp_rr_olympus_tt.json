@@ -3874,6 +3874,46 @@
       "$guid": "0xFFF685825E651B46"
     },
     {
+      "_type": "shdr",
+      "_path": "shader/0xAE0C8DA02F900990.rpak",
+      "$guid": "0xAE0C8DA02F900990"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xB8A8D589ECCE0C9E.rpak",
+      "$guid": "0xB8A8D589ECCE0C9E"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xC7C44305EDAEF7A7.rpak",
+      "$guid": "0xC7C44305EDAEF7A7"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xFDA0F3180FB319E3.rpak",
+      "$guid": "0xFDA0F3180FB319E3"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x3753138EDDF5351.rpak",
+      "$guid": "0x3753138EDDF5351"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x4FF86EC86ADEDC8B.rpak",
+      "$guid": "0x4FF86EC86ADEDC8B"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xDB83E8105CDF4023.rpak",
+      "$guid": "0xDB83E8105CDF4023"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xDC46EF2FDD5E211E.rpak",
+      "$guid": "0xDC46EF2FDD5E211E"
+    },
+    {
       "_type": "shds",
       "_path": "shaderset/0x10207A1FAA16EB2.rpak",
       "$guid": "0x10207A1FAA16EB2"
@@ -7632,6 +7672,31 @@
       "_type": "shds",
       "_path": "shaderset/0xFFFAA0B4763A1224.rpak",
       "$guid": "0xFFFAA0B4763A1224"
+    },
+    {
+      "_type": "txan",
+      "_path": "texture_anim/0x2893904960BBFD95.rpak",
+      "$guid": "0x2893904960BBFD95"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x63D6480E1EB8BF97.rpak",
+      "$guid": "0x63D6480E1EB8BF97"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x65C45624E0A10FFF.rpak",
+      "$guid": "0x65C45624E0A10FFF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFAAB772543B26CAE.rpak",
+      "$guid": "0xFAAB772543B26CAE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB69629E8ADB114AD.rpak",
+      "$guid": "0xB69629E8ADB114AD"
     },
     {
       "_type": "txtr",
@@ -23967,6 +24032,74 @@
       "_type": "txtr",
       "_path": "texture/0xFFD902DC69CBC2C1.rpak",
       "$guid": "0xFFD902DC69CBC2C1"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/explosions/exp_fire_alpha_full_add_ob_db256_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/explosions/exp_fire_ramp_blue_add_db_15_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/flare_hoop02_add_noz_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/flare_hoop03_add_noz_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/leaf/floret_blend_db32_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/fog_thin_perlin_add_db128_nearcull_nodoftsaa_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/fog_thin_perlin_DB512_nearcull_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/fog_thin_perlin_DB60_nearcull65_nodoftsaa_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/fog_thin_perlin_DB_nearcull2_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/smoke_puff_01_DB1024_nearcull_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/smoke_puff_01_DB128_NC2_nodoftsaa_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/star_max01_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/water/rain_streak_trail_noOB_TSAA_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/water/rain_streak_trail_noOB_TSAA_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/water/splash_foam_db128_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/water/water_splash_erode_trail_db5_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/wildlife/fly_trail_ptcs.rpak"
     },
     {
       "_type": "matl",

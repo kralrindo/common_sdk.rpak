@@ -1,0 +1,29 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_execution_layout.rpak",
+	"uniqueId": 426861755,
+	"settings": {
+		"assetName": "settings/itemflav/character_execution/octane/prototype1.rpak",
+		"itemType": "character_execution",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_execution_octane_prototype1_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_execution_octane_prototype1",
+		"ownershipTarget": "",
+		"video": "media/character_executions/octane_execution_facekick",
+		"attackerAnimSeq": "animseq/humans/class/medium/pilot_medium_stim/mp_pt_octane_execution_medium_attacker.rseq",
+		"victimLightAnimSeq": "animseq/humans/class/light/mp_pilot_light_core/light_victim_octane_execution_jackhammer.rseq",
+		"victimMediumAnimSeq": "animseq/humans/class/medium/mp_pilot_medium_core/medium_victim_octane_execution_jackhammer.rseq",
+		"victimHeavyAnimSeq": "animseq/humans/class/heavy/mp_pilot_heavy_core/heavy_victim_octane_execution_jackhammer.rseq",
+		"victimNPCMediumAnimSeq": "animseq/humans/pete/ai_grunt_core/mp_pt_octane_execution_medium_victim.rseq",
+		"attackerPreviewAnimSeq": "animseq/humans/class/medium/pilot_medium_stim/mp_pt_jackhammer_execution_octane_loot.rseq",
+		"victimPreviewAnimSeq": "animseq/humans/class/medium/mp_pilot_medium_core/victim_octane_execution_jackhammer_loot.rseq",
+		"tags": [
+		]
+	}
+}

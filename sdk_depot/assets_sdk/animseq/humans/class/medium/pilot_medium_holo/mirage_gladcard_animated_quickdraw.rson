@@ -1,0 +1,11 @@
+models:
+[
+	mdl\weapons\wingman_elite\w_wingman_elite.rmdl
+]
+settings:
+[
+	settings\scriptAnimWindow\prop_mirage_gladcard_animated_quickdraw.rpak
+]
+effects:
+[
+]
