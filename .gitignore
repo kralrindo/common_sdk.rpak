@@ -18,3 +18,5 @@ R5SDK-Asset-Rpaks.7z.tmp
 /map_depot/assetss9
 /map_depot/cache
 map_depot/repak.exe
+/map_depot/assets_common/mdl
+*.starpak
