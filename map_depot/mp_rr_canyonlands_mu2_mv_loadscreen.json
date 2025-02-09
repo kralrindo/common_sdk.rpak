@@ -2,7 +2,7 @@
   "$mapversion": 1,
   "version": 8,
 
-  "assetsDir": "map_depot/assetss5",
+  "assetsDir": "map_depot/assets_common",
   "outputDir": ".\\build\\",
 
   "name": "mp_rr_canyonlands_mu2_mv_loadscreen",

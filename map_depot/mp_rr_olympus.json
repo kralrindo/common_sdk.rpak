@@ -12834,7 +12834,6 @@
       "_path": "texture/0x61CEE763E44EAAA.rpak",
       "$guid": "0x61CEE763E44EAAA"
     },
-    
     {
       "_type": "txtr",
       "_path": "texture/0x621A6238AAA10C74.rpak",
@@ -41923,20 +41922,6 @@
       "images": [
         {
           "path": "overviews/mp_rr_olympus",
-          "width": 4100,
-          "height": 4100,
-          "posX": 0,
-          "posY": 0
-        }
-      ]
-    },
-    {
-      "_type": "uimg",
-      "_path": "ui_image_atlas/overviews/mp_rr_olympus_tt",
-      "atlas": "texture/ui_atlas/overviews/mp_rr_olympus_tt.rpak",
-      "images": [
-        {
-          "path": "overviews/mp_rr_olympus_tt",
           "width": 4100,
           "height": 4100,
           "posX": 0,
