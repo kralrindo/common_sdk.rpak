@@ -2290,6 +2290,11 @@
     ////////////////////////SHADERSETS//////////////////////////
     {
       "_type": "shds",
+      "_path": "shaderset/0x4A355F0C2A1DCCED.rpak",
+      "$guid": "0x4A355F0C2A1DCCED"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x1EBD08D4B3C26E66.rpak",
       "$guid": "0x1EBD08D4B3C26E66"
     },
@@ -2679,6 +2684,11 @@
       "$guid": "0xCFED363E8F48E0B6"
     },
     ///////////////////TEXTURES/////////////////////////
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8835FD83F2FB1673.rpak",
+      "$guid": "0x8835FD83F2FB1673"
+    },
     {
       "_type": "txtr",
       "_path": "texture/0x1623899CB30501D2.rpak",
