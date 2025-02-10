@@ -1,0 +1,17 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\communication\terminal_usable_imc_01\tm_data_knife_console_leech_end.rseq
+	animseq\communication\terminal_usable_imc_01\tm_data_knife_console_leech_end_ALT.rseq
+	animseq\communication\terminal_usable_imc_01\tm_data_knife_console_leech_idle.rseq
+	animseq\communication\terminal_usable_imc_01\tm_data_knife_console_leech_idle_ALT.rseq
+	animseq\communication\terminal_usable_imc_01\tm_data_knife_console_leech_remoteturret_start.rseq
+	animseq\communication\terminal_usable_imc_01\tm_data_knife_console_leech_start.rseq
+	animseq\communication\terminal_usable_imc_01\tm_data_knife_console_leech_start_ALT.rseq
+	animseq\communication\terminal_usable_imc_01\tm_hovertank_grenade.rseq
+	animseq\communication\terminal_usable_imc_01\tm_Playback_SOS_console_hack.rseq
+	animseq\communication\terminal_usable_imc_01\tm_Playback_SOS_console_hack_idle.rseq
+	animseq\communication\terminal_usable_imc_01\tm_Playback_SOS_console_hack_start.rseq
+]

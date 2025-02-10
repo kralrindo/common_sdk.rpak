@@ -1,0 +1,42 @@
+{
+	"name": "models/communication/terminal_usable_imc_02",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metal",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x22DA7427DC74922D",
+	"$textures": {
+		"0": "0xFB6971A5151662A3",
+		"1": "0xF228FB119107DB9D",
+		"2": "0x3443BCCD3A5F49E9",
+		"3": "0x60F697D86BB0E048",
+		"4": "0xB8F688D804E7674A",
+		"9": "0x8DF0BB65A813728F"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0xE33F0AE9D1F1E6F6",
+	"$textureAnimation": "0x0"
+}

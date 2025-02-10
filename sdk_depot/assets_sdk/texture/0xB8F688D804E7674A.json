@@ -1,0 +1,14 @@
+{
+	"streamLayout": [
+		"mandatory",
+		"optional",
+		"optional"
+	],
+	"mipInfo": [
+		12,
+		18,
+		26
+	],
+	"resourceFlags": "0x0",
+	"usageFlags": "0x0"
+}

@@ -2277,7 +2277,27 @@
       "_path": "shader/0xDA995397E90DDACB.rpak",
       "$guid": "0xDA995397E90DDACB"
     },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x5402BB372B1ACE75.rpak",
+      "$guid": "0x5402BB372B1ACE75"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x8BFA6AE0826FBF36.rpak",
+      "$guid": "0x8BFA6AE0826FBF36"
+    },
     ////////////////////////SHADERSETS//////////////////////////
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x1EBD08D4B3C26E66.rpak",
+      "$guid": "0x1EBD08D4B3C26E66"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x22DA7427DC74922D.rpak",
+      "$guid": "0x22DA7427DC74922D"
+    },
     {
       "_type": "shds",
       "_path": "shaderset/0xA085DDF25E4DABC2.rpak",
@@ -2659,6 +2679,286 @@
       "$guid": "0xCFED363E8F48E0B6"
     },
     ///////////////////TEXTURES/////////////////////////
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1623899CB30501D2.rpak",
+      "$guid": "0x1623899CB30501D2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x166C379CCE1DE641.rpak",
+      "$guid": "0x166C379CCE1DE641"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1A5D7DACCC7DF7CA.rpak",
+      "$guid": "0x1A5D7DACCC7DF7CA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1B2A383F446CCEE2.rpak",
+      "$guid": "0x1B2A383F446CCEE2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1E93B84D550B42BE.rpak",
+      "$guid": "0x1E93B84D550B42BE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x240E8E8CBD957018.rpak",
+      "$guid": "0x240E8E8CBD957018"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x29632731E60BA3DA.rpak",
+      "$guid": "0x29632731E60BA3DA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x29676A3E382CED4B.rpak",
+      "$guid": "0x29676A3E382CED4B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2ACC9E54DF3A0D4.rpak",
+      "$guid": "0x2ACC9E54DF3A0D4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2C6F629164563E78.rpak",
+      "$guid": "0x2C6F629164563E78"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x311CAD5D8AA33D3.rpak",
+      "$guid": "0x311CAD5D8AA33D3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3254FFD1F4A80DA8.rpak",
+      "$guid": "0x3254FFD1F4A80DA8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x326E61935784B741.rpak",
+      "$guid": "0x326E61935784B741"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x32BE6C1440E4E58C.rpak",
+      "$guid": "0x32BE6C1440E4E58C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x339DE2B8BA4C2550.rpak",
+      "$guid": "0x339DE2B8BA4C2550"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3443BCCD3A5F49E9.rpak",
+      "$guid": "0x3443BCCD3A5F49E9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3BC5636966708573.rpak",
+      "$guid": "0x3BC5636966708573"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3E16F63E7136F04D.rpak",
+      "$guid": "0x3E16F63E7136F04D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3FB3BC829BE90BA3.rpak",
+      "$guid": "0x3FB3BC829BE90BA3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x421B2E2FDE5445BF.rpak",
+      "$guid": "0x421B2E2FDE5445BF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x47DD134A75BE6541.rpak",
+      "$guid": "0x47DD134A75BE6541"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x48F43315EE58E321.rpak",
+      "$guid": "0x48F43315EE58E321"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x575830D87ECE440A.rpak",
+      "$guid": "0x575830D87ECE440A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5B4D408E70C01C28.rpak",
+      "$guid": "0x5B4D408E70C01C28"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5EED091F38C6909D.rpak",
+      "$guid": "0x5EED091F38C6909D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x60F697D86BB0E048.rpak",
+      "$guid": "0x60F697D86BB0E048"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6587FC15706B7735.rpak",
+      "$guid": "0x6587FC15706B7735"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7C56D6548D917C56.rpak",
+      "$guid": "0x7C56D6548D917C56"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x81CE7E3E13A1CA67.rpak",
+      "$guid": "0x81CE7E3E13A1CA67"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x84292A0EA6A6E9D.rpak",
+      "$guid": "0x84292A0EA6A6E9D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x858B5687C5FDB057.rpak",
+      "$guid": "0x858B5687C5FDB057"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x87F36FC035314558.rpak",
+      "$guid": "0x87F36FC035314558"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8DF0BB65A813728F.rpak",
+      "$guid": "0x8DF0BB65A813728F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8F56DEE024675155.rpak",
+      "$guid": "0x8F56DEE024675155"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x99CB19A58EFD3F63.rpak",
+      "$guid": "0x99CB19A58EFD3F63"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAD05E383E80FDA68.rpak",
+      "$guid": "0xAD05E383E80FDA68"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAE815949388BB4E4.rpak",
+      "$guid": "0xAE815949388BB4E4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB103A262186D725C.rpak",
+      "$guid": "0xB103A262186D725C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB19D6AD141081FF1.rpak",
+      "$guid": "0xB19D6AD141081FF1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB7287ED7D0DC78F2.rpak",
+      "$guid": "0xB7287ED7D0DC78F2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB8F688D804E7674A.rpak",
+      "$guid": "0xB8F688D804E7674A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD10C4D2244710817.rpak",
+      "$guid": "0xD10C4D2244710817"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD171A09BCDBEBFA1.rpak",
+      "$guid": "0xD171A09BCDBEBFA1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD433ECD8CC405623.rpak",
+      "$guid": "0xD433ECD8CC405623"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD90F768394E18AA5.rpak",
+      "$guid": "0xD90F768394E18AA5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD91290CB844B5BE9.rpak",
+      "$guid": "0xD91290CB844B5BE9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE0C9B96D10D16985.rpak",
+      "$guid": "0xE0C9B96D10D16985"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE24FED170020B9E7.rpak",
+      "$guid": "0xE24FED170020B9E7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE4891A0F45B1761A.rpak",
+      "$guid": "0xE4891A0F45B1761A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEFCDEA3497BC79B5.rpak",
+      "$guid": "0xEFCDEA3497BC79B5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF009D99CDAD2148D.rpak",
+      "$guid": "0xF009D99CDAD2148D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF228FB119107DB9D.rpak",
+      "$guid": "0xF228FB119107DB9D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF825A65B06CF689.rpak",
+      "$guid": "0xF825A65B06CF689"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF955C80F26387ADE.rpak",
+      "$guid": "0xF955C80F26387ADE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFA854934D36DF039.rpak",
+      "$guid": "0xFA854934D36DF039"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFB6971A5151662A3.rpak",
+      "$guid": "0xFB6971A5151662A3"
+    },
     {
       "_type": "txtr",
       "_path": "texture/0x10E04C21184F6015.rpak",
@@ -8590,6 +8890,106 @@
       "$guid": "0xFF29111E80A6836E"
     },
     //////////////////////MATERIALS/////////////////////////
+    {
+      "_type": "matl",
+      "_path": "material/models/barriers/sandbags_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/communication/terminal_usable_imc_01_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/communication/terminal_usable_imc_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilot_proxy_r5/jericho_proxy/Jericho_proxy_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/world/metal/rebar_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/boomtown/boomtown_int_trims_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/dev/dev_gray_512_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/floors/plastic_panels_large_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/mcor/mcor_floor_trim_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/metal/trim_metal_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/ola/sewer_wires_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/walls/construction_metal_form_walls_02_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/barriers/sandbags_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/communication/terminal_usable_imc_01_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/communication/terminal_usable_imc_02_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/communication/terminal_usable_imc_03_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilot_proxy_r5/jericho_proxy/Jericho_proxy_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/world/metal/rebar_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/boomtown/boomtown_int_trims_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/dev/dev_gray_512_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/floors/plastic_panels_large_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/mcor/mcor_floor_trim_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/metal/trim_metal_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/ola/sewer_wires_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/walls/construction_metal_form_walls_02_rgdp.rpak"
+    },
     {
       "_type": "matl",
       "_path": "material/depth/models/weapons_r5/misc_rampart_turret/rampart_turret_screen_2_shadow_sknp.rpak"
@@ -16169,6 +16569,23 @@
     ////////////////////////ANIMRIGS////////////////////////
     {
       "_type": "arig",
+      "_path": "animrig/weapons/empty_handed/ptpov_nomad_loot_compass.rrig",
+      "$sequences": [
+        "animseq/weapons/empty_handed/ptpov_nomad_loot_compass/idle_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_nomad_loot_compass/idle_seq_noanim.rseq",
+        "animseq/weapons/empty_handed/ptpov_nomad_loot_compass/jump.rseq",
+        "animseq/weapons/empty_handed/ptpov_nomad_loot_compass/land.rseq",
+        "animseq/weapons/empty_handed/ptpov_nomad_loot_compass/loot_compass_charge_seq_copy1.rseq",
+        "animseq/weapons/empty_handed/ptpov_nomad_loot_compass/phasewalk_draw_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_nomad_loot_compass/phasewalk_fire_holster_rare_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_nomad_loot_compass/phasewalk_fire_holster_seq.rseq",
+        "animseq/weapons/empty_handed/ptpov_nomad_loot_compass/run_layer.rseq",
+        "animseq/weapons/empty_handed/ptpov_nomad_loot_compass/sprint_anim.rseq",
+        "animseq/weapons/empty_handed/ptpov_nomad_loot_compass/sprint_seq.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
       "_path": "animrig/humans/class/medium/pilot_medium_holo.rrig",//REPLACE MIRAGE RIG FOR MIRAGE VOYAGE AND BROKEN NEW FINISHER
       "$sequences": [
         "animseq/humans/class/medium/pilot_medium_holo/AIM_mirage_crouch_pistol.rseq",
@@ -20711,6 +21128,39 @@
       ]
     },
     /////////////////////////MODELS//////////////////////////////
+    {
+      "_type": "mdl_",
+      "_path": "mdl/barriers/sandbags_large_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/communication/terminal_usable_imc_01.rmdl",
+      "$sequences": [
+        "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_end.rseq",
+        "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_end_ALT.rseq",
+        "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_idle.rseq",
+        "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_idle_ALT.rseq",
+        "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_remoteturret_start.rseq",
+        "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_start.rseq",
+        "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_start_ALT.rseq",
+        "animseq/communication/terminal_usable_imc_01/tm_hovertank_grenade.rseq",
+        "animseq/communication/terminal_usable_imc_01/tm_Playback_SOS_console_hack.rseq",
+        "animseq/communication/terminal_usable_imc_01/tm_Playback_SOS_console_hack_idle.rseq",
+        "animseq/communication/terminal_usable_imc_01/tm_Playback_SOS_console_hack_start.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/jericho_gun_shield.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/debris_trap/debris_trap.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/test/grif_test/proto_spike_ball.rmdl"
+    },
     {
       "_type": "mdl_",
       "_path": "mdl/Weapons/rampart_turret/ptpov_rampart_turret.rmdl",//convert s6 models later

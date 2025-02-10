@@ -6655,10 +6655,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/maps/mp_rr_canyonlands_mu2_mv/cubemaps_hdr.rpak" //CUBEMAP
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xEE7B54CF919EDD6D.rpak",
       "$guid": "0xEE7B54CF919EDD6D"
     },

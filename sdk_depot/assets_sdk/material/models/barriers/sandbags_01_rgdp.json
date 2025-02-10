@@ -1,0 +1,40 @@
+{
+	"name": "models/barriers/sandbags_01",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "sand",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0x36627716165FC7DA",
+	"$textures": {
+		"0": "0xE24FED170020B9E7",
+		"1": "0xD90F768394E18AA5",
+		"2": "0x1B2A383F446CCEE2",
+		"3": "0x47DD134A75BE6541"
+	},
+	"$depthShadowMaterial": "0x251FBE09EFFE8AB1",
+	"$depthPrepassMaterial": "0xE2D52641AFC77395",
+	"$depthVSMMaterial": "0xBDBF90B97E7D9280",
+	"$depthShadowTightMaterial": "0x85654E05CF9B40E7",
+	"$colpassMaterial": "0xFC1179BB59C12273",
+	"$textureAnimation": "0x0"
+}

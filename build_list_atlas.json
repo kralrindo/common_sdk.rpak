@@ -20,15 +20,17 @@
         "map_depot/custom_sdk_5_loadscreen.json",
         "map_depot/custom_sdk_6_loadscreen.json",
         "map_depot/custom_sdk_7_loadscreen.json",
-        //"map_depot/mp_rr_canyonlands_mu2_mv_loadscreen.json",
-        //"map_depot/mp_rr_canyonlands_mu2_tt_loadscreen.json",
-        //"map_depot/mp_rr_canyonlands_mu2_ufo_loadscreen.json",
+        "map_depot/mp_rr_canyonlands_mu2_mv_loadscreen.json",
+        "map_depot/mp_rr_canyonlands_mu2_tt_loadscreen.json",
+        "map_depot/mp_rr_canyonlands_mu2_ufo_loadscreen.json",
+        "map_depot/mp_rr_aqueduct_loadscreen.json",
         "map_depot/mp_rr_arena_phase_runner_loadscreen.json",
         "map_depot/mp_rr_desertlands_64k_x_64k_nx_loadscreen.json",
         "map_depot/mp_rr_desertlands_64k_x_64k_tt_loadscreen.json",
-        "map_depot/mp_rr_desertlands_mu1_tt_loadscreen.json"//,
-        //"map_depot/mp_rr_desertlands_mu2_loadscreen.json",
-        //"map_depot/mp_rr_desertlands_night_loadscreen.json",
-        //"map_depot/mp_rr_olympus_tt_loadscreen.json"
+        "map_depot/mp_rr_desertlands_mu1_loadscreen.json",
+        "map_depot/mp_rr_desertlands_mu1_tt_loadscreen.json",
+        "map_depot/mp_rr_desertlands_mu2_loadscreen.json",
+        "map_depot/mp_rr_desertlands_night_loadscreen.json",
+        "map_depot/mp_rr_olympus_tt_loadscreen.json"
     ]
 }

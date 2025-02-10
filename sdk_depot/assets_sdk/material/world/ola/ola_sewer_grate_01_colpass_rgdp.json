@@ -1,0 +1,41 @@
+{
+	"name": "world/ola/ola_sewer_grate_01_colpass",
+	"width": 1024,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x5",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "metalgrate",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0x89DA87024CC4329A",
+	"$textures": {
+		"0": "0x68D14244043231DB",
+		"1": "0x3EBED512C855E348",
+		"2": "0x749338B055563AE9",
+		"3": "0x654CB62293993E7",
+		"4": "0xB511E216A0A61B4A"
+	},
+	"$depthShadowMaterial": "0x330549B6EBD50E56",
+	"$depthPrepassMaterial": "0x74075B40B98E0FC9",
+	"$depthVSMMaterial": "0x5C8EBCB162AAD507",
+	"$depthShadowTightMaterial": "0x6BF03D19CA389AB3",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

@@ -1,10 +1,10 @@
 {
   "version": 8,
-  "keepDevOnly": true,
+  "keepDevOnly": false,
   "name": "mp_rr_party_crasher",
   "streamFileMandatory": "paks/Win64/mp_rr_party_crasher.starpak",
   "streamFileOptional": "paks/Win64/mp_rr_party_crasher.opt.starpak",
-  "assetsDir": "./assetss9pc/",
+  "assetsDir": "map_depot/assetss9/",
   "outputDir": "./build/",
   "streamCache": "cache/pc_roots.starmap",
   "compressLevel": 0,
@@ -17,8 +17,18 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x119527D74F210987.rpak",
+      "$guid": "0x119527D74F210987"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x11D7DF7F67E2BE6B.rpak",
       "$guid": "0x11D7DF7F67E2BE6B"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x11EC1D77D05055E0.rpak",
+      "$guid": "0x11EC1D77D05055E0"
     },
     {
       "_type": "shdr",
@@ -29,6 +39,11 @@
       "_type": "shdr",
       "_path": "shader/0x123C836DAD0CBD6A.rpak",
       "$guid": "0x123C836DAD0CBD6A"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x1312B194D611AD6B.rpak",
+      "$guid": "0x1312B194D611AD6B"
     },
     {
       "_type": "shdr",
@@ -59,6 +74,11 @@
       "_type": "shdr",
       "_path": "shader/0x1583BEE7925491BA.rpak",
       "$guid": "0x1583BEE7925491BA"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x15DC05F3900DFC71.rpak",
+      "$guid": "0x15DC05F3900DFC71"
     },
     {
       "_type": "shdr",
@@ -242,6 +262,16 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x33741269D9A48737.rpak",
+      "$guid": "0x33741269D9A48737"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x33817CEE8C6B8F77.rpak",
+      "$guid": "0x33817CEE8C6B8F77"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x33B1A653F02DE960.rpak",
       "$guid": "0x33B1A653F02DE960"
     },
@@ -279,6 +309,11 @@
       "_type": "shdr",
       "_path": "shader/0x3651E86C4713677B.rpak",
       "$guid": "0x3651E86C4713677B"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x37A78F8629F4D287.rpak",
+      "$guid": "0x37A78F8629F4D287"
     },
     {
       "_type": "shdr",
@@ -322,6 +357,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x3C531C298583F444.rpak",
+      "$guid": "0x3C531C298583F444"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x3CC71F2F7323D70.rpak",
       "$guid": "0x3CC71F2F7323D70"
     },
@@ -334,6 +374,11 @@
       "_type": "shdr",
       "_path": "shader/0x3DAAA1992A0D35FE.rpak",
       "$guid": "0x3DAAA1992A0D35FE"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x3DAFB12B2C241293.rpak",
+      "$guid": "0x3DAFB12B2C241293"
     },
     {
       "_type": "shdr",
@@ -442,6 +487,16 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x4B71829975BC8D39.rpak",
+      "$guid": "0x4B71829975BC8D39"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x4BA93BE4268478D0.rpak",
+      "$guid": "0x4BA93BE4268478D0"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x4C50D1CE22C5411B.rpak",
       "$guid": "0x4C50D1CE22C5411B"
     },
@@ -482,6 +537,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x502E7FEBFA214573.rpak",
+      "$guid": "0x502E7FEBFA214573"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x506F95154DE6D40A.rpak",
       "$guid": "0x506F95154DE6D40A"
     },
@@ -494,6 +554,11 @@
       "_type": "shdr",
       "_path": "shader/0x5121EB99814DBE85.rpak",
       "$guid": "0x5121EB99814DBE85"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x514E827007479673.rpak",
+      "$guid": "0x514E827007479673"
     },
     {
       "_type": "shdr",
@@ -627,6 +692,16 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x5F287680D79AD571.rpak",
+      "$guid": "0x5F287680D79AD571"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x60ABDC989A72920A.rpak",
+      "$guid": "0x60ABDC989A72920A"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x60C9DCF560641ADA.rpak",
       "$guid": "0x60C9DCF560641ADA"
     },
@@ -657,6 +732,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x669DD8BB3892CFBB.rpak",
+      "$guid": "0x669DD8BB3892CFBB"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x674D170915A9A80C.rpak",
       "$guid": "0x674D170915A9A80C"
     },
@@ -674,6 +754,11 @@
       "_type": "shdr",
       "_path": "shader/0x68C175CD8879399.rpak",
       "$guid": "0x68C175CD8879399"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x69C4CE5BC59EBDB3.rpak",
+      "$guid": "0x69C4CE5BC59EBDB3"
     },
     {
       "_type": "shdr",
@@ -704,6 +789,11 @@
       "_type": "shdr",
       "_path": "shader/0x6C0A1C6B04FD5089.rpak",
       "$guid": "0x6C0A1C6B04FD5089"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x6DDB2AF8F409CB8B.rpak",
+      "$guid": "0x6DDB2AF8F409CB8B"
     },
     {
       "_type": "shdr",
@@ -792,6 +882,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x77A6886291F28DA1.rpak",
+      "$guid": "0x77A6886291F28DA1"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x7958F9F633E4D967.rpak",
       "$guid": "0x7958F9F633E4D967"
     },
@@ -812,6 +907,16 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x7AAFD888CBDC2D9F.rpak",
+      "$guid": "0x7AAFD888CBDC2D9F"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x7AC31AA27E5F93EF.rpak",
+      "$guid": "0x7AC31AA27E5F93EF"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x7AD22DD4695FEDD3.rpak",
       "$guid": "0x7AD22DD4695FEDD3"
     },
@@ -829,6 +934,11 @@
       "_type": "shdr",
       "_path": "shader/0x7E0589A59B4093EC.rpak",
       "$guid": "0x7E0589A59B4093EC"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x7EA17DD2302C30C6.rpak",
+      "$guid": "0x7EA17DD2302C30C6"
     },
     {
       "_type": "shdr",
@@ -917,6 +1027,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x84D5D1B68288A7BA.rpak",
+      "$guid": "0x84D5D1B68288A7BA"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x850C530EEC0834C0.rpak",
       "$guid": "0x850C530EEC0834C0"
     },
@@ -962,6 +1077,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x8921AED67396752D.rpak",
+      "$guid": "0x8921AED67396752D"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x8949099BACA18B71.rpak",
       "$guid": "0x8949099BACA18B71"
     },
@@ -972,6 +1092,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x8A9D361CD8B1190A.rpak",
+      "$guid": "0x8A9D361CD8B1190A"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x8AC54CB936B14704.rpak",
       "$guid": "0x8AC54CB936B14704"
     },
@@ -979,6 +1104,11 @@
       "_type": "shdr",
       "_path": "shader/0x8AFD8B8C959E2EAD.rpak",
       "$guid": "0x8AFD8B8C959E2EAD"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x8B716822B9C77663.rpak",
+      "$guid": "0x8B716822B9C77663"
     },
     {
       "_type": "shdr",
@@ -1017,6 +1147,16 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x91331CBED05BB181.rpak",
+      "$guid": "0x91331CBED05BB181"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x924B084267F28FEB.rpak",
+      "$guid": "0x924B084267F28FEB"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x929BF2E5962EB55F.rpak",
       "$guid": "0x929BF2E5962EB55F"
     },
@@ -1024,6 +1164,11 @@
       "_type": "shdr",
       "_path": "shader/0x93080A2D6A340B6E.rpak",
       "$guid": "0x93080A2D6A340B6E"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x939D7B70AE95F44E.rpak",
+      "$guid": "0x939D7B70AE95F44E"
     },
     {
       "_type": "shdr",
@@ -1039,6 +1184,16 @@
       "_type": "shdr",
       "_path": "shader/0x948A9FCC0A7D4614.rpak",
       "$guid": "0x948A9FCC0A7D4614"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x94E45DEEAE471F04.rpak",
+      "$guid": "0x94E45DEEAE471F04"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x94E818BD72ED7F13.rpak",
+      "$guid": "0x94E818BD72ED7F13"
     },
     {
       "_type": "shdr",
@@ -1097,6 +1252,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x9E0CC95C50A5C655.rpak",
+      "$guid": "0x9E0CC95C50A5C655"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xA06FB61400E96641.rpak",
       "$guid": "0xA06FB61400E96641"
     },
@@ -1114,6 +1274,11 @@
       "_type": "shdr",
       "_path": "shader/0xA4B0F708DB5B97E6.rpak",
       "$guid": "0xA4B0F708DB5B97E6"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xA52A8FD3D228457F.rpak",
+      "$guid": "0xA52A8FD3D228457F"
     },
     {
       "_type": "shdr",
@@ -1162,8 +1327,23 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xADD18CB20541D24D.rpak",
+      "$guid": "0xADD18CB20541D24D"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xADF87626CDAF27E0.rpak",
       "$guid": "0xADF87626CDAF27E0"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xAE0C8DA02F900990.rpak",
+      "$guid": "0xAE0C8DA02F900990"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xAE5089388F3F295B.rpak",
+      "$guid": "0xAE5089388F3F295B"
     },
     {
       "_type": "shdr",
@@ -1217,6 +1397,21 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xB8087791E688FB42.rpak",
+      "$guid": "0xB8087791E688FB42"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xB86A8F89A060E889.rpak",
+      "$guid": "0xB86A8F89A060E889"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xB8A8D589ECCE0C9E.rpak",
+      "$guid": "0xB8A8D589ECCE0C9E"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xB8D27DE8E754C3A4.rpak",
       "$guid": "0xB8D27DE8E754C3A4"
     },
@@ -1247,6 +1442,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xBB42C014ABED5503.rpak",
+      "$guid": "0xBB42C014ABED5503"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xBBBA7CDBC072A566.rpak",
       "$guid": "0xBBBA7CDBC072A566"
     },
@@ -1257,8 +1457,18 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xBC5A5DF776836CDF.rpak",
+      "$guid": "0xBC5A5DF776836CDF"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xBC621F4574896DB1.rpak",
       "$guid": "0xBC621F4574896DB1"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xBC70288BBA9023CE.rpak",
+      "$guid": "0xBC70288BBA9023CE"
     },
     {
       "_type": "shdr",
@@ -1327,13 +1537,28 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xC6977DCFE447FEEF.rpak",
+      "$guid": "0xC6977DCFE447FEEF"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xC6D8A7B767C87385.rpak",
       "$guid": "0xC6D8A7B767C87385"
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xC723CC5F9AAB06E6.rpak",
+      "$guid": "0xC723CC5F9AAB06E6"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xC79E76DB1091CDF6.rpak",
       "$guid": "0xC79E76DB1091CDF6"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xC7C44305EDAEF7A7.rpak",
+      "$guid": "0xC7C44305EDAEF7A7"
     },
     {
       "_type": "shdr",
@@ -1364,6 +1589,11 @@
       "_type": "shdr",
       "_path": "shader/0xCC72F551723A0CD3.rpak",
       "$guid": "0xCC72F551723A0CD3"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xCCA89752A976BBCD.rpak",
+      "$guid": "0xCCA89752A976BBCD"
     },
     {
       "_type": "shdr",
@@ -1452,13 +1682,28 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xD2A6F8B3D4D22559.rpak",
+      "$guid": "0xD2A6F8B3D4D22559"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xD2B79C87E4DDE51D.rpak",
       "$guid": "0xD2B79C87E4DDE51D"
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xD2C2AD00D05AF7D0.rpak",
+      "$guid": "0xD2C2AD00D05AF7D0"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xD2F6520E80311B20.rpak",
       "$guid": "0xD2F6520E80311B20"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xD3471CC4B9A11C9E.rpak",
+      "$guid": "0xD3471CC4B9A11C9E"
     },
     {
       "_type": "shdr",
@@ -1469,6 +1714,11 @@
       "_type": "shdr",
       "_path": "shader/0xD4B56C9A2EA81B1A.rpak",
       "$guid": "0xD4B56C9A2EA81B1A"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xD5175A6B97C2148B.rpak",
+      "$guid": "0xD5175A6B97C2148B"
     },
     {
       "_type": "shdr",
@@ -1499,6 +1749,11 @@
       "_type": "shdr",
       "_path": "shader/0xD743D3A5645C4515.rpak",
       "$guid": "0xD743D3A5645C4515"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xD972EE713E93794B.rpak",
+      "$guid": "0xD972EE713E93794B"
     },
     {
       "_type": "shdr",
@@ -1547,6 +1802,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xDE580D0DD5D4C15.rpak",
+      "$guid": "0xDE580D0DD5D4C15"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xDED9DB80CAF04EAC.rpak",
       "$guid": "0xDED9DB80CAF04EAC"
     },
@@ -1574,6 +1834,11 @@
       "_type": "shdr",
       "_path": "shader/0xE15600292766D35F.rpak",
       "$guid": "0xE15600292766D35F"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xE160591B2895A4ED.rpak",
+      "$guid": "0xE160591B2895A4ED"
     },
     {
       "_type": "shdr",
@@ -1652,6 +1917,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xEC30399A84B5B1F8.rpak",
+      "$guid": "0xEC30399A84B5B1F8"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xEC44B3A7F99BF59B.rpak",
       "$guid": "0xEC44B3A7F99BF59B"
     },
@@ -1659,6 +1929,11 @@
       "_type": "shdr",
       "_path": "shader/0xECEEA82F31D61133.rpak",
       "$guid": "0xECEEA82F31D61133"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xED12D0FB8AD91D1C.rpak",
+      "$guid": "0xED12D0FB8AD91D1C"
     },
     {
       "_type": "shdr",
@@ -1732,8 +2007,18 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0xF5F6F60C3FA4E29E.rpak",
+      "$guid": "0xF5F6F60C3FA4E29E"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0xF67D37B8D3D244EC.rpak",
       "$guid": "0xF67D37B8D3D244EC"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xF786A5C99D85F1FB.rpak",
+      "$guid": "0xF786A5C99D85F1FB"
     },
     {
       "_type": "shdr",
@@ -1749,6 +2034,11 @@
       "_type": "shdr",
       "_path": "shader/0xF9DD50B4F9EBD122.rpak",
       "$guid": "0xF9DD50B4F9EBD122"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xFA098AD5CABDB5B2.rpak",
+      "$guid": "0xFA098AD5CABDB5B2"
     },
     {
       "_type": "shdr",
@@ -1789,6 +2079,11 @@
       "_type": "shds",
       "_path": "shaderset/0x1025E53E331B7506.rpak",
       "$guid": "0x1025E53E331B7506"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x10DEE3CA08FD4A0B.rpak",
+      "$guid": "0x10DEE3CA08FD4A0B"
     },
     {
       "_type": "shds",
@@ -1857,6 +2152,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x1D6C3F1118FA6881.rpak",
+      "$guid": "0x1D6C3F1118FA6881"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x1E49ABFB2B42EACF.rpak",
       "$guid": "0x1E49ABFB2B42EACF"
     },
@@ -1869,6 +2169,11 @@
       "_type": "shds",
       "_path": "shaderset/0x1F990E918513DE41.rpak",
       "$guid": "0x1F990E918513DE41"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x1FE816B6DFA701F2.rpak",
+      "$guid": "0x1FE816B6DFA701F2"
     },
     {
       "_type": "shds",
@@ -1887,6 +2192,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x24D0FFE0BDB37441.rpak",
+      "$guid": "0x24D0FFE0BDB37441"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x2545A8A0D1F968B6.rpak",
       "$guid": "0x2545A8A0D1F968B6"
     },
@@ -1894,6 +2204,11 @@
       "_type": "shds",
       "_path": "shaderset/0x266EF33FDEC605FA.rpak",
       "$guid": "0x266EF33FDEC605FA"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x26BAF7EEDC1E8B4E.rpak",
+      "$guid": "0x26BAF7EEDC1E8B4E"
     },
     {
       "_type": "shds",
@@ -1947,6 +2262,16 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x2B9D2DC54E37BF78.rpak",
+      "$guid": "0x2B9D2DC54E37BF78"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x2C20B7905DBE13D7.rpak",
+      "$guid": "0x2C20B7905DBE13D7"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x2C6C7E5E847FEFC5.rpak",
       "$guid": "0x2C6C7E5E847FEFC5"
     },
@@ -1959,6 +2284,11 @@
       "_type": "shds",
       "_path": "shaderset/0x2E3B4E1B8A8EE189.rpak",
       "$guid": "0x2E3B4E1B8A8EE189"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x2EA9F08CE40290B7.rpak",
+      "$guid": "0x2EA9F08CE40290B7"
     },
     {
       "_type": "shds",
@@ -2057,6 +2387,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x37E8FDC125E09B50.rpak",
+      "$guid": "0x37E8FDC125E09B50"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x3908E45DDAF94BFB.rpak",
       "$guid": "0x3908E45DDAF94BFB"
     },
@@ -2127,6 +2462,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x468039066EE41FE9.rpak",
+      "$guid": "0x468039066EE41FE9"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x468A9CF884496ADC.rpak",
       "$guid": "0x468A9CF884496ADC"
     },
@@ -2144,6 +2484,11 @@
       "_type": "shds",
       "_path": "shaderset/0x46DB7CF47FEEFD06.rpak",
       "$guid": "0x46DB7CF47FEEFD06"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x47DC54D071E6353E.rpak",
+      "$guid": "0x47DC54D071E6353E"
     },
     {
       "_type": "shds",
@@ -2197,6 +2542,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x4FF86EC86ADEDC8B.rpak",
+      "$guid": "0x4FF86EC86ADEDC8B"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x5017A8894317F458.rpak",
       "$guid": "0x5017A8894317F458"
     },
@@ -2222,6 +2572,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x5250CC0B1A30950.rpak",
+      "$guid": "0x5250CC0B1A30950"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x52975AE56807EF1B.rpak",
       "$guid": "0x52975AE56807EF1B"
     },
@@ -2232,8 +2587,23 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x5396AEDE0EB17239.rpak",
+      "$guid": "0x5396AEDE0EB17239"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x53BFA2360E3AE655.rpak",
       "$guid": "0x53BFA2360E3AE655"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x5439687BF4A64B58.rpak",
+      "$guid": "0x5439687BF4A64B58"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x56EE3DE69909E0F3.rpak",
+      "$guid": "0x56EE3DE69909E0F3"
     },
     {
       "_type": "shds",
@@ -2297,6 +2667,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x5F14F2898E398863.rpak",
+      "$guid": "0x5F14F2898E398863"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x5F623FC886DE567F.rpak",
       "$guid": "0x5F623FC886DE567F"
     },
@@ -2332,13 +2707,28 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x67A17DD633918DEA.rpak",
+      "$guid": "0x67A17DD633918DEA"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x67DCA89447E76BEA.rpak",
       "$guid": "0x67DCA89447E76BEA"
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x68CFC43D811831B2.rpak",
+      "$guid": "0x68CFC43D811831B2"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x691E7DA1220E6A4.rpak",
       "$guid": "0x691E7DA1220E6A4"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x69EC09A2E1F8536D.rpak",
+      "$guid": "0x69EC09A2E1F8536D"
     },
     {
       "_type": "shds",
@@ -2369,6 +2759,11 @@
       "_type": "shds",
       "_path": "shaderset/0x6D88ED94E00BFEEE.rpak",
       "$guid": "0x6D88ED94E00BFEEE"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x6D911775FDF6CCEA.rpak",
+      "$guid": "0x6D911775FDF6CCEA"
     },
     {
       "_type": "shds",
@@ -2407,13 +2802,33 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x7429BC6C827977CF.rpak",
+      "$guid": "0x7429BC6C827977CF"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x744D24E41D917A76.rpak",
+      "$guid": "0x744D24E41D917A76"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x75AB3C79B6CB8EE8.rpak",
       "$guid": "0x75AB3C79B6CB8EE8"
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x75BFAFC2CD22C8AE.rpak",
+      "$guid": "0x75BFAFC2CD22C8AE"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x76BE66D5E6C42B6.rpak",
       "$guid": "0x76BE66D5E6C42B6"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x777D37EDF34ABEEC.rpak",
+      "$guid": "0x777D37EDF34ABEEC"
     },
     {
       "_type": "shds",
@@ -2447,6 +2862,21 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x7ACD58B252B75EA.rpak",
+      "$guid": "0x7ACD58B252B75EA"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x7B1A29D5017E5FC.rpak",
+      "$guid": "0x7B1A29D5017E5FC"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x7B25790806947F45.rpak",
+      "$guid": "0x7B25790806947F45"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x7B2A6CB65452EB54.rpak",
       "$guid": "0x7B2A6CB65452EB54"
     },
@@ -2454,6 +2884,21 @@
       "_type": "shds",
       "_path": "shaderset/0x7B4A4292DE4CC9AC.rpak",
       "$guid": "0x7B4A4292DE4CC9AC"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x7B80FBAEB0D3CF4B.rpak",
+      "$guid": "0x7B80FBAEB0D3CF4B"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x7B827A974D06E888.rpak",
+      "$guid": "0x7B827A974D06E888"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x7B8565F309B72C7C.rpak",
+      "$guid": "0x7B8565F309B72C7C"
     },
     {
       "_type": "shds",
@@ -2482,6 +2927,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x7DCC21DA83CE1005.rpak",
+      "$guid": "0x7DCC21DA83CE1005"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x7E807943EEFE7084.rpak",
       "$guid": "0x7E807943EEFE7084"
     },
@@ -2502,8 +2952,23 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x80A413D9D4FE3618.rpak",
+      "$guid": "0x80A413D9D4FE3618"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x817504D4CA9EFBBB.rpak",
+      "$guid": "0x817504D4CA9EFBBB"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x819EBCB15509EAA.rpak",
       "$guid": "0x819EBCB15509EAA"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x83573B901C73CA06.rpak",
+      "$guid": "0x83573B901C73CA06"
     },
     {
       "_type": "shds",
@@ -2539,6 +3004,11 @@
       "_type": "shds",
       "_path": "shaderset/0x89DA87024CC4329A.rpak",
       "$guid": "0x89DA87024CC4329A"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x8ADE6B71C4188DE5.rpak",
+      "$guid": "0x8ADE6B71C4188DE5"
     },
     {
       "_type": "shds",
@@ -2597,6 +3067,16 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x91E24F2135D2E6C9.rpak",
+      "$guid": "0x91E24F2135D2E6C9"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x924C159627B03527.rpak",
+      "$guid": "0x924C159627B03527"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x94830CFAFA358601.rpak",
       "$guid": "0x94830CFAFA358601"
     },
@@ -2642,8 +3122,18 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0x9B21601E6D2187D1.rpak",
+      "$guid": "0x9B21601E6D2187D1"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0x9CB8936DBE2B871A.rpak",
       "$guid": "0x9CB8936DBE2B871A"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9D88347ED3490717.rpak",
+      "$guid": "0x9D88347ED3490717"
     },
     {
       "_type": "shds",
@@ -2707,6 +3197,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xA61BEBD008EED093.rpak",
+      "$guid": "0xA61BEBD008EED093"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xA6493E19F1D4DE83.rpak",
       "$guid": "0xA6493E19F1D4DE83"
     },
@@ -2717,13 +3212,33 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xA7097DDA709BB243.rpak",
+      "$guid": "0xA7097DDA709BB243"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xA7E2A4DEB708E03A.rpak",
       "$guid": "0xA7E2A4DEB708E03A"
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xA85733C6F84DDB7.rpak",
+      "$guid": "0xA85733C6F84DDB7"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xA8D6673C0C8B30DF.rpak",
       "$guid": "0xA8D6673C0C8B30DF"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xA91A88217BB12C46.rpak",
+      "$guid": "0xA91A88217BB12C46"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xA91CAE2E86EBD8EA.rpak",
+      "$guid": "0xA91CAE2E86EBD8EA"
     },
     {
       "_type": "shds",
@@ -2777,6 +3292,16 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xB22BDE193B5A8184.rpak",
+      "$guid": "0xB22BDE193B5A8184"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB2CFFCD314844C65.rpak",
+      "$guid": "0xB2CFFCD314844C65"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xB3DD1D16B1D3504F.rpak",
       "$guid": "0xB3DD1D16B1D3504F"
     },
@@ -2789,6 +3314,11 @@
       "_type": "shds",
       "_path": "shaderset/0xB60103734C3B5811.rpak",
       "$guid": "0xB60103734C3B5811"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB6A7D99D59460E80.rpak",
+      "$guid": "0xB6A7D99D59460E80"
     },
     {
       "_type": "shds",
@@ -2907,8 +3437,18 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xC79BDC034A6A677E.rpak",
+      "$guid": "0xC79BDC034A6A677E"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xC7DB54E3D1CFF71D.rpak",
       "$guid": "0xC7DB54E3D1CFF71D"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xC8430F1C198DF403.rpak",
+      "$guid": "0xC8430F1C198DF403"
     },
     {
       "_type": "shds",
@@ -3007,6 +3547,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xD5C8B905A4E1270A.rpak",
+      "$guid": "0xD5C8B905A4E1270A"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xD638F3CF1551DF20.rpak",
       "$guid": "0xD638F3CF1551DF20"
     },
@@ -3052,8 +3597,18 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xDAB69A33EBE135CB.rpak",
+      "$guid": "0xDAB69A33EBE135CB"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xDAE8C7682A8AEF1B.rpak",
       "$guid": "0xDAE8C7682A8AEF1B"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xDB83E8105CDF4023.rpak",
+      "$guid": "0xDB83E8105CDF4023"
     },
     {
       "_type": "shds",
@@ -3064,6 +3619,11 @@
       "_type": "shds",
       "_path": "shaderset/0xDC0739C48375015A.rpak",
       "$guid": "0xDC0739C48375015A"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xDC46EF2FDD5E211E.rpak",
+      "$guid": "0xDC46EF2FDD5E211E"
     },
     {
       "_type": "shds",
@@ -3084,6 +3644,11 @@
       "_type": "shds",
       "_path": "shaderset/0xDD56D96D16400C93.rpak",
       "$guid": "0xDD56D96D16400C93"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xDD953ACE67780832.rpak",
+      "$guid": "0xDD953ACE67780832"
     },
     {
       "_type": "shds",
@@ -3134,6 +3699,11 @@
       "_type": "shds",
       "_path": "shaderset/0xE4D438B0B764CE0B.rpak",
       "$guid": "0xE4D438B0B764CE0B"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xE587DEA1AFF67785.rpak",
+      "$guid": "0xE587DEA1AFF67785"
     },
     {
       "_type": "shds",
@@ -3232,6 +3802,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xF4CF6ED708465FD2.rpak",
+      "$guid": "0xF4CF6ED708465FD2"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xF5097CC5B8A10AF3.rpak",
       "$guid": "0xF5097CC5B8A10AF3"
     },
@@ -3247,6 +3822,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xF6BD424E9815EAD.rpak",
+      "$guid": "0xF6BD424E9815EAD"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xF7E0B43ACE028691.rpak",
       "$guid": "0xF7E0B43ACE028691"
     },
@@ -3259,6 +3839,11 @@
       "_type": "shds",
       "_path": "shaderset/0xF81D55107E936615.rpak",
       "$guid": "0xF81D55107E936615"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xF8EB8A2D33B117EF.rpak",
+      "$guid": "0xF8EB8A2D33B117EF"
     },
     {
       "_type": "shds",
@@ -3347,6 +3932,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x1115C71D328A64EA.rpak",
+      "$guid": "0x1115C71D328A64EA"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x1195B40EAA8FF5FC.rpak",
       "$guid": "0x1195B40EAA8FF5FC"
     },
@@ -3407,6 +3997,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x133E0693A935A119.rpak",
+      "$guid": "0x133E0693A935A119"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x13810E08771057EA.rpak",
       "$guid": "0x13810E08771057EA"
     },
@@ -3434,6 +4029,16 @@
       "_type": "txtr",
       "_path": "texture/0x14F6B0712BE659F.rpak",
       "$guid": "0x14F6B0712BE659F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x15162DAE57DB0324.rpak",
+      "$guid": "0x15162DAE57DB0324"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x152582853B5658D0.rpak",
+      "$guid": "0x152582853B5658D0"
     },
     {
       "_type": "txtr",
@@ -3512,6 +4117,16 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x168E72FE44F8B50E.rpak",
+      "$guid": "0x168E72FE44F8B50E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x16B26037C817A6A1.rpak",
+      "$guid": "0x16B26037C817A6A1"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x16DA0BF417597448.rpak",
       "$guid": "0x16DA0BF417597448"
     },
@@ -3529,6 +4144,11 @@
       "_type": "txtr",
       "_path": "texture/0x1708B051585E85F4.rpak",
       "$guid": "0x1708B051585E85F4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x171C1096A4CD73D9.rpak",
+      "$guid": "0x171C1096A4CD73D9"
     },
     {
       "_type": "txtr",
@@ -3569,6 +4189,11 @@
       "_type": "txtr",
       "_path": "texture/0x1863D8D75782CD79.rpak",
       "$guid": "0x1863D8D75782CD79"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x187E0C8EB6AA0B6A.rpak",
+      "$guid": "0x187E0C8EB6AA0B6A"
     },
     {
       "_type": "txtr",
@@ -3624,6 +4249,16 @@
       "_type": "txtr",
       "_path": "texture/0x19BA192AC5EAC914.rpak",
       "$guid": "0x19BA192AC5EAC914"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x19C45E28B6DC8C67.rpak",
+      "$guid": "0x19C45E28B6DC8C67"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x19D7DEC0D815502A.rpak",
+      "$guid": "0x19D7DEC0D815502A"
     },
     {
       "_type": "txtr",
@@ -3684,6 +4319,11 @@
       "_type": "txtr",
       "_path": "texture/0x1C6F481550EF91C3.rpak",
       "$guid": "0x1C6F481550EF91C3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1C8BE71336D400E2.rpak",
+      "$guid": "0x1C8BE71336D400E2"
     },
     {
       "_type": "txtr",
@@ -3767,6 +4407,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x1E8EE0DF3641888F.rpak",
+      "$guid": "0x1E8EE0DF3641888F"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x1E8FCBAD98071409.rpak",
       "$guid": "0x1E8FCBAD98071409"
     },
@@ -3812,8 +4457,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x1FF150F58053B047.rpak",
+      "$guid": "0x1FF150F58053B047"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x1FF19A38CD979ABB.rpak",
       "$guid": "0x1FF19A38CD979ABB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1FF571B232127C54.rpak",
+      "$guid": "0x1FF571B232127C54"
     },
     {
       "_type": "txtr",
@@ -3927,6 +4582,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x22AC596CCE41A8B2.rpak",
+      "$guid": "0x22AC596CCE41A8B2"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x22E27E421CF59F61.rpak",
       "$guid": "0x22E27E421CF59F61"
     },
@@ -4009,6 +4669,11 @@
       "_type": "txtr",
       "_path": "texture/0x24C57DD1D27D2DDA.rpak",
       "$guid": "0x24C57DD1D27D2DDA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x25017F8F082152D5.rpak",
+      "$guid": "0x25017F8F082152D5"
     },
     {
       "_type": "txtr",
@@ -4182,6 +4847,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x28D7FCA38AFEC5C9.rpak",
+      "$guid": "0x28D7FCA38AFEC5C9"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x291FCD745AC070C0.rpak",
       "$guid": "0x291FCD745AC070C0"
     },
@@ -4242,6 +4912,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x2A6A83D6147DEC3F.rpak",
+      "$guid": "0x2A6A83D6147DEC3F"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x2A72E9B1B4BF1458.rpak",
       "$guid": "0x2A72E9B1B4BF1458"
     },
@@ -4259,6 +4934,21 @@
       "_type": "txtr",
       "_path": "texture/0x2ACC9E54DF3A0D4.rpak",
       "$guid": "0x2ACC9E54DF3A0D4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2ACCDF10CBE3CFBA.rpak",
+      "$guid": "0x2ACCDF10CBE3CFBA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2AD037020DEBF9ED.rpak",
+      "$guid": "0x2AD037020DEBF9ED"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2AE6066406FDC27E.rpak",
+      "$guid": "0x2AE6066406FDC27E"
     },
     {
       "_type": "txtr",
@@ -4352,6 +5042,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x2D5DCCC1980D4BBF.rpak",
+      "$guid": "0x2D5DCCC1980D4BBF"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x2D8A87C9C9904120.rpak",
       "$guid": "0x2D8A87C9C9904120"
     },
@@ -4409,6 +5104,11 @@
       "_type": "txtr",
       "_path": "texture/0x2EBBB0BBA4730AAA.rpak",
       "$guid": "0x2EBBB0BBA4730AAA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2EC575C0FCCB3426.rpak",
+      "$guid": "0x2EC575C0FCCB3426"
     },
     {
       "_type": "txtr",
@@ -4514,6 +5214,11 @@
       "_type": "txtr",
       "_path": "texture/0x31C997BF80A39BD7.rpak",
       "$guid": "0x31C997BF80A39BD7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x32254F8D54C9D3BE.rpak",
+      "$guid": "0x32254F8D54C9D3BE"
     },
     {
       "_type": "txtr",
@@ -4667,8 +5372,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x36928F8BF4E9587A.rpak",
+      "$guid": "0x36928F8BF4E9587A"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x36A34EBA74879735.rpak",
       "$guid": "0x36A34EBA74879735"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x36C2A0FD2CB7CCA3.rpak",
+      "$guid": "0x36C2A0FD2CB7CCA3"
     },
     {
       "_type": "txtr",
@@ -4707,8 +5422,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x37E9678756646041.rpak",
+      "$guid": "0x37E9678756646041"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x37EC1E54522CD0B7.rpak",
       "$guid": "0x37EC1E54522CD0B7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x38280E1862AB1838.rpak",
+      "$guid": "0x38280E1862AB1838"
     },
     {
       "_type": "txtr",
@@ -4719,6 +5444,11 @@
       "_type": "txtr",
       "_path": "texture/0x384EB3DE676C8A00.rpak",
       "$guid": "0x384EB3DE676C8A00"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x38831E2EF5ED9AD5.rpak",
+      "$guid": "0x38831E2EF5ED9AD5"
     },
     {
       "_type": "txtr",
@@ -4764,6 +5494,11 @@
       "_type": "txtr",
       "_path": "texture/0x399D52BFEC15E6FA.rpak",
       "$guid": "0x399D52BFEC15E6FA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x399EF9C4E75D56A2.rpak",
+      "$guid": "0x399EF9C4E75D56A2"
     },
     {
       "_type": "txtr",
@@ -4827,6 +5562,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x3B4034E3DE837A58.rpak",
+      "$guid": "0x3B4034E3DE837A58"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x3B44DD1E08E03D2E.rpak",
       "$guid": "0x3B44DD1E08E03D2E"
     },
@@ -4852,6 +5592,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x3BE66CCB34157B3.rpak",
+      "$guid": "0x3BE66CCB34157B3"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x3BEB373BC09BEE8D.rpak",
       "$guid": "0x3BEB373BC09BEE8D"
     },
@@ -4864,6 +5609,11 @@
       "_type": "txtr",
       "_path": "texture/0x3C2BB5CF409673F9.rpak",
       "$guid": "0x3C2BB5CF409673F9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3C4DFDCC744EC4F.rpak",
+      "$guid": "0x3C4DFDCC744EC4F"
     },
     {
       "_type": "txtr",
@@ -4884,6 +5634,11 @@
       "_type": "txtr",
       "_path": "texture/0x3C6948D8BEFF3CE0.rpak",
       "$guid": "0x3C6948D8BEFF3CE0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3C779AC7E8650810.rpak",
+      "$guid": "0x3C779AC7E8650810"
     },
     {
       "_type": "txtr",
@@ -4909,6 +5664,11 @@
       "_type": "txtr",
       "_path": "texture/0x3D7BF6A13961EC06.rpak",
       "$guid": "0x3D7BF6A13961EC06"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3D8FBCB1EAD3A450.rpak",
+      "$guid": "0x3D8FBCB1EAD3A450"
     },
     {
       "_type": "txtr",
@@ -4939,6 +5699,11 @@
       "_type": "txtr",
       "_path": "texture/0x3EA82DEA8A8543C1.rpak",
       "$guid": "0x3EA82DEA8A8543C1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3EB5D10337BE6439.rpak",
+      "$guid": "0x3EB5D10337BE6439"
     },
     {
       "_type": "txtr",
@@ -5072,6 +5837,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x4191ECC945BD0AF4.rpak",
+      "$guid": "0x4191ECC945BD0AF4"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x41A1579D9948C1DD.rpak",
       "$guid": "0x41A1579D9948C1DD"
     },
@@ -5084,6 +5854,11 @@
       "_type": "txtr",
       "_path": "texture/0x41CCE19F2D802067.rpak",
       "$guid": "0x41CCE19F2D802067"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x41D07D4733195DB5.rpak",
+      "$guid": "0x41D07D4733195DB5"
     },
     {
       "_type": "txtr",
@@ -5147,6 +5922,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x430ABFA562DF2126.rpak",
+      "$guid": "0x430ABFA562DF2126"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x43382566B3D87E8A.rpak",
       "$guid": "0x43382566B3D87E8A"
     },
@@ -5154,6 +5934,11 @@
       "_type": "txtr",
       "_path": "texture/0x4361D5F50E42FF06.rpak",
       "$guid": "0x4361D5F50E42FF06"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x43B04E3A9A16362.rpak",
+      "$guid": "0x43B04E3A9A16362"
     },
     {
       "_type": "txtr",
@@ -5189,6 +5974,11 @@
       "_type": "txtr",
       "_path": "texture/0x455928C847CF2981.rpak",
       "$guid": "0x455928C847CF2981"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x456B013067B333A5.rpak",
+      "$guid": "0x456B013067B333A5"
     },
     {
       "_type": "txtr",
@@ -5239,6 +6029,11 @@
       "_type": "txtr",
       "_path": "texture/0x46E87F8276AD7A63.rpak",
       "$guid": "0x46E87F8276AD7A63"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x46EA2ABACBF2686D.rpak",
+      "$guid": "0x46EA2ABACBF2686D"
     },
     {
       "_type": "txtr",
@@ -5317,6 +6112,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x49BF0002AE4D478.rpak",
+      "$guid": "0x49BF0002AE4D478"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x49BFDBFC67F0D507.rpak",
       "$guid": "0x49BFDBFC67F0D507"
     },
@@ -5324,6 +6124,11 @@
       "_type": "txtr",
       "_path": "texture/0x49DD3125ADEE4247.rpak",
       "$guid": "0x49DD3125ADEE4247"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4A0560A3292B4EFA.rpak",
+      "$guid": "0x4A0560A3292B4EFA"
     },
     {
       "_type": "txtr",
@@ -5339,6 +6144,11 @@
       "_type": "txtr",
       "_path": "texture/0x4A55AE1719197B0E.rpak",
       "$guid": "0x4A55AE1719197B0E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4A64E259ABEE001B.rpak",
+      "$guid": "0x4A64E259ABEE001B"
     },
     {
       "_type": "txtr",
@@ -5374,6 +6184,11 @@
       "_type": "txtr",
       "_path": "texture/0x4B382C783BE1558B.rpak",
       "$guid": "0x4B382C783BE1558B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4B88E3DCC77E2373.rpak",
+      "$guid": "0x4B88E3DCC77E2373"
     },
     {
       "_type": "txtr",
@@ -5414,6 +6229,11 @@
       "_type": "txtr",
       "_path": "texture/0x4C8800935F5FE669.rpak",
       "$guid": "0x4C8800935F5FE669"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4CAB6661FE1CE04B.rpak",
+      "$guid": "0x4CAB6661FE1CE04B"
     },
     {
       "_type": "txtr",
@@ -5502,6 +6322,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x4E73BDC09A9ED68A.rpak",
+      "$guid": "0x4E73BDC09A9ED68A"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x4E82E59C5E1CAC07.rpak",
       "$guid": "0x4E82E59C5E1CAC07"
     },
@@ -5567,6 +6392,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x4FAC425E5EE1D1DA.rpak",
+      "$guid": "0x4FAC425E5EE1D1DA"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x4FB32CDFBDBF5916.rpak",
       "$guid": "0x4FB32CDFBDBF5916"
     },
@@ -5582,8 +6412,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x5002A03F8F23FF60.rpak",
+      "$guid": "0x5002A03F8F23FF60"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x5003A780B9B4BED7.rpak",
       "$guid": "0x5003A780B9B4BED7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x500BB4CA39BCFBBA.rpak",
+      "$guid": "0x500BB4CA39BCFBBA"
     },
     {
       "_type": "txtr",
@@ -5747,6 +6587,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x54EC061414009CCC.rpak",
+      "$guid": "0x54EC061414009CCC"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x54F09E2AD2C6448.rpak",
       "$guid": "0x54F09E2AD2C6448"
     },
@@ -5787,6 +6632,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x55E5D2D98599C51E.rpak",
+      "$guid": "0x55E5D2D98599C51E"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x55E6FF9B26461250.rpak",
       "$guid": "0x55E6FF9B26461250"
     },
@@ -5809,6 +6659,16 @@
       "_type": "txtr",
       "_path": "texture/0x56527BDC58278D4D.rpak",
       "$guid": "0x56527BDC58278D4D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x565F16DE4DC273C3.rpak",
+      "$guid": "0x565F16DE4DC273C3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x566AB4DB7DEE0FFE.rpak",
+      "$guid": "0x566AB4DB7DEE0FFE"
     },
     {
       "_type": "txtr",
@@ -5952,6 +6812,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x5936D2525458B816.rpak",
+      "$guid": "0x5936D2525458B816"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x59BC1AAD3658FA80.rpak",
       "$guid": "0x59BC1AAD3658FA80"
     },
@@ -6024,6 +6889,16 @@
       "_type": "txtr",
       "_path": "texture/0x5CBBF8F238ABF11A.rpak",
       "$guid": "0x5CBBF8F238ABF11A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5CC8788B181FD9D1.rpak",
+      "$guid": "0x5CC8788B181FD9D1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5CDC36026EC38ED3.rpak",
+      "$guid": "0x5CDC36026EC38ED3"
     },
     {
       "_type": "txtr",
@@ -6122,6 +6997,16 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x5F956225161FABB6.rpak",
+      "$guid": "0x5F956225161FABB6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5FD48F3A0132692E.rpak",
+      "$guid": "0x5FD48F3A0132692E"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x5FDABFC33296C5E3.rpak",
       "$guid": "0x5FDABFC33296C5E3"
     },
@@ -6167,6 +7052,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x613578BD844BCD19.rpak",
+      "$guid": "0x613578BD844BCD19"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x617F011100680830.rpak",
       "$guid": "0x617F011100680830"
     },
@@ -6184,6 +7074,11 @@
       "_type": "txtr",
       "_path": "texture/0x618EF32338AB417C.rpak",
       "$guid": "0x618EF32338AB417C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x61A3BE8D6DF0C655.rpak",
+      "$guid": "0x61A3BE8D6DF0C655"
     },
     {
       "_type": "txtr",
@@ -6207,6 +7102,16 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x6250BE63A6692CB1.rpak",
+      "$guid": "0x6250BE63A6692CB1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x62C993C6B9D033FD.rpak",
+      "$guid": "0x62C993C6B9D033FD"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x62D3EA64A28BA177.rpak",
       "$guid": "0x62D3EA64A28BA177"
     },
@@ -6224,6 +7129,11 @@
       "_type": "txtr",
       "_path": "texture/0x637CC9C47AF7F5A3.rpak",
       "$guid": "0x637CC9C47AF7F5A3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6382EE17022798C4.rpak",
+      "$guid": "0x6382EE17022798C4"
     },
     {
       "_type": "txtr",
@@ -6274,6 +7184,11 @@
       "_type": "txtr",
       "_path": "texture/0x652DE9D7259CC0F5.rpak",
       "$guid": "0x652DE9D7259CC0F5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6535F93A33A6DD16.rpak",
+      "$guid": "0x6535F93A33A6DD16"
     },
     {
       "_type": "txtr",
@@ -6427,6 +7342,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x687CD7C1ED935E61.rpak",
+      "$guid": "0x687CD7C1ED935E61"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x6886C18998B57250.rpak",
       "$guid": "0x6886C18998B57250"
     },
@@ -6462,6 +7382,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x68E3D60B46832B57.rpak",
+      "$guid": "0x68E3D60B46832B57"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x6909BCDE3977AEA9.rpak",
       "$guid": "0x6909BCDE3977AEA9"
     },
@@ -6469,6 +7394,11 @@
       "_type": "txtr",
       "_path": "texture/0x69374D5A49EC2E6A.rpak",
       "$guid": "0x69374D5A49EC2E6A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6937A685A67A687.rpak",
+      "$guid": "0x6937A685A67A687"
     },
     {
       "_type": "txtr",
@@ -6494,6 +7424,11 @@
       "_type": "txtr",
       "_path": "texture/0x69B8AE2062140A70.rpak",
       "$guid": "0x69B8AE2062140A70"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x69BDAB416C05D1B7.rpak",
+      "$guid": "0x69BDAB416C05D1B7"
     },
     {
       "_type": "txtr",
@@ -6527,6 +7462,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x6A3C640F4B4448B3.rpak",
+      "$guid": "0x6A3C640F4B4448B3"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x6A3EA4859EA28EA0.rpak",
       "$guid": "0x6A3EA4859EA28EA0"
     },
@@ -6554,6 +7494,21 @@
       "_type": "txtr",
       "_path": "texture/0x6A8D0BA8530E48DA.rpak",
       "$guid": "0x6A8D0BA8530E48DA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6ABE9AEBA4FB7264.rpak",
+      "$guid": "0x6ABE9AEBA4FB7264"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6AC3F286A0D8EBA5.rpak",
+      "$guid": "0x6AC3F286A0D8EBA5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6ADC4A4A35B57768.rpak",
+      "$guid": "0x6ADC4A4A35B57768"
     },
     {
       "_type": "txtr",
@@ -6587,6 +7542,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x6C20A09BE8D4A9A5.rpak",
+      "$guid": "0x6C20A09BE8D4A9A5"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x6C275CE55E9AEB6C.rpak",
       "$guid": "0x6C275CE55E9AEB6C"
     },
@@ -6604,6 +7564,11 @@
       "_type": "txtr",
       "_path": "texture/0x6CA73F110821177F.rpak",
       "$guid": "0x6CA73F110821177F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6CB9C04789CDD6F3.rpak",
+      "$guid": "0x6CB9C04789CDD6F3"
     },
     {
       "_type": "txtr",
@@ -6632,8 +7597,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x6D6005ECB86EE37F.rpak",
+      "$guid": "0x6D6005ECB86EE37F"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x6D65D4497157C4AF.rpak",
       "$guid": "0x6D65D4497157C4AF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6D6BAA454D072D75.rpak",
+      "$guid": "0x6D6BAA454D072D75"
     },
     {
       "_type": "txtr",
@@ -6677,6 +7652,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x6EDA96FDF055C5F8.rpak",
+      "$guid": "0x6EDA96FDF055C5F8"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x6EE058E128C8EF0C.rpak",
       "$guid": "0x6EE058E128C8EF0C"
     },
@@ -6684,6 +7664,11 @@
       "_type": "txtr",
       "_path": "texture/0x6EF80F04C438F22C.rpak",
       "$guid": "0x6EF80F04C438F22C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6F5E53972DDB8264.rpak",
+      "$guid": "0x6F5E53972DDB8264"
     },
     {
       "_type": "txtr",
@@ -6714,6 +7699,11 @@
       "_type": "txtr",
       "_path": "texture/0x6FF5A04B0E631CE9.rpak",
       "$guid": "0x6FF5A04B0E631CE9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x700106725AFB0741.rpak",
+      "$guid": "0x700106725AFB0741"
     },
     {
       "_type": "txtr",
@@ -6782,6 +7772,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x72244C9E98F302D5.rpak",
+      "$guid": "0x72244C9E98F302D5"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x7230677B621BDDB3.rpak",
       "$guid": "0x7230677B621BDDB3"
     },
@@ -6804,6 +7799,11 @@
       "_type": "txtr",
       "_path": "texture/0x726E567D520F60D2.rpak",
       "$guid": "0x726E567D520F60D2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x72B793490C41E723.rpak",
+      "$guid": "0x72B793490C41E723"
     },
     {
       "_type": "txtr",
@@ -6874,6 +7874,11 @@
       "_type": "txtr",
       "_path": "texture/0x7469BBD9608C12E2.rpak",
       "$guid": "0x7469BBD9608C12E2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7470B4E79779F976.rpak",
+      "$guid": "0x7470B4E79779F976"
     },
     {
       "_type": "txtr",
@@ -6952,6 +7957,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x75FA36DAC36E56AD.rpak",
+      "$guid": "0x75FA36DAC36E56AD"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x76598753C727126D.rpak",
       "$guid": "0x76598753C727126D"
     },
@@ -6997,6 +8007,21 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x780CD976641D320E.rpak",
+      "$guid": "0x780CD976641D320E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x781DECE9B44F4DC4.rpak",
+      "$guid": "0x781DECE9B44F4DC4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7840BE43BD1CAFC7.rpak",
+      "$guid": "0x7840BE43BD1CAFC7"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x784BE8050EEC6F64.rpak",
       "$guid": "0x784BE8050EEC6F64"
     },
@@ -7034,6 +8059,11 @@
       "_type": "txtr",
       "_path": "texture/0x79CFF8F79E84AF37.rpak",
       "$guid": "0x79CFF8F79E84AF37"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7A2D6EEA9601F92.rpak",
+      "$guid": "0x7A2D6EEA9601F92"
     },
     {
       "_type": "txtr",
@@ -7132,6 +8162,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x7CB57B4ACCDD41A1.rpak",
+      "$guid": "0x7CB57B4ACCDD41A1"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x7CE7EA876F16A23F.rpak",
       "$guid": "0x7CE7EA876F16A23F"
     },
@@ -7139,6 +8174,11 @@
       "_type": "txtr",
       "_path": "texture/0x7CF9FE9796BE1FC4.rpak",
       "$guid": "0x7CF9FE9796BE1FC4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7D2DFB942D13825.rpak",
+      "$guid": "0x7D2DFB942D13825"
     },
     {
       "_type": "txtr",
@@ -7222,8 +8262,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x7F0B3CCD2977E9E5.rpak",
+      "$guid": "0x7F0B3CCD2977E9E5"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x7F12964B450EF62E.rpak",
       "$guid": "0x7F12964B450EF62E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7F14F30F0EAC7BCE.rpak",
+      "$guid": "0x7F14F30F0EAC7BCE"
     },
     {
       "_type": "txtr",
@@ -7272,6 +8322,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x8048AC8FE6ED8299.rpak",
+      "$guid": "0x8048AC8FE6ED8299"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x80532A0AC2969A26.rpak",
       "$guid": "0x80532A0AC2969A26"
     },
@@ -7279,6 +8334,16 @@
       "_type": "txtr",
       "_path": "texture/0x807C00BD45F6C092.rpak",
       "$guid": "0x807C00BD45F6C092"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x80D7CB98CDB179F5.rpak",
+      "$guid": "0x80D7CB98CDB179F5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x80F968AE39D50673.rpak",
+      "$guid": "0x80F968AE39D50673"
     },
     {
       "_type": "txtr",
@@ -7307,6 +8372,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x81D5870DBAC47CCE.rpak",
+      "$guid": "0x81D5870DBAC47CCE"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x81DE1BD29A51C793.rpak",
       "$guid": "0x81DE1BD29A51C793"
     },
@@ -7314,6 +8384,11 @@
       "_type": "txtr",
       "_path": "texture/0x823784FFC2C9A233.rpak",
       "$guid": "0x823784FFC2C9A233"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8238CDFED7D090C5.rpak",
+      "$guid": "0x8238CDFED7D090C5"
     },
     {
       "_type": "txtr",
@@ -7452,6 +8527,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x85E9AD5D85AA4E75.rpak",
+      "$guid": "0x85E9AD5D85AA4E75"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x861767AA94C34E11.rpak",
       "$guid": "0x861767AA94C34E11"
     },
@@ -7537,6 +8617,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x883108635ECEC16E.rpak",
+      "$guid": "0x883108635ECEC16E"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x886DBC8F2F0CEE6C.rpak",
       "$guid": "0x886DBC8F2F0CEE6C"
     },
@@ -7567,6 +8652,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x89AB6C16BA7129DB.rpak",
+      "$guid": "0x89AB6C16BA7129DB"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x89B5703DF318F46E.rpak",
       "$guid": "0x89B5703DF318F46E"
     },
@@ -7594,6 +8684,11 @@
       "_type": "txtr",
       "_path": "texture/0x8A105387C5E3E64F.rpak",
       "$guid": "0x8A105387C5E3E64F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8A31D348349C71C8.rpak",
+      "$guid": "0x8A31D348349C71C8"
     },
     {
       "_type": "txtr",
@@ -7672,6 +8767,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x8B94D6FAD68C965E.rpak",
+      "$guid": "0x8B94D6FAD68C965E"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x8BDA9DB80B146D62.rpak",
       "$guid": "0x8BDA9DB80B146D62"
     },
@@ -7684,6 +8784,11 @@
       "_type": "txtr",
       "_path": "texture/0x8C4B8D98EBC46ED.rpak",
       "$guid": "0x8C4B8D98EBC46ED"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8C5C48C629079729.rpak",
+      "$guid": "0x8C5C48C629079729"
     },
     {
       "_type": "txtr",
@@ -7824,6 +8929,11 @@
       "_type": "txtr",
       "_path": "texture/0x902F175457768EB9.rpak",
       "$guid": "0x902F175457768EB9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9034B0CA98A460C.rpak",
+      "$guid": "0x9034B0CA98A460C"
     },
     {
       "_type": "txtr",
@@ -8007,6 +9117,16 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x93E8641785C45296.rpak",
+      "$guid": "0x93E8641785C45296"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x93EC29098E06213B.rpak",
+      "$guid": "0x93EC29098E06213B"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x93F7768C921B1787.rpak",
       "$guid": "0x93F7768C921B1787"
     },
@@ -8047,6 +9167,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x94A1C66ED2B8E893.rpak",
+      "$guid": "0x94A1C66ED2B8E893"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x94B5DABB2143AC42.rpak",
       "$guid": "0x94B5DABB2143AC42"
     },
@@ -8059,6 +9184,11 @@
       "_type": "txtr",
       "_path": "texture/0x950C6CC02158A450.rpak",
       "$guid": "0x950C6CC02158A450"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x951967AF3384BC65.rpak",
+      "$guid": "0x951967AF3384BC65"
     },
     {
       "_type": "txtr",
@@ -8097,6 +9227,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x96670EC9A2ADD542.rpak",
+      "$guid": "0x96670EC9A2ADD542"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x966C648590889944.rpak",
       "$guid": "0x966C648590889944"
     },
@@ -8127,13 +9262,33 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x96F976A58AE5B060.rpak",
+      "$guid": "0x96F976A58AE5B060"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9709DC5B04E478D8.rpak",
+      "$guid": "0x9709DC5B04E478D8"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x974BB23CC22D4EB.rpak",
       "$guid": "0x974BB23CC22D4EB"
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x974D3D4B462C6B17.rpak",
+      "$guid": "0x974D3D4B462C6B17"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x97727E47A33003D7.rpak",
       "$guid": "0x97727E47A33003D7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x978122189F2BE8D0.rpak",
+      "$guid": "0x978122189F2BE8D0"
     },
     {
       "_type": "txtr",
@@ -8187,6 +9342,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x983F4DE81A3EE76C.rpak",
+      "$guid": "0x983F4DE81A3EE76C"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x984E508DC2F973DF.rpak",
       "$guid": "0x984E508DC2F973DF"
     },
@@ -8199,6 +9359,11 @@
       "_type": "txtr",
       "_path": "texture/0x989E49E674CD6A73.rpak",
       "$guid": "0x989E49E674CD6A73"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x98B1DBA83DCC3388.rpak",
+      "$guid": "0x98B1DBA83DCC3388"
     },
     {
       "_type": "txtr",
@@ -8289,6 +9454,11 @@
       "_type": "txtr",
       "_path": "texture/0x9A90535408262188.rpak",
       "$guid": "0x9A90535408262188"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9AA484FA503F37FF.rpak",
+      "$guid": "0x9AA484FA503F37FF"
     },
     {
       "_type": "txtr",
@@ -8437,6 +9607,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x9FDCE670A8905827.rpak",
+      "$guid": "0x9FDCE670A8905827"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x9FFBD7BB9FA9D9E3.rpak",
       "$guid": "0x9FFBD7BB9FA9D9E3"
     },
@@ -8444,6 +9619,11 @@
       "_type": "txtr",
       "_path": "texture/0xA0040D9E116919AD.rpak",
       "$guid": "0xA0040D9E116919AD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA0182F6DE7933877.rpak",
+      "$guid": "0xA0182F6DE7933877"
     },
     {
       "_type": "txtr",
@@ -8462,6 +9642,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xA0B0ADE7CF1D7AEB.rpak",
+      "$guid": "0xA0B0ADE7CF1D7AEB"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xA0D24DEAE7A26C01.rpak",
       "$guid": "0xA0D24DEAE7A26C01"
     },
@@ -8474,6 +9659,11 @@
       "_type": "txtr",
       "_path": "texture/0xA1B573F914DF786E.rpak",
       "$guid": "0xA1B573F914DF786E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA1C4B7EE94EA1D93.rpak",
+      "$guid": "0xA1C4B7EE94EA1D93"
     },
     {
       "_type": "txtr",
@@ -8537,6 +9727,16 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xA337339B1414C99.rpak",
+      "$guid": "0xA337339B1414C99"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA3400DE2CD9FD934.rpak",
+      "$guid": "0xA3400DE2CD9FD934"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xA3573E09B71F733F.rpak",
       "$guid": "0xA3573E09B71F733F"
     },
@@ -8549,6 +9749,11 @@
       "_type": "txtr",
       "_path": "texture/0xA389EC4672CE4E10.rpak",
       "$guid": "0xA389EC4672CE4E10"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA41C26288A9E6E9C.rpak",
+      "$guid": "0xA41C26288A9E6E9C"
     },
     {
       "_type": "txtr",
@@ -8572,6 +9777,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xA4E455826327A249.rpak",
+      "$guid": "0xA4E455826327A249"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xA4FAEAE374AD7CE9.rpak",
       "$guid": "0xA4FAEAE374AD7CE9"
     },
@@ -8579,6 +9789,11 @@
       "_type": "txtr",
       "_path": "texture/0xA506BA934F33E7DD.rpak",
       "$guid": "0xA506BA934F33E7DD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA532B734BADBDA05.rpak",
+      "$guid": "0xA532B734BADBDA05"
     },
     {
       "_type": "txtr",
@@ -8619,6 +9834,11 @@
       "_type": "txtr",
       "_path": "texture/0xA762ACD7E661AFD5.rpak",
       "$guid": "0xA762ACD7E661AFD5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA77DFB129AB75C82.rpak",
+      "$guid": "0xA77DFB129AB75C82"
     },
     {
       "_type": "txtr",
@@ -8747,6 +9967,16 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xAAF6C161DC3387BC.rpak",
+      "$guid": "0xAAF6C161DC3387BC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAAFE97C6BE3BEA1B.rpak",
+      "$guid": "0xAAFE97C6BE3BEA1B"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xAB17A8D008A8D361.rpak",
       "$guid": "0xAB17A8D008A8D361"
     },
@@ -8834,6 +10064,11 @@
       "_type": "txtr",
       "_path": "texture/0xADEF6DDCE73EF21D.rpak",
       "$guid": "0xADEF6DDCE73EF21D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAE0088B8B64C83C4.rpak",
+      "$guid": "0xAE0088B8B64C83C4"
     },
     {
       "_type": "txtr",
@@ -9032,8 +10267,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xB370D69EE6D3A3CA.rpak",
+      "$guid": "0xB370D69EE6D3A3CA"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xB379CA154658E383.rpak",
       "$guid": "0xB379CA154658E383"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB3CD7AFE76054E0B.rpak",
+      "$guid": "0xB3CD7AFE76054E0B"
     },
     {
       "_type": "txtr",
@@ -9052,8 +10297,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xB42C5D90E9B1763D.rpak",
+      "$guid": "0xB42C5D90E9B1763D"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xB4369367F5EDB0B6.rpak",
       "$guid": "0xB4369367F5EDB0B6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB43737F54772B6FE.rpak",
+      "$guid": "0xB43737F54772B6FE"
     },
     {
       "_type": "txtr",
@@ -9237,6 +10492,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xB83DAF06CE67B5FC.rpak",
+      "$guid": "0xB83DAF06CE67B5FC"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xB851830D007EC869.rpak",
       "$guid": "0xB851830D007EC869"
     },
@@ -9372,6 +10632,16 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xBBC3D4D8D4DEFDB7.rpak",
+      "$guid": "0xBBC3D4D8D4DEFDB7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBC296807DC655E89.rpak",
+      "$guid": "0xBC296807DC655E89"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xBC2EF6883CB106A0.rpak",
       "$guid": "0xBC2EF6883CB106A0"
     },
@@ -9437,6 +10707,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xBDF4CD916129501.rpak",
+      "$guid": "0xBDF4CD916129501"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xBE1B11D5B8B432FD.rpak",
       "$guid": "0xBE1B11D5B8B432FD"
     },
@@ -9459,6 +10734,11 @@
       "_type": "txtr",
       "_path": "texture/0xBECADD76F4E44CE7.rpak",
       "$guid": "0xBECADD76F4E44CE7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBED382365B7AC622.rpak",
+      "$guid": "0xBED382365B7AC622"
     },
     {
       "_type": "txtr",
@@ -9492,6 +10772,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xBFC19A9A6190614.rpak",
+      "$guid": "0xBFC19A9A6190614"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xBFCFB72B8D24FFE1.rpak",
       "$guid": "0xBFCFB72B8D24FFE1"
     },
@@ -9499,6 +10784,11 @@
       "_type": "txtr",
       "_path": "texture/0xC01730100D1F32CC.rpak",
       "$guid": "0xC01730100D1F32CC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC0375ED28C1EFACA.rpak",
+      "$guid": "0xC0375ED28C1EFACA"
     },
     {
       "_type": "txtr",
@@ -9554,6 +10844,11 @@
       "_type": "txtr",
       "_path": "texture/0xC16334530F8D1F9F.rpak",
       "$guid": "0xC16334530F8D1F9F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC17E259A39A6E53E.rpak",
+      "$guid": "0xC17E259A39A6E53E"
     },
     {
       "_type": "txtr",
@@ -9652,6 +10947,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xC40B24FEF3110F1E.rpak",
+      "$guid": "0xC40B24FEF3110F1E"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xC41663E82A83A08A.rpak",
       "$guid": "0xC41663E82A83A08A"
     },
@@ -9702,6 +11002,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xC4ED349F7824FD3A.rpak",
+      "$guid": "0xC4ED349F7824FD3A"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xC56E68E87755DCA4.rpak",
       "$guid": "0xC56E68E87755DCA4"
     },
@@ -9734,6 +11039,11 @@
       "_type": "txtr",
       "_path": "texture/0xC6295A66BCAB54B5.rpak",
       "$guid": "0xC6295A66BCAB54B5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC67CAD8BC25DB10A.rpak",
+      "$guid": "0xC67CAD8BC25DB10A"
     },
     {
       "_type": "txtr",
@@ -9882,6 +11192,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xCB5FAD7776DCEE8.rpak",
+      "$guid": "0xCB5FAD7776DCEE8"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xCB6C07EF91D2A25E.rpak",
       "$guid": "0xCB6C07EF91D2A25E"
     },
@@ -9972,6 +11287,16 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xCDCC6FE9079F00CE.rpak",
+      "$guid": "0xCDCC6FE9079F00CE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCDDA088BA1CE2D9A.rpak",
+      "$guid": "0xCDDA088BA1CE2D9A"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xCDDEBF38240EB198.rpak",
       "$guid": "0xCDDEBF38240EB198"
     },
@@ -9994,6 +11319,11 @@
       "_type": "txtr",
       "_path": "texture/0xCE24E1361BCCFB76.rpak",
       "$guid": "0xCE24E1361BCCFB76"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCE2FBC2424776B04.rpak",
+      "$guid": "0xCE2FBC2424776B04"
     },
     {
       "_type": "txtr",
@@ -10029,6 +11359,11 @@
       "_type": "txtr",
       "_path": "texture/0xCEB7C1897070D1.rpak",
       "$guid": "0xCEB7C1897070D1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCEBAC46DBB2E0BC8.rpak",
+      "$guid": "0xCEBAC46DBB2E0BC8"
     },
     {
       "_type": "txtr",
@@ -10094,6 +11429,11 @@
       "_type": "txtr",
       "_path": "texture/0xCFDA9123DB4718AD.rpak",
       "$guid": "0xCFDA9123DB4718AD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD00A14D8A448C925.rpak",
+      "$guid": "0xD00A14D8A448C925"
     },
     {
       "_type": "txtr",
@@ -10172,6 +11512,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xD197308D947938A8.rpak",
+      "$guid": "0xD197308D947938A8"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xD1A25DE17C234450.rpak",
       "$guid": "0xD1A25DE17C234450"
     },
@@ -10184,6 +11529,11 @@
       "_type": "txtr",
       "_path": "texture/0xD1F75E5494E51AF1.rpak",
       "$guid": "0xD1F75E5494E51AF1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD238FD33EB6D1E2F.rpak",
+      "$guid": "0xD238FD33EB6D1E2F"
     },
     {
       "_type": "txtr",
@@ -10212,6 +11562,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xD2C45002A91A61B3.rpak",
+      "$guid": "0xD2C45002A91A61B3"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xD3075BFE8314ACDE.rpak",
       "$guid": "0xD3075BFE8314ACDE"
     },
@@ -10234,6 +11589,11 @@
       "_type": "txtr",
       "_path": "texture/0xD3CCC750EF6BDC34.rpak",
       "$guid": "0xD3CCC750EF6BDC34"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD3FF98969A7A572C.rpak",
+      "$guid": "0xD3FF98969A7A572C"
     },
     {
       "_type": "txtr",
@@ -10307,6 +11667,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xD55D26E6BC3AB367.rpak",
+      "$guid": "0xD55D26E6BC3AB367"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xD5A69E9644B24DB0.rpak",
       "$guid": "0xD5A69E9644B24DB0"
     },
@@ -10319,6 +11684,11 @@
       "_type": "txtr",
       "_path": "texture/0xD5D5776B37844826.rpak",
       "$guid": "0xD5D5776B37844826"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD5F9985CD40B84C3.rpak",
+      "$guid": "0xD5F9985CD40B84C3"
     },
     {
       "_type": "txtr",
@@ -10342,8 +11712,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xD69FA0381BB6507F.rpak",
+      "$guid": "0xD69FA0381BB6507F"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xD6A77CCD677EF913.rpak",
       "$guid": "0xD6A77CCD677EF913"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD6AC4C4FE8F0C3E0.rpak",
+      "$guid": "0xD6AC4C4FE8F0C3E0"
     },
     {
       "_type": "txtr",
@@ -10369,6 +11749,11 @@
       "_type": "txtr",
       "_path": "texture/0xD7B156289F563BCF.rpak",
       "$guid": "0xD7B156289F563BCF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD7B172D1E325D498.rpak",
+      "$guid": "0xD7B172D1E325D498"
     },
     {
       "_type": "txtr",
@@ -10427,6 +11812,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xD8F57FF4C10D3CC6.rpak",
+      "$guid": "0xD8F57FF4C10D3CC6"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xD91290CB844B5BE9.rpak",
       "$guid": "0xD91290CB844B5BE9"
     },
@@ -10472,8 +11862,23 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xD9DF819E6D8DD0AF.rpak",
+      "$guid": "0xD9DF819E6D8DD0AF"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xD9EF9B1CD255FC71.rpak",
       "$guid": "0xD9EF9B1CD255FC71"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDA256D0FA3543E4D.rpak",
+      "$guid": "0xDA256D0FA3543E4D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDA4F134DC07E6C7C.rpak",
+      "$guid": "0xDA4F134DC07E6C7C"
     },
     {
       "_type": "txtr",
@@ -10497,6 +11902,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xDAD102641502D229.rpak",
+      "$guid": "0xDAD102641502D229"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xDAD4B2C40C693BEF.rpak",
       "$guid": "0xDAD4B2C40C693BEF"
     },
@@ -10509,6 +11919,11 @@
       "_type": "txtr",
       "_path": "texture/0xDB142EB5421EBA3D.rpak",
       "$guid": "0xDB142EB5421EBA3D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDB875D0E3F3FD7F8.rpak",
+      "$guid": "0xDB875D0E3F3FD7F8"
     },
     {
       "_type": "txtr",
@@ -10602,6 +12017,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xDCCDF6E668FD7A3.rpak",
+      "$guid": "0xDCCDF6E668FD7A3"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xDCEE6495B5760A81.rpak",
       "$guid": "0xDCEE6495B5760A81"
     },
@@ -10612,8 +12032,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xDD257EDBDB0FC61A.rpak",
+      "$guid": "0xDD257EDBDB0FC61A"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xDD4600055AFF8C91.rpak",
       "$guid": "0xDD4600055AFF8C91"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDD5963A90ED8402D.rpak",
+      "$guid": "0xDD5963A90ED8402D"
     },
     {
       "_type": "txtr",
@@ -10624,6 +12054,11 @@
       "_type": "txtr",
       "_path": "texture/0xDDB0655EECF1DFBC.rpak",
       "$guid": "0xDDB0655EECF1DFBC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDDB9EF72C432BF8.rpak",
+      "$guid": "0xDDB9EF72C432BF8"
     },
     {
       "_type": "txtr",
@@ -10649,6 +12084,11 @@
       "_type": "txtr",
       "_path": "texture/0xDE70FF4729E05630.rpak",
       "$guid": "0xDE70FF4729E05630"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDE7DE83E5CC9114.rpak",
+      "$guid": "0xDE7DE83E5CC9114"
     },
     {
       "_type": "txtr",
@@ -10802,8 +12242,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xE1DCE263FF3EABE6.rpak",
+      "$guid": "0xE1DCE263FF3EABE6"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xE1EC11AF8C661509.rpak",
       "$guid": "0xE1EC11AF8C661509"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE1F1208A7208F3F5.rpak",
+      "$guid": "0xE1F1208A7208F3F5"
     },
     {
       "_type": "txtr",
@@ -10834,6 +12284,11 @@
       "_type": "txtr",
       "_path": "texture/0xE246A3E04EF5C7C.rpak",
       "$guid": "0xE246A3E04EF5C7C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE254A8357A73B478.rpak",
+      "$guid": "0xE254A8357A73B478"
     },
     {
       "_type": "txtr",
@@ -10869,6 +12324,11 @@
       "_type": "txtr",
       "_path": "texture/0xE2FAC63DDEADBDBE.rpak",
       "$guid": "0xE2FAC63DDEADBDBE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE329EB402BB030D1.rpak",
+      "$guid": "0xE329EB402BB030D1"
     },
     {
       "_type": "txtr",
@@ -10914,6 +12374,11 @@
       "_type": "txtr",
       "_path": "texture/0xE40849D203A16D22.rpak",
       "$guid": "0xE40849D203A16D22"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE42A6929E82839C7.rpak",
+      "$guid": "0xE42A6929E82839C7"
     },
     {
       "_type": "txtr",
@@ -10987,6 +12452,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xE5F070FE7C76937A.rpak",
+      "$guid": "0xE5F070FE7C76937A"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xE5FB9CD82C951502.rpak",
       "$guid": "0xE5FB9CD82C951502"
     },
@@ -10997,13 +12467,48 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xE65D8CB5C4A72202.rpak",
+      "$guid": "0xE65D8CB5C4A72202"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xE6787ED7D1453CDF.rpak",
       "$guid": "0xE6787ED7D1453CDF"
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xE68EC656634A31AF.rpak",
+      "$guid": "0xE68EC656634A31AF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE6A732B28C56A8F1.rpak",
+      "$guid": "0xE6A732B28C56A8F1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE6B78375B63B5523.rpak",
+      "$guid": "0xE6B78375B63B5523"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE7183612DC8F6FFB.rpak",
+      "$guid": "0xE7183612DC8F6FFB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE75C06AAF809460.rpak",
+      "$guid": "0xE75C06AAF809460"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xE78147A592917701.rpak",
       "$guid": "0xE78147A592917701"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE783A3A9672B51E3.rpak",
+      "$guid": "0xE783A3A9672B51E3"
     },
     {
       "_type": "txtr",
@@ -11127,6 +12632,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xEA1CED57F9872E97.rpak",
+      "$guid": "0xEA1CED57F9872E97"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xEA3D637962F0D76F.rpak",
       "$guid": "0xEA3D637962F0D76F"
     },
@@ -11164,6 +12674,16 @@
       "_type": "txtr",
       "_path": "texture/0xEAF304BD4C519E22.rpak",
       "$guid": "0xEAF304BD4C519E22"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEAF30F64DB99BF72.rpak",
+      "$guid": "0xEAF30F64DB99BF72"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEB0E91B121AEE0A7.rpak",
+      "$guid": "0xEB0E91B121AEE0A7"
     },
     {
       "_type": "txtr",
@@ -11222,6 +12742,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xED11831D858AF608.rpak",
+      "$guid": "0xED11831D858AF608"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xED380E5E3BA79F3F.rpak",
       "$guid": "0xED380E5E3BA79F3F"
     },
@@ -11234,6 +12759,11 @@
       "_type": "txtr",
       "_path": "texture/0xED762BD3B297E579.rpak",
       "$guid": "0xED762BD3B297E579"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xED7BFBCE52375983.rpak",
+      "$guid": "0xED7BFBCE52375983"
     },
     {
       "_type": "txtr",
@@ -11289,6 +12819,11 @@
       "_type": "txtr",
       "_path": "texture/0xEE79289DDB04F20F.rpak",
       "$guid": "0xEE79289DDB04F20F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEE7A61E7450F798D.rpak",
+      "$guid": "0xEE7A61E7450F798D"
     },
     {
       "_type": "txtr",
@@ -11387,6 +12922,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xF06025205EA1853E.rpak",
+      "$guid": "0xF06025205EA1853E"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xF07D8578007AB73F.rpak",
       "$guid": "0xF07D8578007AB73F"
     },
@@ -11407,8 +12947,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xF0C77737A187700B.rpak",
+      "$guid": "0xF0C77737A187700B"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xF0D6B53E3E21A273.rpak",
       "$guid": "0xF0D6B53E3E21A273"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF0F72442247977E9.rpak",
+      "$guid": "0xF0F72442247977E9"
     },
     {
       "_type": "txtr",
@@ -11447,6 +12997,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xF18C70D7FCB756BD.rpak",
+      "$guid": "0xF18C70D7FCB756BD"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xF1B3E6CCBA4C4376.rpak",
       "$guid": "0xF1B3E6CCBA4C4376"
     },
@@ -11454,6 +13009,11 @@
       "_type": "txtr",
       "_path": "texture/0xF1B3E7AFCB5603C1.rpak",
       "$guid": "0xF1B3E7AFCB5603C1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF1D2222C19BDF784.rpak",
+      "$guid": "0xF1D2222C19BDF784"
     },
     {
       "_type": "txtr",
@@ -11517,8 +13077,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xF49FE45FFB1342E6.rpak",
+      "$guid": "0xF49FE45FFB1342E6"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xF4D0282EFEE820FB.rpak",
       "$guid": "0xF4D0282EFEE820FB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF4EA0749E9B75FF7.rpak",
+      "$guid": "0xF4EA0749E9B75FF7"
     },
     {
       "_type": "txtr",
@@ -11552,6 +13122,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xF572795EE293064A.rpak",
+      "$guid": "0xF572795EE293064A"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xF5819D817DE4446.rpak",
       "$guid": "0xF5819D817DE4446"
     },
@@ -11559,6 +13134,11 @@
       "_type": "txtr",
       "_path": "texture/0xF59FF2E5A2017CE.rpak",
       "$guid": "0xF59FF2E5A2017CE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF5FA150BA820B9A.rpak",
+      "$guid": "0xF5FA150BA820B9A"
     },
     {
       "_type": "txtr",
@@ -11582,6 +13162,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xF6685C7352CA027A.rpak",
+      "$guid": "0xF6685C7352CA027A"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xF668D40F2118BFBF.rpak",
       "$guid": "0xF668D40F2118BFBF"
     },
@@ -11599,6 +13184,11 @@
       "_type": "txtr",
       "_path": "texture/0xF6B1152E42CDAB04.rpak",
       "$guid": "0xF6B1152E42CDAB04"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF6CFA1E7287D47.rpak",
+      "$guid": "0xF6CFA1E7287D47"
     },
     {
       "_type": "txtr",
@@ -11637,8 +13227,18 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xF76E49CB2915F3E5.rpak",
+      "$guid": "0xF76E49CB2915F3E5"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xF795467026008571.rpak",
       "$guid": "0xF795467026008571"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF7B540619012FBD0.rpak",
+      "$guid": "0xF7B540619012FBD0"
     },
     {
       "_type": "txtr",
@@ -11737,6 +13337,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xF975ED875FAA7863.rpak",
+      "$guid": "0xF975ED875FAA7863"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xF97B3EADE5AE0602.rpak",
       "$guid": "0xF97B3EADE5AE0602"
     },
@@ -11774,6 +13379,11 @@
       "_type": "txtr",
       "_path": "texture/0xFA979AE08BBFAC3F.rpak",
       "$guid": "0xFA979AE08BBFAC3F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFAAB772543B26CAE.rpak",
+      "$guid": "0xFAAB772543B26CAE"
     },
     {
       "_type": "txtr",
@@ -11882,6 +13492,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xFD5303D539967E91.rpak",
+      "$guid": "0xFD5303D539967E91"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xFD637862436945A5.rpak",
       "$guid": "0xFD637862436945A5"
     },
@@ -11932,6 +13547,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xFE926925D79208E3.rpak",
+      "$guid": "0xFE926925D79208E3"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xFEAFF89FB7DA5543.rpak",
       "$guid": "0xFEAFF89FB7DA5543"
     },
@@ -11939,6 +13559,16 @@
       "_type": "txtr",
       "_path": "texture/0xFEB8EAD116F8DAA.rpak",
       "$guid": "0xFEB8EAD116F8DAA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFEECCB94DB736A41.rpak",
+      "$guid": "0xFEECCB94DB736A41"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFF0EF0ED9926CEB0.rpak",
+      "$guid": "0xFF0EF0ED9926CEB0"
     },
     {
       "_type": "txtr",
@@ -12016,6 +13646,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/foliage/citymodern_grass_01_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/flowers_ground_lavender_01_shadow_rgdp.rpak"
     },
     {
@@ -12041,6 +13675,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/foliage/flower_red_large_anim_01_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/flower_yellow_small_01_shadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12188,7 +13826,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/foliage/tree_cypress_tall_leaves_01_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/tree_olympus_cherry_blossom_leaves_small_01_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/tree_palm_fan_leaves_01_shadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12208,11 +13854,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/signs/desertlands_mirage_sign_01_shadow_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/signs/desertlands_mirage_sign_01_shadow_wldc.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/depth/models/switchback/flower_yellow_large_01_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/vistas/party_crasher/party_crasher_night_mountains2_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/vistas/party_crasher/party_crasher_night_mountains_shadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12228,7 +13886,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/world/decal/stencil_corporate_white_01_vc_shadow_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/world/decal/stencil_corporate_white_01_vc_shadow_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/world/decal/stencil_corporate_white_02_vc_shadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12245,6 +13911,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/world/rubble/rubble_standard02_wld_vtx_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/world/s2s/s2s_boltdecals_02/s2s_boltdecals_02_shadow_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -12292,6 +13962,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/world/timeshift/timeshift_text_decals_01_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/world/walls/lobby_basic_wall_03_stars_shadow_wldc.rpak"
     },
     {
@@ -12320,6 +13994,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/foliage/citymodern_grass_01_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/flowers_ground_lavender_01_prepass_rgdp.rpak"
     },
     {
@@ -12345,6 +14023,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/foliage/flower_red_large_anim_01_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/flower_yellow_small_01_prepass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12492,7 +14174,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/foliage/tree_cypress_tall_leaves_01_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/tree_olympus_cherry_blossom_leaves_small_01_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/tree_palm_fan_leaves_01_prepass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12512,11 +14202,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/signs/desertlands_mirage_sign_01_prepass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/signs/desertlands_mirage_sign_01_prepass_wldc.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/depth/models/switchback/flower_yellow_large_01_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/vistas/party_crasher/party_crasher_night_mountains2_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/vistas/party_crasher/party_crasher_night_mountains_prepass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12532,7 +14234,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/world/decal/stencil_corporate_white_01_vc_prepass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/world/decal/stencil_corporate_white_01_vc_prepass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/world/decal/stencil_corporate_white_02_vc_prepass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12549,6 +14259,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/world/rubble/rubble_standard02_wld_vtx_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/world/s2s/s2s_boltdecals_02/s2s_boltdecals_02_prepass_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -12596,6 +14310,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/world/timeshift/timeshift_text_decals_01_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/world/walls/lobby_basic_wall_03_stars_prepass_wldc.rpak"
     },
     {
@@ -12624,6 +14342,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/foliage/citymodern_grass_01_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/flowers_ground_lavender_01_vsm_rgdp.rpak"
     },
     {
@@ -12649,6 +14371,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/foliage/flower_red_large_anim_01_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/flower_yellow_small_01_vsm_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12796,7 +14522,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/foliage/tree_cypress_tall_leaves_01_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/tree_olympus_cherry_blossom_leaves_small_01_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/tree_palm_fan_leaves_01_vsm_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12816,11 +14550,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/signs/desertlands_mirage_sign_01_vsm_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/signs/desertlands_mirage_sign_01_vsm_wldc.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/depth/models/switchback/flower_yellow_large_01_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/vistas/party_crasher/party_crasher_night_mountains2_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/vistas/party_crasher/party_crasher_night_mountains_vsm_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12832,11 +14578,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/world/decal/stencil_corporate_white_01_vc_vsm_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/world/decal/stencil_corporate_white_01_vc_vsm_wldc.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/depth/world/decal/stencil_corporate_white_01_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/world/decal/stencil_corporate_white_02_vc_vsm_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -12853,6 +14607,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/world/rubble/rubble_standard02_wld_vtx_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/world/s2s/s2s_boltdecals_02/s2s_boltdecals_02_vsm_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -12900,6 +14658,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/world/timeshift/timeshift_text_decals_01_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/world/walls/lobby_basic_wall_03_stars_vsm_wldc.rpak"
     },
     {
@@ -12928,6 +14690,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/foliage/citymodern_grass_01_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/flowers_ground_lavender_01_tightshadow_rgdp.rpak"
     },
     {
@@ -12953,6 +14719,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/foliage/flower_red_large_anim_01_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/flower_yellow_small_01_tightshadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13100,7 +14870,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/foliage/tree_cypress_tall_leaves_01_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/foliage/tree_olympus_cherry_blossom_leaves_small_01_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/foliage/tree_palm_fan_leaves_01_tightshadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13120,11 +14898,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/models/signs/desertlands_mirage_sign_01_tightshadow_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/models/signs/desertlands_mirage_sign_01_tightshadow_wldc.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/depth/models/switchback/flower_yellow_large_01_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/vistas/party_crasher/party_crasher_night_mountains2_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/vistas/party_crasher/party_crasher_night_mountains_tightshadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13140,7 +14930,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/world/decal/stencil_corporate_white_01_vc_tightshadow_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/world/decal/stencil_corporate_white_01_vc_tightshadow_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/world/decal/stencil_corporate_white_02_vc_tightshadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13157,6 +14955,10 @@
     {
       "_type": "matl",
       "_path": "material/depth/world/rubble/rubble_standard02_wld_vtx_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/world/s2s/s2s_boltdecals_02/s2s_boltdecals_02_tightshadow_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -13204,6 +15006,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/depth/world/timeshift/timeshift_text_decals_01_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/world/walls/lobby_basic_wall_03_stars_tightshadow_wldc.rpak"
     },
     {
@@ -13217,6 +15023,10 @@
     {
       "_type": "matl",
       "_path": "material/models/beacon/beacon_cable_trim_01/beacon_cable_trim_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/beacon/beacon_roof_ac_unit_large_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13236,11 +15046,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/beacon/construction_scaffolding_metal_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/beacon/generator_fan_hose_cap_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/models/buildings/vent_roof_03_512_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/city_modern/citymodern_light_pole_a_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13253,6 +15071,10 @@
     {
       "_type": "matl",
       "_path": "material/models/city_modern/citymodern_trashcan_a_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/city_modern/concrete_steps_clean_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13348,6 +15170,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/domestic/light_switch_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/domestic/magzine_covers_colpass_rgdp.rpak"
     },
     {
@@ -13384,6 +15210,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/door/contemporary_door_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/electricalboxes/fuseboxsmall_colpass_rgdp.rpak"
     },
     {
@@ -13416,6 +15246,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/foliage/citymodern_grass_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/foliage/flowers_ground_lavender_01_colpass_rgdp.rpak"
     },
     {
@@ -13441,6 +15275,10 @@
     {
       "_type": "matl",
       "_path": "material/models/foliage/flower_red_large_anim_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/foliage/flower_yellow_small_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13600,7 +15438,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/foliage/tree_cypress_tall_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/foliage/tree_cypress_tall_leaves_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/foliage/tree_olympus_cherry_blossom_leaves_small_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/foliage/tree_palm_fan_bark_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/foliage/tree_palm_fan_leaves_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13616,7 +15470,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/furniture/cafe_chair_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/furniture/cafe_table_base_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/furniture/couch_modular01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/furniture/office_laptop_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/furniture/patio_modern_lounger_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13632,7 +15502,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/haven/canvas_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/haven/foliage/haven_bamboo_tree_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/haven/haven_greenhouse_banner_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/haven/patio_umbrella_blue_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13644,11 +15526,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/imc_base/barracks_bed_IMC_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/imc_base/bed_tech_base_IMC_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/models/imc_base/cable_med_IMC_02_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/cargo_container_imc_01_green_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13660,7 +15550,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/imc_base/generator_IMC_01_blue_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/generator_IMC_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/imc_base/imc_fan_large_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/imc_fan_large_01_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -13688,7 +15590,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/imc_base/missile_imc_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/imc_base/monitor_large_IMC_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/outer_wall_clasp_IMC_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/outer_wall_IMC_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13713,6 +15627,10 @@
     {
       "_type": "matl",
       "_path": "material/models/imc_base/wall_column_IMC_03_holiday_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/wall_trims_IMC_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13748,6 +15666,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/industrial/security_post_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/industrial/solar_panel_colony_small_colpass_rgdp.rpak"
     },
     {
@@ -13776,11 +15698,27 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/kodai_live_fire_test/window_clamp_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/kodai_live_fire_test/window_clamp_01_colpass_wldc.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/models/lamps/industrial_wall_light_02_on_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/lamps/interior_can_light_on_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/lamps/interior_can_light_plastic_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/lamps/interior_can_light_warm_on_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13836,6 +15774,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/pipes/pipe_modular_painted_red_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/pipes/pipe_modular_painted_white_vert_color_colpass_rgdp.rpak"
     },
     {
@@ -13849,6 +15791,22 @@
     {
       "_type": "matl",
       "_path": "material/models/props/desertlands_research_station_server_wires_01/desertlands_research_station_server_wires_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/global_access_panel_button/global_access_panel_button_screen_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/global_access_panel_button/global_access_panel_button_screen_red_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/global_access_panel_button/global_access_panel_frame_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/global_access_panel_button/global_access_panel_frame_red_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -13908,7 +15866,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/signs/angel_city_banner_1_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/signs/corporate_elevator_directory_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/signs/desertlands_mirage_sign_01_colpass_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -13960,6 +15926,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/timeshift/timeshift_speaker_01/timeshift_speaker_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/utilities/ceiling_vent_metal_colpass_rgdp.rpak"
     },
     {
@@ -13984,7 +15954,27 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/vehicle/mobile_turret/mobile_turret_wheel_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/vehicle/moped/moped_static_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/party_crasher_night_mountains2_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/party_crasher_night_mountains_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/party_crasher_night_oceanbase_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/party_crasher_night_sky_colpass_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -13997,6 +15987,10 @@
     {
       "_type": "matl",
       "_path": "material/models/world/metal/trim_metal_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/world/signs/sign_neon_colors_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14025,6 +16019,10 @@
     {
       "_type": "matl",
       "_path": "material/world/base_shaders/base_blue01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/base_shaders/base_grey01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14068,6 +16066,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/boomtown/boomtown_flat_concrete_blackpaint_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/boomtown/boomtown_int_trims_01_colpass_rgdp.rpak"
     },
     {
@@ -14077,6 +16079,10 @@
     {
       "_type": "matl",
       "_path": "material/world/boomtown/boomtown_roof_concrete_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/boomtown/boomtown_solid_grate_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14100,6 +16106,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/concrete/concrete_base_horizontal_clean_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/concrete/concrete_base_horizontal_clean_01_colpass_wldc.rpak"
     },
     {
@@ -14116,7 +16126,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/concrete/concrete_painted_clean_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/concrete/concrete_painted_clean_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/concrete/concrete_painted_clean_02_colpass_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -14132,11 +16150,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/concrete/concrete_painted_clean_04_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/concrete/concrete_painted_clean_04_colpass_wldc.rpak"
     },
     {
       "_type": "matl",
+      "_path": "material/world/concrete/concrete_painted_clean_05_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/concrete/concrete_painted_clean_05_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/concrete/concrete_painted_pattern_clean_02_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14149,6 +16179,10 @@
     {
       "_type": "matl",
       "_path": "material/world/concrete/concrete_painted_trim_clean_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/concrete/concrete_painted_worn_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14192,11 +16226,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/decal/stencil_corporate_white_01_vc_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/decal/stencil_corporate_white_01_vc_colpass_wldc.rpak"
     },
     {
       "_type": "matl",
+      "_path": "material/world/decal/stencil_corporate_white_02_vc_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/dev/dev_blue_light_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/dev/dev_green_light_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14360,11 +16406,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/metal/diamond_plating_painted_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/metal/gen_painted_metal_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/world/metal/gen_painted_metal_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/metal/imc_metal_trim_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/metal/imc_painted_metal_01_colpass_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -14381,6 +16439,10 @@
     {
       "_type": "matl",
       "_path": "material/world/metal/metal_corrugated_roof_03_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/metal/metal_grill_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14444,6 +16506,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/metal/slum_trim_girdering_01_vt_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/metal/trim_metal_01_colpass_rgdp.rpak"
     },
     {
@@ -14456,11 +16522,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/moss/icelandic_moss_01_wld_moss_01_red_wld_bm_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/moss/olympus_moss_green_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/world/moss/olympus_moss_green_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/moss/olympus_moss_green_01_wld_metal_corrugated_roof_03_bm_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14509,6 +16583,10 @@
     {
       "_type": "matl",
       "_path": "material/world/ola/stamped_metal_large_rusty_bm_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/plaster/slum_city_painted_metal_02_dirty_02_bm_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14584,6 +16662,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/s2s/s2s_boltdecals_02/s2s_boltdecals_02_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/s2s/s2s_boltdecals_02/s2s_boltdecals_02_colpass_rgdp.rpak"
     },
     {
@@ -14644,11 +16726,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/signs/oasis_signs_ad_atlas_01_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/signs/oasis_signs_ad_atlas_01_colpass_wldc.rpak"
     },
     {
       "_type": "matl",
+      "_path": "material/world/signs/oasis_signs_ad_atlas_02_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/signs/olympus_signs_ad_atlas_01_opaque_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/signs/party_crashers_signs_ad_atlas_01_opaque_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14788,6 +16882,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/sleek_city/sleek_city_trims_clean_01_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/sleek_city/sleek_city_trims_clean_01_colpass_rgdp.rpak"
     },
     {
@@ -14801,6 +16899,14 @@
     {
       "_type": "matl",
       "_path": "material/world/sleek_city/sleek_city_wood_01_shinny_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/sleek_city/sleek_city_wood_ceiling_01_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/sleek_city/sleek_city_wood_ceiling_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14829,6 +16935,10 @@
     {
       "_type": "matl",
       "_path": "material/world/sleek_city/sleek_city_wood_trims_01_white_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/sleek_city/sleek_city_wood_wall_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14888,7 +16998,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/timeshift/concrete/ts_concrete_floor_red_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/timeshift/concrete/ts_concrete_floor_red_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/timeshift/concrete_base_clean_01/concrete_base_clean_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14897,6 +17015,10 @@
     {
       "_type": "matl",
       "_path": "material/world/timeshift/fx/led_light01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/timeshift/metal/ts_brushed_metal01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14948,7 +17070,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/timeshift/timeshift_text_decals_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -14984,6 +17114,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/walls/building_walls_glass_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/walls/building_walls_glass_01_colpass_wldc.rpak"
     },
     {
@@ -14996,6 +17130,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/walls/building_walls_metal_03_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/walls/building_walls_metal_03_colpass_wldc.rpak"
     },
     {
@@ -15005,6 +17143,10 @@
     {
       "_type": "matl",
       "_path": "material/world/walls/building_walls_metal_04_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/walls/building_walls_trim_01_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15021,6 +17163,10 @@
     {
       "_type": "matl",
       "_path": "material/world/walls/construction_metal_form_walls_07_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/walls/construction_metal_form_walls_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15060,6 +17206,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/walls/olympus_marble_wall_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/walls/olympus_marble_wall_01_underwater_colpass_wldc.rpak"
     },
     {
@@ -15073,6 +17223,10 @@
     {
       "_type": "matl",
       "_path": "material/world/water/waterpool_03_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/windows/window_glass_dirty_stripes_01_opaque_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15092,6 +17246,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/beacon/beacon_roof_ac_unit_large_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/beacon/beacon_server_01/beacon_server_01_on_rgdp.rpak"
     },
     {
@@ -15108,11 +17266,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/beacon/construction_scaffolding_metal_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/beacon/generator_fan_hose_cap_rgdp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/models/buildings/vent_roof_03_512_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/city_modern/citymodern_light_pole_a_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15125,6 +17291,10 @@
     {
       "_type": "matl",
       "_path": "material/models/city_modern/citymodern_trashcan_a_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/city_modern/concrete_steps_clean_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15224,6 +17394,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/domestic/light_switch_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/domestic/luggage_01_screen_rgdp.rpak"
     },
     {
@@ -15264,6 +17438,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/door/contemporary_door_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/electricalboxes/fuseboxsmall_rgdp.rpak"
     },
     {
@@ -15296,6 +17474,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/foliage/citymodern_grass_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/foliage/flowers_ground_lavender_01_rgdp.rpak"
     },
     {
@@ -15321,6 +17503,10 @@
     {
       "_type": "matl",
       "_path": "material/models/foliage/flower_red_large_anim_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/foliage/flower_yellow_small_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15460,6 +17646,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/foliage/tree_cherry_blossom_leaves_small_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/foliage/tree_cherry_blossom_leaves_small_animated_01_rgdp.rpak"
     },
     {
@@ -15480,7 +17670,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/foliage/tree_cypress_tall_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/foliage/tree_cypress_tall_leaves_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/foliage/tree_olympus_cherry_blossom_leaves_small_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/foliage/tree_palm_fan_bark_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/foliage/tree_palm_fan_leaves_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15496,7 +17702,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/furniture/cafe_chair_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/furniture/cafe_table_base_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/furniture/couch_modular01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/furniture/office_laptop_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/furniture/patio_modern_lounger_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15512,7 +17734,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/haven/canvas_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/haven/foliage/haven_bamboo_tree_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/haven/haven_greenhouse_banner_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/haven/patio_umbrella_blue_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15524,11 +17758,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/imc_base/barracks_bed_IMC_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/imc_base/bed_tech_base_IMC_rgdp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/models/imc_base/cable_med_IMC_02_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/cargo_container_imc_01_green_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/cargo_container_imc_decals_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15540,7 +17786,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/imc_base/generator_IMC_01_blue_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/generator_IMC_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/imc_base/imc_fan_large_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/imc_fan_large_01_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -15568,7 +17826,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/imc_base/missile_imc_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/imc_base/monitor_large_IMC_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/outer_wall_clasp_IMC_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/outer_wall_IMC_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15593,6 +17863,10 @@
     {
       "_type": "matl",
       "_path": "material/models/imc_base/wall_column_IMC_03_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/wall_trims_IMC_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15632,6 +17906,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/industrial/security_post_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/industrial/solar_panel_colony_small_rgdp.rpak"
     },
     {
@@ -15660,11 +17938,27 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/kodai_live_fire_test/window_clamp_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/kodai_live_fire_test/window_clamp_01_wldc.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/models/lamps/industrial_wall_light_02_on_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/lamps/interior_can_light_on_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/lamps/interior_can_light_plastic_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/lamps/interior_can_light_warm_on_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15736,6 +18030,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/pipes/pipe_modular_painted_red_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/pipes/pipe_modular_painted_white_vert_color_rgdp.rpak"
     },
     {
@@ -15749,6 +18047,22 @@
     {
       "_type": "matl",
       "_path": "material/models/props/desertlands_research_station_server_wires_01/desertlands_research_station_server_wires_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/global_access_panel_button/global_access_panel_button_screen_red_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/global_access_panel_button/global_access_panel_button_screen_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/global_access_panel_button/global_access_panel_frame_red_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/global_access_panel_button/global_access_panel_frame_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15808,7 +18122,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/signs/angel_city_banner_1_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/signs/corporate_elevator_directory_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/signs/desertlands_mirage_sign_01_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -15860,6 +18182,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/timeshift/timeshift_speaker_01/timeshift_speaker_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/utilities/ceiling_vent_metal_rgdp.rpak"
     },
     {
@@ -15884,11 +18210,75 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/vehicle/mobile_turret/mobile_turret_wheel_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/vehicle/moped/moped_static_rgdp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/models/vehicles_r2/spacecraft/Draconis/draconis_afterburner_02_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/canyonlands_night/d_skybox_night_water_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/g_party_crasher_night_glow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/party_crasher_night_mountains2_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/party_crasher_night_mountains_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/party_crasher_night_oceanbase_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/party_crasher_night_sky_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/q_party_crasher_night_stars2_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/q_party_crasher_night_stars_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/r_party_crasher_night_fog_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/s_party_crasher_night_fog_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/t_party_crasher_night_fog_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/vistas/party_crasher/u_party_crasher_night_fog_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/water/waterfall_badlands_01_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/water/waterfall_badlands_02_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/water/waterfall_badlands_rapid_03_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -15912,6 +18302,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/models/world/signs/sign_neon_colors_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/models/world/trash/bottle_booze_rgdp.rpak"
     },
     {
@@ -15924,11 +18318,83 @@
     },
     {
       "_type": "matl",
+      "_path": "material/particle/Energy/energy_burn_loop_blend_noz_nodof_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/explosions/exp_fire_alpha_full_add_ob_db256_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/explosions/exp_fire_alpha_full_add_ob_db64_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/explosions/exp_fire_ramp_blue_add_db_15_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/graphic/vignette_blend_noz_nodoftsaa_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/fog_thin_perlin_add_db128_nearcull_nodoftsaa_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/fog_thin_perlin_DB512_nearcull_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/fog_thin_perlin_DB60_nearcull65_nodoftsaa_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/fog_thin_perlin_DB_nearcull2_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/smoke_puff_01_DB1024_nearcull_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/smoke_puff_01_DB128_NC2_nodoftsaa_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/star_max01_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/water/rain_streak_trail_noOB_TSAA_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/water/rain_streak_trail_noOB_TSAA_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/water/splash_foam_db128_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/water/water_splash_erode_trail_db5_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/wildlife/fly_trail_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/asphalt/sidewalk_curb_trim_01_wldc.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/world/asphalt/sidewalk_curb_trim_03_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/atmosphere/atmosphere_1500_fade_thick_depth_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -15940,11 +18406,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/atmosphere/olympus_clouds_thick_depth_blend_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/backwater/grass/grass_wild_01_wldc.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/world/base_shaders/base_blue01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/base_shaders/base_grey01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15988,6 +18462,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/boomtown/boomtown_flat_concrete_blackpaint_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/boomtown/boomtown_int_trims_01_rgdp.rpak"
     },
     {
@@ -15997,6 +18475,10 @@
     {
       "_type": "matl",
       "_path": "material/world/boomtown/boomtown_roof_concrete_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/boomtown/boomtown_solid_grate_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16020,6 +18502,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/concrete/concrete_base_horizontal_clean_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/concrete/concrete_base_horizontal_clean_01_wldc.rpak"
     },
     {
@@ -16036,7 +18522,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/concrete/concrete_painted_clean_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/concrete/concrete_painted_clean_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/concrete/concrete_painted_clean_02_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -16052,11 +18546,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/concrete/concrete_painted_clean_04_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/concrete/concrete_painted_clean_04_wldc.rpak"
     },
     {
       "_type": "matl",
+      "_path": "material/world/concrete/concrete_painted_clean_05_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/concrete/concrete_painted_clean_05_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/concrete/concrete_painted_pattern_clean_02_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16069,6 +18575,10 @@
     {
       "_type": "matl",
       "_path": "material/world/concrete/concrete_painted_trim_clean_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/concrete/concrete_painted_worn_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16124,7 +18634,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/decal/decals_oil_stain_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/decal/decal_grunge_tile_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/decal/grunge_decal_drips_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16136,6 +18654,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/decal/slum_grime_decal_01_bt_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/decal/slum_grime_decal_01_bt_wldc.rpak"
     },
     {
@@ -16144,7 +18666,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/decal/stencil_corporate_white_01_vc_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/decal/stencil_corporate_white_01_vc_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/decal/stencil_corporate_white_02_vc_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16157,6 +18687,10 @@
     {
       "_type": "matl",
       "_path": "material/world/dev/dev_blue_light_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/dev/dev_green_light_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16185,6 +18719,10 @@
     {
       "_type": "matl",
       "_path": "material/world/dirt/dirt_ground_soil_02_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/dirt/icelandic_dirt_01_wld_b2t_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -16260,6 +18798,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/glass/glass_scratched_01/glass_scratched_02_opaque_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/glass/glass_scratched_01/glass_scratched_02_opaque_wldc.rpak"
     },
     {
@@ -16332,11 +18874,23 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/metal/diamond_plating_painted_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/metal/gen_painted_metal_01_rgdp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/world/metal/gen_painted_metal_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/metal/imc_metal_trim_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/metal/imc_painted_metal_01_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -16353,6 +18907,10 @@
     {
       "_type": "matl",
       "_path": "material/world/metal/metal_corrugated_roof_03_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/metal/metal_grill_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16412,6 +18970,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/metal/slum_trim_girdering_01_vt_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/metal/slum_trim_girdering_01_wldc.rpak"
     },
     {
@@ -16428,11 +18990,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/moss/icelandic_moss_01_wld_moss_01_red_wld_bm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/moss/olympus_moss_green_01_rgdp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/world/moss/olympus_moss_green_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/moss/olympus_moss_green_01_wld_metal_corrugated_roof_03_bm_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16481,6 +19051,10 @@
     {
       "_type": "matl",
       "_path": "material/world/ola/stamped_metal_large_rusty_bm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/plaster/slum_city_painted_metal_02_dirty_02_bm_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16536,6 +19110,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/rubble/rubble_standard02_wld_b2t_wld_01_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/rubble/rubble_standard02_wld_b2t_wld_01_wldc.rpak"
     },
     {
@@ -16560,11 +19138,19 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/s2s/s2s_boltdecals_02/s2s_boltdecals_02_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/s2s/s2s_boltdecals_02/s2s_boltdecals_02_rgdp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/world/s2s/s2s_boltdecals_02/s2s_boltdecals_02_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_bolt_decals_01_rgdc.rpak"
     },
     {
       "_type": "matl",
@@ -16620,6 +19206,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/signs/beacon_screens/beacon_big_screen_animation_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/signs/beacon_screens/caustic_big_screen_01_blue_wldc.rpak"
     },
     {
@@ -16644,11 +19234,31 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/signs/oasis_signs_ad_atlas_01_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/signs/oasis_signs_ad_atlas_01_wldc.rpak"
     },
     {
       "_type": "matl",
+      "_path": "material/world/signs/oasis_signs_ad_atlas_02_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/signs/olympus_signs_ad_atlas_01_opaque_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/signs/olympus_signs_ad_atlas_01_opaque_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/signs/olympus_signs_ad_atlas_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/signs/party_crashers_signs_ad_atlas_01_opaque_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16788,6 +19398,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/sleek_city/sleek_city_trims_clean_01_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/sleek_city/sleek_city_trims_clean_01_rgdp.rpak"
     },
     {
@@ -16801,6 +19415,14 @@
     {
       "_type": "matl",
       "_path": "material/world/sleek_city/sleek_city_wood_01_shinny_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/sleek_city/sleek_city_wood_ceiling_01_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/sleek_city/sleek_city_wood_ceiling_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16829,6 +19451,10 @@
     {
       "_type": "matl",
       "_path": "material/world/sleek_city/sleek_city_wood_trims_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/sleek_city/sleek_city_wood_wall_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16888,7 +19514,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/timeshift/concrete/ts_concrete_floor_red_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/timeshift/concrete/ts_concrete_floor_red_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/timeshift/concrete_base_clean_01/concrete_base_clean_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16896,7 +19530,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/timeshift/fx/led_light01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/timeshift/fx/led_light01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/timeshift/metal/ts_brushed_metal01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16948,7 +19590,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/timeshift/timeshift_metal_trim_01/timeshift_metal_trim_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/timeshift/timeshift_text_decals_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16973,6 +19623,10 @@
     {
       "_type": "matl",
       "_path": "material/world/timeshift/windows/ts_window01_opaque_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/timeshift/windows/ts_window01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -17012,6 +19666,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/walls/building_walls_glass_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/walls/building_walls_glass_01_wldc.rpak"
     },
     {
@@ -17024,6 +19682,10 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/walls/building_walls_metal_03_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/walls/building_walls_metal_03_wldc.rpak"
     },
     {
@@ -17033,6 +19695,10 @@
     {
       "_type": "matl",
       "_path": "material/world/walls/building_walls_metal_04_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/walls/building_walls_trim_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -17049,6 +19715,10 @@
     {
       "_type": "matl",
       "_path": "material/world/walls/construction_metal_form_walls_07_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/walls/construction_metal_form_walls_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -17085,6 +19755,10 @@
     {
       "_type": "matl",
       "_path": "material/world/walls/olympus_lab_trim_01_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/walls/olympus_marble_wall_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -17136,7 +19810,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/windows/window_glass_dirty_stripes_01_opaque_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/windows/window_glass_dirty_stripes_01_opaque_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/windows/window_glass_dirty_stripes_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -17144,7 +19826,23 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/angel_city/ac_genki_market_sign_big_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/angel_city/keypad_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/arenas/arenas_perimeter_signage_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/arenas/party_crashers_small_building_ext_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_roof_ac_unit_large.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17228,6 +19926,54 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/buildings/party_crashers_ceiling_drop_ceiling_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/buildings/party_crashers_geometric_motif_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/buildings/party_crashers_geometric_motif_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/buildings/party_crashers_hibachi_grill_cover_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/buildings/party_crashers_pillar_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/buildings/party_crashers_pillar_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/buildings/party_crashers_pillar_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/buildings/party_crashers_pillar_cover_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/buildings/party_crashers_pillar_cover_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/buildings/party_crashers_pillar_cover_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/buildings/party_crashers_stereo_cover_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/buildings/party_crashers_wall_entrance_foliage_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/buildings/vent_roof_03_tallflat.rmdl"
     },
     {
@@ -17248,11 +19994,75 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_ceiling_128x16_panel_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_column_128x384_concrete_glass_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_column_128x512_concrete_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_column_96x256_concrete_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/city_modern/citymodern_doorframe_128x128_double_a.rmdl"
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_door_128x112_glass_chrome_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_door_64x104_glassmetal_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_door_64x112_glass_chrome_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_frame_128x2_metal_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_frame_angular_seta_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_frame_angular_seta_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_frame_angular_seta_c.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_frame_angular_seta_d.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_frame_angular_seta_e.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_frame_angular_seta_f.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_frame_metal_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/city_modern/citymodern_light_on_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_light_pole_a.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17288,11 +20098,23 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_planter_128x256_24_squared_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/city_modern/citymodern_planter_128x256_40_squared_a.rmdl"
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_planter_128x512_24_squared_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/city_modern/citymodern_planter_128x64_40_squared_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_planter_256x256_24_beveled_b.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17304,7 +20126,71 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_planter_64x128_24_curved_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_planter_64x128_40_curved_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/city_modern/citymodern_planter_64x64_40_squared_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_128x40_glass_A.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_128x40_glass_B.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_128x40_glass_slanted_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_16x40_glass_A.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_16x40_glass_B.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_256x40_glass_A.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_256x40_glass_B.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_256x40_glass_slanted_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_32x40_glass_A.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_32x40_glass_B.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_64x40_glass_A.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_64x40_glass_B.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_post_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_railing_post_corner_A.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17316,11 +20202,323 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_slab_128x128_concrete_01_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_slab_32x128_concrete_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_steps_128x64_concrete_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/city_modern/citymodern_trashcan_a.rmdl"
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_vent_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/city_modern/citymodern_vent_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_128x128_concrete_slab_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_128x128_concrete_slab_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_128x128_concrete_slab_c.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_128x192_glass_dtown_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_128x256_concrete_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_128x256_window_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_128x384_window_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_128x64_concrete_slab_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_128x64_glass_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_128x64_glass_dtown_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_128x8_concrete_slab_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_256x128_concrete_slab_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_256x128_concrete_slab_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_256x128_concrete_slab_c.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_256x128_glass_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_256x192_glass_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_256x192_glass_dtown_c.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_256x384_concrete_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_256x384_window_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_256x64_concrete_slab_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_256x64_glass_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_256x64_glass_dtown_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_256x8_concrete_slab_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_32x128_concrete_dtown_c.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_32x128_corner_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_32x384_concrete_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_384x128_concrete_dtown_c.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_384x192_glass_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_384x256_concrete_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_384x256_window_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_384x384_concrete_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_512x128_concrete_slab_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_512x128_concrete_slab_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_512x128_concrete_slab_c.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_512x128_concrete_slab_d.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_512x64_concrete_slab_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_512x8_concrete_slab_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_64x192_glass_dtown_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_8x128_concrete_corner_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_8x128_concrete_corner_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_8x64_concrete_corner_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_8x64_concrete_corner_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_8x8_concrete_corner_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_seta_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_seta_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_wall_window_double_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_120x256_sete_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_120x256_sete_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_120x64_sete_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_128x128_sete_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_128x128_sete_corner_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_128x128_sete_corner_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_128x192_sete_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_128x192_sete_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_128x192_sete_c.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_128x384_sete_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_128x64_sete_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_128x64_sete_corner_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_256x128_seta_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_256x128_seta_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_64x128_sete_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_64x192_sete_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_64x192_sete_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_64x64_sete_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_setd_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_setd_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_window_setd_c.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/city_modern_number_0.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/city_modern_number_4.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/city_modern_roof_128_concrete_slab_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/city_modern_roof_128_concrete_slab_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/city_modern_roof_256_concrete_slab_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/city_modern_roof_512_concrete_slab_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/city_modern_roof_8_concrete_slab_b.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17408,6 +20606,18 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/decals/grime_dirty_decal_01_128.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/decals/grime_dirty_decal_01_256.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/decals/grime_dirty_decal_02_128.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/decals/grime_dirty_floor_decal_01.rmdl"
     },
     {
@@ -17488,7 +20698,19 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/desertlands/mirage_tt_decal_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/mirage_tt_lootcap_on.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/desertlands/mirage_tt_seating_area_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/mirage_tt_seating_area_cover_01.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17512,6 +20734,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/domestic/light_switch_flat.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/domestic/magazine_pile_01.rmdl"
     },
     {
@@ -17521,6 +20747,10 @@
     {
       "_type": "mdl_",
       "_path": "mdl/domestic/mirage_speaker_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/domestic/mirage_speaker_subwoofer_01.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17544,7 +20774,15 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/domestic/pot_restaurant_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/domestic/pot_restaurant_05.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/domestic/pot_restaurant_10.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17560,7 +20798,15 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/domestic/wall_outlet_flat.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/door/canyonlands_door_single_02_hinges.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/door/contemporary_door_01.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17616,6 +20862,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/foliage/flower_yellow_small_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/foliage/grassblades_olympus_03_anim.rmdl"
     },
     {
@@ -17625,6 +20875,14 @@
     {
       "_type": "mdl_",
       "_path": "mdl/foliage/grassblades_water_dark_animated_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/grass_dead_tall_nexus_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/grass_dead_tall_nexus_03.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17652,6 +20910,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/foliage/olympus_orange_grass_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/foliage/plant_bamboo_forest_clump01.rmdl"
     },
     {
@@ -17672,7 +20934,15 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/foliage/tree_cherry_blossom_large_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/foliage/tree_cherry_blossom_large_01_anim.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/tree_cypress_tall_01.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17688,7 +20958,27 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/foliage/tree_palm_leafy_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/furniture/books_shelved.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/furniture/couch_modular_crnr.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/furniture/couch_modular_ctr.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/furniture/couch_modular_endTbl1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/furniture/furniture_patio_chair.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17696,7 +20986,43 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/furniture/patio_furniture_lounger_Pillow3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/haven/haven_bamboo_tree_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/haven/haven_bamboo_tree_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/haven/haven_banner_1_L.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/haven/painting_haven_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/haven/painting_haven_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/haven/painting_haven_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/haven/painting_haven_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/haven/patio_table_tall.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/haven/patio_umbrella_blue.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17709,6 +21035,10 @@
     {
       "_type": "mdl_",
       "_path": "mdl/IMC_base/cargo_bomb_rack01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/IMC_base/cargo_container_imc_01_green_open.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17760,6 +21090,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/IMC_base/generator_IMC_01_blue.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/IMC_base/imc_antenna_01.rmdl"
     },
     {
@@ -17769,6 +21103,13 @@
     {
       "_type": "mdl_",
       "_path": "mdl/IMC_base/imc_antenna_large.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/IMC_base/imc_fan_large_01_animated.rmdl",
+      "$sequences": [
+        "animseq/imc_base/imc_fan_large_01_animated/fast_spin.rseq"
+      ]
     },
     {
       "_type": "mdl_",
@@ -17836,7 +21177,15 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/IMC_base/outer_wall_imc_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/IMC_base/outer_wall_imc_column_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/IMC_base/trolley_imc.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17892,6 +21241,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/industrial/security_fence_post.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/industrial/tripod_cone_v1_high_on.rmdl"
     },
     {
@@ -17905,6 +21258,10 @@
     {
       "_type": "mdl_",
       "_path": "mdl/lamps/industrial_wall_light_on.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/lamps/interior_can_light_on.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17936,7 +21293,63 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_party_crashers/mp_partycrashers_mtn_waterfall_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_party_crashers/mp_rr_partycrasher_godrays_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_party_crashers/mp_rr_partycrasher_godrays_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_party_crashers/mp_rr_partycrasher_godrays_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_party_crashers/mp_rr_partycrasher_godrays_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_party_crashers/mp_rr_partycrasher_godrays_05.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_party_crashers/mp_rr_partycrasher_godrays_06.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_party_crashers/mp_rr_partycrasher_stair_planter_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_party_crashers/party_crashers_big_building_floor_flowers_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_party_crashers/party_crashers_big_building_floor_flowers_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_party_crashers/party_crashers_pillar_signage.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/sp_cloud_city/sp_cloud_city_essex_ad_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/sp_cloud_city/sp_cloud_city_essex_video_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/levels_terrain/sp_cloud_city/underbelly_wire_clamp_base_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/sp_timeshift/ts_elevator_doors01.rmdl"
     },
     {
       "_type": "mdl_",
@@ -17985,6 +21398,10 @@
     {
       "_type": "mdl_",
       "_path": "mdl/olympus/bp_round_planter_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/bp_round_planter_03.rmdl"
     },
     {
       "_type": "mdl_",
@@ -18052,6 +21469,14 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_garden_wall_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_hedge_arch_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/olympus/olympus_hedge_curved.rmdl"
     },
     {
@@ -18104,6 +21529,14 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_platform_railing_corner.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_platform_railing_corner_inv.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/olympus/olympus_platform_railing_medium.rmdl"
     },
     {
@@ -18120,11 +21553,23 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_platform_stairs_railing_l.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_platform_stairs_railing_r.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/olympus/olympus_stool_01.rmdl"
     },
     {
       "_type": "mdl_",
       "_path": "mdl/olympus/olympus_table_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/oly_destruction_02.rmdl"
     },
     {
       "_type": "mdl_",
@@ -18161,6 +21606,10 @@
     {
       "_type": "mdl_",
       "_path": "mdl/pipes/airduct_s_turn_vert.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/airduct_s_vent.rmdl"
     },
     {
       "_type": "mdl_",
@@ -18229,6 +21678,10 @@
     {
       "_type": "mdl_",
       "_path": "mdl/pipes/slum_pipe_large_yellow_512_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/global_access_panel_button/global_access_panel_button_wall.rmdl"
     },
     {
       "_type": "mdl_",
@@ -18316,6 +21769,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/signs/angel_city_banner_1_large.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/signs/arenas_big_screen_01.rmdl"
     },
     {
@@ -18344,11 +21801,23 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/slum_city/slumcity_building_fan_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/slum_city/slumcity_building_fan_frame_01.rmdl"
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/slum_city/slumcity_industrial_scaffolding_32x128_column_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/switchback/flower_yellow_purple_large_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/test/brooke_test/olympus_battery_test_04.rmdl"
     },
     {
       "_type": "mdl_",
@@ -18384,11 +21853,23 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/timeshift/speaker_single_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/timeshift/timeshift_bench_01.rmdl"
     },
     {
       "_type": "mdl_",
       "_path": "mdl/timeshift/timeshift_modern_planter.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/timeshift/timeshift_signage_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/timeshift/ts_elevator_door_01.rmdl"
     },
     {
       "_type": "mdl_",
@@ -18416,11 +21897,25 @@
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/water/water_puddle_decal_01.rmdl"
+      "_path": "mdl/vistas/party_crashers_night_se.rmdl"
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/vistas/party_crashers_night_se.rmdl"
+      "_path": "mdl/water/water_puddle_decal_01.rmdl"
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/overviews/mp_rr_party_crasher",
+      "atlas": "texture/ui_atlas/overviews/mp_rr_party_crasher.rpak",
+      "images": [
+        {
+          "path": "overviews/mp_rr_party_crasher",
+          "width": 4100,
+          "height": 4100,
+          "posX": 0,
+          "posY": 0
+        }
+      ]
     }
   ]
 }

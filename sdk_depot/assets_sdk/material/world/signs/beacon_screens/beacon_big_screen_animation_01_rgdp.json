@@ -1,0 +1,39 @@
+{
+	"name": "world/signs/beacon_screens/beacon_big_screen_animation_01",
+	"width": 2048,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x10000006",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138086",
+		"0x138286",
+		"0xF0008286",
+		"0x0",
+		"0xF0138086",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "glass",
+	"surfaceProp2": "",
+	"shaderType": "rgdp",
+	"shaderSet": "0xA61BEBD008EED093",
+	"$textures": {
+		"0": "0xA77DFB129AB75C82",
+		"4": "0xC0375ED28C1EFACA",
+		"7": "0x93E8641785C45296"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

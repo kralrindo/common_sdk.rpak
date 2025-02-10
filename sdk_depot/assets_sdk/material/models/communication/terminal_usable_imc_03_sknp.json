@@ -1,0 +1,42 @@
+{
+	"name": "models/communication/terminal_usable_imc_03",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x560000a2",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0138286",
+		"0xF0138286",
+		"0xF0008286",
+		"0xF0000000",
+		"0xF0138286",
+		"0x0",
+		"0x80500002",
+		"0x0"
+	],
+	"blendStateMask": "0x5",
+	"depthStencilFlags": "0x7",
+	"rasterizerFlags": "0x2",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "plastic",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0x1EBD08D4B3C26E66",
+	"$textures": {
+		"0": "0x99CB19A58EFD3F63",
+		"1": "0x8F56DEE024675155",
+		"2": "0xD171A09BCDBEBFA1",
+		"3": "0x51EB7E34A76EF76B",
+		"4": "0x575830D87ECE440A",
+		"7": "0xB19D6AD141081FF1"
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}
