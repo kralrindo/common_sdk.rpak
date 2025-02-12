@@ -1,0 +1,9 @@
+rigs:
+[
+	animrig\humans\pete\pete_core.rrig
+	animrig\humans\pete\human_male_anims_workspace.rrig
+	animrig\humans\pete\pete_menu.rrig
+]
+seqs:
+[
+]

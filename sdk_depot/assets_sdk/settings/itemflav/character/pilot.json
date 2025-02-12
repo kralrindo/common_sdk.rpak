@@ -1,0 +1,258 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_layout.rpak",
+	"uniqueId": 996325301,
+	"settings": {
+		"assetName": "settings/itemflav/character/pilot.rpak",
+		"itemType": "character",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_pilot_NAME",
+		"localizationKey_NAME_SHORT": "#character_pilot_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#character_pilot_DESCRIPTION_LONG",
+		"localizationKey_DESCRIPTION_SHORT": "#character_pilot_CHARSELECT_SUBTITLE",
+		"quality": "COMMON",
+		"icon": "rui/menu/buttons/battlepass/_temp",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_pilot",
+		"ownershipTarget": "",
+		"role": "UNDECIDED",
+		"setFile": "settings/player/mp/pilot_survival_pilot.rpak",
+		"tacticalAbility": "settings/itemflav/ability/dummie_tactical.rpak",
+		"ultimateAbility": "settings/itemflav/ability/dummie_ultimate.rpak",
+		"passive1": "settings/itemflav/ability/dummie_passive.rpak",
+		"galleryPortrait": "rui/menu/buttons/lobby_character_select/dummie",
+		"galleryPortraitBackground": "rui/menu/buttons/lobby_character_select/dummie_bg",
+		"characterSelectIcon": "rui/menu/buttons/lobby_character_select/dummie",
+		"characterLockIcon": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_dummie",
+		"tags": [
+		],
+		"menuSmokeSkinIndex": 0,
+		"menuBackgroundSkinIndex": 0,
+		"menuLightColorKey": "<1.000000,1.000000,1.000000>",
+		"menuLightColorFill": "<0.851000,0.988000,1.000000>",
+		"menuLightColorRimL": "<1.000000,0.502000,0.000000>",
+		"menuLightColorRimR": "<0.290000,0.682000,1.000000>",
+		"hudUltimateColor": "<1.000000,1.000000,1.000000>",
+		"hudUltimateColorHighlight": "<1.000000,0.443000,0.110000>",
+		"chromaColor0": "<0.000000,0.000000,0.000000>",
+		"chromaColor1": "<1.000000,1.000000,1.000000>",
+		"galleryModelOffset": "<0.000000,0.000000,0.000000>",
+		"readyUpVoicelines": [
+		],
+		"characterMenuButtonIndex": -1,
+		"menuZoomOffset": "<0.000000,0.000000,0.000000>",
+		"skins": [
+			{
+				"flavor": "settings/itemflav/character_skin/pilot/pilot_default.rpak",
+				"featureFlag": ""
+			}
+		],
+		"executions": [
+			{
+				"flavor": "settings/itemflav/character_execution/pilot/default.rpak",
+				"featureFlag": ""
+			}
+		],
+		"emotes": [
+		],
+		"skydiveEmotes": [
+			{
+				"flavor": "settings/itemflav/skydive_emote/_empty.rpak",
+				"featureFlag": ""
+			}
+		],
+		"introQuips": [
+			{
+				"flavor": "settings/itemflav/character_intro_quip/_empty.rpak",
+				"featureFlag": ""
+			}
+		],
+		"killQuips": [
+			{
+				"flavor": "settings/itemflav/character_kill_quip/_empty.rpak",
+				"featureFlag": ""
+			}
+		],
+		"gcardStances": [
+			{
+				"flavor": "settings/itemflav/gcard_stance/bangalore/common_01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"gcardFrames": [
+			{
+				"flavor": "settings/itemflav/gcard_frame/bangalore/common_01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"gcardBadges": [
+			{
+				"flavor": "settings/itemflav/gcard_badge/_empty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/account_level.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/baller.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/banner_legend.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/dev_badge.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/fashionista.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/founder_pack.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/fully_kitted.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/group_theatrics.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/ea_access_member.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/long_shot.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/master_of_all.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/no_witnesses.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/pack_victory.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/starter_pack.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/team_harmony.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/team_work.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/treasure_hunter.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/warlord.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/well_rounded.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/valentine_base.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_kills_with_7_chars.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_top_5_with_7_chars.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_wins_with_7_chars.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_bonus_xp_with_7_chars.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_bplevel.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/beasthunter_event.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/elite_max_streak.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/elite_888.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season02_bplevel.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season03_bplevel.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/solo_all_unlocked_iron_crown.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season02_event01_main.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season02_event02_shotguns_and_snipers_played.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season02_event02_shotguns_and_snipers_wins.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/rankedperiod01_rpbadge.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/s03e01_main.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/duos_badge.rpak",
+				"featureFlag": ""
+			}
+		],
+		"gcardStatTrackers": [
+			{
+				"flavor": "settings/itemflav/gcard_tracker/_empty.rpak",
+				"featureFlag": ""
+			}
+		],
+		"meleeSkins": [
+			{
+				"flavor": "settings/itemflav/melee_skin/default.rpak",
+				"featureFlag": ""
+			}
+		],
+		"emoteIcons": [
+		],
+		"shippingCharacter": true
+	}
+}

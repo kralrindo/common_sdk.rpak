@@ -1,0 +1,43 @@
+{
+	"name": "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_jumpkit_skin_02",
+	"width": 2048,
+	"height": 1024,
+	"depth": 0,
+	"glueFlags": "0x56000020",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xC948E507704ECBC5",
+	"$textures": {
+		"0": "0xA6FB87E6340DC978",
+		"1": "0x7ACE835DD663361F",
+		"2": "0xB0A2E6FB5D2FB7CF",
+		"3": "0x447F11048480051B",
+		"4": "0x21F64F4691144E31",
+		"5": "0x7842E6ED9AA61265",
+		"6": "0x547A5CE4F51024EC"
+	},
+	"$depthShadowMaterial": "0x2B93C99C67CC8B51",
+	"$depthPrepassMaterial": "0x1EBD063EA03180C7",
+	"$depthVSMMaterial": "0xF95A7FA9E8DE1A0E",
+	"$depthShadowTightMaterial": "0x227C27B608B3646B",
+	"$colpassMaterial": "0xF64E40678AD2B4DC",
+	"$textureAnimation": "0x0"
+}
