@@ -2632,6 +2632,11 @@
     },
     {
       "_type": "shds",
+      "_path": "shaderset/0xEFDBC0890BD3F568.rpak",
+      "$guid": "0xEFDBC0890BD3F568"
+    },
+    {
+      "_type": "shds",
       "_path": "shaderset/0xC79BDC034A6A677E.rpak",
       "$guid": "0xC79BDC034A6A677E"
     },
@@ -2999,6 +3004,56 @@
       "_type": "txan",
       "_path": "texture_anim/0x2893904960BBFD95.rpak",
       "$guid": "0x2893904960BBFD95"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x37E63C0B07101F0E.rpak",
+      "$guid": "0x37E63C0B07101F0E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6D8B61E4D92A4FF1.rpak",
+      "$guid": "0x6D8B61E4D92A4FF1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8972504D0578F581.rpak",
+      "$guid": "0x8972504D0578F581"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA6A3FB690A768C54.rpak",
+      "$guid": "0xA6A3FB690A768C54"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDBCB64A66C86EE8.rpak",
+      "$guid": "0xDBCB64A66C86EE8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2436FD07156D1F78.rpak",
+      "$guid": "0x2436FD07156D1F78"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6DB24589DBF2710A.rpak",
+      "$guid": "0x6DB24589DBF2710A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8BFCDDFAA3082F8B.rpak",
+      "$guid": "0x8BFCDDFAA3082F8B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD2CAEAEF3A15AD52.rpak",
+      "$guid": "0xD2CAEAEF3A15AD52"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFB413B78113ECF0E.rpak",
+      "$guid": "0xFB413B78113ECF0E"
     },
     {
       "_type": "txtr",
@@ -9492,6 +9547,38 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_02_vc_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_02_vc_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_01_vc_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_01_vc_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_01_vc_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_01_vc_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_01_vc_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_wall_trim_01_vc_wldc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/depth/decals/decals_asphalt_road_dirty/decals_asphalt_road_dirty_01_shadow_wldc.rpak"
     },
     {
@@ -11272,7 +11359,27 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/beacon/stamped_metal_large_painted_03_vert_color_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/beacon/stamped_metal_large_painted_03_vert_color_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/beacon/stamped_metal_large_painted_03_vert_color_colpass_wldc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_colpass_wldc.rpak"
     },
     {
       "_type": "matl",
@@ -11405,10 +11512,6 @@
     {
       "_type": "matl",
       "_path": "material/world/mcor/mcor_floor_trim_01_colpass_wldc.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -11676,7 +11779,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/s2s/s2s_metal_trims_02_vc_colpass_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/s2s/s2s_metal_trims_02_vc_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_metal_trims_02_vc_colpass_wldc.rpak"
     },
     {
       "_type": "matl",
@@ -12828,7 +12939,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/beacon/stamped_metal_large_painted_03_vert_color_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/beacon/stamped_metal_large_painted_03_vert_color_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/beacon/stamped_metal_large_painted_03_vert_color_wldc.rpak"
     },
     {
       "_type": "matl",
@@ -13024,7 +13143,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/mendoko/mendoko_interior_trim_01/mendoko_interior_trim_01_vc_wldc.rpak"
     },
     {
       "_type": "matl",
@@ -13332,7 +13459,15 @@
     },
     {
       "_type": "matl",
+      "_path": "material/world/s2s/s2s_metal_trims_02_vc_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
       "_path": "material/world/s2s/s2s_metal_trims_02_vc_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/s2s/s2s_metal_trims_02_vc_wldc.rpak"
     },
     {
       "_type": "matl",

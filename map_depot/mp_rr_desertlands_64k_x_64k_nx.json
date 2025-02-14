@@ -10,6 +10,20 @@
   "compressWorkers": 16,
   "files": [
     {
+      "_type": "shdr",
+      "_path": "shader/0xC07E8D249C4D0229.rpak",
+      "$guid": "0xC07E8D249C4D0229"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xDFCD2E77CCA45A52.rpak",
+      "$guid": "0xDFCD2E77CCA45A52"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/world/atmosphere/atmosphere_500_fade_thick_depth_rgdc.rpak"
+    },
+    {
       "_type": "mdl_",
       "_path": "mdl/lamps/search_light_on_godray_01.rmdl"
     },

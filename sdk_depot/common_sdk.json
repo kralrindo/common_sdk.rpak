@@ -36,6 +36,46 @@
       "_type": "stgs",
       "_path": "settings/itemflav/character_execution/octane/prototype1.rpak"
     },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_A.rpak"//EDITED STGS! EFFECTS ARE MISSING
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_B.rpak"//EDITED STGS! EFFECTS ARE MISSING
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_C.rpak"//EDITED STGS! EFFECTS ARE MISSING
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_D.rpak"//EDITED STGS! EFFECTS ARE MISSING
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_A.rpak"//EDITED STGS! EFFECTS ARE MISSING
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_B.rpak"//EDITED STGS! EFFECTS ARE MISSING
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_C.rpak"//EDITED STGS! EFFECTS ARE MISSING
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_D.rpak"//EDITED STGS! EFFECTS ARE MISSING
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_center_glow.rpak"//EDITED STGS! EFFECTS ARE MISSING
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_crypto_sat_center_nrg.rpak"//EDITED STGS! EFFECTS ARE MISSING
+    },
     ////////////////RAMPART SETTING ASSETS///////////////
     {
       "_type": "stgs",
@@ -16984,6 +17024,15 @@
     {
       "_type": "matl",
       "_path": "material/models/weapons/ported_weapons/Trigger_sknp.rpak"
+    },
+    ////////////////////////ANIMSEQS////////////////////////
+    {
+      "_type": "aseq",
+      "_path": "animseq/props/loot_bin/loot_bin_02_open.rseq"
+    },
+    {
+      "_type": "aseq",
+      "_path": "animseq/props/loot_bin/loot_bin_02_close.rseq"
     },
     ////////////////////////ANIMRIGS////////////////////////
     {

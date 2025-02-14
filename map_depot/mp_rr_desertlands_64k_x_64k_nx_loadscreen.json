@@ -18,8 +18,8 @@
       "images": [
         {
           "path": "loadscreens/mp_rr_desertlands_64k_x_64k_nx_widescreen",
-          "width": 1920,
-          "height": 1080,
+          "width": 2560,
+          "height": 1440,
           "posX": 0,
           "posY": 0
         }
