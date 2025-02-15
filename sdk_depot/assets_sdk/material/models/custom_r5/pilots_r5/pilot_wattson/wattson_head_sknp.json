@@ -1,0 +1,43 @@
+{
+	"name": "models/humans_r5/pilots_r5/pilot_wattson/wattson_head",
+	"width": 2048,
+	"height": 2048,
+	"depth": 0,
+	"glueFlags": "0x56000460",
+	"glueFlags2": "0x0",
+	"blendStates": [
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000",
+		"0xF0000000"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x1F5A92BD",
+	"samplers": "0x1D0300",
+	"surfaceProp": "flesh",
+	"surfaceProp2": "",
+	"shaderType": "sknp",
+	"shaderSet": "0xC860B93C913EB69C",
+	"$textures": {
+		"0": "texture/customsdk/skins/wattson/sas1/wattson_base_head_albedoTexture",
+		"1": "texture/customsdk/skins/wattson/sas1/wattson_base_head_normalTexture",
+		"2": "texture/customsdk/skins/wattson/sas1/wattson_base_head_glossTexture",
+		"3": "texture/customsdk/skins/wattson/sas1/wattson_base_head_specTexture",
+		"5": "texture/customsdk/skins/wattson/sas1/wattson_base_head_aoTexture",
+		"6": "texture/customsdk/skins/wattson/sas1/wattson_base_head_cavityTexture",
+		"13": "texture/customsdk/skins/wattson/sas1/wattson_base_head_scatterThicknessTexture"
+	},
+	"$depthShadowMaterial": "0x351688ADA6B946CD",
+	"$depthPrepassMaterial": "0x1CD60A36A475F981",
+	"$depthVSMMaterial": "0x387BC5B0D5FA8500",
+	"$depthShadowTightMaterial": "0x9B2D29635D0362AF",
+	"$colpassMaterial": "0xDFBDA66E123ADB1C",
+	"$textureAnimation": "0x0"
+}

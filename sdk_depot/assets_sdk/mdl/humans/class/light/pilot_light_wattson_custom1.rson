@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\humans\class\light\mp_pilot_light_core.rrig
+	animrig\humans\class\light\pilot_light_wattson.rrig
+]
+seqs:
+[
+]

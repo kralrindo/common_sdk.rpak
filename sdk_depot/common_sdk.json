@@ -18,24 +18,33 @@
     ////////////////OVERWRITE S3 SETTINGS ASSETS///////////////
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/character_execution/mirage/default.rpak"
+      "_path": "settings/itemflav/character_execution/mirage/default.rpak"//MAKE MIRAGE COMPATIBLE WITH S5 CORE RIGS
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/character_execution/mirage/hologram.rpak"
+      "_path": "settings/itemflav/character_execution/mirage/hologram.rpak"//MAKE MIRAGE COMPATIBLE WITH S5 CORE RIGS
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/character_execution/mirage/trickster.rpak"
+      "_path": "settings/itemflav/character_execution/mirage/trickster.rpak"//MAKE MIRAGE COMPATIBLE WITH S5 CORE RIGS
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/character_execution/octane/default.rpak"
+      "_path": "settings/itemflav/character_execution/octane/default.rpak"//MAKE OCTANE COMPATIBLE WITH S5 CORE RIGS
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/character_execution/octane/prototype1.rpak"
+      "_path": "settings/itemflav/character_execution/octane/prototype1.rpak"//MAKE OCTANE COMPATIBLE WITH S5 CORE RIGS
     },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character/wattson.rpak"//ADD NEW CUSTOM SKIN TO WATTSON
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/wattson/custom1.rpak"//CUSTOM WATTSON SKIN1
+    },
+    ////////////////////////MISSING MAP STGS////////////////////////
     {
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_A.rpak"//EDITED STGS! EFFECTS ARE MISSING
@@ -1963,6 +1972,10 @@
     {
       "_type": "dtbl",
       "_path": "datatable/pain_death_sounds.rpak"//SEASON 6 PAIN DEATH SOUNDS
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/colorpalette_table.rpak"//R5 COLOR PALETTE
     },
     /////////////////////////SHADERS///////////////////////////
     {
@@ -9261,6 +9274,62 @@
       "$guid": "0xFF29111E80A6836E"
     },
     //////////////////////MATERIALS/////////////////////////
+    {//////CUSTOM SKINS START
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_gear_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_hair_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_head_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_jacket_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_jumpkit_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_suit_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_viewmodel_arms_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_gear_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_hair_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_head_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_jacket_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_jumpkit_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_suit_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/custom_r5/pilots_r5/pilot_wattson/wattson_viewmodel_arms_sknp.rpak"
+    },///////CUSTOM SKINS ENDING
     {
       "_type": "matl",
       "_path": "material/models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_jumpkit_skin_02_colpass_sknp.rpak"
@@ -22636,6 +22705,21 @@
       ]
     },
     /////////////////////////MODELS//////////////////////////////
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Humans/class/light/pilot_light_wattson_custom1.rmdl",//CUSTOM WATTSON SKIN BASE
+      "$animrigs": [
+        "animrig/humans/class/light/mp_pilot_light_core.rrig",
+        "animrig/humans/class/light/pilot_light_wattson.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/arms/pov_pilot_light_wattson_custom1.rmdl",
+      "$animrigs": [
+        "animrig/weapons/arms/pov_mp_core.rrig"
+      ]
+    },
     {
       "_type": "mdl_",
       "_path": "mdl/barriers/sandbags_large_01.rmdl"

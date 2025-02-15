@@ -1,0 +1,1054 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_layout.rpak",
+	"uniqueId": 187386164,
+	"settings": {
+		"assetName": "settings/itemflav/character/wattson.rpak",
+		"itemType": "character",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_wattson_NAME",
+		"localizationKey_NAME_SHORT": "#character_wattson_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#character_wattson_DESCRIPTION_LONG",
+		"localizationKey_DESCRIPTION_SHORT": "#character_wattson_DESCRIPTION_SHORT",
+		"quality": "COMMON",
+		"icon": "rui/menu/buttons/battlepass/character_skin_wattson",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_wattson",
+		"ownershipTarget": "",
+		"role": "DEFENSE",
+		"setFile": "settings/player/mp/pilot_survival_barricade.rpak",
+		"tacticalAbility": "settings/itemflav/ability/wattson_tac_tesla_trap.rpak",
+		"ultimateAbility": "settings/itemflav/ability/wattson_ult_trophy_defense_system.rpak",
+		"passive1": "settings/itemflav/ability/wattson_pas_battery_powered.rpak",
+		"galleryPortrait": "rui/menu/buttons/lobby_character_select/wattson",
+		"galleryPortraitBackground": "rui/menu/buttons/lobby_character_select/wattson_bg",
+		"characterSelectIcon": "rui/menu/character_select/pilot_portraits/portrait_wattson",
+		"characterLockIcon": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_wattson",
+		"tags": [
+		],
+		"menuSmokeSkinIndex": 10,
+		"menuBackgroundSkinIndex": 10,
+		"menuLightColorKey": "<0.937255,0.933333,0.929412>",
+		"menuLightColorFill": "<0.517647,0.827451,1.000000>",
+		"menuLightColorRimL": "<0.450980,0.796079,1.000000>",
+		"menuLightColorRimR": "<0.000000,0.000000,0.000000>",
+		"hudUltimateColor": "<0.168627,0.792157,1.000000>",
+		"hudUltimateColorHighlight": "<1.000000,0.850000,0.500000>",
+		"chromaColor0": "<1.000000,0.972549,0.537255>",
+		"chromaColor1": "<0.623529,0.407843,0.000000>",
+		"galleryModelOffset": "<0.000000,0.000000,10.000000>",
+		"readyUpVoicelines": [
+			{
+				"event": "diag_mp_wattson_menu_selectReady_01"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_02"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_03"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_04"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_05"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_06"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_07"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_08"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_09"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_10"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_11"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_12"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_13"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_14"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_15"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_16"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_17"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_18"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_19"
+			},
+			{
+				"event": "diag_mp_wattson_menu_selectReady_20"
+			}
+		],
+		"characterMenuButtonIndex": 9,
+		"menuZoomOffset": "<0.000000,0.000000,-4.000000>",
+		"skins": [
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/classic.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/custom1.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_08.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_09.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_10.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_11.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_12.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_13.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_14.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/common_15.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_08.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_09.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_10.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_11.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_12.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_13.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_14.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/rare_15.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/epic_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/epic_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/epic_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/epic_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/legendary_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/legendary_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/legendary_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/legendary_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/season02_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/shop_legendary_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/twitch02_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/season02_event01_legendary_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/shop_legendary_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/s03e01_epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_skin/wattson/s03e01a_epic_01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"executions": [
+			{
+				"flavor": "settings/itemflav/character_execution/wattson/default.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_execution/wattson/zap.rpak",
+				"featureFlag": ""
+			}
+		],
+		"emotes": [
+		],
+		"skydiveEmotes": [
+			{
+				"flavor": "settings/itemflav/skydive_emote/_empty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/skydive_emote/wattson/backflip.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/skydive_emote/wattson/explorer.rpak",
+				"featureFlag": ""
+			}
+		],
+		"introQuips": [
+			{
+				"flavor": "settings/itemflav/character_intro_quip/_empty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_11.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_12.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_13.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_14.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_15.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_16.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_17.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_18.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_19.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/common_21.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/rare_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/rare_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/rare_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/rare_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_intro_quip/wattson/s03e01_common_01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"killQuips": [
+			{
+				"flavor": "settings/itemflav/character_kill_quip/_empty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_08.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_09.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_10.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_11.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_12.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_13.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_14.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_15.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_16.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_17.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_18.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_19.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_20.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_21.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_22.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_23.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_24.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_25.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_26.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_27.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_28.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_29.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_30.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_31.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_32.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_33.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_34.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_35.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_36.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_37.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_38.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_39.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_40.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_41.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/common_42.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/character_kill_quip/wattson/s03e01_common_01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"gcardStances": [
+			{
+				"flavor": "settings/itemflav/gcard_stance/wattson/common_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/wattson/rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/wattson/rare_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/wattson/rare_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/wattson/rare_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/wattson/rare_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/wattson/rare_06.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/wattson/rare_07.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/wattson/epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/wattson/epic_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_stance/wattson/epic_03.rpak",
+				"featureFlag": ""
+			}
+		],
+		"gcardFrames": [
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/common_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/common_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/common_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/common_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/common_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/rare_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/rare_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/rare_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/rare_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/legendary_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/legendary_02.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/legendary_03.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/legendary_04.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/legendary_05.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/season02_epic_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/season02_event01_rare_01.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_frame/wattson/s03bp_rare_01.rpak",
+				"featureFlag": ""
+			}
+		],
+		"gcardBadges": [
+			{
+				"flavor": "settings/itemflav/gcard_badge/_empty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/account_level.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/baller.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/banner_legend.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/dev_badge.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/fashionista.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/founder_pack.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/fully_kitted.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/group_theatrics.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/ea_access_member.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/long_shot.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/master_of_all.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/no_witnesses.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/pack_victory.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/starter_pack.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/team_harmony.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/team_work.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/treasure_hunter.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/warlord.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/well_rounded.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/valentine_base.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_kills_with_7_chars.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_top_5_with_7_chars.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_wins_with_7_chars.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_bonus_xp_with_7_chars.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season01_bplevel.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/beasthunter_event.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/elite_max_streak.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/elite_888.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season02_bplevel.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season03_bplevel.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/solo_all_unlocked_iron_crown.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season02_event01_main.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season02_event02_shotguns_and_snipers_played.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/season02_event02_shotguns_and_snipers_wins.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/rankedperiod01_rpbadge.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/s03e01_main.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/account/duos_badge.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/apex_character.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/apex_predator.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/assassin.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/character_wake.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/character_wrath.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/deadeye.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/double_duty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/flawless_victory_1.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/flawless_victory_2.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/headshot_hotshot.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/hot_streak.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/no_one_left_behind.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/rapid_elimination.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/reinforcement_recall.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/shot_caller.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/squad_wipe.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/the_legacy_continues.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/triple_triple.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_badge/wattson/solo_wins_iron_crown.rpak",
+				"featureFlag": ""
+			}
+		],
+		"gcardStatTrackers": [
+			{
+				"flavor": "settings/itemflav/gcard_tracker/_empty.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/winning_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/kills_while_killleader.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/damage_done.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/headshots.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/executions.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/revives.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/games_played.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/placements_win_with_squad_alive.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/placements_top_3.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/neutral_airdrops_looted.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/weaponcat_pistol_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/weaponcat_shotgun_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/weaponcat_smg_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/weaponcat_ar_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/weaponcat_lmg_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/weaponcat_sniper_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/weaponcat_crate_unique_kills.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/breaches_detected.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/friendly_shields_charged.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/enemy_ordnance_intercepted.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/season02_wins.rpak",
+				"featureFlag": ""
+			},
+			{
+				"flavor": "settings/itemflav/gcard_tracker/wattson/season03_wins.rpak",
+				"featureFlag": ""
+			}
+		],
+		"meleeSkins": [
+			{
+				"flavor": "settings/itemflav/melee_skin/default.rpak",
+				"featureFlag": ""
+			}
+		],
+		"emoteIcons": [
+		],
+		"shippingCharacter": true
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_skin_layout.rpak",
+	"uniqueId": 1592455345,
+	"settings": {
+		"assetName": "settings/itemflav/character_skin/wattson/custom1.rpak",
+		"itemType": "character_skin",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_WATTSON_CUSTOM1",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "FANMADE",
+		"icon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_skin_wattson_custom1",
+		"ownershipTarget": "",
+		"bodyModel": "mdl/Humans/class/light/pilot_light_wattson_custom1.rmdl",
+		"armsModel": "mdl/Weapons/arms/pov_pilot_light_wattson_custom1.rmdl",
+		"skinName": "#SKIN_980_BLURB",
+		"unlockFuncKey": "",
+		"customCharSelectIntroAnim": "",
+		"customCharSelectIdleAnim": "",
+		"customCharSelectReadyIntroAnim": "",
+		"customCharSelectReadyIdleAnim": "",
+		"tags": [
+		],
+		"camoIndex": 0,
+		"shouldHideIfLocked": false
+	}
+}
