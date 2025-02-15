@@ -24,10 +24,10 @@
         "map_depot/mp_rr_arena_phase_runner.json",
         "map_depot/mp_rr_aqueduct.json",
         "map_depot/mp_rr_party_crasher.json",
-        "map_depot/mp_rr_canyonlands_mu2_mv.json",
-        "map_depot/mp_rr_canyonlands_mu2_ufo.json",
+        //"map_depot/mp_rr_canyonlands_mu2_mv.json",
+        //"map_depot/mp_rr_canyonlands_mu2_ufo.json",
         "map_depot/mp_rr_canyonlands_mu2_tt.json",
-        "map_depot/mp_rr_canyonlands_mu2.json",
+        //"map_depot/mp_rr_canyonlands_mu2.json",
         "map_depot/mp_rr_desertlands_mu2.json",
         "map_depot/mp_rr_olympus.json",
         "map_depot/mp_rr_olympus_tt.json"

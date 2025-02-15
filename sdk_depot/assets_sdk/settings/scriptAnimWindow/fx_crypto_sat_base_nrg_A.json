@@ -4,7 +4,7 @@
 		"assetName": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_A.rpak",
 		"devDescription": "",
 		"type": "PlayFX",
-		"particleSystemName": "",
+		"particleSystemName": "P_pilot_shield_hud",
 		"attachPoint": "sat_ant_A_base",
 		"followAttach": true,
 		"playEndCap": true

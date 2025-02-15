@@ -44,47 +44,6 @@
       "_type": "stgs",
       "_path": "settings/itemflav/character_skin/wattson/custom1.rpak"//CUSTOM WATTSON SKIN1
     },
-    ////////////////////////MISSING MAP STGS////////////////////////
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_A.rpak"//EDITED STGS! EFFECTS ARE MISSING
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_B.rpak"//EDITED STGS! EFFECTS ARE MISSING
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_C.rpak"//EDITED STGS! EFFECTS ARE MISSING
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_crypto_sat_arm_D.rpak"//EDITED STGS! EFFECTS ARE MISSING
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_A.rpak"//EDITED STGS! EFFECTS ARE MISSING
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_B.rpak"//EDITED STGS! EFFECTS ARE MISSING
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_C.rpak"//EDITED STGS! EFFECTS ARE MISSING
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_crypto_sat_base_nrg_D.rpak"//EDITED STGS! EFFECTS ARE MISSING
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_crypto_sat_center_glow.rpak"//EDITED STGS! EFFECTS ARE MISSING
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_crypto_sat_center_nrg.rpak"//EDITED STGS! EFFECTS ARE MISSING
-    },
     ////////////////RAMPART SETTING ASSETS///////////////
     {
       "_type": "stgs",

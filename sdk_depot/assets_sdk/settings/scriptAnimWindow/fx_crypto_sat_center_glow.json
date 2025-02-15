@@ -4,7 +4,7 @@
 		"assetName": "settings/scriptAnimWindow/fx_crypto_sat_center_glow.rpak",
 		"devDescription": "",
 		"type": "PlayFX",
-		"particleSystemName": "",
+		"particleSystemName": "P_pilot_shield_hud",
 		"attachPoint": "sat_center",
 		"followAttach": true,
 		"playEndCap": false
